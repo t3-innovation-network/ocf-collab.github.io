@@ -1,0 +1,99 @@
+@prefix asn: <http://purl.org/asn/schema/core/> .
+@prefix cc: "http://creativecommons.org/ns#".
+@prefix ceasn: <http://purl.org/ctdlasn/terms/> .
+@prefix ceterms: <http://purl.org/ctdl/terms/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix t3nt: <https://t3innovationnetwork.org/networktrust/terms/>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+t3nt:Directory a rdfs:Class ;
+    rdfs:label "Competency Framework Directory"@en-US .
+    dct:identifier "t3nt:Directory" ;
+    rdfs:comment "A structured table of contents of the competency framework holdings of a Trust Member registry."@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .
+    
+t3nt:DirectoryEntry a rdfs:Class ;
+    rdfs:label "Directory Entry"@en-US .
+    dct:identifier "t3nt:DirectoryEntry" ;
+    rdfs:comment "A competency framework entry in a Directory"@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .    
+
+t3nt:FrameworkPackage a rdfs:Class ;
+    rdfs:label "Framework Package"@en-US ;
+    dct:identifier "t3nt:FrameworkPackage" ;
+    rdfs:comment "Container for a requested a competency framework and associated metadata including the URI of the provider registry, transaction date/time stamp and URIs identifying controling use and retention policies for the transmitted competency framework."@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .
+
+t3nt:MemberPolicy a rdfs:Class ;
+    rdfs:label "Member Policy"@en-US ;
+    dct:identifier "t3nt:MemberPolicy" ;
+    rdfs:comment "License defining a Trust Member's required permissions and prohibitions regarding the use and retention of one of its competency frameworks by another Trust Member or an end user."@en-US ;
+    skos:note "A competency framework always has two distinct member policies, one constraining the behavior of an end user (beneficiary rights) and another constraining the sharing of a competency framework by one Trust Member with another Trust Member (registry rights)."@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .
+
+t3nt:NetworkNodeProvider a rdfs:Class ;
+    rdfs:label "Network Node Provider"@en-US ;
+    dct:identifier "t3nt:NetworkNodeProvider" ;
+    rdfs:comment "Competency framework registry that is a network node provider in good standing."@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .
+
+t3nt:TransactionLog a rdfs:Class ;
+    rdfs:label "Transaction Log"@en-US ;
+    dct:identifier "t3nt:TransactionLog" ;
+    rdfs:comment "An immutable, searchable log of each Trust Network transaction transmitting a Framework Package from one Trust Member to another Trust Member."@en-US ;
+    rdfs:isDefinedBy <https://t3innovationnetwork.org/networktrust/terms/> .
+    
+t3nt:beneficiaryRights a rdfs:Property ;
+    rdfs:label "End User License"@en-US ;
+    dct:identifier "t3nt:beneficiaryRights" ;
+    rdfs:comment "Resource defining the permissions and prohibitions on end users of a Trust Member's competency frameworks." ;
+    rdfs:domain t3nt:FrameworkPackage, t3nt:TransactionLog ;
+    rdfs:range t3nt:MemberPolicy .
+
+t3nt:conditionsOfAccess a rdfs:Property ;
+    rdfs:label "Conditions of Access"@en-US ;
+    dct:identifier "t3nt:conditionsOfAccess" ;
+    rdfs:comment "Statement of constraints on a person or application accessing the resource." ;
+    rdfs:domain t3nt:Directory ;
+    rdfs:range rdf:langString .
+    
+t3nt:frameworkProvider a rdfs:Property ;
+    rdfs:label "Framework Provider"@en-US ;
+    dct:identifier "t3nt:frameworkProvider" ;
+    rdfs:comment "Trust Member registry transmitting a competency framework to a Trust Member registry requesting the framework." ;
+    rdfs:domain t3nt:TransactionLog, t3nt:FrameworkPackage ;
+    rdfs:range t3nt:NetworkNodeProvider .
+    
+t3nt:frameworkRequester a rdfs:Property ;
+    rdfs:label "Framework Requester"@en-US ;
+    dct:identifier "t3nt:frameworkRequester" ;
+    rdfs:comment "Trust Member registry requesting transmission of a competency framework from another Trust Member registry." ;
+    rdfs:domain t3nt:TransactionLog, t3nt:FrameworkPackage ;
+    rdfs:range t3nt:NetworkNodeProvider .
+    
+t3nt:publicationStatus a rdfs:Property ;
+    rdfs:label "Publication Status"@en-US ;
+    dct:identifier "t3nt:publicationStatus" ;
+    rdfs:comment "Reqource identifying the publication status of the entity." ;
+    rdfs:domain skos:Concept ;
+    rdfs:range skos:Concept .
+    
+t3nt:registeryRights a rdfs:Property ;
+    rdfs:label "Registry Rights"@en-US ;
+    dct:identifier "t3nt:registryRights" ;
+    rdfs:comment "Resource defining the permissions and prohibitions on a Trust Member's use and retention of another Trust Member's competency framework." ;
+    rdfs:domain t3nt:FrameworkPackage, t3nt:TransactionLog ;
+    rdfs:range t3nt:MemberPolicy .
+    
+t3nt:transactionDate" a rdfs:Property ;
+    rdfs:label "Transaction Date"@en-US ;
+    dct:identifier "t3nt:transactionDate" ;
+    rdfs:comment "Date/time of a transaction between two Trust Members transferring a competency framework." ;
+    rdfs:domain t3nt:transactionLog ;
+    rdfs:range xsd:dateTime .
+

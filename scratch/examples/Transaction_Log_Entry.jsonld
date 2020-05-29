@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "cc": "http://creativecommons.org/ns#",
+    "dct": "http://purl.org/dc/terms/",
+    "md": "http://metadataregistry.org/uri/",
+    "odrl": "http://www.w3.org/ns/odrl/2/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "t3nt": "https://t3innovationnetwork.org/networktrust/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "attributionName": {"@id": "cc:attributionName", "@container": "@language"},
+    "attributionURL": {"@id": "cc:attributionURL", "@type": "xsd:anyURI"},
+    "beneficiaryRights": {"@id": "t3nt:beneficiaryRights", "@type": "xsd:anyURI"}, 
+    "created": {"@id": "dcterms:created", "@type": "xsd:date"},
+    "conditionsOfAccess": {"@id": "schema:conditionsOfAccess", "@container": "@language"},
+    "creator": {"@id": "dcterms:creator", "@container": "@language"},
+    "definition": {"@id": "skos:definition", "@container": "@language"},
+    "description": {"@id": "dcterms:description", "@container": "@language"},
+    "frameworkProvider": {"@id": "t3nt:frameworkProvider", "@type": "@id"},
+    "frameworkRequester": {"@id": "t3nt:frameworkRequester", "@type": "@id"},
+    "hasTopConcept": {"@id": "skos:hasTopConcept", "@type": "@id"},
+    "inScheme": {"@id": "skos:inScheme", "@type": "@id" },
+    "modified": {"@id": "dcterms:dateModified", "@type": "xsd:date"},
+    "preflabel": {"@id": "skos:preflabel", "@container": "@language"},
+    "publicationStatus": {"@id": "t3nt:publicationStatus", "@type": "@id"},
+    "registryRights": {"@id": "t3nt:registryRights", "@type": "xsd:anyURI"},
+    "title": {"@id": "dcterms:title", "@container": "@language"},
+    "transactionDate": {"@id": "t3nt:transactionDate", "@type": "xsd:date"}
+  },
+  "@graph": [
+    {
+        "@id": "https://t3innovationnetwork.org/networktrust/logEntry/9a48d471-8619-48f1-8b5b-a35d9ae89571",
+        "@type": "https://t3innovationnetwork.org/networktrust/terms/LogEntry",
+        "t3nt:competencyFramework": "https://credentialengineregistry.org/resources/ce-d734ca0a-6827-43ea-a22e-a0d3c38816ae",
+        "t3nt:title": {"en-US": "Cybersecurity Workforce Framework: Abilities (NICE)"},
+        "t3nt:frameworkProvider": "https://t3innovationnetwork.org/networktrust/trustMember/2bc5b8d2-74c1-4b71-9842-5ff2728ddf63",
+        "t3nt:frameworkRequestor": "https://t3innovationnetwork.org/networktrust/trustMember/3363d3a8-634b-4ed5-a7f9-25fed1a2c52c",
+        "t3nt:registryRights": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6",
+        "t3nt:beneficiaryRights": "https://credentialengine.org/terms/",
+        "cc:attributionName": {"en-US": "Credential Engine"},
+        "t3nt:transactionDate": "2020-01-01T08:15:30-05:00"
+    },
+    {
+        "@id": "https://t3innovationnetwork.org/networktrust/logEntry/29905411-553e-4872-9baf-e401dac157d2",
+        "@type": "https://t3innovationnetwork.org/networktrust/terms/LogEntry",
+        "t3nt:competencyFramework": "https://credentialengineregistry.org/resources/ce-c62c336f-a76d-4d7f-a777-367e7cc72d17",
+        "t3nt:title": {"en-US": "Beta Connecting Credentials Framework"},
+        "t3nt:frameworkProvider": "https://t3innovationnetwork.org/networktrust/trustMember/2bc5b8d2-74c1-4b71-9842-5ff2728ddf63",
+        "t3nt:frameworkRequestor": "https://t3innovationnetwork.org/networktrust/trustMember/3363d3a8-634b-4ed5-a7f9-25fed1a2c52c",
+        "t3nt:registryRights": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6",
+        "t3nt:beneficiaryRights": "https://credentialengine.org/terms/",
+        "cc:attributionName": {"en-US": "Credential Engine"},
+        "t3nt:transactionDate": "2020-01-01T09:20:00-05:00"
+  }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "cc": "http://creativecommons.org/ns#",
+    "dct": "http://purl.org/dc/terms/",
+    "md": "http://metadataregistry.org/uri/",
+    "odrl": "http://www.w3.org/ns/odrl/2/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "t3nt": "https://t3innovationnetwork.org/networktrust/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "attributionName": {"@id": "cc:attributionName", "@container": "@language"},
+    "attributionURL": {"@id": "cc:attributionURL", "@type": "xsd:anyURI"},
+    "beneficiaryRights": {"@id": "t3nt:beneficiaryRights", "@type": "xsd:anyURI"}, 
+    "created": {"@id": "dcterms:created", "@type": "xsd:date"},
+    "conditionsOfAccess": {"@id": "schema:conditionsOfAccess", "@container": "@language"},
+    "creator": {"@id": "dcterms:creator", "@container": "@language"},
+    "definition": {"@id": "skos:definition", "@container": "@language"},
+    "description": {"@id": "dct:description", "@container": "@language"},
+    "frameworkProvider": {"@id": "t3nt:frameworkProvider", "@type": "@id"},
+    "frameworkRequester": {"@id": "t3nt:frameworkRequester", "@type": "@id"},
+    "hasTopConcept": {"@id": "skos:hasTopConcept", "@type": "@id"},
+    "inScheme": {"@id": "skos:inScheme", "@type": "@id" },
+    "modified": {"@id": "dct:dateModified", "@type": "xsd:date"},
+    "preflabel": {"@id": "skos:preflabel", "@container": "@language"},
+    "publicationStatus": { "@id": "t3nt:publicationStatus", "@type": "@id"},
+    "registryRights": {"@id": "t3nt:registryRights", "@type": "xsd:anyURI"},
+    "title": {"@id": "dct:title", "@container": "@language"},
+    "transactionDate": {"@id": "t3nt:transactionDate", "@type": "xsd:date"}
+  }
+}
