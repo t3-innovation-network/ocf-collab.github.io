@@ -1,0 +1,72 @@
+{
+	"directory": {
+		"@id": "https://example.org/ocfc/nd/786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-06-13"
+	},
+	"framework": [
+	   {
+		  "@id": "https://credentialengineregistry.org/resources/ce-07c25f74-9119-11e8-b852-782bcb5df6ac",
+		  "name": "O*NET Content Model Worker Requirements - Basic Skills: U.S. Department of Labor (DOL)",
+		  "description": "Developed capacities that facilitate learning or the more rapid acquisition of knowledge",
+		  "conceptKeyword": [ "keyword 1", "keyword 2", "keyword 3" ],
+		  "providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		  "providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+		  "attributionName": "Credential Engine",
+		  "attributionURL": "https://credentialengine.org/",
+		  "beneficiaryRights": "https://credentialengine.org/terms/",
+		  "registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
+          "competencyText": [
+	             {
+                      "competencyLabel": "Content",
+                      "competencyText": "Background structures needed to work with and acquire more specific skills in a variety of different domains"
+		         },
+		         {
+                      "competencyLabel": "Reading Comprehension",
+                      "competencyText": "Understanding written sentences and paragraphs in work related documents.",
+                      "comment": "reading work related information"
+		        },
+		        {
+                      "competencyLabel": "Active Listening",
+                      "competencyText": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+                      "comment": "listening to others, not interrupting, and asking good questions"
+		        },
+		        {
+			          "...": "..."
+		        }
+	      ]
+	   },
+	   {
+	       "@id": "...",
+		   "name": "...",
+		   "description": "...",
+		   "conceptKeyword": [ "keyword 1", "keyword 2", "keyword 3" ],
+		   "providerNodeAgent": "...",
+		   "providerMetaModel": "...",
+		   "attributionName": "...",
+		   "attributionURL": "...",
+		   "beneficiaryRights": "...",
+		   "registryRights": "...",
+	       "competencyText": [
+	              {
+                        "competencyLabel": "...",
+			            "competencyText": "...",
+			            "comment": "..."
+		          },
+		          {
+			            "competencyLabel": "...",
+			            "competencyText": "...",
+			            "comment": "..."
+		          },
+		          {
+			            "competencyLabel": "...",
+			            "competencyText": "...",
+			            "comment": "..."
+		          },
+		        {
+			      "...": "..."
+		        }
+		    ]
+	     }
+     ]
+}
