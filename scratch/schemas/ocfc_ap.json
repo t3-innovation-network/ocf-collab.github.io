@@ -1,0 +1,484 @@
+{
+  "@context": {
+    "asn": "http://purl.org/asn/schema/core/",
+    "cc": "http://creativecommons.org/ns#",
+    "ceasn": "http://purl.org/ctdlasn/terms/",
+    "ceterms": "http://purl.org/ctdl/terms/",
+    "dct": "http://purl.org/dc/terms/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "ocfc": "https://purl.org/ocfc/terms#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "ocfc:AssetEntry",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:AssetEntry",
+      "rdfs:comment": "A competency framework entry in a Directory",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Asset Entry"
+    },
+    {
+      "@id": "ocfc:AssetEnvelope",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:AssetEnvelope",
+      "rdfs:comment": "Container for a requested a competency framework and associated metadata including the URI of the provider registry, transaction date/time stamp and URIs identifying controling use and retention policies for the transmitted competency framework.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Asset Envelope"
+    },
+    {
+      "@id": "schema:DefinedTerm",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "schema:DefinedTerm",
+      "rdfs:comment": "A word, name, acronym, phrase, etc. with a formal definition.",
+      "rdfs:isDefinedBy": "schema:",
+      "rdfs:label": "Defined Term"
+    },
+    {
+      "@id": "schema:DefinedTermSet",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "schema:DefinedTermSet",
+      "rdfs:comment": "A set of defined terms for example a set of categories or a classification scheme, a glossary, dictionary or enumeration.",
+      "rdfs:isDefinedBy": "schema:",
+      "rdfs:label": "Defined Term Set"
+    },
+    {
+      "@id": "ocfc:MemberPolicy",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:MemberPolicy",
+      "rdfs:comment": "ODRL encoded License defining a Trust Member's required permissions and prohibitions regarding the use and retention of one of its competency frameworks by another Trust Member or an end user.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Member Policy",
+      "skos:note": "A competency framework always has two distinct member policies, one constraining the behavior of an end user (beneficiary rights) and another constraining the sharing of a competency framework by one Trust Member with another Trust Member (registry rights)."
+    },
+    {
+      "@id": "ocfc:NodeDirectory",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:NodeDirectory",
+      "rdfs:comment": "A structured table of contents of the competency framework holdings of a Trust Member registry.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Member Directory of Assets"
+    },
+    {
+      "@id": "ocfc:RegistryDirectory",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:RegistryDirectory",
+      "rdfs:comment": "Directory of all the Trust Member registries.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Directory of Registries"
+    },
+    {
+      "@id": "ocfc:TransactionLog",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:TransactionLog",
+      "rdfs:comment": {"en-US": "An immutable, searchable log of each Trust Network transaction transmitting a Framework Package from one Trust Member to another Trust Member."},
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": {"en-US": "Transaction Log"}
+    },
+    {
+      "@id": "ocfc:TrustDirectory",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:TrustDirectory",
+      "rdfs:comment": "A structured table of the aggregate contents of the competency framework holdings in the Trust Member registries.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Trust Directory"
+    },
+    {
+      "@id": "ocfc:TrustNodeMember",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "ocfc:TrustNodeMember",
+      "rdfs:comment": "Registry trust member in good standing.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Trust Node Member"
+    },
+    {
+      "@id": "ocfc:asset",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:asset",
+      "rdfs:comment": "URL of an AssetEntry in a directory.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Asset (Competency Framework)",
+      "schema:domainIncludes": "ocfc:NodeDirectory",
+      "schema:rangeIncludes": "ocfc:AssetEntry"
+    },
+    {
+      "@id": "cc:attributionName",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "cc:attributionName",
+      "rdfs:comment": "Name of an organization or person to which credit is owed as copyright holder and/or author.",
+      "rdfs:label": "Attribution Name",
+      "schema:domainIncludes": [
+         "ocfc:TransactionLog",
+         "ocfc:FrameworkPackage"
+      ],
+      "schema:rangeIncludes": "ocfc:MemberPolicy"
+    },
+    {
+      "@id": "cc:attributionURL",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "cc:attributionName",
+      "rdfs:comment": "URL identifying an organization or person to which credit is owed as copyright holder and/or author.",
+      "rdfs:label": "Attribution Name",
+      "schema:domainIncludes": [
+         "ocfc:TransactionLog",
+         "ocfc:FrameworkPackage"
+      ],
+      "schema:rangeIncludes": "ocfc:MemberPolicy"
+    },
+    {
+      "@id": "ocfc:beneficiaryRights",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:beneficiaryRights",
+      "rdfs:comment": "Resource defining the permissions and prohibitions on end users of a Trust Member's competency frameworks.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "End User License",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "ocfc:MemberPolicy"
+    },
+    {
+      "@id": "ocfc:brokerRequestDate",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:brokerRequestDate",
+      "rdfs:comment": "Date and time that the request was passed on by a request broker to the provider node agent.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Broker Request Date",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "ocfc:brokerResponseDate",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:brokerResponseDate",
+      "rdfs:comment": "Date and time that a request broker returned the response to the requester.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Broker Response Date",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "schema:conditionsOfAccess",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:conditionsOfAccess",
+      "rdfs:comment": "Statement of constraints on a person or application accessing the resource.",
+      "rdfs:label": "Conditions of Access",
+      "schema:domainIncludes": "ocfc:Directory",
+      "schema:rangeIncludes": "rdf:langString"
+    },
+    {
+      "@id": "schema:dateCreated",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "schema:dateCreated",
+      "rdfs:comment": "The date on which the CreativeWork was created or the item was added to a DataFeed.",
+      "rdfs:label": "Date Created",
+      "schema:domainIncludes": [
+        "ocfc:FrameworkPackage",
+        "ocfc:TransactionLog"
+      ],
+      "schema:rangeIncludes": "ocfc:MemberPolicy"
+    },
+    {
+      "@id": "schema:dateModified",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:dateModified",
+      "owl:equivalentProperty": "dcterms:modified",
+      "rdfs:comment": "The date on which the CreativeWork was most recently modified or when the item's entry was modified within a DataFeed.",
+      "rdfs:label": "Date Modified",
+      "schema:domainIncludes": "skos:ConceptScheme",
+      "schema:rangeIncludes": "xsd:date"
+    },
+    {
+      "@id": "ocfc:dateRequested",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:dateRequested",
+      "rdfs:comment": "Date and time that the request was initiated by the requester.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Date Requested",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "skos:definition",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "skos:definition",
+      "rdfs:comment": "Statement of the exact meaning of a concept.",
+      "rdfs:label": "Definition",
+      "schema:domainIncludes": "skos:ConceptScheme",
+      "schema:rangeIncludes": "rdf:langString"
+    },
+    {
+      "@id": "schema:description",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:description",
+      "rdfs:comment": "A description of the item.",
+      "rdfs:label": "Description",
+      "schema:domainIncludes": "skos:ConceptScheme",
+      "schema:rangeIncludes": "rdf:langString"
+    },
+    {
+      "@id": "ocfc:errorCode",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:errorCode",
+      "rdfs:comment": "HTTP status code in the 4xx or 5xx range indicating that an error occurred in attempting to satisfy a request.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Error Code",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:integer"
+    },
+    {
+      "@id": "ocfc:errorDate",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:errorDate",
+      "rdfs:comment": "Date and time that an error was detected or reported.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Error Date",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "ocfc:errorMessage",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:errorMessage",
+      "rdfs:comment": "Message that describes the nature of an error that occurred.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Error Message",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
+      "@id": "ocfc:frameworkProvider",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:frameworkProvider",
+      "rdfs:comment": "Trust Member registry transmitting a competency framework to a Trust Member registry requesting the framework.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Framework Provider",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "ocfc:NetworkNodeProvider"
+    },
+    {
+      "@id": "ocfc:frameworkRequestor",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:frameworkRequestor",
+      "rdfs:comment": "Trust Member registry requesting transmission of a competency framework from another Trust Member registry.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Framework Requestor",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "ocfc:NetworkNodeProvider"
+    },
+    {
+      "@id": "schema:hasDefinedTerm",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:hasDefinedTerm",
+      "owl:equivalentProperty": "dcterms:schema",
+      "rdfs:comment": "A Defined Term contained in this term set.",
+      "rdfs:label": "Has Defined Term",
+      "schema:domainIncludes": "schema:DefinedTermSet",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "schema:hasPart",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:hasPart",
+      "owl:equivalentProperty": "dcterms:schema",
+      "rdfs:comment": "Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).",
+      "rdfs:label": "Has Part",
+      "schema:domainIncludes": "ocfc:Directory",
+      "schema:rangeIncludes":  "ocfc:DirectoryEntry"
+    },
+    {
+      "@id": "schema:isPartOf",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:isPartOf",
+      "owl:equivalentProperty": "dcterms:isPartOf",
+      "rdfs:comment": "Indicates an item or CreativeWork that this item, or CreativeWork (in some sense), is part of.",
+      "rdfs:label": "Is Part Of",
+      "schema:domainIncludes": "ocfc:DirectoryEntry",
+      "schema:rangeIncludes":  "ocfc:Directory"
+    },
+    {
+      "@id": "schema:name",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:name",
+      "rdfs:comment": "The name of the item.",
+      "rdfs:label": "Name",
+      "schema:domainIncludes": "schema:DefinedTerm",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
+      "@id": "ocfc:nativeAccessControl",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:nativeAccessControl",
+      "rdfs:comment": "One or more URIs identifying access control credentials used when accessing the native API of the competency framework registry.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Native Access Control",
+      "schema:domainIncludes": "ocfc:AssetEntry",
+      "schema:rangeIncludes": "xsd:anyURI"
+    },
+    {
+      "@id": "ocfc:nativeProtocol",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:nativeProtocol",
+      "rdfs:comment": "A URI that identifies the protocol that the provider node agent uses to retrieve the asset from the competency framework registry.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Native Protocol",
+      "schema:domainIncludes": "ocfc:AssetEntry",
+      "schema:rangeIncludes": "xsd:anyURI"
+    },
+    {
+      "@id": "ceterms:occupationType",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Type of occupation; select from an existing enumeration of such types.",
+      "dcterms:description": "For U.S. credentials, best practice is to identify an occupation using a framework such as the O*Net. Other credentials may use any framework of the class ceterms:OccupationClassification, such as the EU's ESCO, ISCO-08, and SOC 2010.",
+      "dcterms:identifier": "ceterms:occupationType",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Occupation Type",
+      "schema:domainIncludes": "ocfc:AssetEntry",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "ocfc:payloadMetamodel",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:payloadMetamodel",
+      "rdfs:comment": "Metamodel of the payload paired with this envelope.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Payload Metamodel",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "ocfc:payloadType",
+      "@type": "rdf:Property",
+      "rdfs:comment": "Category of the payload as defined in a concept scheme.",
+      "dcterms:description": "Presence of this attribute indicates that the envelope is paired with a competency framework payload.",
+      "dcterms:identifier": "ocfc:payloadType",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Payload Type",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "ocfc:providerAgent",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:providerAgent",
+      "rdfs:comment": "URL of the provider node agent.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Provider Agent",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:anyURI"
+    },
+    {
+      "@id": "ocfc:providerMetamodel",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:providerMetamodel",
+      "rdfs:comment": "Metamodel of the competency framework originally returned by the provider agent; ; e.g., ASN, IMS CASE v. 1.0. ",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Provider Metamodel",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "ocfc:providerResponseDate",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:providerResponseDate",
+      "rdfs:comment": "Date and time that the provider network node agent responded to the request.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Provider Response Date",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "ocfc:publicationStatus",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:publicationStatus",
+      "rdfs:comment": "Reqource identifying the publication status of the entity.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Publication Status",
+      "schema:domainIncludes": "ocfc:AssetEntry",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "ocfc:registeryRights",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:registryRights",
+      "rdfs:comment": "Resource defining the permissions and prohibitions on a Trust Member's use and retention of another Trust Member's competency framework.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Registry Rights",
+      "schema:domainIncludes": [
+        "ocfc:TransactionLog",
+        "ocfc:AssetEnvelope"
+      ],
+      "schema:rangeIncludes": "ocfc:MemberPolicy"
+    },
+    {
+      "@id": "ocfc:requestedAssetURL",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:requesterAssetURL",
+      "rdfs:comment": "URL of the competency framework being requested.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Requester Agent",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
+      "@id": "ocfc:requesterAgent",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:requesterAgent",
+      "rdfs:comment": "URL of the requester node agent.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Requester Agent",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "xsd:anyURI"
+    },
+    {
+      "@id": "ocfc:requesterMetamodel",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:requesterMetamodel",
+      "rdfs:comment": "Metamodel preferred by the requester; e.g., ASN, IMS CASE v. 1.0.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Requester Metamodel",
+      "schema:domainIncludes": "ocfc:AssetEnvelope",
+      "schema:rangeIncludes": "schema:DefinedTerm"
+    },
+    {
+      "@id": "schema:termCode",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:termCode",
+      "rdfs:comment": "A code that identifies this DefinedTerm within a DefinedTermSet",
+      "rdfs:label": "Term Code",
+      "schema:domainIncludes": "schema:DefinedTerm",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
+      "@id": "dcterms:title",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "dct:title",
+      "rdfs:comment": "Name given to the resource.",
+      "rdfs:label": "Title",
+      "schema:domainIncludes": "skos:Concept",
+      "schema:rangeIncludes": "rdf:langString"
+    },
+    {
+      "@id": "ocfc:transactionDate",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "ocfc:transactionDate",
+      "rdfs:comment": "Date/time of a transaction between two Trust Members transferring a competency framework.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Transaction Date",
+      "schema:domainIncludes": "ocfc:transactionLog",
+      "schema:rangeIncludes": "xsd:dateTime"
+    },
+    {
+      "@id": "schema:url",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:url",
+      "rdfs:comment": "URL of the item.",
+      "rdfs:label": "URL",
+      "schema:domainIncludes": "schema:DefinedTerm",
+      "schema:rangeIncludes": "xsd:string"
+    }
+  ]
+}
