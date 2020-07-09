@@ -47,57 +47,57 @@
             "@value": "Computer Network Support Specialists"
         },
         "schema:termCode": "15-1152.00"
-      },
-      "dcterms:description": {
+        },
+        "dcterms:description": {
         "@language": "en-US",
         "@value": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. Ability is defined as competence to perform an observable behavior or a behavior that results in an observable product."
-      },
-      "dcterms:isPartOf": {
+        },
+        "dcterms:isPartOf": {
         "@id": "https://t3innovationnetwork.org/networktrust/directories/d724c6b2-16e6-4cc2-9f19-0524d102474f"
-      },
-      "dcterms:title": {
-        "@language": "en-US",
-        "@value": "Cybersecurity Workforce Framework: Abilities (NICE)"
-      },
-      "t3nt:beneficiaryRights": {
-        "@id": "https://credentialengine.org/terms/"
-      },
-      "t3nt:concept": {
-        "@type": "schema:DefinedTerm",
-        "schema:name": {
+        },
+        "dcterms:title": {
             "@language": "en-US",
-            "@value": "Cybersecurity"
-        } 
-      },
-      "t3nt:metamodel": {
-        "@id": "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
-      },
-      "t3nt:registryRights": {
-        "@id": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6"
-      }
+            "@value": "Cybersecurity Workforce Framework: Abilities (NICE)"
+        },
+        "t3nt:beneficiaryRights": {
+            "@id": "https://credentialengine.org/terms/"
+        },
+        "t3nt:concept": {
+            "@type": "schema:DefinedTerm",
+            "schema:name": {
+                "@language": "en-US",
+                "@value": "Cybersecurity"
+            } 
+        },
+        "t3nt:metamodel": {
+            "@id": "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
+        },
+        "t3nt:registryRights": {
+            "@id": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6"
+        }
     },
     {
-      "@id": "https://t3innovationnetwork.org/networktrust/directories/01bca768-c435-4237-9e42-a3df0965334e",
-      "@type": "t3nt:DirectoryEntry",
-      "dcterms:description": {
-        "@language": "en-US",
-        "@value": "The Framework uses competencies -- what the learner knows and is able to do -- as common reference points to help understand and compare the levels and types of knowledge and skills that underlie degrees, certificates, industry certifications, licenses, apprenticeships, badges and other credentials. Competencies are understood both in industry and academia and can be applied in multiple contexts, making them a powerful unifying way to examine credentials. The Beta Credentials Framework has undergone extensive reviews and field testing in order to revise the framework and ensure its broad utility. An updated and full version of the framework is planned for a January 2019 release."
-      },
-      "dcterms:isPartOf": {
-        "@id": "https://t3innovationnetwork.org/networktrust/directories/d724c6b2-16e6-4cc2-9f19-0524d102474f"
-      },
-      "dcterms:title": {
-        "@language": "en-US",
-        "@value": "Beta Connecting Credentials Framework"
-      },
-      "t3nt:beneficiaryRights": {
-        "@id": "https://credentialengine.org/terms/"
-      },
-      "t3nt:metamodel": {
-        "@id": "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
-      },
-      "t3nt:registryRights": {
-        "@id": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6"
+        "@id": "https://t3innovationnetwork.org/networktrust/directories/01bca768-c435-4237-9e42-a3df0965334e",
+        "@type": "t3nt:DirectoryEntry",
+        "dcterms:description": {
+             "@language": "en-US",
+             "@value": "The Framework uses competencies -- what the learner knows and is able to do -- as common reference points to help understand and compare the levels and types of knowledge and skills that underlie degrees, certificates, industry certifications, licenses, apprenticeships, badges and other credentials. Competencies are understood both in industry and academia and can be applied in multiple contexts, making them a powerful unifying way to examine credentials. The Beta Credentials Framework has undergone extensive reviews and field testing in order to revise the framework and ensure its broad utility. An updated and full version of the framework is planned for a January 2019 release."
+        },
+        "dcterms:isPartOf": {
+             "@id": "https://t3innovationnetwork.org/networktrust/directories/d724c6b2-16e6-4cc2-9f19-0524d102474f"
+        },
+        "dcterms:title": {
+              "@language": "en-US",
+              "@value": "Beta Connecting Credentials Framework"
+        },
+        "t3nt:beneficiaryRights": {
+            "@id": "https://credentialengine.org/terms/"
+        },
+        "t3nt:metamodel": {
+            "@id": "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
+        },
+        "t3nt:registryRights": {
+            "@id": "https://t3innovationnetwork.org/networktrust/policies/c7084470-7c0c-4397-bb18-5a4223fd9c6"
       }
     }
   ]
