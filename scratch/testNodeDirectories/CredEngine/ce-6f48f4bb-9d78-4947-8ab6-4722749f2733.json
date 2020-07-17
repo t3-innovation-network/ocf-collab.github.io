@@ -1,0 +1,3762 @@
+{
+	"directory": {
+		"@id": "https://example.org/ocfc/nd/786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-07-17"
+	},
+	"framework": {
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
+		"@id": "https://credentialengineregistry.org/resources/ce-6f48f4bb-9d78-4947-8ab6-4722749f2733",
+		"name": "Cybersecurity Industry Model: U.S. Department of Labor (DOL)",
+		"description": "While the Cybersecurity Industry Model attempts to cover a wide range of industry competencies, the model is not intended to be a definitive list of all cybersecurity knowledge, skills, and abilities; nor is it intended that all workers in the field possess all competencies listed. The Cybersecurity Industry Model is instead intended as a resource for further explorations of the competencies needed in this critical industry.",
+		"conceptKeyword": [
+			"cybersecurity",
+			"Competency Model Clearinghouse"
+		]
+	},
+	"competencies": [
+		{
+			"competencyText": "Personal Effectiveness Competencies"
+		},
+		{
+			"competencyText": "Interpersonal Skills:",
+			"comment": [
+				"Displaying the skills to work effectively with others from diverse backgrounds."
+			]
+		},
+		{
+			"competencyText": "Demonstrating sensitivity/empathy"
+		},
+		{
+			"competencyText": "Show sincere interest in others and their concerns"
+		},
+		{
+			"competencyText": "Demonstrate sensitivity to the needs and feelings of others"
+		},
+		{
+			"competencyText": "Look for ways to help people and deliver assistance"
+		},
+		{
+			"competencyText": "Demonstrating insight into behavior"
+		},
+		{
+			"competencyText": "Recognize and accurately interpret the verbal and nonverbal behavior of others"
+		},
+		{
+			"competencyText": "Recognize when relationships with others are strained"
+		},
+		{
+			"competencyText": "Show understanding of others’ behaviors and motives by demonstrating appropriate responses"
+		},
+		{
+			"competencyText": "Demonstrate flexibility for change based on the ideas and actions of others"
+		},
+		{
+			"competencyText": "Maintaining open relationships"
+		},
+		{
+			"competencyText": "Maintain open lines of communication with others"
+		},
+		{
+			"competencyText": "Encourage others to share problems and successes"
+		},
+		{
+			"competencyText": "Establish a high degree of trust and credibility with others"
+		},
+		{
+			"competencyText": "Respecting diversity"
+		},
+		{
+			"competencyText": "Interact respectfully and cooperatively with others who are of a different race, culture, or age, or have different abilities, gender, or sexual orientation"
+		},
+		{
+			"competencyText": "Demonstrate sensitivity, flexibility, and open-mindedness when dealing with different values, beliefs, perspectives, customs, or opinions"
+		},
+		{
+			"competencyText": "Value an environment that supports and accommodates a diversity of people and ideas"
+		},
+		{
+			"competencyText": "Integrity:",
+			"comment": [
+				"Displaying strong moral principles and work ethic."
+			]
+		},
+		{
+			"competencyText": "Behaving ethically"
+		},
+		{
+			"competencyText": "Abide by a strict code of ethics and behavior"
+		},
+		{
+			"competencyText": "Choose an ethical course of action and do the right thing, even in the face of opposition"
+		},
+		{
+			"competencyText": "Encourage others to behave ethically"
+		},
+		{
+			"competencyText": "Use company time and property responsibly"
+		},
+		{
+			"competencyText": "Perform work-related duties according to laws, regulations, contract provisions, and company policies"
+		},
+		{
+			"competencyText": "Understand that behaving ethically may go beyond what the law requires"
+		},
+		{
+			"competencyText": "Acting fairly"
+		},
+		{
+			"competencyText": "Treat others with honesty, fairness, and respect"
+		},
+		{
+			"competencyText": "Make decisions that are objective and reflect the just treatment of others"
+		},
+		{
+			"competencyText": "Taking responsibility"
+		},
+		{
+			"competencyText": "Take responsibility for accomplishing work goals within accepted timeframes"
+		},
+		{
+			"competencyText": "Accept responsibility for one’s decisions and actions and for those of one’s group, team, or department"
+		},
+		{
+			"competencyText": "Learn from mistakes"
+		},
+		{
+			"competencyText": "Professionalism:",
+			"comment": [
+				"Maintaining a professional presence."
+			]
+		},
+		{
+			"competencyText": "Demonstrating self-control"
+		},
+		{
+			"competencyText": "Maintain composure and keep emotions in check"
+		},
+		{
+			"competencyText": "Deal calmly and effectively with stressful or difficult situations"
+		},
+		{
+			"competencyText": "Accept criticism tactfully and attempt to learn from it"
+		},
+		{
+			"competencyText": "Maintaining a professional appearance"
+		},
+		{
+			"competencyText": "Maintain a professional demeanor"
+		},
+		{
+			"competencyText": "Dress appropriately for occupational and worksite requirements"
+		},
+		{
+			"competencyText": "Maintain appropriate personal hygiene"
+		},
+		{
+			"competencyText": "Social responsibility"
+		},
+		{
+			"competencyText": "Refrain from lifestyle choices which negatively impact the workplace and individual performance"
+		},
+		{
+			"competencyText": "Remain free from substance abuse"
+		},
+		{
+			"competencyText": "Maintaining a positive attitude"
+		},
+		{
+			"competencyText": "Project a professional image of oneself and the organization"
+		},
+		{
+			"competencyText": "Demonstrate a positive attitude towards work"
+		},
+		{
+			"competencyText": "Take pride in one’s work and the work of the organization"
+		},
+		{
+			"competencyText": "Initiative:",
+			"comment": [
+				"Demonstrating a commitment to effective job performance by taking action on one’s own and following through to get the job done."
+			]
+		},
+		{
+			"competencyText": "Persisting"
+		},
+		{
+			"competencyText": "Pursue work with drive and a strong accomplishment orientation"
+		},
+		{
+			"competencyText": "Persist and expend extra effort to accomplish tasks even when conditions are difficult or deadlines are tight"
+		},
+		{
+			"competencyText": "Persist at a task or problem despite obstacles or setbacks"
+		},
+		{
+			"competencyText": "Taking initiative"
+		},
+		{
+			"competencyText": "Go beyond the routine demands of the job"
+		},
+		{
+			"competencyText": "Take initiative in seeking out new work challenges and increasing the variety and scope of one’s job"
+		},
+		{
+			"competencyText": "Seek opportunities to influence events and originate action"
+		},
+		{
+			"competencyText": "Assist others who have less experience or have heavy workloads"
+		},
+		{
+			"competencyText": "Provide suggestions for innovative approaches to improve processes or tasks"
+		},
+		{
+			"competencyText": "Setting challenging goals"
+		},
+		{
+			"competencyText": "Establish and maintain personally challenging but realistic work goals"
+		},
+		{
+			"competencyText": "Exert effort toward task mastery"
+		},
+		{
+			"competencyText": "Bring issues to closure by pushing forward until a resolution is achieved"
+		},
+		{
+			"competencyText": "Working independently"
+		},
+		{
+			"competencyText": "Develop one’s own ways of working effectively and efficiently"
+		},
+		{
+			"competencyText": "Perform effectively, even with minimal direction, support, or approval"
+		},
+		{
+			"competencyText": "Take responsibility for completing one’s own work assignments"
+		},
+		{
+			"competencyText": "Achievement motivation"
+		},
+		{
+			"competencyText": "Strive to exceed standards and expectations"
+		},
+		{
+			"competencyText": "Exhibit confidence in capabilities and an expectation to succeed in future activities"
+		},
+		{
+			"competencyText": "Adaptability and Flexibility:",
+			"comment": [
+				"Displaying the capability to adapt to new, different, or changing requirements."
+			]
+		},
+		{
+			"competencyText": "Entertaining new ideas"
+		},
+		{
+			"competencyText": "Remain open to considering new ways of doing things"
+		},
+		{
+			"competencyText": "Actively seek out and carefully consider the merits of new approaches to work"
+		},
+		{
+			"competencyText": "Embrace new approaches when appropriate and discard approaches that are no longer working"
+		},
+		{
+			"competencyText": "Dealing with change"
+		},
+		{
+			"competencyText": "Take proper and effective action when necessary without having all the necessary facts in hand"
+		},
+		{
+			"competencyText": "Easily adapt plans, goals, actions or priorities in response to unpredictable or unexpected events, pressures, situations and job demands"
+		},
+		{
+			"competencyText": "Easily shift gears and change direction when working on multiple projects or issues"
+		},
+		{
+			"competencyText": "Dependability and Reliability:",
+			"comment": [
+				"Displaying responsible behaviors at work."
+			]
+		},
+		{
+			"competencyText": "Fulfilling obligations"
+		},
+		{
+			"competencyText": "Behave consistently and predictably"
+		},
+		{
+			"competencyText": "Is reliable, responsible, and dependable in fulfilling obligations"
+		},
+		{
+			"competencyText": "Diligently follow through on commitments and consistently complete assignments by deadlines"
+		},
+		{
+			"competencyText": "Attendance and punctuality"
+		},
+		{
+			"competencyText": "Come to work on time and as scheduled"
+		},
+		{
+			"competencyText": "Arrive on time for meetings or appointments"
+		},
+		{
+			"competencyText": "Dial in to phone calls and web conferences on time"
+		},
+		{
+			"competencyText": "Attending to details"
+		},
+		{
+			"competencyText": "Diligently check work to ensure that all essential details have been considered"
+		},
+		{
+			"competencyText": "Notice errors or inconsistencies, and take prompt, thorough action to correct them"
+		},
+		{
+			"competencyText": "Following directions"
+		},
+		{
+			"competencyText": "Follow written and verbal directions"
+		},
+		{
+			"competencyText": "Comply with organizational rules, policies, and procedures"
+		},
+		{
+			"competencyText": "Ask appropriate questions to clarify any instructional ambiguities"
+		},
+		{
+			"competencyText": "Lifelong Learning:",
+			"comment": [
+				"Demonstrating a commitment to self-development and improvement of knowledge and skills."
+			]
+		},
+		{
+			"competencyText": "Demonstrating an interest in learning"
+		},
+		{
+			"competencyText": "Demonstrate an interest in personal and professional lifelong learning and development"
+		},
+		{
+			"competencyText": "Seek feedback from multiple sources about how to improve and develop"
+		},
+		{
+			"competencyText": "Modify behavior based on feedback or self-analysis of past mistakes"
+		},
+		{
+			"competencyText": "Learn and accept help from supervisors and co-workers"
+		},
+		{
+			"competencyText": "Participating in training"
+		},
+		{
+			"competencyText": "Identify when it is necessary to acquire new knowledge and skills"
+		},
+		{
+			"competencyText": "Take steps to develop and maintain knowledge, skills, and expertise necessary to perform one’s role successfully by participating in relevant training and professional development programs"
+		},
+		{
+			"competencyText": "Actively pursue opportunities to broaden knowledge and skills through seminars, conferences, professional groups, reading publications, job shadowing, and/or continuing education"
+		},
+		{
+			"competencyText": "Anticipating changes in work"
+		},
+		{
+			"competencyText": "Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands"
+		},
+		{
+			"competencyText": "Treat unexpected circumstances as opportunities to learn"
+		},
+		{
+			"competencyText": "Identifying career interests"
+		},
+		{
+			"competencyText": "Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities"
+		},
+		{
+			"competencyText": "Make insightful career planning decisions based on integration and consideration of others’ feedback"
+		},
+		{
+			"competencyText": "Integrating and applying learning"
+		},
+		{
+			"competencyText": "Integrate newly-learned knowledge and skills with existing knowledge and skills"
+		},
+		{
+			"competencyText": "Use newly-learned knowledge and skills to complete tasks, particularly in new or unfamiliar situations"
+		},
+		{
+			"competencyText": "Academic Competencies"
+		},
+		{
+			"competencyText": "Reading:",
+			"comment": [
+				"Understanding written sentences, paragraphs, and figures in work-related documents (with accommodation if necessary)."
+			]
+		},
+		{
+			"competencyText": "Comprehension"
+		},
+		{
+			"competencyText": "Locate and understand written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations, and directions"
+		},
+		{
+			"competencyText": "Understand the purpose of written materials"
+		},
+		{
+			"competencyText": "Comprehend meaning and identify main ideas"
+		},
+		{
+			"competencyText": "Attention to detail"
+		},
+		{
+			"competencyText": "Note details and facts"
+		},
+		{
+			"competencyText": "Detect inconsistencies"
+		},
+		{
+			"competencyText": "Identify implied meaning and details"
+		},
+		{
+			"competencyText": "Identify missing information"
+		},
+		{
+			"competencyText": "Information analysis"
+		},
+		{
+			"competencyText": "Critically evaluate and analyze information in written materials"
+		},
+		{
+			"competencyText": "Review written information for completeness and relevance"
+		},
+		{
+			"competencyText": "Distinguish fact from opinion"
+		},
+		{
+			"competencyText": "Identify trends"
+		},
+		{
+			"competencyText": "Synthesize information from multiple written materials"
+		},
+		{
+			"competencyText": "Information integration"
+		},
+		{
+			"competencyText": "Integrate what is learned from written materials with prior knowledge"
+		},
+		{
+			"competencyText": "Use what is learned from written material to follow instructions and complete tasks"
+		},
+		{
+			"competencyText": "Apply what is learned from written material to new situations"
+		},
+		{
+			"competencyText": "Writing:",
+			"comment": [
+				"Using standard (business) English to compile information and prepare written documents."
+			]
+		},
+		{
+			"competencyText": "Organization and development"
+		},
+		{
+			"competencyText": "Create documents such as letters, directions, manuals, reports, graphs, and flow charts"
+		},
+		{
+			"competencyText": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, and coherent manner"
+		},
+		{
+			"competencyText": "Present well developed ideas supported by information and examples"
+		},
+		{
+			"competencyText": "Proofread finished documents for errors"
+		},
+		{
+			"competencyText": "Tailor content to appropriate audience and purpose"
+		},
+		{
+			"competencyText": "Distribute written material appropriately for intended audience and purpose"
+		},
+		{
+			"competencyText": "Mechanics"
+		},
+		{
+			"competencyText": "Use standard syntax and sentence structure"
+		},
+		{
+			"competencyText": "Use correct spelling, punctuation, and capitalization"
+		},
+		{
+			"competencyText": "Use correct grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+		},
+		{
+			"competencyText": "Write legibly"
+		},
+		{
+			"competencyText": "Tone"
+		},
+		{
+			"competencyText": "Use language appropriate for the target audience"
+		},
+		{
+			"competencyText": "Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous)"
+		},
+		{
+			"competencyText": "Show insight, perception, and depth in writing"
+		},
+		{
+			"competencyText": "Mathematics:",
+			"comment": [
+				"Using principles of mathematics to express ideas and solve problems."
+			]
+		},
+		{
+			"competencyText": "Quantification"
+		},
+		{
+			"competencyText": "Read and write numbers"
+		},
+		{
+			"competencyText": "Count and place numbers in sequence"
+		},
+		{
+			"competencyText": "Recognize whether one number is larger than another"
+		},
+		{
+			"competencyText": "Understand relationships between numbers"
+		},
+		{
+			"competencyText": "Identify and understand patterns"
+		},
+		{
+			"competencyText": "Computation"
+		},
+		{
+			"competencyText": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents"
+		},
+		{
+			"competencyText": "Calculate averages, ratios, proportions, and rates"
+		},
+		{
+			"competencyText": "Convert decimals to fractions and fractions to decimals"
+		},
+		{
+			"competencyText": "Convert fractions to percents and percents to fractions"
+		},
+		{
+			"competencyText": "Convert decimals to percents and percents to decimals"
+		},
+		{
+			"competencyText": "Measurement and estimation"
+		},
+		{
+			"competencyText": "Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed"
+		},
+		{
+			"competencyText": "Use and report measurements correctly"
+		},
+		{
+			"competencyText": "Correctly convert from one measurement to another (e.g., from English to metric or International System of Units [SI], or Fahrenheit to Celsius)"
+		},
+		{
+			"competencyText": "Application"
+		},
+		{
+			"competencyText": "Translate practical problems into useful mathematical expressions"
+		},
+		{
+			"competencyText": "Use appropriate mathematical formulas and techniques to solve problems"
+		},
+		{
+			"competencyText": "Science and Technology:",
+			"comment": [
+				"Using scientific rules and methods to express ideas and solve problems"
+			]
+		},
+		{
+			"competencyText": "Comprehension"
+		},
+		{
+			"competencyText": "Understand basic scientific principles and use appropriate technology"
+		},
+		{
+			"competencyText": "Understand the scientific method (i.e., identify problem, collect information, form opinion and draw conclusions)"
+		},
+		{
+			"competencyText": "Understand overall intent and proper procedures for set-up and operation of equipment"
+		},
+		{
+			"competencyText": "Application"
+		},
+		{
+			"competencyText": "Apply basic scientific principles and technology to complete tasks"
+		},
+		{
+			"competencyText": "Scientific Investigation"
+		},
+		{
+			"competencyText": "Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings"
+		},
+		{
+			"competencyText": "Evaluate scientific constructs including: conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables."
+		},
+		{
+			"competencyText": "Communication:",
+			"comment": [
+				"Listening, speaking, and signaling so others can understand (with accommodation if necessary)."
+			]
+		},
+		{
+			"competencyText": "Listening or attending to information"
+		},
+		{
+			"competencyText": "Receive, attend to, understand, interpret, and respond to verbal messages and other cues"
+		},
+		{
+			"competencyText": "Recognize important information in verbal messages"
+		},
+		{
+			"competencyText": "Comprehend complex instructions"
+		},
+		{
+			"competencyText": "Identify feelings and concerns within verbal messages"
+		},
+		{
+			"competencyText": "Consider others’ viewpoints and alter opinion when it is appropriate to do so"
+		},
+		{
+			"competencyText": "Apply active listening skills using reflection, restatement, questioning, and clarification"
+		},
+		{
+			"competencyText": "Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers"
+		},
+		{
+			"competencyText": "Communicating (verbally, either directly, through assistive technology, or other accommodation)"
+		},
+		{
+			"competencyText": "Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+		},
+		{
+			"competencyText": "Convey information clearly, correctly, and succinctly"
+		},
+		{
+			"competencyText": "Use common English conventions including proper grammar, tone and pace"
+		},
+		{
+			"competencyText": "Track audience responses and react appropriately to those responses"
+		},
+		{
+			"competencyText": "Effectively use eye contact and non-verbal expression"
+		},
+		{
+			"competencyText": "Persuasion/influence"
+		},
+		{
+			"competencyText": "Influence others"
+		},
+		{
+			"competencyText": "Persuasively present thoughts and ideas"
+		},
+		{
+			"competencyText": "Gain commitment and ensure support for proposed ideas"
+		},
+		{
+			"competencyText": "Observing carefully"
+		},
+		{
+			"competencyText": "Attend to nonverbal cues and respond appropriately"
+		},
+		{
+			"competencyText": "Attend to visual sources of information (e.g., video)"
+		},
+		{
+			"competencyText": "Ascertain relevant visual information and use appropriately"
+		},
+		{
+			"competencyText": "Critical and Analytic Thinking:",
+			"comment": [
+				"Using logical thought processes to analyze information and draw conclusions."
+			]
+		},
+		{
+			"competencyText": "Reasoning"
+		},
+		{
+			"competencyText": "Possess sufficient inductive, and deductive reasoning ability to perform job successfully"
+		},
+		{
+			"competencyText": "Critically review, analyze, synthesize, compare, and interpret information"
+		},
+		{
+			"competencyText": "Draw conclusions from relevant and/or missing information"
+		},
+		{
+			"competencyText": "Understand the principles underlying the relationship among facts and apply this understanding when solving problems"
+		},
+		{
+			"competencyText": "Use logic and reasoning to identify strengths and weaknesses of alternate solutions or approaches to a problem"
+		},
+		{
+			"competencyText": "Mental agility"
+		},
+		{
+			"competencyText": "Identify connections between issues"
+		},
+		{
+			"competencyText": "Quickly understand, orient to, and learn new assignments"
+		},
+		{
+			"competencyText": "Fundamental IT User Skills:",
+			"comment": [
+				"Using a computer, communication devices, and related applications to input, retrieve, and communicate information."
+			]
+		},
+		{
+			"competencyText": "General Computer, Software, Information and Communication Technology Knowledge and Skills"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with the fundamental capabilities of computers, software, information systems, and communications systems"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with the fundamental principles of accessible technology, including universal design, as they relate to users of computerized content who have disabilities, sensory and/or functional limitations"
+		},
+		{
+			"competencyText": "Understand terminology and function of common computer, software, information and communication technology devices, components, and concepts"
+		},
+		{
+			"competencyText": "Understand common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations, including accessible IT, assistive technology, and universal design"
+		},
+		{
+			"competencyText": "Understand and efficiently use common computer hardware (e.g., desktops, laptops, tablets, PC components, cabling, wearable computing), software (e.g., operating systems, applications, communication, collaboration and productivity software), and communication devices (e.g., telephony, wireless devices, network and wireless systems) to perform tasks and communicate effectively"
+		},
+		{
+			"competencyText": "Understand capabilities and applications of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware within data centers or the “cloud”"
+		},
+		{
+			"competencyText": "Understand network hardware devices and functions"
+		},
+		{
+			"competencyText": "Be able to connect common User devices to networks and secure them appropriately"
+		},
+		{
+			"competencyText": "Understand and be able to use with appropriate etiquette common communications media, including wired and wireless telephones, wearable computing, audio conferences, videoconferences, and online collaboration tools"
+		},
+		{
+			"competencyText": "Use a computer to search for online information and interact with websites and web applications (enterprise solutions, online stores, blogs, social networks, wikis)"
+		},
+		{
+			"competencyText": "Understand how to critically evaluate online information and be aware of relevant intellectual property, patent, copyright, and data protection issues"
+		},
+		{
+			"competencyText": "Understand the characteristics of physical and virtual data storage media"
+		},
+		{
+			"competencyText": "Demonstrate ability to interpret and incorporate data from multiple tool sources"
+		},
+		{
+			"competencyText": "Digital Literacy"
+		},
+		{
+			"competencyText": "Demonstrate ability to create authentic meaningful written and artwork by reproducing and manipulating preexisting digital text, visuals, and audio pieces"
+		},
+		{
+			"competencyText": "Demonstrate ability to construct knowledge by a nonlinear navigation through knowledge domains, such as in the Internet and other hypermedia environments"
+		},
+		{
+			"competencyText": "Demonstrate ability to critically evaluate the textual characteristics of digital media alongside their social, economic and cultural implications"
+		},
+		{
+			"competencyText": "Visualize graphic representation of concepts or data"
+		},
+		{
+			"competencyText": "Common IT Applications Use"
+		},
+		{
+			"competencyText": "Use word processing applications to compose, organize, and edit simple documents and other business communications and produce accurate outputs to print or share electronically"
+		},
+		{
+			"competencyText": "Use standard formulas and functions, format and modify content, and demonstrate competence in creating and formatting spreadsheets, graphs, or charts"
+		},
+		{
+			"competencyText": "Use spatial software to locate places and interpret spatial data"
+		},
+		{
+			"competencyText": "Use and manage electronic mail to communicate with appropriate etiquette"
+		},
+		{
+			"competencyText": "Use Internet applications to search for information"
+		},
+		{
+			"competencyText": "Use presentation software to effectively share information and ideas"
+		},
+		{
+			"competencyText": "Use spreadsheet, database, and presentation software both independently and in an integrated fashion"
+		},
+		{
+			"competencyText": "Use audio and video recording equipment and software to produce digital audio and video records and communications"
+		},
+		{
+			"competencyText": "Use file storage applications to store, retrieve, and sort documents"
+		},
+		{
+			"competencyText": "Understand social media and their appropriate workplace uses and non-workplaces uses, and the impact that various social media activities can have upon one’s personal and professional life"
+		},
+		{
+			"competencyText": "Double check work carefully and identify/correct typographical, grammatical, and other errors"
+		},
+		{
+			"competencyText": "Information and Research Literacy"
+		},
+		{
+			"competencyText": "Define:",
+			"comment": [
+				"Be able to define a problem that needs information in order to be solved"
+			]
+		},
+		{
+			"competencyText": "Access:",
+			"comment": [
+				"Search, find, and retrieve appropriate information relative to the task"
+			]
+		},
+		{
+			"competencyText": "Manage:",
+			"comment": [
+				"Apply an organizational or classification system to organize retrieved information"
+			]
+		},
+		{
+			"competencyText": "Evaluate:",
+			"comment": [
+				"Be able to judge the quality, relevance, usefulness, efficiency, and adequacy of information and information sources for the defined purpose (including authority, bias, and timeliness of information)"
+			]
+		},
+		{
+			"competencyText": "Integrate:",
+			"comment": [
+				"Interpret and represent data and information gathered, using quality management tools to organize, compare, contrast, summarize, and synthesize information from multiple sources"
+			]
+		},
+		{
+			"competencyText": "Create:",
+			"comment": [
+				"Adapt, apply, design, or author information resulting from the research that describes the research and its analysis and findings, facilitates decision-making, and develops conclusions and recommendations"
+			]
+		},
+		{
+			"competencyText": "Communicate:",
+			"comment": [
+				"Communicate that research and its findings effectively and efficiently in person and through written, visual, and digital media in a way that is appropriate for the intended audience"
+			]
+		},
+		{
+			"competencyText": "Hardware"
+		},
+		{
+			"competencyText": "Demonstrate competence with the following technology:"
+		},
+		{
+			"competencyText": "Central processing unit (CPU)"
+		},
+		{
+			"competencyText": "Memory - random-access memory (RAM) and read-only memory (ROM)"
+		},
+		{
+			"competencyText": "Storage media, (e.g., internal hard disk, external hard disk, network drive, CD, DVD, USB, flash drive, memory card)"
+		},
+		{
+			"competencyText": "Input/output ports, (e.g., USB, serial, parallel, network port, FireWire)"
+		},
+		{
+			"competencyText": "Input devices, (e.g., mouse; keyboard; trackball; scanner; touchpad; stylus; joystick; web camera; digital camera; microphone; voice recognition; remote control; gesture/motion; haptics; and head, mouth, and eye operated controllers)"
+		},
+		{
+			"competencyText": "Output devices, (e.g., screens/monitors, printers, speakers, headphones, wearable computing)"
+		},
+		{
+			"competencyText": "Assistive technology devices, (e.g., voice recognition software, screen reader, screen magnifier, on-screen keyboard, closed captioning, gesture/motion, haptics, text-to-speech)"
+		},
+		{
+			"competencyText": "Database Management Systems"
+		},
+		{
+			"competencyText": "Understand the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)"
+		},
+		{
+			"competencyText": "Understand database management systems, query languages, table relationships, and views"
+		},
+		{
+			"competencyText": "Demonstrate skill in generating queries and reports"
+		},
+		{
+			"competencyText": "Operating Systems"
+		},
+		{
+			"competencyText": "Understand server and client operating systems"
+		},
+		{
+			"competencyText": "Understand systems administration concepts"
+		},
+		{
+			"competencyText": "Understand file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip)"
+		},
+		{
+			"competencyText": "Understand how to troubleshoot basic systems and identify operating systems-related issues"
+		},
+		{
+			"competencyText": "Demonstrate skill in identifying, modifying, and manipulating applicable system components (Windows and/or Unix/Linux) (e.g., passwords, user accounts, files)"
+		},
+		{
+			"competencyText": "Systems Integration"
+		},
+		{
+			"competencyText": "Understand how system components are installed, integrated, and optimized"
+		},
+		{
+			"competencyText": "Understand technology integration processes"
+		},
+		{
+			"competencyText": "Understand web services, Service Oriented Architecture (SOA) and Application programming Interfaces (APIs)"
+		},
+		{
+			"competencyText": "Technology Awareness"
+		},
+		{
+			"competencyText": "Understand new and emerging IT and information security technologies"
+		},
+		{
+			"competencyText": "Demonstrate skill in applying and incorporating information technologies into proposed solutions"
+		},
+		{
+			"competencyText": "Understand products and nomenclature of major vendors (e.g., security suites:",
+			"comment": [
+				"Trend Micro, Symantec, McAfee, Outpost, Panda, Kaspersky, etc.) and how differences affect exploitation/vulnerabilities"
+			]
+		},
+		{
+			"competencyText": "Understand the capabilities and functionality associated with various content creation technologies (e.g., wikis, social networking, blogs)"
+		},
+		{
+			"competencyText": "Understand the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint, wikis, blogs, web collaborations)"
+		},
+		{
+			"competencyText": "Understand industry indicators useful for identifying technology trends"
+		},
+		{
+			"competencyText": "Workplace Competencies"
+		},
+		{
+			"competencyText": "Teamwork:",
+			"comment": [
+				"Working cooperatively with others to complete work assignments."
+			]
+		},
+		{
+			"competencyText": "Acknowledging team membership and role"
+		},
+		{
+			"competencyText": "Accept membership in and commit to the goals of the team"
+		},
+		{
+			"competencyText": "Show loyalty to the team"
+		},
+		{
+			"competencyText": "Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives"
+		},
+		{
+			"competencyText": "Guide others in learning new skills"
+		},
+		{
+			"competencyText": "Encourage others to express their ideas and opinions"
+		},
+		{
+			"competencyText": "Identify and draw upon team members’ strengths and weaknesses to achieve results"
+		},
+		{
+			"competencyText": "Learn from other team members"
+		},
+		{
+			"competencyText": "Establishing productive relationships"
+		},
+		{
+			"competencyText": "Develop constructive and cooperative working relationships with others"
+		},
+		{
+			"competencyText": "Exhibit tact and diplomacy and strive to build consensus"
+		},
+		{
+			"competencyText": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner"
+		},
+		{
+			"competencyText": "Respond appropriately to positive and negative feedback"
+		},
+		{
+			"competencyText": "Identifying with the team and its goals"
+		},
+		{
+			"competencyText": "Work as part of a team, contributing to the group’s effort to achieve goals"
+		},
+		{
+			"competencyText": "Identify the goals, norms, values, and customs of the team"
+		},
+		{
+			"competencyText": "Choose behaviors and actions that best support the team and accomplishment of work tasks"
+		},
+		{
+			"competencyText": "Use a group approach to identify problems and develop solutions based on group consensus"
+		},
+		{
+			"competencyText": "Effectively communicate with all members of the group or team to achieve team goals and objectives"
+		},
+		{
+			"competencyText": "Resolving conflicts"
+		},
+		{
+			"competencyText": "Bring others together to reconcile differences"
+		},
+		{
+			"competencyText": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties"
+		},
+		{
+			"competencyText": "Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups"
+		},
+		{
+			"competencyText": "Planning and Organizing:",
+			"comment": [
+				"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+			]
+		},
+		{
+			"competencyText": "Planning"
+		},
+		{
+			"competencyText": "Approach work in a methodical manner"
+		},
+		{
+			"competencyText": "Plan and schedule tasks so that work is completed on time"
+		},
+		{
+			"competencyText": "Keep track of details to ensure work is performed accurately and completely"
+		},
+		{
+			"competencyText": "Anticipate obstacles to project completion and develop contingency plans to address them"
+		},
+		{
+			"competencyText": "Find new ways of organizing work areas or planning work to accomplish work more efficiently"
+		},
+		{
+			"competencyText": "Prioritizing"
+		},
+		{
+			"competencyText": "Prioritize multiple competing tasks"
+		},
+		{
+			"competencyText": "Perform tasks quickly, correctly, and efficiently according to their urgency"
+		},
+		{
+			"competencyText": "Managing projects"
+		},
+		{
+			"competencyText": "Estimate personnel and other resources needed for project completion (e.g., financial material or equipment)"
+		},
+		{
+			"competencyText": "Manage activities to meet plans, allocating time and resources effectively"
+		},
+		{
+			"competencyText": "Keep track of and documents plans, assignments, changes, and deliverable"
+		},
+		{
+			"competencyText": "Plan for dependencies of one task on another"
+		},
+		{
+			"competencyText": "Coordinate efforts with all affected parties, keeping them informed of progress and all relevant changes to project timelines"
+		},
+		{
+			"competencyText": "Take necessary corrective action when projects go off-track"
+		},
+		{
+			"competencyText": "Creative Thinking:",
+			"comment": [
+				"Generating innovative and creative solutions."
+			]
+		},
+		{
+			"competencyText": "Employing unique analyses"
+		},
+		{
+			"competencyText": "Use original analyses and generate new, innovative ideas in complex areas"
+		},
+		{
+			"competencyText": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+		},
+		{
+			"competencyText": "Generating innovative solutions"
+		},
+		{
+			"competencyText": "Integrate seemingly unrelated information to develop creative processes or solutions"
+		},
+		{
+			"competencyText": "Reframe problems in a different light to find fresh approaches"
+		},
+		{
+			"competencyText": "Entertain wide-ranging possibilities and perspectives to develop new solutions"
+		},
+		{
+			"competencyText": "Find new ways to add value to the efforts of a team and organization"
+		},
+		{
+			"competencyText": "Seeing the big picture"
+		},
+		{
+			"competencyText": "Understand the pieces of a system as a whole and appreciate the consequences of actions to other parts of the system"
+		},
+		{
+			"competencyText": "Monitor patterns and trends to see a bigger picture"
+		},
+		{
+			"competencyText": "Modify or designs systems to improve performance"
+		},
+		{
+			"competencyText": "Problem Solving and Decision-Making:",
+			"comment": [
+				"Generating, evaluating, and implementing solutions."
+			]
+		},
+		{
+			"competencyText": "Identifying the Problem"
+		},
+		{
+			"competencyText": "Anticipate or recognize the existence of a problem"
+		},
+		{
+			"competencyText": "Identify the true nature of the problem and define critical issues"
+		},
+		{
+			"competencyText": "Evaluate the importance and criticality of the problem"
+		},
+		{
+			"competencyText": "Use all available reference systems to locate and obtain information relevant to understanding the problem"
+		},
+		{
+			"competencyText": "Recall previously learned information that is relevant to the problem"
+		},
+		{
+			"competencyText": "Locating, gathering, and organizing relevant information"
+		},
+		{
+			"competencyText": "Effectively use both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to solving the problem"
+		},
+		{
+			"competencyText": "Examine information obtained for relevance and completeness"
+		},
+		{
+			"competencyText": "Recognize important gaps in existing information and take steps to eliminate those gaps"
+		},
+		{
+			"competencyText": "Organize/reorganize information as appropriate to gain a better understanding of the problem"
+		},
+		{
+			"competencyText": "Generating alternatives"
+		},
+		{
+			"competencyText": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem"
+		},
+		{
+			"competencyText": "Skilfully use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different solutions or approaches"
+		},
+		{
+			"competencyText": "Choosing a Solution"
+		},
+		{
+			"competencyText": "Decisively choose the best solution after evaluating the relative merits of each possible option"
+		},
+		{
+			"competencyText": "Make difficult decisions even in highly ambiguous or ill-defined situations"
+		},
+		{
+			"competencyText": "Implementing the solution"
+		},
+		{
+			"competencyText": "Commit to a solution in a timely manner"
+		},
+		{
+			"competencyText": "Develop a realistic approach for implementing the chosen solution"
+		},
+		{
+			"competencyText": "Document the problem and corrective actions taken and their outcomes and communicate these to the appropriate parties"
+		},
+		{
+			"competencyText": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+		},
+		{
+			"competencyText": "Working with Tools and Technology:",
+			"comment": [
+				"Selecting, using, and maintaining tools and technology to facilitate work activity (with accommodation when necessary)."
+			]
+		},
+		{
+			"competencyText": "Using tools"
+		},
+		{
+			"competencyText": "Operate tools, technology, and equipment in accordance with established operating procedures and safety standards"
+		},
+		{
+			"competencyText": "Demonstrate appropriate use of tools and technology to complete work functions"
+		},
+		{
+			"competencyText": "Selecting tools"
+		},
+		{
+			"competencyText": "Select and apply appropriate tools or technological solutions to the problem at hand"
+		},
+		{
+			"competencyText": "Keeping current"
+		},
+		{
+			"competencyText": "Demonstrate an interest in learning about new and emerging tools and technologies"
+		},
+		{
+			"competencyText": "Adapt quickly to changes in process or technology"
+		},
+		{
+			"competencyText": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+		},
+		{
+			"competencyText": "Troubleshooting and maintenance"
+		},
+		{
+			"competencyText": "Learn how to maintain and troubleshoot tools and technologies"
+		},
+		{
+			"competencyText": "Perform routine maintenance on tools, technology, and equipment"
+		},
+		{
+			"competencyText": "Determine causes of errors and take the appropriate corrective action"
+		},
+		{
+			"competencyText": "Develop alternatives to complete a task if desired tool or technology is not available"
+		},
+		{
+			"competencyText": "Business Fundamentals:",
+			"comment": [
+				"Using information on basic business principles, trends, and economics."
+			]
+		},
+		{
+			"competencyText": "Situational Awareness"
+		},
+		{
+			"competencyText": "Understand the mission, structure, and functions of the organization"
+		},
+		{
+			"competencyText": "Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization"
+		},
+		{
+			"competencyText": "Grasp the potential impact of the company’s well-being on employees"
+		},
+		{
+			"competencyText": "Business Ethics"
+		},
+		{
+			"competencyText": "Demonstrate respect for coworkers, colleagues, and customers"
+		},
+		{
+			"competencyText": "Act in the best interest of the company, the community, and the environment"
+		},
+		{
+			"competencyText": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel"
+		},
+		{
+			"competencyText": "Business Practices"
+		},
+		{
+			"competencyText": "Understand fundamental and relevant business customer and supplier relationships"
+		},
+		{
+			"competencyText": "Use product improvement techniques"
+		},
+		{
+			"competencyText": "Comply with the norms of conventional business etiquette"
+		},
+		{
+			"competencyText": "Protect intellectual property and proprietary information"
+		},
+		{
+			"competencyText": "Demonstrate understanding of the importance of adding value to the enterprise"
+		},
+		{
+			"competencyText": "Global Awareness"
+		},
+		{
+			"competencyText": "Understand how IT supports globalization"
+		},
+		{
+			"competencyText": "Understand the impact of globalization on the business model"
+		},
+		{
+			"competencyText": "Interpret and adhere to global standards and standardization"
+		},
+		{
+			"competencyText": "Market knowledge"
+		},
+		{
+			"competencyText": "Understand market trends in the industry and company’s position in the market"
+		},
+		{
+			"competencyText": "Know who the company’s primary competitors are and stay current on organizational strategies to maintain competitiveness"
+		},
+		{
+			"competencyText": "Uphold the organization through building and maintaining customer relations"
+		},
+		{
+			"competencyText": "Recognize major challenges faced by the organization and industry and key strategies to address challenges"
+		},
+		{
+			"competencyText": "Industry-Wide Technical Competencies"
+		},
+		{
+			"competencyText": "Cybersecurity Technology:",
+			"comment": [
+				"The knowledge, skills, and abilities needed to understand the purpose and function of cybersecurity technology, including tools and systems."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Cryptography"
+		},
+		{
+			"competencyText": "Explain the core concepts of cryptography and cryptographic key management concepts"
+		},
+		{
+			"competencyText": "Explain the concept of public key infrastructure (PKI)"
+		},
+		{
+			"competencyText": "Explain symmetric key rotation techniques and concepts"
+		},
+		{
+			"competencyText": "Describe encryption methodologies"
+		},
+		{
+			"competencyText": "Information Technology (IT) Architecture"
+		},
+		{
+			"competencyText": "Explain IT architectural concepts and frameworks"
+		},
+		{
+			"competencyText": "Explain security system design tools, methods, and techniques"
+		},
+		{
+			"competencyText": "Demonstrate knowledge of information theory"
+		},
+		{
+			"competencyText": "Demonstrate knowledge of communication methods, principles, and concepts"
+		},
+		{
+			"competencyText": "Explain parallel and distributed computing concepts"
+		},
+		{
+			"competencyText": "Explain remote access technology concepts"
+		},
+		{
+			"competencyText": "Describe how different file types can be used for anomalous behavior"
+		},
+		{
+			"competencyText": "Distinguish between data in use, data in motion (transit), and data at rest"
+		},
+		{
+			"competencyText": "Describe the capabilities of different electronic communication systems and methods"
+		},
+		{
+			"competencyText": "Understand system life cycle management principles, including software security and usability"
+		},
+		{
+			"competencyText": "Operational Technology (OT) Architecture"
+		},
+		{
+			"competencyText": "Explain typical OT architecture"
+		},
+		{
+			"competencyText": "Differentiate between IT and OT architectures and the operation of these architectures"
+		},
+		{
+			"competencyText": "Explain the typical communications network options and communications protocols used in OT architectures, with their relative pros and cons"
+		},
+		{
+			"competencyText": "Identify the principal drivers of OT systems, particularly process safety and system availability"
+		},
+		{
+			"competencyText": "Networks"
+		},
+		{
+			"competencyText": "Explain computer networking concepts and protocols, and network security methodologies"
+		},
+		{
+			"competencyText": "Explain network design processes, to include understanding of security objectives, operational objectives, and tradeoffs"
+		},
+		{
+			"competencyText": "Explain local area network (LAN) and wide area network (WAN) principles and concepts, including bandwidth management"
+		},
+		{
+			"competencyText": "Explain service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, v3 [ITL])"
+		},
+		{
+			"competencyText": "Identify the range of existing networks types"
+		},
+		{
+			"competencyText": "Explain how traffic flows across the network"
+		},
+		{
+			"competencyText": "Explain server administration and systems engineering theories, concepts, and methods"
+		},
+		{
+			"competencyText": "Identify host and network access control mechanisms (e.g., access control list)"
+		},
+		{
+			"competencyText": "Recognize the impact on OT systems of security hardware and software options such as encryption and intrusion detection"
+		},
+		{
+			"competencyText": "Explain guidance on separation of OT and IT system networks and components"
+		},
+		{
+			"competencyText": "Describe basic system administration, network, and operating system hardening techniques"
+		},
+		{
+			"competencyText": "Operating Systems"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with the security features and functions of common operating systems"
+		},
+		{
+			"competencyText": "Explain virtualization technologies and virtual machine development and maintenance"
+		},
+		{
+			"competencyText": "Describe how to manage patches to IT and OT operating systems"
+		},
+		{
+			"competencyText": "Recognize the implications of installed patches to IT and OT systems"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with Windows command line"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with Unix/Linux operating system structure and internals (e.g., process management, directory structure, installed applications)"
+		},
+		{
+			"competencyText": "Identify file system implementations"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with Windows/Unix/Android, iOS, and Windows Mobile ports and services"
+		},
+		{
+			"competencyText": "Security Technology Awareness",
+			"comment": [
+				"For general technology awareness, see the \"Fundamental IT User Skills\" block on Tier 2"
+			]
+		},
+		{
+			"competencyText": "Understand emerging security issues, risks, and vulnerabilities"
+		},
+		{
+			"competencyText": "Identify emerging computer-based technology that has potential for exploitation by adversaries"
+		},
+		{
+			"competencyText": "Demonstrate skill in applying and incorporating new and emerging cybersecurity technologies and trends into proposed solutions"
+		},
+		{
+			"competencyText": "Understand products and nomenclature of major IT security vendors and how differences affect exploitation/vulnerabilities"
+		},
+		{
+			"competencyText": "Telecommunications"
+		},
+		{
+			"competencyText": "Explain basic concepts, terminology, and operations of a wide range of communications media"
+		},
+		{
+			"competencyText": "Describe transmission methods and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly"
+		},
+		{
+			"competencyText": "Describe the communications protocols used in OT architectures, with their relative pros and cons"
+		},
+		{
+			"competencyText": "Understand Voice over Internet Protocols (VoIPs)"
+		},
+		{
+			"competencyText": "Web Technologies"
+		},
+		{
+			"competencyText": "Explain web services, including service oriented architecture, Representational State Transfer (REST), Simple Object Access Protocol (SOAP), and web service description language"
+		},
+		{
+			"competencyText": "Demonstrate Cloud-based knowledge management technologies and concepts related to security, governance, procurement, and administration"
+		},
+		{
+			"competencyText": "Explain web filtering technologies"
+		},
+		{
+			"competencyText": "Technical Content Areas:"
+		},
+		{
+			"competencyText": "Cryptography"
+		},
+		{
+			"competencyText": "Core concepts and methodologies"
+		},
+		{
+			"competencyText": "Encryption concepts (e.g., symmetric vs. asymmetric, transport encryption, digital signatures)"
+		},
+		{
+			"competencyText": "Cryptographic tools and products (e.g., WEP, MD5, SHA)"
+		},
+		{
+			"competencyText": "Public Key Infrastructure (PKI)"
+		},
+		{
+			"competencyText": "Certificate authorities and digital certificates"
+		},
+		{
+			"competencyText": "Recovery agent"
+		},
+		{
+			"competencyText": "Registration"
+		},
+		{
+			"competencyText": "Key escrow"
+		},
+		{
+			"competencyText": "Trust models"
+		},
+		{
+			"competencyText": "IT Architecture"
+		},
+		{
+			"competencyText": "Electronic communication systems and methods"
+		},
+		{
+			"competencyText": "E-mail"
+		},
+		{
+			"competencyText": "Voice over Internet Protocol (VoIP)"
+		},
+		{
+			"competencyText": "Instant Messenger (IM)"
+		},
+		{
+			"competencyText": "Web forums"
+		},
+		{
+			"competencyText": "Direct video broadcasts"
+		},
+		{
+			"competencyText": "Information theory"
+		},
+		{
+			"competencyText": "Source coding"
+		},
+		{
+			"competencyText": "Channel coding"
+		},
+		{
+			"competencyText": "Algorithm complexity theory"
+		},
+		{
+			"competencyText": "Data compression"
+		},
+		{
+			"competencyText": "Communication methods, principles, and concepts, such as"
+		},
+		{
+			"competencyText": "Encoding"
+		},
+		{
+			"competencyText": "Signaling"
+		},
+		{
+			"competencyText": "Multiplexing"
+		},
+		{
+			"competencyText": "OT Architecture"
+		},
+		{
+			"competencyText": "Architecture concepts"
+		},
+		{
+			"competencyText": "Sensors"
+		},
+		{
+			"competencyText": "PLC/RTU"
+		},
+		{
+			"competencyText": "Fieldbus"
+		},
+		{
+			"competencyText": "Supervisory Control and Data Acquisition (SCADA)"
+		},
+		{
+			"competencyText": "HMI"
+		},
+		{
+			"competencyText": "DCS"
+		},
+		{
+			"competencyText": "Historians"
+		},
+		{
+			"competencyText": "Networks"
+		},
+		{
+			"competencyText": "Architecture concepts"
+		},
+		{
+			"competencyText": "Topology"
+		},
+		{
+			"competencyText": "Components (e.g., firewalls, routers, switches)"
+		},
+		{
+			"competencyText": "Network Types, such as"
+		},
+		{
+			"competencyText": "Local Area Networks (LANs)"
+		},
+		{
+			"competencyText": "Wide Area Networks (WANs)"
+		},
+		{
+			"competencyText": "Wireless Fidelity (Wi-Fi)"
+		},
+		{
+			"competencyText": "Private Branching Exchange (PBX)"
+		},
+		{
+			"competencyText": "Sensor networks"
+		},
+		{
+			"competencyText": "Network Protocols, such as"
+		},
+		{
+			"competencyText": "Transmission Control Protocol and Internet Protocol (TCP/IP)"
+		},
+		{
+			"competencyText": "Dynamic Host Configuration Protocol (DHCP)"
+		},
+		{
+			"competencyText": "Domain Name System (DNS)"
+		},
+		{
+			"competencyText": "IPv4 and IPv6"
+		},
+		{
+			"competencyText": "Hardening Techniques"
+		},
+		{
+			"competencyText": "Hardware-based computer protection components (e.g., hardware firewalls, servers, routers)"
+		},
+		{
+			"competencyText": "Software-based computer protection tools (e.g., software firewalls, anti-virus software, anti-spyware)"
+		},
+		{
+			"competencyText": "Operating Systems"
+		},
+		{
+			"competencyText": "Common Operating Systems (OS)"
+		},
+		{
+			"competencyText": "Windows"
+		},
+		{
+			"competencyText": "Unix/Linux"
+		},
+		{
+			"competencyText": "Mac OS"
+		},
+		{
+			"competencyText": "Android"
+		},
+		{
+			"competencyText": "iOS"
+		},
+		{
+			"competencyText": "Windows Mobile"
+		},
+		{
+			"competencyText": "File system implementations, such as"
+		},
+		{
+			"competencyText": "New Technology File System (NTFS)"
+		},
+		{
+			"competencyText": "File Allocation Table (FAT)"
+		},
+		{
+			"competencyText": "File Extension (EXT)"
+		},
+		{
+			"competencyText": "Telecommunications"
+		},
+		{
+			"competencyText": "Concepts"
+		},
+		{
+			"competencyText": "Routing algorithms"
+		},
+		{
+			"competencyText": "Fiber optics systems link budgeting"
+		},
+		{
+			"competencyText": "Add/drop multiplexers"
+		},
+		{
+			"competencyText": "Communication media, such as"
+		},
+		{
+			"competencyText": "Computer and telephone networks"
+		},
+		{
+			"competencyText": "Satellite"
+		},
+		{
+			"competencyText": "Fiber"
+		},
+		{
+			"competencyText": "Wireless"
+		},
+		{
+			"competencyText": "Transmission methods, such as"
+		},
+		{
+			"competencyText": "Bluetooth"
+		},
+		{
+			"competencyText": "Radio Frequency Identification (RFID)"
+		},
+		{
+			"competencyText": "Infrared Networking (IR)"
+		},
+		{
+			"competencyText": "Wireless Fidelity (Wi-Fi)"
+		},
+		{
+			"competencyText": "Cellular"
+		},
+		{
+			"competencyText": "Satellite dishes"
+		},
+		{
+			"competencyText": "OT communication protocols, such as"
+		},
+		{
+			"competencyText": "DNP3"
+		},
+		{
+			"competencyText": "Modbus"
+		},
+		{
+			"competencyText": "IEC60870"
+		},
+		{
+			"competencyText": "Information Assurance:",
+			"comment": [
+				"The standards, procedures, and applications used to protect the confidentiality, integrity and availability of information and information systems."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Information Assurance"
+		},
+		{
+			"competencyText": "Explain information assurance (IA) principles and organizational requirements that are relevant to confidentiality, integrity, availability, authentication, and non-repudiation"
+		},
+		{
+			"competencyText": "Apply confidentiality, integrity, and availability principles"
+		},
+		{
+			"competencyText": "Demonstrate skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes"
+		},
+		{
+			"competencyText": "Explain key concepts in security management (e.g., release management, patch management)"
+		},
+		{
+			"competencyText": "Explain how information assurance principles and methods apply to software development"
+		},
+		{
+			"competencyText": "Describe Security Assessment and Authorization (SA&A) process"
+		},
+		{
+			"competencyText": "Data Management"
+		},
+		{
+			"competencyText": "Explain data classification standards and methodologies based on sensitivity and other risk factors"
+		},
+		{
+			"competencyText": "Explain the importance of complying with data management policies"
+		},
+		{
+			"competencyText": "Explain the need for an organization to understand what its sensitive information is, where it resides, and who needs access to it"
+		},
+		{
+			"competencyText": "Demonstrate knowledge of advanced data remediation security features in databases"
+		},
+		{
+			"competencyText": "Demonstrate ability to manage data stored within operational technology (OT) systems (e.g., time series data stored in Supervisory Control and Data Acquisition [SCADA] and Historians)"
+		},
+		{
+			"competencyText": "Explain the need to track the movement of data across network boundaries both electronically and physically"
+		},
+		{
+			"competencyText": "Explain the need to limit USB and other removable media reading and writing capabilities on organization computers"
+		},
+		{
+			"competencyText": "Adhere to data administration and data standardization policies and standards"
+		},
+		{
+			"competencyText": "Explain data mining and data warehousing principles"
+		},
+		{
+			"competencyText": "Identify sources, characteristics, and uses of the organization’s data assets"
+		},
+		{
+			"competencyText": "Common Strategies for Ensuring Information"
+		},
+		{
+			"competencyText": "Demonstrate ability to produce copies of all data or information used in or generated by the organization"
+		},
+		{
+			"competencyText": "Demonstrate ability to backup and store data automatically on a separate hard disk, off-line removable media, or online storage"
+		},
+		{
+			"competencyText": "Demonstrate ability to protect sensitive information when disposing of old computers and media"
+		},
+		{
+			"competencyText": "Explain the need to limit access or use of an organization’s computers, including laptops, to unauthorized persons"
+		},
+		{
+			"competencyText": "Explain the concept of administrative privileges and administrative user accounts and why it is necessary to restrict them to select individuals within the organization"
+		},
+		{
+			"competencyText": "Explain digital rights management"
+		},
+		{
+			"competencyText": "Identity Management and Authentication"
+		},
+		{
+			"competencyText": "Explain key authentication, authorization, and access control principles and methods"
+		},
+		{
+			"competencyText": "Explain the need for access authentication controls, including the need to disable expired user accounts and regularly change passwords"
+		},
+		{
+			"competencyText": "Adhere to organizational information technology user security policies"
+		},
+		{
+			"competencyText": "Adhere to Personally Identifiable Information (PII) and Payment Card Industry (PCI) data security standards"
+		},
+		{
+			"competencyText": "Technical Content Areas:"
+		},
+		{
+			"competencyText": "Information Assurance"
+		},
+		{
+			"competencyText": "Principles of Information Assurance"
+		},
+		{
+			"competencyText": "Asset value"
+		},
+		{
+			"competencyText": "Confidentiality, integrity, and availability (the CIA triad)"
+		},
+		{
+			"competencyText": "Principal of least privilege"
+		},
+		{
+			"competencyText": "Access control"
+		},
+		{
+			"competencyText": "Separation of duties"
+		},
+		{
+			"competencyText": "Data Management"
+		},
+		{
+			"competencyText": "Data mining and warehousing principles"
+		},
+		{
+			"competencyText": "Data integrity"
+		},
+		{
+			"competencyText": "Data protection (e.g., encryption, masking)"
+		},
+		{
+			"competencyText": "Data loss prevention techniques and tools"
+		},
+		{
+			"competencyText": "Privacy impact assessments"
+		},
+		{
+			"competencyText": "Common Strategies for Ensuring Information"
+		},
+		{
+			"competencyText": "Data and information to be safeguarded, such as"
+		},
+		{
+			"competencyText": "Word processing documents"
+		},
+		{
+			"competencyText": "Electronic spreadsheets"
+		},
+		{
+			"competencyText": "Databases"
+		},
+		{
+			"competencyText": "Financial files"
+		},
+		{
+			"competencyText": "Human resources rules"
+		},
+		{
+			"competencyText": "Accounts receivable and payable"
+		},
+		{
+			"competencyText": "Data management policies, such as those pertaining to"
+		},
+		{
+			"competencyText": "Storage media"
+		},
+		{
+			"competencyText": "Transmission archiving"
+		},
+		{
+			"competencyText": "Retention requirements"
+		},
+		{
+			"competencyText": "Data destruction"
+		},
+		{
+			"competencyText": "Deduplication"
+		},
+		{
+			"competencyText": "Data loss prevention"
+		},
+		{
+			"competencyText": "Social network usage"
+		},
+		{
+			"competencyText": "Information rights usage"
+		},
+		{
+			"competencyText": "Identity Management and Authentication"
+		},
+		{
+			"competencyText": "Key principles and concepts"
+		},
+		{
+			"competencyText": "Identification vs. authentication"
+		},
+		{
+			"competencyText": "Single factor authentication and authorization"
+		},
+		{
+			"competencyText": "Multifactor authentication"
+		},
+		{
+			"competencyText": "Authentication controls, such as"
+		},
+		{
+			"competencyText": "Biometrics"
+		},
+		{
+			"competencyText": "Tokens"
+		},
+		{
+			"competencyText": "Common access card"
+		},
+		{
+			"competencyText": "Personal identification verification card"
+		},
+		{
+			"competencyText": "Authentication services (e.g., RADIUS, TACAS, OpenID)"
+		},
+		{
+			"competencyText": "User security policies, such as"
+		},
+		{
+			"competencyText": "Account creation"
+		},
+		{
+			"competencyText": "Password rules"
+		},
+		{
+			"competencyText": "Access controls"
+		},
+		{
+			"competencyText": "Risk Management:",
+			"comment": [
+				"The systems, tools, and concepts used to minimize the risk to an organization’s cyberspace and prevent a cybersecurity incident."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Business Continuity Planning"
+		},
+		{
+			"competencyText": "Explain and justify each step of the Business Continuity Planning process:"
+		},
+		{
+			"competencyText": "Identify critical business practices (such as complex regional or global supply chain strategies) that may adversely impact the entity’s ability to recover following a disaster event"
+		},
+		{
+			"competencyText": "Clearly define resource requirements for the Business Continuity Plan (BCP) and solicit management support and commitment for required resources"
+		},
+		{
+			"competencyText": "Present and obtain management/leadership support, approval, and sponsors of BCP"
+		},
+		{
+			"competencyText": "Work with management and any risk management/enterprise risk management groups within the entity to gain agreement on a clear and standardized risk assessment methodology and to gain understanding of the entity’s tolerance for risk"
+		},
+		{
+			"competencyText": "Design a crisis communications plan that addresses the need for effective and timely communication between the entity and all the stakeholders impacted by an event or involved during the response and recovery efforts"
+		},
+		{
+			"competencyText": "Provide guidance within the plan to determine frequency of communications needed to each stakeholder before an event, during the event itself, and following an event"
+		},
+		{
+			"competencyText": "Identify and establish relationships with the internal departments and personnel and external agencies, contractors, and others with responsibility for emergency preparedness and response"
+		},
+		{
+			"competencyText": "Develop an incident response strategy and plan to limit incident effect and to repair incident damage"
+		},
+		{
+			"competencyText": "Identify trigger points for key service and support areas to identify, escalate and execute strategies selected to take advantage of key risks"
+		},
+		{
+			"competencyText": "Develop formal reports and presentations focused on increasing the awareness and potential impact of risks to the organization from a business continuity perspective"
+		},
+		{
+			"competencyText": "Define organizational titles, roles, lines of authority, succession of authority, and responsibilities for internal and external resources"
+		},
+		{
+			"competencyText": "Establish an exercise, testing, maintenance and audit program for the BCP to establish confidence in a predictable and repeatable performance of recovery activities throughout the organization"
+		},
+		{
+			"competencyText": "Coordinate, conduct, and or participate in training, drills, and exercises with first responders to comply with regulations, as needed to establish required capabilities, and or as requested by first responders"
+		},
+		{
+			"competencyText": "Conduct a debrief meeting immediately following training, drills and exercises and document actions to be taken to improve emergency preparedness and response capabilities"
+		},
+		{
+			"competencyText": "Design framework and define document structure for the plan documentation"
+		},
+		{
+			"competencyText": "Define and obtain approval for criteria to be used to assess the impact on the entity’s operations including but not limited to: customer impact; financial impact; regulatory impact; operational impact; reputational impact; human impact"
+		},
+		{
+			"competencyText": "Understand the risks associated with operational technology (OT) systems and be able to identify practical mitigation measures to manage these risks"
+		},
+		{
+			"competencyText": "Computer Defense"
+		},
+		{
+			"competencyText": "Identify cyber defense mitigation techniques and vulnerability assessment tools, including open source tools, and their capabilities"
+		},
+		{
+			"competencyText": "Demonstrate skill in discerning the protection needs (i.e., security controls) of information systems and networks"
+		},
+		{
+			"competencyText": "Describe the impact of computer defense techniques and tools on information technology (IT) and OT systems and know when to use such techniques or tools"
+		},
+		{
+			"competencyText": "Explain computer network defense (CND) and vulnerability assessment tools, including open source tools, and their capabilities"
+		},
+		{
+			"competencyText": "Identify common adversary tactics, techniques, and procedures (TTPs) in assigned area of responsibility"
+		},
+		{
+			"competencyText": "Explain application firewall concepts and functions"
+		},
+		{
+			"competencyText": "Adhere to cyber defense policies, procedures and regulations"
+		},
+		{
+			"competencyText": "Demonstrate skill in collecting data from a variety of cyber defense resources"
+		},
+		{
+			"competencyText": "Contracting and Procurement"
+		},
+		{
+			"competencyText": "Describe critical IT and OT procurement requirements"
+		},
+		{
+			"competencyText": "Demonstrate skill in evaluating the trustworthiness of the supplier and/or product"
+		},
+		{
+			"competencyText": "Explain functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes)"
+		},
+		{
+			"competencyText": "Define secure acquisitions"
+		},
+		{
+			"competencyText": "Enterprise/Organization"
+		},
+		{
+			"competencyText": "Explain organizational process improvement concepts and process maturity models"
+		},
+		{
+			"competencyText": "Recognize the nature and function of the relevant information structure"
+		},
+		{
+			"competencyText": "Identify enterprise/organization security models"
+		},
+		{
+			"competencyText": "Identify the organization’s Information Classification Program and procedures for level information loss"
+		},
+		{
+			"competencyText": "Recognize the specialized system requirements of OT systems"
+		},
+		{
+			"competencyText": "Explain the organization’s core business/mission processes, stakeholders, and users"
+		},
+		{
+			"competencyText": "Demonstrate an understanding of the services provided by the enterprise or organization and the elements of the system that support the delivery of these services"
+		},
+		{
+			"competencyText": "Describe how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise"
+		},
+		{
+			"competencyText": "Describe the Enterprise Network Defense provider reporting structure and processes within the organization"
+		},
+		{
+			"competencyText": "Explain the need for common metrics that measure the effectiveness of security measures with the organization"
+		},
+		{
+			"competencyText": "Explain the need for continuous diagnostics and mitigation to test and validate the effectiveness of current security measures"
+		},
+		{
+			"competencyText": "Explain the need for automated defenses"
+		},
+		{
+			"competencyText": "Identify local specialized system requirements (e.g., critical infrastructure systems that may not use standard IT for safety, performance, and reliability)"
+		},
+		{
+			"competencyText": "Risk and Vulnerability Analysis"
+		},
+		{
+			"competencyText": "Demonstrate knowledge of system and application threats and vulnerabilities"
+		},
+		{
+			"competencyText": "Demonstrate ability to identify threats/risks and vulnerabilities taking into account the frequency, probability, speed of development, severity and reputational impact to achieve a holistic view of risk across the entity"
+		},
+		{
+			"competencyText": "Demonstrate ability to classify risks according to relevant criteria including, but not limited to:"
+		},
+		{
+			"competencyText": "Risks under the entity’s control"
+		},
+		{
+			"competencyText": "Risks beyond the entity’s control"
+		},
+		{
+			"competencyText": "Risks with prior warnings (such as tornadoes and hurricanes)"
+		},
+		{
+			"competencyText": "Risks with no prior warnings (such as earthquakes)"
+		},
+		{
+			"competencyText": "Demonstrate ability to identify the organization’s risk exposures from both internal and external sources"
+		},
+		{
+			"competencyText": "Explain the use of network analysis tools to identify software communications vulnerabilities"
+		},
+		{
+			"competencyText": "Explain the proper use of penetration testing and vulnerability scanning for vulnerability assessments"
+		},
+		{
+			"competencyText": "Explain the impact of penetration testing and vulnerability scanning on OT systems and know when to use such techniques"
+		},
+		{
+			"competencyText": "Risk Management Strategies"
+		},
+		{
+			"competencyText": "Explain the rationale of and adhere to IT and OT supply chain security/risk management policies, requirements, and procedures"
+		},
+		{
+			"competencyText": "Explain the need for antivirus and antispyware software on all computers used in an organization’s operations and the need for continuous auto- or manual-update of this software"
+		},
+		{
+			"competencyText": "Explain the need to track/control/prevent/correct installation and execution of software on computers based on an asset inventory of approved software"
+		},
+		{
+			"competencyText": "Explain the need to track/control/prevent/correct network access by devices (computers, network components, printers, BYODs [Bring Your Own Devices], anything with IP addresses) based on an asset inventory of which devices are allowed to connect to the organization’s network"
+		},
+		{
+			"competencyText": "Explain the need for formal configuration management and change control processes"
+		},
+		{
+			"competencyText": "Explain need for dispersing responsibility and access to data and systems, including financial, personnel, inventory, and manufacturing, over multiple individuals (e.g., one employee should not be allowed to both initiate and approve financial transactions)"
+		},
+		{
+			"competencyText": "Explain the importance of training an organization’s workers to use sensitive business information properly and to protect the organization’s and its stakeholders’ information"
+		},
+		{
+			"competencyText": "Describe and practice safe internet behavior"
+		},
+		{
+			"competencyText": "Explain the risks associated with social media and the countermeasures available to address them"
+		},
+		{
+			"competencyText": "Explain the impact and proper use of environmental controls"
+		},
+		{
+			"competencyText": "Explain the need for security audit logging and analysis"
+		},
+		{
+			"competencyText": "Software Lifecycle"
+		},
+		{
+			"competencyText": "Describe the type and frequency of routine maintenance needed to keep equipment functioning properly"
+		},
+		{
+			"competencyText": "Demonstrate ability to install computer upgrades"
+		},
+		{
+			"competencyText": "Explain the operations and processes for diagnosing common or recurring system problems"
+		},
+		{
+			"competencyText": "Demonstrate ability to identify and anticipate server performance, availability, capacity, or configuration problems"
+		},
+		{
+			"competencyText": "Technical Content Areas:"
+		},
+		{
+			"competencyText": "Enterprise/Organization Awareness"
+		},
+		{
+			"competencyText": "Process improvement concepts and process maturity models, such as"
+		},
+		{
+			"competencyText": "Capability Maturity Model Integration (CMMI) for Development"
+		},
+		{
+			"competencyText": "CMMI for Services"
+		},
+		{
+			"competencyText": "CMMI for Acquisitions"
+		},
+		{
+			"competencyText": "Security models, such as"
+		},
+		{
+			"competencyText": "Bell-LaPadula model"
+		},
+		{
+			"competencyText": "Biba integrity model"
+		},
+		{
+			"competencyText": "Clark-Wilson model"
+		},
+		{
+			"competencyText": "Computer Defense"
+		},
+		{
+			"competencyText": "Computer defense techniques and tools, such as"
+		},
+		{
+			"competencyText": "Manual bypassing of electronic controls"
+		},
+		{
+			"competencyText": "Monitoring system logs"
+		},
+		{
+			"competencyText": "Physical security (e.g., locks, video surveillance, fencing)"
+		},
+		{
+			"competencyText": "Hardening (e.g., disabling unnecessary services, protecting management interfaces and applications, disabling unnecessary accounts)"
+		},
+		{
+			"competencyText": "Port security"
+		},
+		{
+			"competencyText": "Security postures"
+		},
+		{
+			"competencyText": "Reporting"
+		},
+		{
+			"competencyText": "Detection controls vs. prevention controls"
+		},
+		{
+			"competencyText": "Application firewall concepts and functions"
+		},
+		{
+			"competencyText": "Single point of authentication/audit/policy enforcement"
+		},
+		{
+			"competencyText": "Message scanning for malicious content"
+		},
+		{
+			"competencyText": "Data anonymization for PCI and PII compliance"
+		},
+		{
+			"competencyText": "Data loss protection"
+		},
+		{
+			"competencyText": "Risk and Vulnerability Analysis"
+		},
+		{
+			"competencyText": "System and application security threats and vulnerabilities, such as"
+		},
+		{
+			"competencyText": "Buffer overflow"
+		},
+		{
+			"competencyText": "Mobile code"
+		},
+		{
+			"competencyText": "Cross-site scripting"
+		},
+		{
+			"competencyText": "Procedural language/structures query language (PL/SQL) and injections"
+		},
+		{
+			"competencyText": "Race conditions"
+		},
+		{
+			"competencyText": "Covert channel"
+		},
+		{
+			"competencyText": "Replay"
+		},
+		{
+			"competencyText": "Return-oriented attacks"
+		},
+		{
+			"competencyText": "Malicious code"
+		},
+		{
+			"competencyText": "Internal and external sources of risk:"
+		},
+		{
+			"competencyText": "Natural"
+		},
+		{
+			"competencyText": "Technological"
+		},
+		{
+			"competencyText": "Man-made (e.g., distributed denial-of-service attack (DDoS), social engineering, wireless attacks, application attacks)"
+		},
+		{
+			"competencyText": "Accidental versus intentional"
+		},
+		{
+			"competencyText": "Controllable exposures/risks versus those beyond the entity’s control"
+		},
+		{
+			"competencyText": "Events with prior warnings versus those with no prior warnings"
+		},
+		{
+			"competencyText": "Risk impacts:"
+		},
+		{
+			"competencyText": "Facility"
+		},
+		{
+			"competencyText": "Security (both physical and logical)"
+		},
+		{
+			"competencyText": "Reputational"
+		},
+		{
+			"competencyText": "Legal"
+		},
+		{
+			"competencyText": "Customer"
+		},
+		{
+			"competencyText": "Procedural"
+		},
+		{
+			"competencyText": "IT (including operational infrastructure)"
+		},
+		{
+			"competencyText": "People"
+		},
+		{
+			"competencyText": "Supply Chain (including transportation and outsourcing)"
+		},
+		{
+			"competencyText": "Compliance"
+		},
+		{
+			"competencyText": "Availability of personnel"
+		},
+		{
+			"competencyText": "Network Communications technology"
+		},
+		{
+			"competencyText": "Risk Management Strategies"
+		},
+		{
+			"competencyText": "Risk management training topics"
+		},
+		{
+			"competencyText": "Information security policies, including the use of computers, networks and Internet connections"
+		},
+		{
+			"competencyText": "Limitations on personal use of telephones, printers, and other business resources"
+		},
+		{
+			"competencyText": "Differences between OT and IT systems"
+		},
+		{
+			"competencyText": "Restrictions on accessing OT systems at home or outside the secure work areas of the business"
+		},
+		{
+			"competencyText": "Restrictions on processing business data at home"
+		},
+		{
+			"competencyText": "Safe internet behavior"
+		},
+		{
+			"competencyText": "Open only email that is expected and from a sender that is trusted"
+		},
+		{
+			"competencyText": "Examine carefully web links in email, instant messages, social media, and other communications"
+		},
+		{
+			"competencyText": "Do not access email or internet on OT system computers"
+		},
+		{
+			"competencyText": "Do not install unauthorized software on OT system computers"
+		},
+		{
+			"competencyText": "Close popup windows that request a response"
+		},
+		{
+			"competencyText": "Conduct online business, commerce, and banking using a secure browser connection"
+		},
+		{
+			"competencyText": "Visit only web sites with trusted reputations"
+		},
+		{
+			"competencyText": "Download software only from trusted web sites"
+		},
+		{
+			"competencyText": "Risks associated with social media"
+		},
+		{
+			"competencyText": "Data leakage"
+		},
+		{
+			"competencyText": "Inappropriate posts"
+		},
+		{
+			"competencyText": "Posts that violate laws or regulations"
+		},
+		{
+			"competencyText": "Social engineering"
+		},
+		{
+			"competencyText": "Spreading of false information"
+		},
+		{
+			"competencyText": "Incident Detection:",
+			"comment": [
+				"The knowledge, skills, and abilities needed to identify threats or incidents."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Incident Detection"
+		},
+		{
+			"competencyText": "Describe what constitutes a network attack and the relationship to both threats and vulnerabilities"
+		},
+		{
+			"competencyText": "Explain the concepts of packet analysis and intrusion detection"
+		},
+		{
+			"competencyText": "Demonstrate ability to differentiate between attacks and normal user activity on a network"
+		},
+		{
+			"competencyText": "Identify intrusion detection methodologies and techniques for detecting host and network based intrusions via intrusion detection technologies."
+		},
+		{
+			"competencyText": "Demonstrate skill in identifying capturing, containing, and reporting malware"
+		},
+		{
+			"competencyText": "Demonstrate familiarity with Intrusion Detection System (IDS) tools and applications"
+		},
+		{
+			"competencyText": "Explain the need to analyze an entire network instead of a single device"
+		},
+		{
+			"competencyText": "Identify system diagnostic tools and fault identification techniques"
+		},
+		{
+			"competencyText": "Identify server diagnostic tools and fault identification techniques"
+		},
+		{
+			"competencyText": "Explain the concept of zero-day attacks"
+		},
+		{
+			"competencyText": "Describe general attack stages"
+		},
+		{
+			"competencyText": "Identify virtual machine aware malware, debugger aware malware, and packing"
+		},
+		{
+			"competencyText": "Explain malware analysis concepts and methodology"
+		},
+		{
+			"competencyText": "Identify malware analysis tools (e.g., Oily Debug, Ida Pro)"
+		},
+		{
+			"competencyText": "Describe network analysis methods"
+		},
+		{
+			"competencyText": "Incident Classification"
+		},
+		{
+			"competencyText": "Describe different classes of attacks"
+		},
+		{
+			"competencyText": "Demonstrate ability to identify the following characteristics of an incident:"
+		},
+		{
+			"competencyText": "Origin or location (internal or external)"
+		},
+		{
+			"competencyText": "Size or magnitude"
+		},
+		{
+			"competencyText": "Area of impact"
+		},
+		{
+			"competencyText": "Demonstrate ability to categorize events (using the organization’s standard category definitions) and assign events for further analysis, response, or disposition/closure"
+		},
+		{
+			"competencyText": "Report the pertinent information to the appropriate individual, group, or process"
+		},
+		{
+			"competencyText": "Determine the risk, threat level, or business impact of a confirmed incident"
+		},
+		{
+			"competencyText": "Casualties"
+		},
+		{
+			"competencyText": "Property damage"
+		},
+		{
+			"competencyText": "Operational interruption or disruption"
+		},
+		{
+			"competencyText": "Environmental contamination"
+		},
+		{
+			"competencyText": "Explain the importance of collecting incident data and intrusion artifacts (e.g., malware, logs) (to enable mitigation of incidents)"
+		},
+		{
+			"competencyText": "Determine the risk of continuing operations"
+		},
+		{
+			"competencyText": "Technical Content Areas"
+		},
+		{
+			"competencyText": "Incident Detection"
+		},
+		{
+			"competencyText": "Intrusion detection tools"
+		},
+		{
+			"competencyText": "Host Based Intrusion Detection Systems (HIDS)"
+		},
+		{
+			"competencyText": "Network Based Intrusion Detection Systems (NIDS)"
+		},
+		{
+			"competencyText": "Wireless Intrusion Detection Systems (WIDS)"
+		},
+		{
+			"competencyText": "Network monitoring resources, such as"
+		},
+		{
+			"competencyText": "System logs"
+		},
+		{
+			"competencyText": "History logs"
+		},
+		{
+			"competencyText": "General logs"
+		},
+		{
+			"competencyText": "Traffic analysis"
+		},
+		{
+			"competencyText": "Network sniffer"
+		},
+		{
+			"competencyText": "Attack stages"
+		},
+		{
+			"competencyText": "Footprinting and scanning"
+		},
+		{
+			"competencyText": "Enumeration"
+		},
+		{
+			"competencyText": "Gaining access"
+		},
+		{
+			"competencyText": "Escalation of privileges"
+		},
+		{
+			"competencyText": "Maintaining access"
+		},
+		{
+			"competencyText": "Network exploitation"
+		},
+		{
+			"competencyText": "Covering tracks"
+		},
+		{
+			"competencyText": "Incident Classification"
+		},
+		{
+			"competencyText": "Attack classes"
+		},
+		{
+			"competencyText": "Passive"
+		},
+		{
+			"competencyText": "Active"
+		},
+		{
+			"competencyText": "Insider"
+		},
+		{
+			"competencyText": "Close-in"
+		},
+		{
+			"competencyText": "Distribution"
+		},
+		{
+			"competencyText": "Incident Response and Remediation:",
+			"comment": [
+				"The knowledge, skills, and abilities needed to respond to and remediate an incident, as well as restore functionality to the system or infrastructure."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Business Continuity Plan Implementation"
+		},
+		{
+			"competencyText": "Describe enterprise incident response program, roles, and responsibilities, including first responders"
+		},
+		{
+			"competencyText": "Explain and justify each step that occurs during Business Continuity Planning implementation:"
+		},
+		{
+			"competencyText": "Identify the available continuity and recovery strategies for the entity’s operations that will meet the recovery time objective and recovery point objectives identified during the Business Continuity Planning process"
+		},
+		{
+			"competencyText": "Assess viability of alternative strategies against the results of business impact analysis/recovery time objectives"
+		},
+		{
+			"competencyText": "Compare solutions"
+		},
+		{
+			"competencyText": "Advantages"
+		},
+		{
+			"competencyText": "Disadvantages"
+		},
+		{
+			"competencyText": "Costs (startup, maintenance & execution)"
+		},
+		{
+			"competencyText": "Mitigation capability and control options"
+		},
+		{
+			"competencyText": "Ability to meet defined RTO and RPO"
+		},
+		{
+			"competencyText": "Estimate the cost of implementing and maintaining recovery for the identified recovery strategies"
+		},
+		{
+			"competencyText": "Validate that the recovery strategy being implemented is in line with the amount of business at risk"
+		},
+		{
+			"competencyText": "Identify applicable emergency preparedness and response regulations"
+		},
+		{
+			"competencyText": "Cooperate with other internal groups (e.g., information technology [IT], operational technology [OT], management, compliance, legal, human resources, etc.) and external agencies according to applicable policies and procedures"
+		},
+		{
+			"competencyText": "Criminal Law"
+		},
+		{
+			"competencyText": "Identify national and international laws, regulations, policies, and ethics as they relate to cybersecurity"
+		},
+		{
+			"competencyText": "Identify applicable laws and/or administrative/criminal legal guidelines and procedures relevant to work performed"
+		},
+		{
+			"competencyText": "Explain legal rules of electronic evidence and court procedure (e.g., admissibility), such as the Federal Rules of Evidence"
+		},
+		{
+			"competencyText": "Recognize legal trends that will impact cyber activities"
+		},
+		{
+			"competencyText": "Recognize the impact of technology trend data on laws, regulations, and/or policies"
+		},
+		{
+			"competencyText": "Crisis Communication"
+		},
+		{
+			"competencyText": "Identify relevant stakeholders that need to be contacted or that may have a vested interest or vital role in communications about an organizational incident"
+		},
+		{
+			"competencyText": "Identify the appropriate communications protocols and channels (media and message) for each type of stakeholder"
+		},
+		{
+			"competencyText": "Document communications produced during the incident"
+		},
+		{
+			"competencyText": "Provide notification service to other constituents (e.g., write and publish guidance or reports on incident findings) to enable constituents to protect their assets and/or detect similar incidents"
+		},
+		{
+			"competencyText": "Forensics"
+		},
+		{
+			"competencyText": "Explain the concepts of data backup, types of backups, and recovery concepts and tools"
+		},
+		{
+			"competencyText": "Describe types of digital forensics data and how to recognize them"
+		},
+		{
+			"competencyText": "Explain deployable forensics"
+		},
+		{
+			"competencyText": "Recognize anti-forensics tactics, techniques, and procedures"
+		},
+		{
+			"competencyText": "Explain concepts and practices of processing digital forensic data"
+		},
+		{
+			"competencyText": "Identify which system files (e.g., log files, registry files, configuration files) contain relevant information and where to find those system files"
+		},
+		{
+			"competencyText": "Describe investigative implications of hardware, operating systems, and network technologies"
+		},
+		{
+			"competencyText": "Explain the importance of collecting, processing, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data."
+		},
+		{
+			"competencyText": "Explain processes for seizing and preserving digital evidence (e.g., chain of custody)"
+		},
+		{
+			"competencyText": "Post Incident Activities and Analysis"
+		},
+		{
+			"competencyText": "Track and document incidents from initial detection through final resolution in support of future analytical efforts and situational awareness"
+		},
+		{
+			"competencyText": "Assign and label data / information according to the appropriate class or category of sensitivity"
+		},
+		{
+			"competencyText": "Make appropriate changes to system security to ensure that vulnerabilities leading to incident have been addressed (e.g., change passwords)"
+		},
+		{
+			"competencyText": "Explain the importance of validating system security prior to resumption of core activities and functions"
+		},
+		{
+			"competencyText": "Technical Content Areas:"
+		},
+		{
+			"competencyText": "Business Continuity Plan Implementation"
+		},
+		{
+			"competencyText": "Continuity and Recovery Strategies"
+		},
+		{
+			"competencyText": "Identify internal dual usage space that could be equipped to support recovery (conference rooms, training rooms, cafeterias, etc.)"
+		},
+		{
+			"competencyText": "Contract with third party service providers / outsourcers"
+		},
+		{
+			"competencyText": "Transfer staff and workload to an alternate site, considering"
+		},
+		{
+			"competencyText": "Location"
+		},
+		{
+			"competencyText": "Available space"
+		},
+		{
+			"competencyText": "Suitability of space to need"
+		},
+		{
+			"competencyText": "Communications capabilities (voice/data)"
+		},
+		{
+			"competencyText": "Equipment available"
+		},
+		{
+			"competencyText": "Availability of raw materials"
+		},
+		{
+			"competencyText": "Hardness of the site (redundant power, water, etc.)"
+		},
+		{
+			"competencyText": "Suspend operations that are not time sensitive in a surviving site and transfer people/workload from the impacted site (displacement)"
+		},
+		{
+			"competencyText": "Have staff work from home"
+		},
+		{
+			"competencyText": "Prioritize customers"
+		},
+		{
+			"competencyText": "Recover vital hard copy records and work in process to meet the RPO for these records and to ensure they are accessible following a disaster (e.g., photocopy, scan, fiche)"
+		},
+		{
+			"competencyText": "Outsource the entire technology environment (cloud computing, etc.), taking into account the limitations of outsourcing OT systems"
+		},
+		{
+			"competencyText": "Identify strategies for recovery of data in electronic form that meets the RPO established for these records and ensures they are available following a disaster (e.g., physical and virtual tape backup, asynchronous replication, synchronous replication)"
+		},
+		{
+			"competencyText": "Criminal Law"
+		},
+		{
+			"competencyText": "Applicable laws"
+		},
+		{
+			"competencyText": "Electronic Communications Privacy Act"
+		},
+		{
+			"competencyText": "Foreign Intelligence Surveillance Act"
+		},
+		{
+			"competencyText": "Protect America Act"
+		},
+		{
+			"competencyText": "Search and seizure laws"
+		},
+		{
+			"competencyText": "Civil liberties and privacy laws"
+		},
+		{
+			"competencyText": "US Statutes, (e.g., Titles 10, 18, 32, 50 in US Code)"
+		},
+		{
+			"competencyText": "Presidential Directives"
+		},
+		{
+			"competencyText": "Executive branch guidelines"
+		},
+		{
+			"competencyText": "Crisis Communication"
+		},
+		{
+			"competencyText": "Notification systems"
+		},
+		{
+			"competencyText": "Email and group distribution lists"
+		},
+		{
+			"competencyText": "Conference call"
+		},
+		{
+			"competencyText": "Intranet"
+		},
+		{
+			"competencyText": "Press conference"
+		},
+		{
+			"competencyText": "Event information line"
+		},
+		{
+			"competencyText": "Media sources"
+		},
+		{
+			"competencyText": "Print"
+		},
+		{
+			"competencyText": "Radio"
+		},
+		{
+			"competencyText": "TV"
+		},
+		{
+			"competencyText": "Internet"
+		},
+		{
+			"competencyText": "Social media sites (e.g., Facebook, Twitter, LinkedIn)"
+		},
+		{
+			"competencyText": "Forensics"
+		},
+		{
+			"competencyText": "Types of backups"
+		},
+		{
+			"competencyText": "Full"
+		},
+		{
+			"competencyText": "Incremental"
+		},
+		{
+			"competencyText": "Forensic evidence formats, such as"
+		},
+		{
+			"competencyText": "Hard drives"
+		},
+		{
+			"competencyText": "Floppy diskettes"
+		},
+		{
+			"competencyText": "Compact disc (CDs)"
+		},
+		{
+			"competencyText": "Personal digital assistants (PDAs)"
+		},
+		{
+			"competencyText": "Mobile phones"
+		},
+		{
+			"competencyText": "Global positioning satellite devices (GPSs)"
+		},
+		{
+			"competencyText": "All tape formats"
+		},
+		{
+			"competencyText": "Digital forensics data, such as"
+		},
+		{
+			"competencyText": "Log files"
+		},
+		{
+			"competencyText": "Registry files"
+		},
+		{
+			"competencyText": "Configuration files"
+		},
+		{
+			"competencyText": "Basic forensic procedures"
+		},
+		{
+			"competencyText": "Order of volatility"
+		},
+		{
+			"competencyText": "Capture system image"
+		},
+		{
+			"competencyText": "Network traffic and logs"
+		},
+		{
+			"competencyText": "Capture video"
+		},
+		{
+			"competencyText": "Record time offset"
+		},
+		{
+			"competencyText": "Take hashes"
+		},
+		{
+			"competencyText": "Screenshots"
+		},
+		{
+			"competencyText": "Witnesses"
+		},
+		{
+			"competencyText": "Track man hours and expense"
+		},
+		{
+			"competencyText": "Post Incident Activities and Analysis"
+		},
+		{
+			"competencyText": "Types of incident information to be documented"
+		},
+		{
+			"competencyText": "Strategic, including succession planning"
+		},
+		{
+			"competencyText": "Tactical"
+		},
+		{
+			"competencyText": "Operational"
+		},
+		{
+			"competencyText": "Emergency response"
+		},
+		{
+			"competencyText": "Incident control and damage assessment"
+		},
+		{
+			"competencyText": "Continuity and recovery"
+		},
+		{
+			"competencyText": "Return-to-normal operations"
+		},
+		{
+			"competencyText": "Industry-Sector Functional Areas"
+		},
+		{
+			"competencyText": "Securely Provision Systems:",
+			"comment": [
+				"Specialty Areas responsible for conceptualizing, designing, and building secure information technology (IT) systems, with responsibility for some aspect of the systems' development."
+			]
+		},
+		{
+			"competencyText": "Secure Acquisition"
+		},
+		{
+			"competencyText": "Contracting Officer (CO)"
+		},
+		{
+			"competencyText": "Contracting Officer Technical Representative (COTR)"
+		},
+		{
+			"competencyText": "Chief Information Security Officer (CISO)"
+		},
+		{
+			"competencyText": "Information Technology (IT) Director"
+		},
+		{
+			"competencyText": "Secure Software Engineering"
+		},
+		{
+			"competencyText": "Analyst Programmer"
+		},
+		{
+			"competencyText": "Computer Programmer"
+		},
+		{
+			"competencyText": "Configuration Manager"
+		},
+		{
+			"competencyText": "Database Developer/Engineer/Architect"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Engineer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Software Developer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Software Engineer"
+		},
+		{
+			"competencyText": "Research & Development Engineer"
+		},
+		{
+			"competencyText": "Secure Software Engineer"
+		},
+		{
+			"competencyText": "Security Engineer"
+		},
+		{
+			"competencyText": "Software Developer"
+		},
+		{
+			"competencyText": "Software Engineer/Architect"
+		},
+		{
+			"competencyText": "Systems Analyst"
+		},
+		{
+			"competencyText": "Web Application Developer"
+		},
+		{
+			"competencyText": "Systems Security Architecture"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Architect"
+		},
+		{
+			"competencyText": "Information Security Architect"
+		},
+		{
+			"competencyText": "Information Systems Security Engineer"
+		},
+		{
+			"competencyText": "Network Security Analyst"
+		},
+		{
+			"competencyText": "Research & Development Engineer"
+		},
+		{
+			"competencyText": "Security Architect"
+		},
+		{
+			"competencyText": "Security Engineer"
+		},
+		{
+			"competencyText": "Security Solutions Architect"
+		},
+		{
+			"competencyText": "Systems Engineer"
+		},
+		{
+			"competencyText": "Systems Security Analyst"
+		},
+		{
+			"competencyText": "Technology Research and Development"
+		},
+		{
+			"competencyText": "Capabilities and Development Specialist"
+		},
+		{
+			"competencyText": "Chief Engineer"
+		},
+		{
+			"competencyText": "Research & Development Engineer"
+		},
+		{
+			"competencyText": "Systems Requirements Planning"
+		},
+		{
+			"competencyText": "Business Analyst"
+		},
+		{
+			"competencyText": "Business Process Analyst"
+		},
+		{
+			"competencyText": "Computer Systems Analyst"
+		},
+		{
+			"competencyText": "Human Factors Engineer"
+		},
+		{
+			"competencyText": "Requirements Analyst"
+		},
+		{
+			"competencyText": "Solutions Architect"
+		},
+		{
+			"competencyText": "Systems Consultant"
+		},
+		{
+			"competencyText": "Systems Engineer"
+		},
+		{
+			"competencyText": "Test and Evaluation"
+		},
+		{
+			"competencyText": "Application Security Tester"
+		},
+		{
+			"competencyText": "Information Systems Security Engineer"
+		},
+		{
+			"competencyText": "Quality Assurance (QA) Tester"
+		},
+		{
+			"competencyText": "Research & Development Engineer"
+		},
+		{
+			"competencyText": "Research & Development Research Engineer"
+		},
+		{
+			"competencyText": "Security Systems Engineer"
+		},
+		{
+			"competencyText": "Software Quality Assurance (QA) Engineer"
+		},
+		{
+			"competencyText": "Software Quality Engineer"
+		},
+		{
+			"competencyText": "Systems Engineer"
+		},
+		{
+			"competencyText": "Testing and Evaluation Specialist"
+		},
+		{
+			"competencyText": "Systems Development"
+		},
+		{
+			"competencyText": "Firewall Engineer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Developer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Engineer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Software Engineer"
+		},
+		{
+			"competencyText": "Information Systems Security Engineer"
+		},
+		{
+			"competencyText": "Program Developer"
+		},
+		{
+			"competencyText": "Security Engineer"
+		},
+		{
+			"competencyText": "Systems Engineer"
+		},
+		{
+			"competencyText": "Systems Security Engineer"
+		},
+		{
+			"competencyText": "Operate and Maintain IT Security:",
+			"comment": [
+				"Specialty Areas responsible for providing the support, administration, and maintenance necessary to ensure effective and efficient information technology (IT) system performance and security."
+			]
+		},
+		{
+			"competencyText": "Data Administration"
+		},
+		{
+			"competencyText": "Content Staging Specialist"
+		},
+		{
+			"competencyText": "Data Architect"
+		},
+		{
+			"competencyText": "Data Custodian"
+		},
+		{
+			"competencyText": "Data Manager"
+		},
+		{
+			"competencyText": "Data Warehouse Specialist"
+		},
+		{
+			"competencyText": "Database Administrator"
+		},
+		{
+			"competencyText": "Database Developer"
+		},
+		{
+			"competencyText": "Database Engineer/Architect"
+		},
+		{
+			"competencyText": "Information Dissemination Manager"
+		},
+		{
+			"competencyText": "Systems Operations Personnel"
+		},
+		{
+			"competencyText": "Customer Service and Technical Support"
+		},
+		{
+			"competencyText": "Computer Support Specialist"
+		},
+		{
+			"competencyText": "Customer Support"
+		},
+		{
+			"competencyText": "Help Desk Representative"
+		},
+		{
+			"competencyText": "Service Desk Operator"
+		},
+		{
+			"competencyText": "Systems Administrator"
+		},
+		{
+			"competencyText": "Technical Support Specialist"
+		},
+		{
+			"competencyText": "User Support Specialist"
+		},
+		{
+			"competencyText": "Network Services"
+		},
+		{
+			"competencyText": "Cabling Technician"
+		},
+		{
+			"competencyText": "Converged Network Engineer"
+		},
+		{
+			"competencyText": "Network Administrator"
+		},
+		{
+			"competencyText": "Network Analyst"
+		},
+		{
+			"competencyText": "Network Designer"
+		},
+		{
+			"competencyText": "Network Engineer"
+		},
+		{
+			"competencyText": "Network Systems and Data Communications Analyst"
+		},
+		{
+			"competencyText": "Network Systems Engineer"
+		},
+		{
+			"competencyText": "Systems Engineer"
+		},
+		{
+			"competencyText": "Telecommunications Engineer/Personnel/Specialist"
+		},
+		{
+			"competencyText": "System Administration"
+		},
+		{
+			"competencyText": "Local Area Network (LAN) Administrator"
+		},
+		{
+			"competencyText": "Platform Specialist"
+		},
+		{
+			"competencyText": "Security Administrator"
+		},
+		{
+			"competencyText": "Server Administrator"
+		},
+		{
+			"competencyText": "System Operations Personnel"
+		},
+		{
+			"competencyText": "Systems Administrator"
+		},
+		{
+			"competencyText": "Website Administrator"
+		},
+		{
+			"competencyText": "Systems Security Analysis"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Operational Engineer"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Security Officer"
+		},
+		{
+			"competencyText": "Information Security Analyst/Administrator"
+		},
+		{
+			"competencyText": "Information Security Manager"
+		},
+		{
+			"competencyText": "Information Security Specialist"
+		},
+		{
+			"competencyText": "Information Systems Security Engineer"
+		},
+		{
+			"competencyText": "Information Systems Security Manager"
+		},
+		{
+			"competencyText": "Platform Specialist"
+		},
+		{
+			"competencyText": "Security Administrator"
+		},
+		{
+			"competencyText": "Security Analyst"
+		},
+		{
+			"competencyText": "Security Control Assessor"
+		},
+		{
+			"competencyText": "Security Engineer"
+		},
+		{
+			"competencyText": "Protect and Defend from Threats:",
+			"comment": [
+				"Specialty Areas responsible for identifying, analyzing, and mitigating threats to internal information technology (IT) systems or networks."
+			]
+		},
+		{
+			"competencyText": "Enterprise Network Defense (END) Analysis"
+		},
+		{
+			"competencyText": "Computer Network Defense (CND) Analyst (Cryptologic)"
+		},
+		{
+			"competencyText": "Cybersecurity Intelligence Analyst"
+		},
+		{
+			"competencyText": "Focused Operations Analyst"
+		},
+		{
+			"competencyText": "Incident Analyst"
+		},
+		{
+			"competencyText": "Network Defense Technician"
+		},
+		{
+			"competencyText": "Network Security Engineer"
+		},
+		{
+			"competencyText": "Security Analyst"
+		},
+		{
+			"competencyText": "Security Operator"
+		},
+		{
+			"competencyText": "Sensor Analyst"
+		},
+		{
+			"competencyText": "Enterprise Network Defense (END) Analyst"
+		},
+		{
+			"competencyText": "Incident Response"
+		},
+		{
+			"competencyText": "Computer Crime Investigator"
+		},
+		{
+			"competencyText": "Incident Handler"
+		},
+		{
+			"competencyText": "Incident Responder"
+		},
+		{
+			"competencyText": "Incident Response Analyst"
+		},
+		{
+			"competencyText": "Incident Response Coordinator"
+		},
+		{
+			"competencyText": "Intrusion Analyst"
+		},
+		{
+			"competencyText": "Enterprise Network Defense (END) Infrastructure Support"
+		},
+		{
+			"competencyText": "Information Systems Security Engineer"
+		},
+		{
+			"competencyText": "Intrusion Detection System (IDS) Administrator"
+		},
+		{
+			"competencyText": "Intrusion Detection System (IDS) Engineer"
+		},
+		{
+			"competencyText": "Intrusion Detection System (IDS) Technician"
+		},
+		{
+			"competencyText": "Network Administrator"
+		},
+		{
+			"competencyText": "Network Analyst"
+		},
+		{
+			"competencyText": "Network Security Engineer"
+		},
+		{
+			"competencyText": "Network Security Specialist"
+		},
+		{
+			"competencyText": "Security Analyst"
+		},
+		{
+			"competencyText": "Security Engineer"
+		},
+		{
+			"competencyText": "Security Specialist"
+		},
+		{
+			"competencyText": "Systems Security Engineer"
+		},
+		{
+			"competencyText": "Vulnerability Assessment and Management"
+		},
+		{
+			"competencyText": "Blue Team Technician"
+		},
+		{
+			"competencyText": "Certified TEMPEST Professional"
+		},
+		{
+			"competencyText": "Certified TEMPEST Technical Authority"
+		},
+		{
+			"competencyText": "Close Access Technician"
+		},
+		{
+			"competencyText": "Computer Network Defense (CND) Auditor"
+		},
+		{
+			"competencyText": "Compliance Manager"
+		},
+		{
+			"competencyText": "Ethical Hacker"
+		},
+		{
+			"competencyText": "Governance Manager"
+		},
+		{
+			"competencyText": "Information Security Engineer"
+		},
+		{
+			"competencyText": "Internal Enterprise Auditor"
+		},
+		{
+			"competencyText": "Penetration Tester"
+		},
+		{
+			"competencyText": "Red Team Technician"
+		},
+		{
+			"competencyText": "Network Security Engineer"
+		},
+		{
+			"competencyText": "Reverse Engineer"
+		},
+		{
+			"competencyText": "Risk/Vulnerability Analyst"
+		},
+		{
+			"competencyText": "Technical Surveillance Countermeasures Technician"
+		},
+		{
+			"competencyText": "Vulnerability Manager"
+		},
+		{
+			"competencyText": "Investigate Threats:",
+			"comment": [
+				"Specialty Areas responsible for investigating cyber events or crimes of information technology (IT) systems, networks, and digital evidence."
+			]
+		},
+		{
+			"competencyText": "Digital Forensics"
+		},
+		{
+			"competencyText": "Computer Forensic Analyst"
+		},
+		{
+			"competencyText": "Computer Network Defense (CND) Forensic Analyst"
+		},
+		{
+			"competencyText": "Digital Forensic Examiner"
+		},
+		{
+			"competencyText": "Digital Media Collector"
+		},
+		{
+			"competencyText": "Forensic Analyst"
+		},
+		{
+			"competencyText": "Forensic Analyst (Cryptologic)"
+		},
+		{
+			"competencyText": "Forensic Technician"
+		},
+		{
+			"competencyText": "Network Forensic Examiner"
+		},
+		{
+			"competencyText": "Cyber Investigation"
+		},
+		{
+			"competencyText": "Computer Crime Investigator"
+		},
+		{
+			"competencyText": "Special Agent"
+		},
+		{
+			"competencyText": "Collect Information and Operate Cybersecurity Processes:",
+			"comment": [
+				"Specialty Areas responsible for specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence."
+			]
+		},
+		{
+			"competencyText": "No sample job titles are provided for this specialty area due to the unique and highly specialized nature of the work."
+		},
+		{
+			"competencyText": "Analyze Information:",
+			"comment": [
+				"Specialty Areas responsible for highly specialized review and evaluation of incoming cybersecurity information to determine its usefulness for intelligence."
+			]
+		},
+		{
+			"competencyText": "No sample job titles are provided for this specialty area due to the unique and highly specialized nature of the work."
+		},
+		{
+			"competencyText": "Oversee and Govern Cybersecurity Work:",
+			"comment": [
+				"Specialty Areas responsible for providing leadership, management, direction, or development and advocacy so that the organization may effectively conduct cybersecurity work."
+			]
+		},
+		{
+			"competencyText": "Legal Advice and Advocacy"
+		},
+		{
+			"competencyText": "Legal Advisor/Staff Judge Advocate (SJA)"
+		},
+		{
+			"competencyText": "Paralegal"
+		},
+		{
+			"competencyText": "Strategic Planning and Policy Development"
+		},
+		{
+			"competencyText": "Chief Information Officer (CIO)"
+		},
+		{
+			"competencyText": "Chief Information Security Officer (CISO)"
+		},
+		{
+			"competencyText": "Command Information Officer"
+		},
+		{
+			"competencyText": "Information Security Policy Analyst"
+		},
+		{
+			"competencyText": "Information Security Policy Manager"
+		},
+		{
+			"competencyText": "Policy Writer and Strategist"
+		},
+		{
+			"competencyText": "Training, Education and Awareness (TEA)"
+		},
+		{
+			"competencyText": "Cyber Trainer"
+		},
+		{
+			"competencyText": "Information Security Trainer"
+		},
+		{
+			"competencyText": "Security Training Coordinator"
+		},
+		{
+			"competencyText": "Information Systems Security Operations"
+		},
+		{
+			"competencyText": "Contracting Officer (CO)"
+		},
+		{
+			"competencyText": "Contracting Officer Technical Representative (COTR)"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Manager"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Program Manager"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Security Officer"
+		},
+		{
+			"competencyText": "Information Security Program Manager"
+		},
+		{
+			"competencyText": "Information Systems Security Manager (ISSM)"
+		},
+		{
+			"competencyText": "Information Systems Security Officer (ISSO)"
+		},
+		{
+			"competencyText": "Information Systems Security Operator"
+		},
+		{
+			"competencyText": "Security Program Management"
+		},
+		{
+			"competencyText": "Chief Information Security Officer (CISO)"
+		},
+		{
+			"competencyText": "Common Control Provider"
+		},
+		{
+			"competencyText": "Cybersecurity Officer"
+		},
+		{
+			"competencyText": "Enterprise Security Officer"
+		},
+		{
+			"competencyText": "Facility Security Officer"
+		},
+		{
+			"competencyText": "Information Systems Security Manager (ISSM)"
+		},
+		{
+			"competencyText": "Information Technology (IT) Director"
+		},
+		{
+			"competencyText": "Principal Security Architect"
+		},
+		{
+			"competencyText": "Risk Executive"
+		},
+		{
+			"competencyText": "Security Domain Specialist"
+		},
+		{
+			"competencyText": "Senior Agency Information Security (SAIS) Officer"
+		},
+		{
+			"competencyText": "Risk Management"
+		},
+		{
+			"competencyText": "Accreditor"
+		},
+		{
+			"competencyText": "Analyst/Manager"
+		},
+		{
+			"competencyText": "Auditor"
+		},
+		{
+			"competencyText": "Authorizing Official Designated Representative"
+		},
+		{
+			"competencyText": "Certification Agent"
+		},
+		{
+			"competencyText": "Certifying Official"
+		},
+		{
+			"competencyText": "Compliance Manager"
+		},
+		{
+			"competencyText": "Designated Accrediting Authority"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Auditor"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Compliance"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Manager"
+		},
+		{
+			"competencyText": "Information Assurance (IA) Officer"
+		},
+		{
+			"competencyText": "Portfolio Manager"
+		},
+		{
+			"competencyText": "Quality Assurance (QA) Specialist"
+		},
+		{
+			"competencyText": "Risk/Vulnerability Analyst"
+		},
+		{
+			"competencyText": "Security Control Assessor"
+		},
+		{
+			"competencyText": "Systems Analyst"
+		}
+	]
+}

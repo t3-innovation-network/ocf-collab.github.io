@@ -1,0 +1,1342 @@
+{
+	"directory": {
+		"@id": "https://example.org/ocfc/nd/786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-07-17"
+	},
+	"framework": {
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
+		"@id": "https://credentialengineregistry.org/resources/ce-ee8c01f1-05fe-4d09-99ff-7dd4ec12a571",
+		"name": "Building Blocks Model: U.S. Department of Labor (DOL)",
+		"description": "To ensure that the Building Blocks model reflects the foundational knowledge and skills needed by today's workforce, ETA conducted a review of the 22 industry models in the Clearinghouse and analyzed the various changes our industry partners have made to Tiers 1-3 over time. Based on this review, the Building Blocks model was updated in 2014 to ensure those competencies accurately reflect the workforce needs of industry. As part of this update, ETA also reviewed other competency frameworks, including the Department of Education's Employability Skills Framework and the National Network of Business and Industry Associations' Common Employability Skills to meet the industry's needs.\n\nThe updated model features new information on Sustainable Practices and Health and Safety. It also includes a revised Basic Computer Skills competency block and updated key behaviors in many competency areas, as well as changes designed to promote equitable access to jobs for all jobseekers.\n\nIn 2017, the model was revised again to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces. The updated CMC competencies were reviewed and validated by subject matter experts from NIOSH and the Occupational Safety and Health Administration (OSHA).",
+		"conceptKeyword": [
+			"Competency Model Clearinghouse",
+			"foundational knowledge",
+			"foundational skills"
+		]
+	},
+	"competencies": [
+		{
+			"competencyText": "Personal Effectiveness Competencies"
+		},
+		{
+			"competencyText": "Interpersonal Skills:",
+			"comment": [
+				"Displaying the skills to work effectively with others from diverse backgrounds."
+			]
+		},
+		{
+			"competencyText": "Demonstrating sensitivity/empathy"
+		},
+		{
+			"competencyText": "Show sincere interest in others and their concerns."
+		},
+		{
+			"competencyText": "Demonstrate sensitivity to the needs and feelings of others."
+		},
+		{
+			"competencyText": "Look for ways to help people and deliver assistance."
+		},
+		{
+			"competencyText": "Demonstrating insight into behavior"
+		},
+		{
+			"competencyText": "Recognize and accurately interpret the communications of others as expressed through various formats (e.g., writing, speech, American Sign Language, computers, etc.)."
+		},
+		{
+			"competencyText": "Recognize when relationships with others are strained."
+		},
+		{
+			"competencyText": "Show understanding of others’ behaviors and motives by demonstrating appropriate responses."
+		},
+		{
+			"competencyText": "Demonstrate flexibility for change based on the ideas and actions of others."
+		},
+		{
+			"competencyText": "Maintaining open relationships"
+		},
+		{
+			"competencyText": "Maintain open lines of communication with others."
+		},
+		{
+			"competencyText": "Encourage others to share problems and successes."
+		},
+		{
+			"competencyText": "Establish a high degree of trust and credibility with others."
+		},
+		{
+			"competencyText": "Respecting diversity"
+		},
+		{
+			"competencyText": "Interact respectfully and cooperatively with others who are of a different race, culture, or age, or have different abilities, gender, or sexual orientation."
+		},
+		{
+			"competencyText": "Demonstrate sensitivity, flexibility, and open-mindedness when dealing with different values, beliefs, perspectives, customs, or opinions."
+		},
+		{
+			"competencyText": "Value an environment that supports and accommodates a diversity of people and ideas."
+		},
+		{
+			"competencyText": "Integrity:",
+			"comment": [
+				"Displaying strong moral principles and work ethic."
+			]
+		},
+		{
+			"competencyText": "Behaving ethically"
+		},
+		{
+			"competencyText": "Abide by a strict code of ethics and behavior, even in the face of opposition."
+		},
+		{
+			"competencyText": "Encourage others to behave ethically."
+		},
+		{
+			"competencyText": "Understand that behaving ethically goes beyond what the law requires."
+		},
+		{
+			"competencyText": "Use company time and property responsibly."
+		},
+		{
+			"competencyText": "Perform work-related duties according to laws, regulations, contract provisions, and company policies."
+		},
+		{
+			"competencyText": "Acting fairly"
+		},
+		{
+			"competencyText": "Treat others with honesty, fairness, and respect."
+		},
+		{
+			"competencyText": "Make decisions that are objective and reflect the just treatment of others."
+		},
+		{
+			"competencyText": "Taking responsibility"
+		},
+		{
+			"competencyText": "Take responsibility for accomplishing work goals within accepted timeframes."
+		},
+		{
+			"competencyText": "Accept responsibility for one’s decisions and actions and for those of one’s group, team, or department."
+		},
+		{
+			"competencyText": "Professionalism:",
+			"comment": [
+				"Maintaining a professional presence."
+			]
+		},
+		{
+			"competencyText": "Demonstrating self-control"
+		},
+		{
+			"competencyText": "Maintain composure and keep emotions in check."
+		},
+		{
+			"competencyText": "Deal calmly and effectively with stressful or difficult situations."
+		},
+		{
+			"competencyText": "Accept criticism tactfully and attempt to learn from it."
+		},
+		{
+			"competencyText": "Professional appearance"
+		},
+		{
+			"competencyText": "Maintain a professional demeanor."
+		},
+		{
+			"competencyText": "Dress appropriately for occupational and worksite requirements."
+		},
+		{
+			"competencyText": "Maintain appropriate personal hygiene."
+		},
+		{
+			"competencyText": "Social responsibility"
+		},
+		{
+			"competencyText": "Refrain from lifestyle choices which negatively impact the workplace and individual performance."
+		},
+		{
+			"competencyText": "Remain free from substance abuse."
+		},
+		{
+			"competencyText": "Maintaining a positive attitude"
+		},
+		{
+			"competencyText": "Project a professional image of oneself and the organization."
+		},
+		{
+			"competencyText": "Demonstrate a positive attitude towards work."
+		},
+		{
+			"competencyText": "Take pride in one’s work and the work of the organization."
+		},
+		{
+			"competencyText": "Initiative:",
+			"comment": [
+				"Demonstrating a commitment to effective job performance by taking action on one’s own and following through to get the job done."
+			]
+		},
+		{
+			"competencyText": "Persisting"
+		},
+		{
+			"competencyText": "Pursue work with drive and a strong accomplishment orientation."
+		},
+		{
+			"competencyText": "Persist to accomplish a task despite difficult conditions, tight deadlines, or obstacles and setbacks."
+		},
+		{
+			"competencyText": "Taking initiative"
+		},
+		{
+			"competencyText": "Go beyond the routine demands of the job to increase its variety and scope."
+		},
+		{
+			"competencyText": "Provide suggestions and/or take actions that result in improved work processes, communications, or task performance."
+		},
+		{
+			"competencyText": "Take initiative to seek out new work challenges, influence events, or originate action."
+		},
+		{
+			"competencyText": "Setting challenging goals"
+		},
+		{
+			"competencyText": "Establish and maintain personally challenging but realistic work goals."
+		},
+		{
+			"competencyText": "Exert effort toward task mastery."
+		},
+		{
+			"competencyText": "Bring issues to closure by pushing forward until a resolution is achieved."
+		},
+		{
+			"competencyText": "Working independently"
+		},
+		{
+			"competencyText": "Develop own ways of working effectively and efficiently."
+		},
+		{
+			"competencyText": "Perform effectively even with minimal direction, support, or approval."
+		},
+		{
+			"competencyText": "Take responsibility for completing one’s own work assignments."
+		},
+		{
+			"competencyText": "Achievement motivation"
+		},
+		{
+			"competencyText": "Strive to exceed standards and expectations."
+		},
+		{
+			"competencyText": "Exhibit confidence in capabilities and an expectation to succeed in future activities."
+		},
+		{
+			"competencyText": "Dependability and Reliability:",
+			"comment": [
+				"Displaying responsible behaviors at work."
+			]
+		},
+		{
+			"competencyText": "Fulfilling obligations"
+		},
+		{
+			"competencyText": "Behave consistently and predictably."
+		},
+		{
+			"competencyText": "Is reliable, responsible, and dependable in fulfilling obligations."
+		},
+		{
+			"competencyText": "Diligently follow through on commitments and consistently complete assignments by deadlines."
+		},
+		{
+			"competencyText": "Attendance and punctuality"
+		},
+		{
+			"competencyText": "Come to work on time and as scheduled."
+		},
+		{
+			"competencyText": "Arrive on time for meetings or appointments."
+		},
+		{
+			"competencyText": "Dial in to phone calls and web conferences on time."
+		},
+		{
+			"competencyText": "Attending to details"
+		},
+		{
+			"competencyText": "Diligently check work to ensure that all essential details have been considered."
+		},
+		{
+			"competencyText": "Notice errors or inconsistencies and take prompt, thorough action to correct them."
+		},
+		{
+			"competencyText": "Following directions"
+		},
+		{
+			"competencyText": "Follow directions as communicated in a variety of ways such as writing, speech, American Sign Language, computers, or other formats."
+		},
+		{
+			"competencyText": "Comply with organizational rules, policies, and procedures."
+		},
+		{
+			"competencyText": "Ask appropriate questions to clarify any instructional ambiguities."
+		},
+		{
+			"competencyText": "Adaptability and Flexibility:",
+			"comment": [
+				"Displaying the capability to adapt to new, different, or changing requirements."
+			]
+		},
+		{
+			"competencyText": "Entertaining new ideas"
+		},
+		{
+			"competencyText": "Is open to considering new ways of doing things."
+		},
+		{
+			"competencyText": "Actively seek out and carefully consider the merits of new approaches to work."
+		},
+		{
+			"competencyText": "Embrace new approaches when appropriate and discard approaches that are no longer working."
+		},
+		{
+			"competencyText": "Dealing with change"
+		},
+		{
+			"competencyText": "Take proper and effective action when necessary without having all the necessary facts in hand."
+		},
+		{
+			"competencyText": "Easily adapt plans, goals, actions, or priorities in response to unpredictable or unexpected events, pressures, situations, and job demands."
+		},
+		{
+			"competencyText": "Effortlessly shift gears and change direction when working on multiple projects or issues."
+		},
+		{
+			"competencyText": "Lifelong Learning:",
+			"comment": [
+				"Demonstrating a commitment to self-development and improvement of knowledge and skills."
+			]
+		},
+		{
+			"competencyText": "Demonstrating an interest in learning"
+		},
+		{
+			"competencyText": "Take actions showing an interest in personal and professional lifelong learning and development."
+		},
+		{
+			"competencyText": "Seek feedback from multiple sources about how to improve and develop."
+		},
+		{
+			"competencyText": "Modify behavior based on feedback or self-analysis of past mistakes."
+		},
+		{
+			"competencyText": "Learn and accept help from supervisors and co-workers."
+		},
+		{
+			"competencyText": "Participating in learning activities"
+		},
+		{
+			"competencyText": "Identify when it is necessary to acquire new knowledge and skills."
+		},
+		{
+			"competencyText": "Take steps to develop and maintain knowledge, skills, and expertise necessary to perform one’s role successfully by participating in relevant training and professional development programs."
+		},
+		{
+			"competencyText": "Actively pursue opportunities to broaden knowledge and skills through seminars, conferences, professional groups, reading publications, job shadowing, and/or continuing education."
+		},
+		{
+			"competencyText": "Using change as a learning opportunity"
+		},
+		{
+			"competencyText": "Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands."
+		},
+		{
+			"competencyText": "Treat unexpected circumstances as opportunities to learn."
+		},
+		{
+			"competencyText": "Identifying career interests"
+		},
+		{
+			"competencyText": "Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities."
+		},
+		{
+			"competencyText": "Make insightful career planning decisions that integrate others’ feedback."
+		},
+		{
+			"competencyText": "Integrating and applying learning"
+		},
+		{
+			"competencyText": "Integrate newly learned knowledge and skills with existing knowledge and skills."
+		},
+		{
+			"competencyText": "Use newly learned knowledge and skills to complete tasks, particularly in new or unfamiliar situations."
+		},
+		{
+			"competencyText": "Academic Competencies"
+		},
+		{
+			"competencyText": "Reading:",
+			"comment": [
+				"Understanding written sentences, paragraphs, and figures in work-related documents on paper, on computers, or adaptive devices."
+			]
+		},
+		{
+			"competencyText": "Comprehension"
+		},
+		{
+			"competencyText": "Locate and understand written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations, and directions."
+		},
+		{
+			"competencyText": "Understand the purpose of written materials."
+		},
+		{
+			"competencyText": "Comprehend the author’s meaning and identify the main ideas expressed in the written material."
+		},
+		{
+			"competencyText": "Attention to detail"
+		},
+		{
+			"competencyText": "Note details and facts."
+		},
+		{
+			"competencyText": "Detect inconsistencies."
+		},
+		{
+			"competencyText": "Identify implied meaning and details."
+		},
+		{
+			"competencyText": "Recognize missing information."
+		},
+		{
+			"competencyText": "Information analysis"
+		},
+		{
+			"competencyText": "Critically evaluate and analyze information in written materials."
+		},
+		{
+			"competencyText": "Review written information for completeness and relevance."
+		},
+		{
+			"competencyText": "Distinguish fact from opinion."
+		},
+		{
+			"competencyText": "Identify trends."
+		},
+		{
+			"competencyText": "Synthesize information from multiple written materials."
+		},
+		{
+			"competencyText": "Information integration"
+		},
+		{
+			"competencyText": "Integrate what is learned from written materials with prior knowledge."
+		},
+		{
+			"competencyText": "Use what is learned from written material to follow instructions and complete tasks."
+		},
+		{
+			"competencyText": "Apply what is learned from written material to new situations."
+		},
+		{
+			"competencyText": "Writing:",
+			"comment": [
+				"Using standard business English to compile information and prepare written documents on paper, on computers, or adaptive devices."
+			]
+		},
+		{
+			"competencyText": "Organization and development"
+		},
+		{
+			"competencyText": "Create documents such as letters, directions, manuals, reports, graphs, spreadsheets, and flow charts."
+		},
+		{
+			"competencyText": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, and coherent manner."
+		},
+		{
+			"competencyText": "Present well-developed ideas supported by information and examples."
+		},
+		{
+			"competencyText": "Proofread finished documents for errors."
+		},
+		{
+			"competencyText": "Tailor content to appropriate audience and purpose."
+		},
+		{
+			"competencyText": "Distribute written materials appropriately for intended audiences and purposes."
+		},
+		{
+			"competencyText": "Mechanics"
+		},
+		{
+			"competencyText": "Use standard syntax and sentence structure."
+		},
+		{
+			"competencyText": "Use correct spelling, punctuation, and capitalization."
+		},
+		{
+			"competencyText": "Use correct grammar (e.g., correct tense, subject-verb agreement, no missing words)."
+		},
+		{
+			"competencyText": "Write legibly when using handwriting to communicate."
+		},
+		{
+			"competencyText": "Tone"
+		},
+		{
+			"competencyText": "Use language appropriate for the target audience."
+		},
+		{
+			"competencyText": "Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous)."
+		},
+		{
+			"competencyText": "Show insight, perception, and depth in writing."
+		},
+		{
+			"competencyText": "Mathematics:",
+			"comment": [
+				"Using mathematics to solve problems."
+			]
+		},
+		{
+			"competencyText": "Computation"
+		},
+		{
+			"competencyText": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents."
+		},
+		{
+			"competencyText": "Calculate averages, ratios, proportions, and rates."
+		},
+		{
+			"competencyText": "Convert decimals to fractions and fractions to decimals."
+		},
+		{
+			"competencyText": "Convert fractions to percents and percents to fractions."
+		},
+		{
+			"competencyText": "Convert decimals to percents and percents to decimals."
+		},
+		{
+			"competencyText": "Understand relationships between numbers and identify and understand patterns."
+		},
+		{
+			"competencyText": "Measurement and estimation"
+		},
+		{
+			"competencyText": "Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed."
+		},
+		{
+			"competencyText": "Use and report measurements correctly."
+		},
+		{
+			"competencyText": "Correctly convert from one measurement to another (e.g., from English to metric or International System of Units (SI), or Fahrenheit to Celsius)."
+		},
+		{
+			"competencyText": "Application"
+		},
+		{
+			"competencyText": "Use appropriate mathematical formulas and techniques to solve problems."
+		},
+		{
+			"competencyText": "Translate practical problems into useful mathematical expressions."
+		},
+		{
+			"competencyText": "Science and Technology:",
+			"comment": [
+				"Using scientific rules and methods to express ideas and solve problems on paper, on computers, or on adaptive devices."
+			]
+		},
+		{
+			"competencyText": "Comprehension"
+		},
+		{
+			"competencyText": "Understand basic scientific principles and uses appropriate technology."
+		},
+		{
+			"competencyText": "Understand the scientific method (i.e., identify problems, collect information, form opinions, and draw conclusions)."
+		},
+		{
+			"competencyText": "Understand overall intent and proper procedures for set-up and operation of equipment."
+		},
+		{
+			"competencyText": "Application"
+		},
+		{
+			"competencyText": "Apply basic scientific principles and technology to complete tasks."
+		},
+		{
+			"competencyText": "Communication:",
+			"comment": [
+				"Listening, speaking, and signaling so others can understand using a variety of methods, including hearing, speech, American Sign Language, instant messaging, text-to-speech devices, etc."
+			]
+		},
+		{
+			"competencyText": "Communicating"
+		},
+		{
+			"competencyText": "Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)."
+		},
+		{
+			"competencyText": "Convey information clearly, correctly, and succinctly."
+		},
+		{
+			"competencyText": "Use common English conventions including proper grammar, tone, and pace."
+		},
+		{
+			"competencyText": "Effectively establish interpersonal contact with one or more individuals using eye contact, body language and non-verbal expression as appropriate to the person’s culture."
+		},
+		{
+			"competencyText": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace."
+		},
+		{
+			"competencyText": "Receiving information"
+		},
+		{
+			"competencyText": "Attend to, understand, interpret, and respond to messages received in a variety of ways, including hearing, American Sign Language, instant messaging, text-to-speech devices, and other methods."
+		},
+		{
+			"competencyText": "Comprehend complex instructions."
+		},
+		{
+			"competencyText": "Identify feelings and concerns communicated in various formats, such as writing, speech, American Sign Language, computers, etc. and responds appropriately."
+		},
+		{
+			"competencyText": "Consider others’ viewpoints and alter opinion when it is appropriate to do so."
+		},
+		{
+			"competencyText": "Apply active interpersonal communication skills using reflection, restatement, questioning, and clarification."
+		},
+		{
+			"competencyText": "Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers."
+		},
+		{
+			"competencyText": "Observing carefully"
+		},
+		{
+			"competencyText": "Notice nonverbal cues and respond appropriately."
+		},
+		{
+			"competencyText": "Attend to visual sources of information (e.g., video)."
+		},
+		{
+			"competencyText": "Ascertain relevant visual information and use appropriately."
+		},
+		{
+			"competencyText": "Persuasion/Influence"
+		},
+		{
+			"competencyText": "Influence others."
+		},
+		{
+			"competencyText": "Persuasively present thoughts and ideas."
+		},
+		{
+			"competencyText": "Gain commitment and ensure support for proposed ideas."
+		},
+		{
+			"competencyText": "Critical and Analytical Thinking:",
+			"comment": [
+				"Using logical thought processes to analyze information and draw conclusions."
+			]
+		},
+		{
+			"competencyText": "Reasoning"
+		},
+		{
+			"competencyText": "Possess sufficient inductive and deductive reasoning ability to perform job successfully."
+		},
+		{
+			"competencyText": "Critically review, analyze, synthesize, compare, and interpret information."
+		},
+		{
+			"competencyText": "Draw conclusions from relevant and/or missing information."
+		},
+		{
+			"competencyText": "Understand the principles underlying the relationship among facts and apply this understanding when solving problems."
+		},
+		{
+			"competencyText": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions or approaches to a problem."
+		},
+		{
+			"competencyText": "Mental agility"
+		},
+		{
+			"competencyText": "Identify connections between issues."
+		},
+		{
+			"competencyText": "Quickly understand, orient to, and integrate new information."
+		},
+		{
+			"competencyText": "Basic Computer Skills:",
+			"comment": [
+				"Using information technology and related applications, including adaptive devices and software, to convey and retrieve information."
+			]
+		},
+		{
+			"competencyText": "Computer basics"
+		},
+		{
+			"competencyText": "Understand the basic functions and terminology related to computer hardware, software, information systems, and communication devices."
+		},
+		{
+			"competencyText": "Use basic computer software, hardware, and communication devices to perform tasks."
+		},
+		{
+			"competencyText": "Using software"
+		},
+		{
+			"competencyText": "Use word processing software to compose, organize, edit, and print documents and other business communications."
+		},
+		{
+			"competencyText": "Use spreadsheet software to enter, manipulate, edit, and format text and numerical data."
+		},
+		{
+			"competencyText": "Use presentation software to create, manipulate, edit, and present digital representations of information to an audience."
+		},
+		{
+			"competencyText": "Use database software to manage data."
+		},
+		{
+			"competencyText": "Create and maintain a well-organized electronic file storage system."
+		},
+		{
+			"competencyText": "Using the Internet and email"
+		},
+		{
+			"competencyText": "Use the Internet to search for online information and interact with Web sites."
+		},
+		{
+			"competencyText": "Use the Internet and web-based tools to manage basic workplace tasks (e.g., calendar management, contacts management, and timekeeping)."
+		},
+		{
+			"competencyText": "Use electronic mail to communicate in the workplace."
+		},
+		{
+			"competencyText": "Understand the different types of social media and their appropriate workplace and non-workplace uses, and the impact that various social media activities can have on one’s personal and professional life."
+		},
+		{
+			"competencyText": "Employ collaborative/groupware applications to facilitate group work."
+		},
+		{
+			"competencyText": "Ensuring computer security"
+		},
+		{
+			"competencyText": "Understand and comply with the organization’s privacy policy and information security guidelines."
+		},
+		{
+			"competencyText": "Defend against potential abuses of private information."
+		},
+		{
+			"competencyText": "Recognize and respond appropriately to suspicious vulnerabilities and threats."
+		},
+		{
+			"competencyText": "Use the most recent security software, web browser, and operating system to protect against online threats."
+		},
+		{
+			"competencyText": "Utilize strong passwords, passphrases, and basic encryption."
+		},
+		{
+			"competencyText": "Recognize secure Web addresses."
+		},
+		{
+			"competencyText": "Workplace Competencies"
+		},
+		{
+			"competencyText": "Teamwork:",
+			"comment": [
+				"Working cooperatively with others to complete work assignments."
+			]
+		},
+		{
+			"competencyText": "Identifying team membership and role"
+		},
+		{
+			"competencyText": "Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives."
+		},
+		{
+			"competencyText": "Identify and draw upon team members’ strengths and weaknesses to achieve results."
+		},
+		{
+			"competencyText": "Instruct others in learning new skills and learn from other team members."
+		},
+		{
+			"competencyText": "Assist others who have less experience or have heavy workloads."
+		},
+		{
+			"competencyText": "Encourage others to express their ideas and opinions."
+		},
+		{
+			"competencyText": "Establishing productive relationships"
+		},
+		{
+			"competencyText": "Develop constructive and cooperative working relationships with others."
+		},
+		{
+			"competencyText": "Exhibit tact and diplomacy and strive to build consensus."
+		},
+		{
+			"competencyText": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner."
+		},
+		{
+			"competencyText": "Respond appropriately to positive and negative feedback."
+		},
+		{
+			"competencyText": "Effectively communicate with all members of the group or team to achieve team goals and objectives."
+		},
+		{
+			"competencyText": "Meeting team objectives"
+		},
+		{
+			"competencyText": "Work as part of a team, contributing to the group’s effort to achieve goals."
+		},
+		{
+			"competencyText": "Identify and commit to the goals, norms, values, and customs of the team."
+		},
+		{
+			"competencyText": "Choose behaviors and actions that best support the team and accomplishment of work tasks."
+		},
+		{
+			"competencyText": "Use a group approach to identify problems and develop solutions based on group consensus."
+		},
+		{
+			"competencyText": "Resolving conflicts"
+		},
+		{
+			"competencyText": "Bring others together to reconcile differences."
+		},
+		{
+			"competencyText": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties."
+		},
+		{
+			"competencyText": "Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups."
+		},
+		{
+			"competencyText": "Customer Focus:",
+			"comment": [
+				"Efficiently and effectively addressing the needs of clients/customers."
+			]
+		},
+		{
+			"competencyText": "Understanding customer needs"
+		},
+		{
+			"competencyText": "Identify internal and external customers."
+		},
+		{
+			"competencyText": "Attend to what customers are saying and ask questions to identify customer needs, interests, and goals."
+		},
+		{
+			"competencyText": "Anticipate the future needs of the customer."
+		},
+		{
+			"competencyText": "Providing personalized service"
+		},
+		{
+			"competencyText": "Provide prompt, efficient, and personalized assistance to meet the requirements, requests, and concerns of customers."
+		},
+		{
+			"competencyText": "Provide thorough, accurate information to answer customers’ questions and inform them of commitment times or performance guarantees."
+		},
+		{
+			"competencyText": "Address customer comments, questions, concerns, and objections with direct, accurate, and timely responses."
+		},
+		{
+			"competencyText": "Identify and propose appropriate solutions and/or services."
+		},
+		{
+			"competencyText": "Establish boundaries as appropriate for unreasonable customer demands."
+		},
+		{
+			"competencyText": "Acting professionally"
+		},
+		{
+			"competencyText": "Is pleasant, courteous, and professional when dealing with internal or external customers."
+		},
+		{
+			"competencyText": "Develop constructive and cooperative working relationships with customers."
+		},
+		{
+			"competencyText": "Is calm and empathetic when dealing with hostile customers."
+		},
+		{
+			"competencyText": "Keeping customers informed"
+		},
+		{
+			"competencyText": "Follow up with customers during projects and following project completion."
+		},
+		{
+			"competencyText": "Keep customers up to date about decisions that affect them."
+		},
+		{
+			"competencyText": "Seek the comments, criticisms, and involvement of customers."
+		},
+		{
+			"competencyText": "Adjust services based on customer feedback."
+		},
+		{
+			"competencyText": "Planning and Organizing:",
+			"comment": [
+				"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+			]
+		},
+		{
+			"competencyText": "Planning"
+		},
+		{
+			"competencyText": "Approach work in a methodical manner."
+		},
+		{
+			"competencyText": "Plan and schedule tasks so that work is completed on time."
+		},
+		{
+			"competencyText": "Keep track of details to ensure work is performed accurately and completely."
+		},
+		{
+			"competencyText": "Anticipate obstacles to project completion and develop contingency plans to address them."
+		},
+		{
+			"competencyText": "Find new ways of organizing work area or planning work to accomplish work more efficiently."
+		},
+		{
+			"competencyText": "Prioritizing"
+		},
+		{
+			"competencyText": "Prioritize multiple competing tasks."
+		},
+		{
+			"competencyText": "Perform tasks correctly, quickly, and efficiently according to their relative urgency and importance."
+		},
+		{
+			"competencyText": "Managing projects"
+		},
+		{
+			"competencyText": "Estimate personnel and other resources needed for project completion (e.g., financial material or equipment)."
+		},
+		{
+			"competencyText": "Manage activities to meet plans, allocating time and resources effectively."
+		},
+		{
+			"competencyText": "Keep track of and document plans, assignments, changes, and deliverables."
+		},
+		{
+			"competencyText": "Plan for dependencies of one task on another."
+		},
+		{
+			"competencyText": "Coordinate efforts with all affected parties, keeping them informed of progress and all relevant changes to project timelines."
+		},
+		{
+			"competencyText": "Take necessary corrective action when projects go off track."
+		},
+		{
+			"competencyText": "Assure job accommodations are made for personnel who need or request them."
+		},
+		{
+			"competencyText": "Creative Thinking:",
+			"comment": [
+				"Generating innovative and creative solutions."
+			]
+		},
+		{
+			"competencyText": "Employing unique analyses"
+		},
+		{
+			"competencyText": "Use original analyses and generate new, innovative ideas in complex areas."
+		},
+		{
+			"competencyText": "Develop innovative methods of obtaining or using resources when insufficient resources are available."
+		},
+		{
+			"competencyText": "Generating innovative solutions"
+		},
+		{
+			"competencyText": "Integrate seemingly unrelated information to develop creative processes or solutions."
+		},
+		{
+			"competencyText": "Reframe problems in a different light to find fresh approaches."
+		},
+		{
+			"competencyText": "Entertain wide-ranging possibilities and perspectives to develop new solutions."
+		},
+		{
+			"competencyText": "Find new ways to add value to the efforts of a team and organization."
+		},
+		{
+			"competencyText": "Seeing the big picture"
+		},
+		{
+			"competencyText": "Understand the pieces of a system as a whole and appreciate the consequences of actions on other parts of the system."
+		},
+		{
+			"competencyText": "Monitor patterns and trends to see a bigger picture."
+		},
+		{
+			"competencyText": "Modify or design systems to improve performance."
+		},
+		{
+			"competencyText": "Problem Solving and Decision-Making:",
+			"comment": [
+				"Generating, evaluating, and implementing solutions to problems."
+			]
+		},
+		{
+			"competencyText": "Identifying the problem"
+		},
+		{
+			"competencyText": "Anticipate or recognize the existence of a problem."
+		},
+		{
+			"competencyText": "Identify the true nature of the problem and define critical issues."
+		},
+		{
+			"competencyText": "Evaluate the importance and criticality of the problem."
+		},
+		{
+			"competencyText": "Use all available reference systems to locate and obtain information relevant to understanding the problem."
+		},
+		{
+			"competencyText": "Recall previously learned information that is relevant to the problem."
+		},
+		{
+			"competencyText": "Locating, gathering, and organizing relevant information"
+		},
+		{
+			"competencyText": "Effectively use both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to solving the problem."
+		},
+		{
+			"competencyText": "Examine information obtained for relevance and completeness."
+		},
+		{
+			"competencyText": "Recognize important gaps in existing information and take steps to eliminate those gaps."
+		},
+		{
+			"competencyText": "Organize/reorganize information as appropriate to gain a better understanding of the problem."
+		},
+		{
+			"competencyText": "Generating alternatives"
+		},
+		{
+			"competencyText": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem."
+		},
+		{
+			"competencyText": "Skillfully use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different solutions or approaches."
+		},
+		{
+			"competencyText": "Choosing a solution"
+		},
+		{
+			"competencyText": "Decisively choose the best solution after evaluating the relative merits of each possible option."
+		},
+		{
+			"competencyText": "Make difficult decisions even in highly ambiguous or ill-defined situations."
+		},
+		{
+			"competencyText": "Implementing the solution"
+		},
+		{
+			"competencyText": "Commit to a solution in a timely manner."
+		},
+		{
+			"competencyText": "Develop a realistic approach for implementing the chosen solution."
+		},
+		{
+			"competencyText": "Document the problem and corrective actions taken and their outcomes and communicate these to the appropriate parties."
+		},
+		{
+			"competencyText": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned."
+		},
+		{
+			"competencyText": "Working with Tools and Technology:",
+			"comment": [
+				"Selecting, using, and maintaining tools and technology, including adaptive tools and technology, to facilitate work activity (with accommodation when necessary)."
+			]
+		},
+		{
+			"competencyText": "Using tools"
+		},
+		{
+			"competencyText": "Operate tools, technology, and equipment in accordance with established operating procedures and safety standards."
+		},
+		{
+			"competencyText": "Demonstrate appropriate use of tools and technology to complete work functions."
+		},
+		{
+			"competencyText": "Selecting tools"
+		},
+		{
+			"competencyText": "Select and apply appropriate tools or technological solutions to the problem at hand."
+		},
+		{
+			"competencyText": "Keeping current on tools and technology"
+		},
+		{
+			"competencyText": "Demonstrate an interest in learning about new and emerging tools and technologies."
+		},
+		{
+			"competencyText": "Adapt quickly to changes in process or technology."
+		},
+		{
+			"competencyText": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity."
+		},
+		{
+			"competencyText": "Troubleshooting and maintenance"
+		},
+		{
+			"competencyText": "Learn how to maintain and troubleshoot tools and technologies."
+		},
+		{
+			"competencyText": "Perform routine maintenance on tools, technology, and equipment."
+		},
+		{
+			"competencyText": "Determine causes of errors and take the appropriate corrective action."
+		},
+		{
+			"competencyText": "Develop alternatives to complete a task if desired tool or technology is not available."
+		},
+		{
+			"competencyText": "Scheduling and Coordinating:",
+			"comment": [
+				"Making arrangements that fulfill all requirements as efficiently and economically as possible."
+			]
+		},
+		{
+			"competencyText": "Arranging and informing"
+		},
+		{
+			"competencyText": "Make arrangements (e.g. for meetings or travel) that fulfill all requirements as efficiently and economically as possible."
+		},
+		{
+			"competencyText": "Inform others of arrangements, giving them complete, accurate, and timely information."
+		},
+		{
+			"competencyText": "Ensure that others receive needed materials in time."
+		},
+		{
+			"competencyText": "Handle all aspects of arrangements thoroughly and completely."
+		},
+		{
+			"competencyText": "Respond to the schedules of others affected by arrangements, resolve schedule conflicts or travel issues, and take corrective action."
+		},
+		{
+			"competencyText": "Coordinating in distributed environments"
+		},
+		{
+			"competencyText": "Coordinate schedules of colleagues, co-workers, and clients in regional locations. (i.e., across time zones) to ensure that inconvenience is minimized and productivity is enhanced."
+		},
+		{
+			"competencyText": "Leverage technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments."
+		},
+		{
+			"competencyText": "Take advantage of team member availability throughout business hours in multiple time zones to enhance productivity."
+		},
+		{
+			"competencyText": "Shiftwork"
+		},
+		{
+			"competencyText": "Effectively coordinate the transition of staff at the beginning and end of each work shift."
+		},
+		{
+			"competencyText": "Disseminate crucial information in an organized manner to rapidly bring staff up to speed at the start of their shifts."
+		},
+		{
+			"competencyText": "Ensure that staff is updated on work completed on past shifts and work that still needs to be completed."
+		},
+		{
+			"competencyText": "Checking, Examining, and Recording:",
+			"comment": [
+				"Entering, transcribing, recording, storing, or maintaining information in written or electronic/digital format, including adaptive devices and software."
+			]
+		},
+		{
+			"competencyText": "Detecting errors"
+		},
+		{
+			"competencyText": "Detect and correct errors or inconsistencies, even under time pressure."
+		},
+		{
+			"competencyText": "Identify vague or ambiguous documentation."
+		},
+		{
+			"competencyText": "Route errors to appropriate person to correct documentation."
+		},
+		{
+			"competencyText": "Completing forms"
+		},
+		{
+			"competencyText": "Select and complete appropriate forms quickly and completely."
+		},
+		{
+			"competencyText": "Forward or process forms in a timely and accurate manner."
+		},
+		{
+			"competencyText": "Attend to and follow through on important items requiring action."
+		},
+		{
+			"competencyText": "Expedite forms, orders, or advances that require immediate attention."
+		},
+		{
+			"competencyText": "Obtaining information"
+		},
+		{
+			"competencyText": "Obtain appropriate information, signatures, and approvals promptly."
+		},
+		{
+			"competencyText": "Verify that all information is present and accurate before forwarding materials."
+		},
+		{
+			"competencyText": "Compile, categorize, and verify information or data."
+		},
+		{
+			"competencyText": "Apply systematic techniques for observing and gathering data."
+		},
+		{
+			"competencyText": "Maintaining logs, records, and files"
+		},
+		{
+			"competencyText": "Organize records and files to maintain data."
+		},
+		{
+			"competencyText": "Keep logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records)."
+		},
+		{
+			"competencyText": "Update logs, records, and files, noting important changes."
+		},
+		{
+			"competencyText": "File data and documentation in accordance with organization’s requirements."
+		},
+		{
+			"competencyText": "Business Fundamentals:",
+			"comment": [
+				"Using information on basic business principles, trends, and economics."
+			]
+		},
+		{
+			"competencyText": "Situational awareness"
+		},
+		{
+			"competencyText": "Understand the mission, structure, and functions of the organization."
+		},
+		{
+			"competencyText": "Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization."
+		},
+		{
+			"competencyText": "Grasp the potential impact of the company’s well-being on employees."
+		},
+		{
+			"competencyText": "Business ethics"
+		},
+		{
+			"competencyText": "Demonstrate respect for coworkers, colleagues, and customers."
+		},
+		{
+			"competencyText": "Act in the best interest of the company, the community, and the environment."
+		},
+		{
+			"competencyText": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel."
+		},
+		{
+			"competencyText": "Market knowledge"
+		},
+		{
+			"competencyText": "Understand market trends in the industry and the company’s position in the market."
+		},
+		{
+			"competencyText": "Know who the company’s primary competitors are and stay current on organizational strategies to maintain competitiveness."
+		},
+		{
+			"competencyText": "Uphold the organization through building and maintaining customer relations."
+		},
+		{
+			"competencyText": "Recognize major challenges faced by the organization and industry, and identify key strategies to address challenges."
+		},
+		{
+			"competencyText": "Sustainable Practices:",
+			"comment": [
+				"Meeting the needs of the present without compromising the ability of future generations to meet their own needs."
+			]
+		},
+		{
+			"competencyText": "Minimizing environmental impact"
+		},
+		{
+			"competencyText": "Use equipment, processes, and systems that minimize environmental impact."
+		},
+		{
+			"competencyText": "Seek to upgrade processes beyond pollution control to pollution prevention."
+		},
+		{
+			"competencyText": "Utilize advances in science and technology to upgrade levels of efficiency and environmental protection."
+		},
+		{
+			"competencyText": "Strive to minimize waste through reuse and recycling, improve efficiency, and reduce resource use."
+		},
+		{
+			"competencyText": "Complying with standards, laws, and regulations"
+		},
+		{
+			"competencyText": "Comply with federal, state, and local laws, regulations, and policies related to environmental impact."
+		},
+		{
+			"competencyText": "Use sustainable business practices consistent with ISO 14001 International Environmental Management Guidance."
+		},
+		{
+			"competencyText": "Health and Safety:",
+			"comment": [
+				"Supporting a safe and healthy workplace."
+			]
+		},
+		{
+			"competencyText": "Maintaining a healthy and safe environment"
+		},
+		{
+			"competencyText": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices."
+		},
+		{
+			"competencyText": "Anticipate and prevent work-related injuries and illnesses."
+		},
+		{
+			"competencyText": "Comply with federal, state, and local regulations, and company health and safety policies."
+		},
+		{
+			"competencyText": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them."
+		},
+		{
+			"competencyText": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response."
+		},
+		{
+			"competencyText": "Maintain a sanitary and clutter-free work environment."
+		},
+		{
+			"competencyText": "Administer first aid or CPR, if trained, and summon assistance as needed."
+		},
+		{
+			"competencyText": "Properly handle and dispose of hazardous materials."
+		},
+		{
+			"competencyText": "Safeguarding one’s person"
+		},
+		{
+			"competencyText": "Engage in safety training."
+		},
+		{
+			"competencyText": "Use equipment and tools safely."
+		},
+		{
+			"competencyText": "Use appropriate personal protective equipment."
+		},
+		{
+			"competencyText": "Recognize how workplace risks can affect one’s life and one’s family."
+		},
+		{
+			"competencyText": "Understand the legal rights of workers regarding workplace safety and protection from hazards."
+		},
+		{
+			"competencyText": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible."
+		},
+		{
+			"competencyText": "Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate."
+		}
+	]
+}

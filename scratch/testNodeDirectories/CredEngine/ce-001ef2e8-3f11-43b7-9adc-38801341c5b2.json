@@ -1,0 +1,610 @@
+{
+	"directory": {
+		"@id": "https://example.org/ocfc/nd/786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-07-17"
+	},
+	"framework": {
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
+		"@id": "https://credentialengineregistry.org/resources/ce-001ef2e8-3f11-43b7-9adc-38801341c5b2",
+		"name": "Financial Services Competency Model: U.S. Department of Labor (DOL)",
+		"description": "Over the past year the Employment and Training Administration (ETA) has collaborated with leading industry organizations to develop a comprehensive competency model framework for the Financial Services Industry. The framework is designed to evolve along with changing skill requirements. The Financial Services Roundtable has committed to working with industry partners to keep this tool current.",
+		"conceptKeyword": [
+			"financial",
+			"services",
+			"Competency Model Clearinghouse"
+		]
+	},
+	"competencies": [
+		{
+			"competencyText": "Personal Effectiveness Competencies"
+		},
+		{
+			"competencyText": "Interpersonal Skills:",
+			"comment": [
+				"Demonstrating the ability to work effectively with others."
+			]
+		},
+		{
+			"competencyText": "Demonstrating sensitivity/empathy"
+		},
+		{
+			"competencyText": "Demonstrating insight into behavior"
+		},
+		{
+			"competencyText": "Maintaining open relationships."
+		},
+		{
+			"competencyText": "Respecting diversity"
+		},
+		{
+			"competencyText": "Working with diverse people"
+		},
+		{
+			"competencyText": "Integrity and Ethics:",
+			"comment": [
+				"Displaying accepted social and work behaviors."
+			]
+		},
+		{
+			"competencyText": "Behaving ethically"
+		},
+		{
+			"competencyText": "Acting fairly"
+		},
+		{
+			"competencyText": "Taking responsibility"
+		},
+		{
+			"competencyText": "Professionalism and Credibility:",
+			"comment": [
+				"Displaying responsible behaviors at work."
+			]
+		},
+		{
+			"competencyText": "Demonstrating self-control"
+		},
+		{
+			"competencyText": "Maintaining a professional appearance"
+		},
+		{
+			"competencyText": "Substance abuse free"
+		},
+		{
+			"competencyText": "Maintaining a positive attitude"
+		},
+		{
+			"competencyText": "Initiative and Self-Management:",
+			"comment": [
+				"Seeking out new work challenges and increasing the variety and scope of work."
+			]
+		},
+		{
+			"competencyText": "Persisting"
+		},
+		{
+			"competencyText": "Taking initiative"
+		},
+		{
+			"competencyText": "Setting challenging goals"
+		},
+		{
+			"competencyText": "Working independently"
+		},
+		{
+			"competencyText": "Demonstrating the motivation to achieve"
+		},
+		{
+			"competencyText": "Dependability and Reliability:",
+			"comment": [
+				"Behaving consistently and predictably in fulfilling obligations."
+			]
+		},
+		{
+			"competencyText": "Showing up on time"
+		},
+		{
+			"competencyText": "Attending to details"
+		},
+		{
+			"competencyText": "Detecting errors"
+		},
+		{
+			"competencyText": "Complying with policies"
+		},
+		{
+			"competencyText": "Honoring commitments"
+		},
+		{
+			"competencyText": "Accountability"
+		},
+		{
+			"competencyText": "Academic Competencies"
+		},
+		{
+			"competencyText": "Reading for Information:",
+			"comment": [
+				"Understanding written sentences and paragraphs in work related documents."
+			]
+		},
+		{
+			"competencyText": "Comprehension - Locates, understands and interprets written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications and directions; understands the purpose of written materials; attains meaning and comprehends core ideas."
+		},
+		{
+			"competencyText": "Attention to detail - Identifies main ideas; notes details and facts; detects inconsistencies; identifies implied meaning and details; identifies missing information; identifies trends."
+		},
+		{
+			"competencyText": "Integration - Critically evaluates and analyzes information in written materials; integrates and synthesizes information from multiple written materials."
+		},
+		{
+			"competencyText": "Application - Integrates what is learned from written materials with prior knowledge; applies what is learned from written material to follow instructions and complete specific tasks; applies what is learned from written material to future situations."
+		},
+		{
+			"competencyText": "Business Writing:",
+			"comment": [
+				"Using standard business English, defined as writing that is direct, courteous, grammatically correct, clear, succinct, and business-like."
+			]
+		},
+		{
+			"competencyText": "Organization and development - Creates documents such as letters, directions, manuals, reports, graphs, and flow charts; communicates thoughts, ideas, information, messages and other written information, which may contain technical material, in a logical, organized and coherent manner; ideas are well developed with supporting information and examples."
+		},
+		{
+			"competencyText": "Mechanics - Uses standard syntax and sentence structure; uses correct spelling, punctuation, and capitalization; uses appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)."
+		},
+		{
+			"competencyText": "Tone - Writes in a manner appropriate for business; uses language appropriate for the target audience; uses appropriate tone and word choice (e.g., writing is professional, courteous, and not overly casual)."
+		},
+		{
+			"competencyText": "Functional Mathematics/Bookkeeping/Accounting:",
+			"comment": [
+				"Using mathematics to solve problems, tabulate, and analyze data."
+			]
+		},
+		{
+			"competencyText": "Quantification - Reads and writes numbers; counts and places numbers in sequence; recognizes whether one number is larger than another."
+		},
+		{
+			"competencyText": "Computation - Adds, subtracts, multiplies, and divides with whole numbers, fractions, decimals, and percents; calculates averages, ratios, proportions and rates; converts decimals to fractions; converts fractions to percents."
+		},
+		{
+			"competencyText": "Application - Performs basic math computations accurately; translates practical problems into useful mathematical expressions and uses appropriate mathematical formulas and techniques."
+		},
+		{
+			"competencyText": "Bookkeeping and Accounting - Performs basic bookkeeping and accounting procedures."
+		},
+		{
+			"competencyText": "Fundamentals of Market Economics:",
+			"comment": [
+				"Determining how an economy functions as a whole."
+			]
+		},
+		{
+			"competencyText": "Principles of macro- and micro--economic"
+		},
+		{
+			"competencyText": "Principles of market analysis"
+		},
+		{
+			"competencyText": "Communication - Listening and Speaking:",
+			"comment": [
+				"Communicate in order to make oneself understood by supervisors and co-workers."
+			]
+		},
+		{
+			"competencyText": "Speaking - Expresses information to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial); speaks clearly and confidently; information is organized in a logical manner; speaks using common English conventions including proper grammar, tone and pace; tracks audience responses and reacts appropriately to those responses; effectively uses eye contact and non-verbal expression."
+		},
+		{
+			"competencyText": "Listening - Receives, attends to, interprets, understands, and responds to verbal messages and other cues; picks out important information in verbal messages; understands complex instructions; appreciates feelings and concerns of verbal messages."
+		},
+		{
+			"competencyText": "Two-way communication - Pays close attention and seeks to understand others, listens attentively and clarifies information; attends to nonverbal cues and responds appropriately."
+		},
+		{
+			"competencyText": "Persuasion/Influence - Influences others; persuasively presents thoughts and ideas; gains commitment and ensures support for proposed ideas."
+		},
+		{
+			"competencyText": "Critical and Analytical Thinking:",
+			"comment": [
+				"Processing information to make logical decisions."
+			]
+		},
+		{
+			"competencyText": "Reasoning - Possesses sufficient inductive and deductive reasoning ability to perform job successfully; critically reviews, analyzes, synthesizes, compares and interprets information; draws conclusions from relevant and/or missing information; understands the principles underlying the relationship among facts and applies this understanding when solving problems."
+		},
+		{
+			"competencyText": "Mental agility - Identifies connections between issues; quickly understands, orients to, and learns new assignments."
+		},
+		{
+			"competencyText": "Workplace Competencies"
+		},
+		{
+			"competencyText": "Teamwork:",
+			"comment": [
+				"Developing capacities used to work with people to achieve goals.  Includes social perceptiveness, coordination, persuasion, negotiation, instructing, and service orientation."
+			]
+		},
+		{
+			"competencyText": "Acknowledging team membership and role"
+		},
+		{
+			"competencyText": "Establishing productive relationships"
+		},
+		{
+			"competencyText": "Identifying with the team and its goals"
+		},
+		{
+			"competencyText": "Resolving conflicts"
+		},
+		{
+			"competencyText": "Motivating others"
+		},
+		{
+			"competencyText": "Negotiating solutions"
+		},
+		{
+			"competencyText": "Adaptability/Flexibility:",
+			"comment": [
+				"Being open to change (positive or negative) and to considerable variety in the workplace."
+			]
+		},
+		{
+			"competencyText": "Employing unique analyses"
+		},
+		{
+			"competencyText": "Ability to work in different environments"
+		},
+		{
+			"competencyText": "Entertaining new ideas"
+		},
+		{
+			"competencyText": "Dealing with ambiguity"
+		},
+		{
+			"competencyText": "Managing multiple demands"
+		},
+		{
+			"competencyText": "Managing uncertainty"
+		},
+		{
+			"competencyText": "Customer Service/Service Orientation:",
+			"comment": [
+				"Actively looking for ways to identify market demands and meet the customer or client need."
+			]
+		},
+		{
+			"competencyText": "Understanding customer needs"
+		},
+		{
+			"competencyText": "Providing personalized service"
+		},
+		{
+			"competencyText": "Acting professionally"
+		},
+		{
+			"competencyText": "Keeping customers informed"
+		},
+		{
+			"competencyText": "Strategic Planning and Organizing:",
+			"comment": [
+				"Developing plans and efficiently using resources to accomplish goals."
+			]
+		},
+		{
+			"competencyText": "Planning and scheduling tasks so that work is completed on time"
+		},
+		{
+			"competencyText": "Prioritizing various competing tasks and performing them quickly and efficiently according to their urgency"
+		},
+		{
+			"competencyText": "Allocating time and resources effectively and coordinating efforts with all affected parties"
+		},
+		{
+			"competencyText": "Anticipating obstacles to project completion and developing and implementing contingency plans to address them"
+		},
+		{
+			"competencyText": "Problem Solving/Decision-Making:",
+			"comment": [
+				"Considering the relative costs and benefits of potential actions to choose the most appropriate one."
+			]
+		},
+		{
+			"competencyText": "Identifying the problem"
+		},
+		{
+			"competencyText": "Seeing the big picture"
+		},
+		{
+			"competencyText": "Decompose a problem into component parts"
+		},
+		{
+			"competencyText": "Researching and organizing relevant information"
+		},
+		{
+			"competencyText": "Generating innovative solutions"
+		},
+		{
+			"competencyText": "Choosing a solution"
+		},
+		{
+			"competencyText": "Using Computers:",
+			"comment": [
+				"Proficiency in applying basic computer functions."
+			]
+		},
+		{
+			"competencyText": "Keyboarding and word processing"
+		},
+		{
+			"competencyText": "Internet applications"
+		},
+		{
+			"competencyText": "E-mailing"
+		},
+		{
+			"competencyText": "Spreadsheets"
+		},
+		{
+			"competencyText": "Database Concepts"
+		},
+		{
+			"competencyText": "Industry-Wide Technical Competencies"
+		},
+		{
+			"competencyText": "Products and Concepts:",
+			"comment": [
+				"Knowledge of the products and concepts relating to the financial services industry, including financial instruments, financial management, insurance principles, and cash and capital principles."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Examine characteristics to distinguish between stocks, bonds, and commodities."
+		},
+		{
+			"competencyText": "Examine characteristics to distinguish between insurance and annuity products."
+		},
+		{
+			"competencyText": "Develop procedures to create a financial plan."
+		},
+		{
+			"competencyText": "Analyze tax structures and consequences to assist in business decision-making."
+		},
+		{
+			"competencyText": "Examine characteristics to explain underwriting functions."
+		},
+		{
+			"competencyText": "Financial Instruments"
+		},
+		{
+			"competencyText": "Understands the available financial instruments and risk associated with each instrument;"
+		},
+		{
+			"competencyText": "Recognizes appropriate situations for each instrument;"
+		},
+		{
+			"competencyText": "Understands basic differences and similarities between debt-based, equity based, and foreign exchange instruments;"
+		},
+		{
+			"competencyText": "Recognizes appropriate investment opportunities associated with each instrument."
+		},
+		{
+			"competencyText": "Financial instruments include:"
+		},
+		{
+			"competencyText": "Securities (Stocks, Bonds, T-bills)"
+		},
+		{
+			"competencyText": "Other cash (Loans, Certificates of Deposit)"
+		},
+		{
+			"competencyText": "Exchange traded derivatives (Futures, Options)"
+		},
+		{
+			"competencyText": "Over-the-counter derivatives (Swaps, Caps, Exotic Instruments)"
+		},
+		{
+			"competencyText": "Financial Management"
+		},
+		{
+			"competencyText": "Demonstrates an awareness of the available analytical functions associated within the financial services industry;"
+		},
+		{
+			"competencyText": "Understands the basic concepts associated with financial analysis, credit analysis, debt management, risk management, valuation strategies, investment profitability, and underwriting."
+		},
+		{
+			"competencyText": "Insurance Principles"
+		},
+		{
+			"competencyText": "Understands the principles of insurance and insurance contracts;"
+		},
+		{
+			"competencyText": "Demonstrates a knowledge of the different types of insurance (e.g., life, health, property, liability) and the associated risk covered by the insurance."
+		},
+		{
+			"competencyText": "Cash and Capital Principles"
+		},
+		{
+			"competencyText": "Understands the nature of cash, the United States monetary system, and the time value of money;"
+		},
+		{
+			"competencyText": "Recognizes the risk, return, and opportunity costs associated with capital."
+		},
+		{
+			"competencyText": "Business Operations:",
+			"comment": [
+				"Performs activities associated with transaction management and understands the business operations performed by organizations within the financial services industry."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Exercise appropriate techniques to gather client information."
+		},
+		{
+			"competencyText": "Examine client’s money management patterns to determine a client’s financial situation."
+		},
+		{
+			"competencyText": "Describe procedures necessary to execute financial transactions."
+		},
+		{
+			"competencyText": "Use financial information to manage client records."
+		},
+		{
+			"competencyText": "Transaction Management"
+		},
+		{
+			"competencyText": "Demonstrates the ability to process financial transactions without error;"
+		},
+		{
+			"competencyText": "Resolves cash discrepancies, and maintains accurate records of transactions;"
+		},
+		{
+			"competencyText": "Understands the principles of confidentiality as they relate to transaction management."
+		},
+		{
+			"competencyText": "Financial Organizations"
+		},
+		{
+			"competencyText": "Understands the roles and activities provided by organizations within the financial services industry, including banks, investment banks, insurance companies, and stock brokerages."
+		},
+		{
+			"competencyText": "Financial Reporting:",
+			"comment": [
+				"Knowledge of the documents associated with measuring a business’ financial information."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Review client financial information to develop a client’s account statement."
+		},
+		{
+			"competencyText": "Analyze and interpret financial data to produce accurate reports."
+		},
+		{
+			"competencyText": "Compile business transaction data to report financial information."
+		},
+		{
+			"competencyText": "Financial Statements"
+		},
+		{
+			"competencyText": "Demonstrates the ability to prepare and interpret balance sheets, income statements, cash flow statements, and statements of retained earnings;"
+		},
+		{
+			"competencyText": "Adheres to record keeping requirements associated with financial statements."
+		},
+		{
+			"competencyText": "Technology Applications:",
+			"comment": [
+				"Knowledge of basic technology as it specifically relates to the financial services industry."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions"
+		},
+		{
+			"competencyText": "Use spreadsheets and accounting software to maintain and update records;"
+		},
+		{
+			"competencyText": "Use data bases and other computer management tools to manage office records."
+		},
+		{
+			"competencyText": "Technology Applications"
+		},
+		{
+			"competencyText": "Demonstrates a proficiency in the use of financial software, including applications relating to accounting and monetary transactions;"
+		},
+		{
+			"competencyText": "Understands the appropriate digital channels for exchanging electronic transaction information;"
+		},
+		{
+			"competencyText": "Recognizes appropriate techniques for storing and retrieving data."
+		},
+		{
+			"competencyText": "Regulations and Codes:",
+			"comment": [
+				"Knowledge of relevant regulations and codes that impact the financial services industry."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Research the regulatory requirements of financial and investment planning and security sales to assure compliance with codes."
+		},
+		{
+			"competencyText": "Use federal, state, and local regulations to determine financial records management."
+		},
+		{
+			"competencyText": "Review most current state and federal regulations to apply the tax code professionally."
+		},
+		{
+			"competencyText": "Compare legal interpretations to clarify regulations."
+		},
+		{
+			"competencyText": "Regulation and Code Compliance"
+		},
+		{
+			"competencyText": "Understands and complies with all relevant laws imposed by regulatory agencies including:"
+		},
+		{
+			"competencyText": "Federal Deposit Insurance Corporation"
+		},
+		{
+			"competencyText": "Board of Governors of the Federal Reserve System"
+		},
+		{
+			"competencyText": "Federal Trade Commission"
+		},
+		{
+			"competencyText": "Internal Revenue Service"
+		},
+		{
+			"competencyText": "National Credit Union Administration"
+		},
+		{
+			"competencyText": "U.S. Securities and Exchange Commission"
+		},
+		{
+			"competencyText": "State agencies"
+		},
+		{
+			"competencyText": "Follows the financial services industry codes of practice;"
+		},
+		{
+			"competencyText": "Monitors new legislation impacting the financial services industry."
+		},
+		{
+			"competencyText": "Fraud Prevention:",
+			"comment": [
+				"Knowledge of the appropriate procedures for identifying, reporting, and preventing fraud."
+			]
+		},
+		{
+			"competencyText": "Critical Work Functions:"
+		},
+		{
+			"competencyText": "Analyze current laws and regulations to maintain appropriate financial practices."
+		},
+		{
+			"competencyText": "Examine accounting system elements to demonstrate good accounting practices."
+		},
+		{
+			"competencyText": "Fraud Prevention"
+		},
+		{
+			"competencyText": "Demonstrates an awareness of the necessary steps for preventing fraud;"
+		},
+		{
+			"competencyText": "Understands the appropriate procedures for fraud investigations and internal audits as they relate to detecting and reporting of fraudulent behavior;"
+		}
+	]
+}
