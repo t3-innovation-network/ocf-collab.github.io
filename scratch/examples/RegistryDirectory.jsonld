@@ -1,0 +1,28 @@
+{
+  "@context": "https://purl.org/ocfc/terms/context.json",
+  "@graph": [
+    {
+      "@id": "https://example.org/ocfc/registryDirectory/...e664-416c-8ba1-ce2e1cd40e38",
+      "@type": "RegistryDirectory",
+      "dateCreated": "2020-01-01T08:15:30-05:00",
+      "asset": [
+          "https://atlantis.example.com/NodeDirectory.json",
+          "https://orbit.example.com/NodeDirectory.json"   
+      ]
+    },
+    {
+      "@id": "https://atlantis.example.com/NodeDirectory.json",
+      "@type": "RegistryEntry",
+      "name": {"en-us": "Atlantis Competency Registry"},
+      "description": {"en-us": "Competency registry serving the continent of Atlantis"},
+      "isPartOf": "https://example.org/ocfc/registryDirectory/...e664-416c-8ba1-ce2e1cd40e38"
+    },
+    {
+      "@id": "https://orbit.example.com/NodeDirectory.json",
+      "@type": "RegistryEntry",
+      "name": {"en:us": "Orbit Natural Space Registry"},
+      "description": {"en:us": "Registry covering all space."},
+      "isPartOf": "https://example.org/ocfc/registryDirectory/...e664-416c-8ba1-ce2e1cd40e38"
+    }
+  ]
+}
