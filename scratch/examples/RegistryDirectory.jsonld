@@ -15,21 +15,21 @@
       "@id": "https://example.com/ocfc/registryDirectory/42a83781-8a07-47ae-a169-b699c5c03073",
       "@type": "RegistryEntry",
       "name": {"en-us": "Credential Engine Registry"},
-      "description": {"en-us": "Competency frameworks based on the CTDL-ASN metamodel."},
+      "description": {"en-us": "Credential Engine competency frameworks based on the CTDL-ASN metamodel."},
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     },
     {
       "@id": "https://example.com/ocfc/registryDirectory/fdde2304-4735-4351-a68d-524d24a996ab",
       "@type": "RegistryEntry",
       "name": {"en:us": "IMS Global CASE Network"},
-      "description": {"en:us": "Competency frameworks based on the IMS Global CASE metamodel."},
+      "description": {"en:us": "IMS Global's Competency frameworks based on the IMS Global CASE metamodel."},
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     },
     {
       "@id": "https://example.com/ocfc/registryDirectory/43816605-58cf-4eb9-9aa1-1796000c202a",
       "@type": "RegistryEntry",
       "name": {"en:us": "Desire2Learn (D2L) Competency Registry"},
-      "description": {"en:us": "Competency frameworks based on the ASN metamodel."},
+      "description": {"en:us": "D2L's competency frameworks based on the ASN metamodel."},
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     }
   ]
