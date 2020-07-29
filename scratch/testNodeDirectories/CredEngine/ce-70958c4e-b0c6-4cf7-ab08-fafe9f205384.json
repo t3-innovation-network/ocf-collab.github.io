@@ -5,13 +5,13 @@
 		"dateCreated": "2020-07-17"
 	},
 	"framework": {
+		"@id": "https://credentialengineregistry.org/resources/ce-70958c4e-b0c6-4cf7-ab08-fafe9f205384",
 		"attributionName": "Credential Engine",
 		"attributionURL": "https://credentialengine.org",
 		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
 		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
 		"beneficiaryRights": "https://credentialengine.org/terms/",
 		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
-		"@id": "https://credentialengineregistry.org/resources/ce-70958c4e-b0c6-4cf7-ab08-fafe9f205384",
 		"name": "NICE Cybersecurity Workforce Framework: Tasks",
 		"description": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. A Task in the Cybersecurity Workforce Framework is a specific defined piece of cybersecurity work that, combined with other identified Tasks, compose the work in a specific specialty area or work role. Current version as of January 18, 2018.",
 		"conceptKeyword": [

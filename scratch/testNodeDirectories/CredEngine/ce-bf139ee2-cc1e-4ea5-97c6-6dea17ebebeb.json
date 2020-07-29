@@ -5,13 +5,13 @@
 		"dateCreated": "2020-07-17"
 	},
 	"framework": {
+		"@id": "https://credentialengineregistry.org/resources/ce-bf139ee2-cc1e-4ea5-97c6-6dea17ebebeb",
 		"attributionName": "Credential Engine",
 		"attributionURL": "https://credentialengine.org",
 		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
 		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
 		"beneficiaryRights": "https://credentialengine.org/terms/",
 		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
-		"@id": "https://credentialengineregistry.org/resources/ce-bf139ee2-cc1e-4ea5-97c6-6dea17ebebeb",
 		"name": "NICE Cybersecurity Workforce Framework: Skills",
 		"description": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. Skill is often defined as an observable competence to perform a learned psychomotor act. Skills in the psychomotor domain describe the ability to physically manipulate a tool or instrument like a hand or a hammer. Skills needed for cybersecurity rely less on physical manipulation of tools and instruments and more on applying tools, frameworks, processes, and controls that have an impact on the cybersecurity posture of an organization or individual. Current version as of January 18, 2018.",
 		"conceptKeyword": [

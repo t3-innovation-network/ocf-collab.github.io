@@ -5,13 +5,13 @@
 		"dateCreated": "2020-07-17"
 	},
 	"framework": {
+	    "@id": "https://credentialengineregistry.org/resources/ce-001ef2e8-3f11-43b7-9adc-38801341c5b2",
 		"attributionName": "Credential Engine",
 		"attributionURL": "https://credentialengine.org",
 		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
 		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
 		"beneficiaryRights": "https://credentialengine.org/terms/",
 		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
-		"@id": "https://credentialengineregistry.org/resources/ce-001ef2e8-3f11-43b7-9adc-38801341c5b2",
 		"name": "Financial Services Competency Model: U.S. Department of Labor (DOL)",
 		"description": "Over the past year the Employment and Training Administration (ETA) has collaborated with leading industry organizations to develop a comprehensive competency model framework for the Financial Services Industry. The framework is designed to evolve along with changing skill requirements. The Financial Services Roundtable has committed to working with industry partners to keep this tool current.",
 		"conceptKeyword": [

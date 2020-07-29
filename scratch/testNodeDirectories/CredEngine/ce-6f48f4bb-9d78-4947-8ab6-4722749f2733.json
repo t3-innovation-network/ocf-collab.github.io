@@ -5,13 +5,13 @@
 		"dateCreated": "2020-07-17"
 	},
 	"framework": {
+		"@id": "https://credentialengineregistry.org/resources/ce-6f48f4bb-9d78-4947-8ab6-4722749f2733",	
 		"attributionName": "Credential Engine",
 		"attributionURL": "https://credentialengine.org",
 		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
 		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
 		"beneficiaryRights": "https://credentialengine.org/terms/",
 		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
-		"@id": "https://credentialengineregistry.org/resources/ce-6f48f4bb-9d78-4947-8ab6-4722749f2733",
 		"name": "Cybersecurity Industry Model: U.S. Department of Labor (DOL)",
 		"description": "While the Cybersecurity Industry Model attempts to cover a wide range of industry competencies, the model is not intended to be a definitive list of all cybersecurity knowledge, skills, and abilities; nor is it intended that all workers in the field possess all competencies listed. The Cybersecurity Industry Model is instead intended as a resource for further explorations of the competencies needed in this critical industry.",
 		"conceptKeyword": [
