@@ -5,13 +5,13 @@
 		"dateCreated": "2020-07-17"
 	},
 	"framework": {
+		"@id": "https://credentialengineregistry.org/resources/ce-ee8c01f1-05fe-4d09-99ff-7dd4ec12a571",
 		"attributionName": "Credential Engine",
 		"attributionURL": "https://credentialengine.org",
 		"providerNodeAgent": "https://example.org/ocfc/pna/5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
 		"providerMetaModel": "https://purl.org/ocfc/vocabs/metamodelType/f9a2b710-1cc4-4065-85fd-596b3c40906c",
 		"beneficiaryRights": "https://credentialengine.org/terms/",
 		"registryRights": "https://example.org/ocfc/rights/c8f29a0f-57fb-4bd3-bd60-5b69cdf9afe1",
-		"@id": "https://credentialengineregistry.org/resources/ce-ee8c01f1-05fe-4d09-99ff-7dd4ec12a571",
 		"name": "Building Blocks Model: U.S. Department of Labor (DOL)",
 		"description": "To ensure that the Building Blocks model reflects the foundational knowledge and skills needed by today's workforce, ETA conducted a review of the 22 industry models in the Clearinghouse and analyzed the various changes our industry partners have made to Tiers 1-3 over time. Based on this review, the Building Blocks model was updated in 2014 to ensure those competencies accurately reflect the workforce needs of industry. As part of this update, ETA also reviewed other competency frameworks, including the Department of Education's Employability Skills Framework and the National Network of Business and Industry Associations' Common Employability Skills to meet the industry's needs.\n\nThe updated model features new information on Sustainable Practices and Health and Safety. It also includes a revised Basic Computer Skills competency block and updated key behaviors in many competency areas, as well as changes designed to promote equitable access to jobs for all jobseekers.\n\nIn 2017, the model was revised again to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces. The updated CMC competencies were reviewed and validated by subject matter experts from NIOSH and the Occupational Safety and Health Administration (OSHA).",
 		"conceptKeyword": [
