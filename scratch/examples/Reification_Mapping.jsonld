@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "ceds": "http://desm.org/ns/ceds/",
+    "credReg": "http://desm.org/ns/credReg/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "desm": "http://desm.org/ns/",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "http://desm.org/TermMapping/db3878ef-14d8-4665-a1bc-de75b6b58cd9",
+      "@type": "desm:TermMapping",
+      "desm:comment": "Some comment on the mapping.",
+      "desm:mappedterm": {
+        "@id": "http://desm.org/credReg/mappings/26156570-9c84-4e9d-bed2-bb8f9071e34e"
+      },
+      "desm:mappingPredicate": {
+        "@id": "https://example.org/desm/concepts/reworded"
+      },
+      "desm:spineTerm": {
+        "@id": "http://desm.org/ceds/mappings/156620af-6720-43d7-bfb4-7abf29014e6d"
+      }
+    },
+    {
+      "@id": "credReg:Organization",
+      "credReg:name": {
+        "@id": "xsd:string"
+      }
+    },
+    {
+      "@id": "ceds:Organization",
+      "ceds:OrganizationName": {
+        "@id": "xsd:string"
+      }
+    },
+    {
+      "@id": "http://desm.org/ceds/mappings/156620af-6720-43d7-bfb4-7abf29014e6d",
+      "@type": "rdf:Statement",
+      "desm:termDefinition": "The name of a non-person entity such as an organization, institution, agency or business.",
+      "desm:valueSpace": {
+        "@id": "http://another_enumeration_URL.org"
+      },
+      "rdf:object": {
+        "@id": "xsd:string"
+      },
+      "rdf:predicate": {
+        "@id": "ceds:OrganizationName"
+      },
+      "rdf:subject": {
+        "@id": "ceds:Organization"
+      }
+    },
+    {
+      "@id": "http://desm.org/credReg/mappings/26156570-9c84-4e9d-bed2-bb8f9071e34e",
+      "@type": "rdf:Statement",
+      "desm:termDefinition": "Name or title of the resource.",
+      "desm:valueSpace": {
+        "@id": "http://some_enumeration_URL.org"
+      },
+      "rdf:object": {
+        "@id": "xsd:string"
+      },
+      "rdf:predicate": {
+        "@id": "credReg:name"
+      },
+      "rdf:subject": {
+        "@id": "credReg:Organization"
+      }
+    }
+  ]
+}
