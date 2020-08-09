@@ -11,6 +11,8 @@ ceds:Organization ceds:OrganizationName xsd:string .
 
 <http://desm.org/ceds/mappings/156620af-6720-43d7-bfb4-7abf29014e6d> a rdf:Statement ;
     desm:termDefinition "The name of a non-person entity such as an organization, institution, agency or business." ;
+    desm:sourceTerm "Organization Name" ;
+    desm:sourceURI <https://ceds.ed.gov/element/000204> ;
     desm:valueSpace <http://another_enumeration_URL.org> ;
     rdf:predicate ceds:OrganizationName ;
     rdf:object xsd:string ;
@@ -20,6 +22,8 @@ credReg:Organization credReg:name xsd:string .
 
 <http://desm.org/credReg/mappings/26156570-9c84-4e9d-bed2-bb8f9071e34e> a rdf:Statement ;
     desm:termDefinition "Name or title of the resource." ;
+    desm:sourceTerm "name" ;
+    desm:sourceURI <https://purl.org/ctdl/terms/name> ;
     desm:valueSpace <http://some_enumeration_URL.org> ;
     rdf:predicate credReg:name ;
     rdf:object xsd:string ;
