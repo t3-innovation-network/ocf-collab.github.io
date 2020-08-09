@@ -42,5 +42,4 @@ credReg:Organization credReg:name xsd:string .
     desm:abstractClassMapped <https://example.org/desm/concepts/organization> ;
     dct:created "2020-08-09" ;
     dct:dateModified "2020-08-10" ;
-    dct:hasPart <http://desm.org/TermMapping/db3878ef-14d8-4665-a1bc-de75b6b58cd9> a desm:TermMapping> .
-    
+    dct:hasPart <http://desm.org/TermMapping/db3878ef-14d8-4665-a1bc-de75b6b58cd9>.
