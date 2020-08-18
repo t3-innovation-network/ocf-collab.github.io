@@ -1,0 +1,3454 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-36ef62ad-5118-41f1-b3d2-0b14f2073b24",
+		"name": {
+			"en-us": "Advanced Manufacturing Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The competency model framework for Advanced Manufacturing was developed through a collaborative effort involving the Employment and Training Administration (ETA) and leading industry organizations.\n\nTo ensure that the model reflects the knowledge and skills needed by today's manufacturing workforce ETA worked with its industry partners to update the original model. Completed in April 2010, the updated model contains new information on Sustainable and Green Manufacturing, as well as updated key behaviors in several competency areas."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"advanced manufacturing",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work effectively with others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact professionally and respectfully with supervisors and coworkers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with people who have diverse personalities and backgrounds."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, perspectives, customs, contributions, and individual differences of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be flexible and open-minded when dealing with a wide range of people."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to and consider others’ viewpoints."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with ethical standards for your field."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform quality work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a socially acceptable demeanor."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and dealing calmly with stressful situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow rules and standards of dress."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow rules and standards of personal hygiene."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new responsibilities and work challenges."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive, and effort to accomplish tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task until completion, despite interruptions, obstacles, or setbacks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging, but realistic work goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability & Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently, predictably, and reliably."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations, complete assignments, and meet deadlines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal and professional lifelong learning and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn and adopt new techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback, and modify behavior for improvement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through job shadowing and continuing education."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks and improve work processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying personal interests and career pathways."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek and maintain membership in professional associations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read technical publications to stay abreast of new developments in the industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain certifications and continuing education credits."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing and applying scientific principles and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply the Scientific Method - the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of a hypothesis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic science principles to work-related problems and production processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific principles involved in industry-specific production processes:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biological"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate scientific constructs including: conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply scientific methods in qualitative and quantitative analysis, data gathering, direct and indirect observation, predictions, and problem identification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a personal computer and related applications to convey and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigation and File Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scroll bars, a mouse, and dialog boxes to work within the computer's operating system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access and switch between applications and files of interest."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet and E-mail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the Internet to find information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open and configure standard browsers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use searches, hypertext references, and transfer protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Send and retrieve electronic mail (e-mail)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage personal schedule and contact information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the internet to find and attend online training, web conferences, webinars, self-paced training, and other applicable interactive sites."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ collaborative/groupware applications to facilitate group work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing and Publishing Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to type text and insert pictures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Format, edit, and print text."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Save and retrieve word processing documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to enter, manipulate, and format text and numerical data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert, delete, and manipulate cells, rows, and columns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and save worksheets, charts, and graphs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to create, manipulate, edit, and show virtual slide presentations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to manage large amounts of information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and edit simple databases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Input data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retrieve detailed records."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create reports to communicate the information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with pictures in graphics programs or other applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create simple graphics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manipulate the appearance of graphics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert graphics into other files/programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply mathematical principles:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Systems and Relationships - whole numbers, decimals, fractions, alternate base systems (e.g. binary, octal, and hexadecimal numbers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arithmetic - arithmetic operations on numbers, percentages, square root, exponentiation, and logarithmic functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plane and Solid Geometry - distance, perimeter, area, and volume, spatial coordinates, visualization, spatial reasoning, and geometric modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement - measurement of length, mass, time, systems of measurement, units, and conversion between systems (e.g. from English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimation -- estimate sizes, distances, and quantities; or determine time, costs, resources, or materials needed to perform a work activity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Notation - the language of mathematics to express mathematical ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Reasoning and Problem Solving - inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elementary Statistics and Laws of Probability - mean, median, and standard deviation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Algebra and Functions - equations, patterns, and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand work-related instructions and policies, memos, bulletins, notices, letters, policy manuals, and governmental regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read documents ranging from simple and straightforward to more complex and detailed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and interpret technical manuals and equipment specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard business English, defined as writing that is direct, courteous, grammatically correct, and not overly casual.  The main requirement of workplace writing is clarity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, and flow charts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, coherent, and persuasive manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop ideas with supporting information and examples."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization; use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in a manner appropriate for business, using language appropriate for the target audience, a professional tone, and appropriate word choice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication—Listening and Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active listening skills using reflection, restatement, questioning, and clarification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking and Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas in a persuasive manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant or missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use inductive and deductive reasoning to analyze, synthesize, compare, and interpret information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the underlying relationship among facts and connections between issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Literacy:"
+			},
+			"comment": {
+				"en-us": [
+					"Functional and critical thinking skills related to information, media, and technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and Evaluate Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate information efficiently (time) and effectively (sources)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate information critically and competently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review information obtained for relevance and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to eliminate those gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and Manage Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information accurately and creatively for the issue or problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the flow of information from a wide variety of sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to get a better understanding of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze Media"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand both how and why media messages are constructed, and for what purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine how individuals interpret messages differently, how values and points of view are included or excluded, and how media can influence beliefs and behaviors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic/Business/Financial Principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic Terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply/Demand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Characteristics of Markets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost and Pricing of Products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Profit and Loss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamentals of Accounting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic System as a Framework for Decision-making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how one’s performance can impact the success of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider the relative costs and benefits of potential actions to choose the most appropriate one."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of market trends, the company’s position in the market place, and defined market segments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the position of the company's product/service in relation to market demand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics—Act in the best interests of the company, your co-workers, your community, other stakeholders, and the environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal/Financial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with the spirit of applicable laws as well as the letter."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly use company property by minimizing loss and waste and reporting loss, waste, or theft of company property to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain privacy and confidentiality of company information as well as that of customers and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with intellectual property laws."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect trade secrets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental/Health/Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a healthful and safe environment and report any violations/discrepancies to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure proper handling and disposal of toxic or hazardous materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emphasize quality, customer satisfaction, and fair pricing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with customers and colleagues in good faith without bribes, kickbacks, or excessive hospitality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work With Others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work as part of a team to achieve mutual goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain good working relationships with supervisors and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose behaviors and/or actions that best support the team and lead toward the accomplishment of work tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize a team’s goals and identify ways to accomplish those goals in increasingly complex workplace situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence/Negotiate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work through conflict constructively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the views of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build toward consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence, motivate, and persuade others in order to achieve company and client objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability/Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Being open to change (positive or negative) and to considerable variety in the workplace."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain New Ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to considering new ways of doing things."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seek out and carefully consider the merits of new approaches to work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Willingly embrace new approaches when appropriate and discard approaches that are no longer working."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal With Ambiguity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take effective action when necessary without having to have all the necessary facts in hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond effectively to unpredictable or unexpected events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively change plans, goals, actions, or priorities to deal with changing situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing and Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Actively looking for ways to identify market demands and meet the customer or client need."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand Customer Needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify internal and external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a desire to understand customer needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of client goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide Personalized Service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide prompt and efficient responses to meet the requirements, requests, and concerns of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide thorough, accurate information to answer customers’ questions and to meet commitment times or performance guarantees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively look for ways to help customers by identifying and proposing appropriate solutions and/or services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish boundaries as appropriate for unreasonable customer demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act Professionally"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be pleasant, courteous, and professional when dealing with internal or external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Display a good-natured, cooperative attitude; be calm and empathetic when dealing with hostile customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the company and product brand in interactions with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep Customers Informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with customers during projects and following project completion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep clients up to date about decisions that affect them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek the comments, criticisms, and involvement of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust services based on customer feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address customer comments, questions, concerns, and objections with direct, accurate, and timely responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tasks quickly and efficiently according to their urgency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate Resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate resources needed for project completion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate efforts with all affected parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate Obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop contingency plans to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off-track."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the existence of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate the Problem to Appropriate Personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Team-building Skills to Analyze the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available reference systems to locate and obtain information relevant to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential causes of the problem by analyzing its component parts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Team-building Skills to Generate Possible Solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate several possible solutions to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the relative merits of the possible solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the optimal solution based on its merits using rational decision analysis methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in highly ambiguous or ill-defined situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly choose an effective solution without assistance when appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement the Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a realistic and systematic approach for implementing the chosen solution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement the chosen solution in a timely manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve problems of a technological nature using logic and reasoning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection and Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, select, and apply appropriate and cost-effective tools or technological solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information technology and computer applications to support gathering, storing, manipulating, and transferring data and information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies, and methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance and Troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform work functions that require engaging in hands-on activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record data in control system documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, code, categorize, calculate, inspect, or verify information or data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply systematic techniques for observing and gathering data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Meeting the needs of the present without compromising the ability of future generations to meet their own needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by applicable federal, state, and local regulations and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguard the public interest."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure equipment and systems are designed to minimize environmental impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek to upgrade processes beyond pollution control to pollution prevention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize advances in science and technology to upgrade levels of efficiency and environmental protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote sustainable business practices consistent with ISO 14001 International Environmental Management Guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies - Entry-Level"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Process Design/Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Research, design, implement, and continuously improve the manufacturing process to ensure product meets customer needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support manufacturing process design and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate about and respond to requirements of internal and external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamentals of Research & Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Awareness of basic Product R&D"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Awareness of basic Process R&D"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Drawings and Schematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Print Reading"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpretation of Drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpretation of Schematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometric Dimensions and Tolerances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CAD Drawing Fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creation of Computer Aided Design (CAD) Drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpretation of CAD Drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Updating and Editing CAD Drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CAD/CAM/CAE Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Statistical Process Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedure Analysis and Verification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation Fault Finding Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production:"
+			},
+			"comment": {
+				"en-us": [
+					"Set up, operate, monitor, control, and improve manufacturing processes and schedules to meet customer requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the various manufacturing types, processes, and products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the manufacturing business as a system that integrates multiple disciplines, processes, and stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage raw materials/consumables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate and control production/lab equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform manufacturing process applications and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discrete (e.g. automotive, heavy equipment, aircraft, aerospace, consumer goods)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process (e.g. chemicals, refining, brewing, smelting, utilities, pharmaceutical manufacturing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hybrid (e.g. food, beverage packaging, printing, consumer packaging, pharmaceutical packaging)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Linkages among mechanical, hydraulic/pneumatic, electrical, control, computer, and other types of processes and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Linkages among project, technical, and business objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interdependence of teams, work units, departments, organizations, inter-organizational systems, and the larger environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lean Manufacturing/Continuous Improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Precision Measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manual Tool & Equipment Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Automated Systems & Control Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulics and Pneumatics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Robotics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical Testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Manufacturing Process Applications & Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assembly Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fabrication Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical/Electronics Manufacturing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bulk/Continuous Flow/Line Balancing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finishing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Room Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Experiment Design/Implementation Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementation of Approved Protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Removal Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hot and Cold Forming Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Casting, Molding, and Stamping Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heat Treatment Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Joining, Welding, and Assembly Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct Digital and Additive Manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance, Installation, and Repair:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintain and optimize manufacturing equipment and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, diagnose, and/or repair equipment problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with others to ensure maintenance and repairs meet operational needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain hands-on knowledge of equipment operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain equipment, tools, and workstations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Hand Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Schematic Drawings and Control Documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Calibrated Measuring Instruments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Basic Hydraulic/Pneumatic Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Basic AC/DC Electrical Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation of Parts for Industrial Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Disassembly/Assembly Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Maintenance and Troubleshooting Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electronic Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic/Pneumatic Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High Vacuum Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laser Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Machine Automation Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lubrication Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bearings and Couplings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Belt Drives and Chain Drives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain Logistics:"
+			},
+			"comment": {
+				"en-us": [
+					"Plan and monitor the movement and storage of materials and products in coordination with suppliers, internal systems, and customers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship and receive products and materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basics of Supply-Chain Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elements of the Supply Chain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Just-in-Time/Lean Manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Managing Inventory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Forecasting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ordering Materials and Supplies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Monitoring and Audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stock Rotation Requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expediting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plant Facility and Capacity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead and Cycle Time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change Orders, Bills of Material, Work Orders, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaging and Distributing Product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaging Product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labeling Product- Inventory Tags and Bar Codes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehouse Management Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customs and Export Control (Basic Paperwork)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance and Continuous Improvement:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure product and process meets quality system requirements as defined by customer specifications."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure materials, processes, and final product meet quality specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support and maintain quality systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting Customer Needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Management Systems and Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles of Lean Manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Improving Quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Introduction to Statistical Process Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sampling and Charting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting for Quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting Raw/Incoming Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting In-Process Product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting Final Products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Process Reengineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable and Green Manufacturing:"
+			},
+			"comment": {
+				"en-us": [
+					"Manufacture products using processes that minimize negative environmental impacts; conserve energy and natural resources; are safe for employees, communities, and consumers; and are economically sound."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to minimize waste, improve efficiency, and reduce resource use."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate with a triple bottom line, emphasizing financial profitability, environmental integrity, and social equity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand life cycle analysis: the environmental and economic effects of a product at every stage of its existence, from extraction of materials through production to disposal and beyond."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Waste Awareness and Reduction - Fundamentals of solid waste streams and their sources and focusing on the 4Rs — Refuse, Reduce, Reuse, Recycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability into Practice - Developing the business case for implementing a comprehensive environmental management or sustainability program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Management - Managing energy usage and investing in energy efficiency to cut energy costs and reduce carbon footprint."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water Conservation - Applying lower-cost and conservation principles/practices in operation and design of water systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pollution Solutions - Improving emission control and environmental management systems, and new technologies to reduce air pollution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Green Chemistry - Applying green chemistry principles and techniques throughout the business."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, Security, and Environment:"
+			},
+			"comment": {
+				"en-us": [
+					"Employ equipment, practices, and procedures which promote a healthy, safe, and secure work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and follow established personal safety, security, and environmental practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that equipment is being used safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with local, federal, and company health, safety, security, and environmental regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify unsafe or insecure conditions and take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entry-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding and Following Established Safety Practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Procedures for Clean and Safe Working Environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Personal Protective Equipment and Clothing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Communication (HAZCOM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Handling and Disposal (HAZMAT)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Information System Labeling and Storage (HMIS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Office of Homeland Security System and Physical Security Regulations (US only)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations Governing Safe Use of Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Occupational Safety and Health Administration (OSHA), the Environmental Protection Administration (EPA), or Other Appropriate Regulatory Bodies in the Workplace (US only)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confined Spaces"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First Aid or First Response Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting Material, Equipment, and Fixtures for Defects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assessing Material, Equipment, and Fixtures for Hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lock /Tag Out Practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Safety Data Sheets (MSDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Response to Shop Emergencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe Evacuation of Facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe Moving of Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe, Prescribed Operation of Equipment and Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use, Maintenance, and Inspection of Machine Safeguards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Safety Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies - Technician Level"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Process Design/Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Research, design, implement, and continuously improve the manufacturing process to ensure product meets customer needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and clarify customer expectations and product specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design manufacturing production and production support systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert maximum effort to operate and fully utilize all of the technology and tools used in the manufacturing environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research & Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product R&D"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process R&D"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market/Sales/Life Cycle Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual Property Protection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product Realization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design for Manufacturing and Design for Logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production System Design and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment/Tool Design and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support Systems Design and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development of Prototype Processes and Products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production System Design, Testing, and Costing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrated Graphics Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Machining and Forming Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Micro and Nano Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alternative Energies Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic/Pneumatic Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Fault Finding Skills on Actual Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setup of SPC"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Analysis and Verification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Interpretation and Corrective Action Implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production:"
+			},
+			"comment": {
+				"en-us": [
+					"Set up, operate, monitor, control, and improve manufacturing processes and schedules to meet customer requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop manufacturing process plans and documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor manufacturing processes and systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage continuous improvement process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Planning and Work Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time, Materials, and Costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Production/Process Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assembly Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fabrication Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical/Electronics Manufacturing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Overview Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finishing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Flow/Line Balancing Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cell Culture/Fermentation/Media Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recovery/Filtration Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production/Process Monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Controlling Process Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation and Reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance of Analytical Tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calibration and Troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Parameters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write/Execute Protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational Design and Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel Management Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human Behavior/Motivation/Leadership"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material and Resource Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Training Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance, Installation, and Repair:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintain and optimize manufacturing equipment and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the installation, customization, or upgrading of equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate preventive maintenance to ensure production process runs smoothly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Installation and Repair Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Power Transmissions Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piping Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulics/Pneumatics Power Transmission Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Maintenance and Troubleshooting Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pump Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Thermal Systems (HVAC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrigeration Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical/Fluid Power Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Separation/Heat Exchange Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water Treatment/Destruction Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High Voltage/Utility Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programmable Logic Controlled Industrial Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability and Maintainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Reliability Models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability of Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design for Reliability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design for Maintainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigative Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis of Failure Data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain Logistics:"
+			},
+			"comment": {
+				"en-us": [
+					"Plan and monitor the movement and storage of materials and products in coordination with suppliers, internal systems, and customers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage purchasing and just-in-time materials flow, shipping and receiving, packaging, and transportation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control inventory of materials and products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain production/delivery schedules and supplier networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply-Chain Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Resources Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborative, Planning, Forecasting, and Replenishment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vendor Managed Inventory Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Centralized versus Decentralized Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E-Business and Direct Shipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Material Handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Material Handling and Distribution Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrated Supply Chain Information Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resources Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demand Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales and Operations Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Master Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measuring Business Performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detailed Scheduling and Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Techniques of Inventory Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detailed Material Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Executing Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement and External Source of Supply"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing and Sequencing Work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Executing Plans and Implementing Controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating Performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ergonomics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sharing and Collaboration across the Supply Chain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Awareness of Global Impacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Supply Chain Logistics Life Cycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual Property"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taxes and Duties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipping, Receiving, and Freight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customs and Export Control (Legal Aspects)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance and Continuous Improvement:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure product and process meets quality system requirements as defined by customer specifications."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor production for product and process quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ audits and inspections to maintain the quality and continuous improvement process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correct the product and process to meet quality standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Suggest and/or implement continuous improvement actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Probability and Statistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Analysis and Presentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentation Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Query-Based Intermediate Computer Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitation Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Case"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical Process Control Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Factor Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capability Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection/Test/Validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acceptance Sampling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance Audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISO 9000"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corrective and Preventive Actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Eliminating Non-Conformities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verification and Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation Creation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Benchmarking and Best Practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, Security, and Environment:"
+			},
+			"comment": {
+				"en-us": [
+					"Employ equipment, practices, and procedures which promote a healthy, safe, and secure work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct health, safety, and/or environmental incident and hazard investigations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct preventive health, safety, and/or environmental incident and hazard inspections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement continuous improvement in health, safety, security, and/or environmental practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technician-Level Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Improvement in Health, Safety, Security, and Environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis of Health/Safety/Security/Environmental Data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification of Projects and Priorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Root Cause Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Protection/Waste Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Hazard Assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design to Minimize Environmental Impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incident and Hazard Investigations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigations for Health, Safety, Security, or Environmental Incidences/Hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing Corrective Actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation of Findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow-up Investigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance (Property)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Violations Reports to Proper Authorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workers Compensation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preventive Health, Safety, or Environmental Inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit of Records and Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conducting Inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Room Protocol"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation of Inspection Findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Response Preparedness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire Protection and Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Environmental Management Guidance (ISO14001)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Additional Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Life Safety Code/National Fire Protection Association 101"
+			}
+		}
+	]
+}

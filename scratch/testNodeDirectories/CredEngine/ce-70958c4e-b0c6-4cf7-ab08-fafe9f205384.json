@@ -1,0 +1,5073 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-70958c4e-b0c6-4cf7-ab08-fafe9f205384",
+		"name": {
+			"en-us": "NICE Cybersecurity Workforce Framework: Tasks"
+		},
+		"description": {
+			"en-us": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. A Task in the Cybersecurity Workforce Framework is a specific defined piece of cybersecurity work that, combined with other identified Tasks, compose the work in a specific specialty area or work role. Current version as of January 18, 2018."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"cybersecurity",
+				"cyberspace",
+				"education",
+				"role",
+				"specialty area",
+				"task"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Acquire and manage the necessary resources, including leadership support, financial resources, and key security personnel, to support information technology (IT) security goals and objectives and reduce overall organizational risk."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acquire necessary resources, including financial resources, to conduct an effective enterprise continuity of operations program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advise senior management (e.g., Chief Information Officer [CIO]) on risk levels and security posture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advise senior management (e.g., CIO) on cost/benefit analysis of information security programs, policies, processes, systems, and elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advise appropriate senior leadership or Authorizing Official of changes affecting the organization's cybersecurity posture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advocate organization's official position in legal and legislative proceedings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and define data requirements and specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and plan for anticipated changes in data capacity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze information to determine, recommend, and plan the development of a new application or modification of an existing application."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze organization's cyber defense policies and configurations and evaluate compliance with regulations and organizational directives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze user needs and software requirements to determine feasibility of design within time and cost constraints."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze design constraints, analyze trade-offs and detailed system and security design, and consider life cycle support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply coding and testing standards, apply security testing tools including \"'fuzzing\" static-analysis code scanning tools, and conduct code reviews."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply secure code documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply security policies to applications that interface with one another, such as Business-to-Business (B2B) applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply security policies to meet security objectives of the system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply service-oriented security architecture principles to meet organization's confidentiality, integrity, and availability requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the effectiveness of cybersecurity measures utilized by system(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess threats to and vulnerabilities of computer system(s) to develop a security risk profile."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop content for cyber defense tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build, test, and modify product prototypes using working models or theoretical models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capture security controls used during the requirements phase to integrate security within the process, to identify key security objectives, and to maximize software security while minimizing disruption to plans and schedules."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Characterize and analyze network traffic to identify anomalous activity and potential threats to network resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect and maintain data needed to meet system cybersecurity reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate the value of information technology (IT) security throughout all levels of the organization stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct analysis of log files, evidence, and other information to determine best methods for identifying the perpetrator(s) of a network intrusion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct and/or support authorized penetration testing on enterprise network assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct functional and connectivity testing to ensure continuing operability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct interactive training exercises to create an effective learning environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct interviews of victims and witnesses and conduct interviews or interrogations of suspects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct Privacy Impact Assessments (PIAs) of the application’s security design for the appropriate security controls, which protect the confidentiality and integrity of Personally Identifiable Information (PII)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct risk analysis, feasibility study, and/or trade-off analysis to develop, document, and refine functional requirements and specifications."
+			},
+			"comment": {
+				"en-us": [
+					"Note: a previous version had withdrawn this as a duplicate with T0164"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confer with systems analysts, engineers, programmers, and others to design application and to obtain information on project limitations and capabilities, performance requirements, and interfaces."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Configure and optimize network hubs, routers, and switches (e.g., higher-level protocols, tunneling)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confirm what is known about an intrusion and discover new information, if possible, after identifying intrusion via dynamic analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construct access paths to suites of information (e.g., link pages) to facilitate access by end-users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop threat model based on customer interviews and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consult with customers to evaluate functional requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consult with engineering staff to evaluate interface between hardware and software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate and provide expert technical support to enterprise-wide cyber defense technicians to resolve cyber defense incidents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with Cyber Defense Analysts to manage and administer the updating of rules and signatures (e.g., intrusion detection/protection systems, antivirus, and content blacklists) for specialized cyber defense applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with enterprise-wide cyber defense staff to validate network alerts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with stakeholders to establish the enterprise continuity of operations program, strategy, and mission assurance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with systems architects and developers, as needed, to provide oversight in the development of design solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correct errors by making appropriate changes and rechecking the program to ensure that desired results are produced."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correlate incident data to identify specific vulnerabilities and make recommendations that enable expeditious remediation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create a forensically sound duplicate of the evidence (i.e., forensic image) that ensures the original evidence is not unintentionally modified, to use for data recovery and analysis processes. This includes, but is not limited to, hard drives, floppy diskettes, CDs, PDAs, mobile phones, GPS, and all tape formats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decrypt seized data using technical means."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and prioritize essential system capabilities or business functions required for partial or full system restoration after a catastrophic failure event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define appropriate levels of system availability based on critical system functions and ensure that system requirements identify appropriate disaster recovery and continuity of operations requirements to include any appropriate fail-over/alternate site requirements, backup requirements, and material supportability requirements for system recover/restoration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define project scope and objectives based on customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and develop cybersecurity or cybersecurity-enabled products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design group policies and access control lists to ensure compatibility with organizational standards, business rules, and needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design hardware, operating systems, and software applications to adequately address cybersecurity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design or integrate appropriate data backup capabilities into overall system designs, and ensure that appropriate technical and procedural processes exist for secure system backups and protected storage of backup data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, develop, and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine level of assurance of developed capabilities based on test results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a plan to investigate alleged crime, violation, or suspicious activity utilizing computers and the Internet."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop an understanding of the needs and requirements of information end-users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and direct system testing and validation procedures and documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and document requirements, capabilities, and constraints for design procedures and processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and document systems administration standard operating procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and validate data mining and data warehousing programs, processes, and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement network backup and recovery procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain strategic plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop architectures or system components consistent with technical specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop data standards, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop detailed security design documentation for component and interface specifications to support system design and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop Disaster Recovery and Continuity of Operations plans for systems under development and ensure testing prior to systems entering a production environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop/integrate cybersecurity designs for systems and networks with multilevel security requirements or requirements for the processing of multiple classification levels of data primarily applicable to government organizations (e.g., UNCLASSIFIED, SECRET, and TOP SECRET)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop methods to monitor and measure risk, compliance, and assurance efforts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop new or identify existing awareness and training materials that are appropriate for intended audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop policy, programs, and guidelines for implementation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide technical summary of findings in accordance with established reporting procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop risk mitigation strategies to resolve vulnerabilities and recommend security changes to system or system components as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop secure code and error handling."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop specific cybersecurity countermeasures and risk mitigation strategies for systems and/or applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop specifications to ensure that risk, compliance, and assurance efforts conform with security, resilience, and dependability requirements at the software application, system, and network environment level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop test plans to address specifications and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose network connectivity problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document and address organization's information security, cybersecurity architecture, and systems security engineering requirements throughout the acquisition life cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draft statements of preliminary or residual security risks for system operation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ secure configuration management processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure all systems security operations and maintenance activities are properly documented and updated as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that the application of security patches for commercial products integrated into system design meet the timelines dictated by the management authority for the intended operational environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that chain of custody is followed for all digital media acquired in accordance with the Federal Rules of Evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that security improvement actions are evaluated, validated, and implemented as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that acquired or developed system(s) and architecture(s) are consistent with organization's cybersecurity architecture guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that cybersecurity inspections, tests, and reviews are coordinated for the network environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that cybersecurity requirements are integrated into the continuity planning for that system and/or organization(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that protection and detection capabilities are acquired or developed using the IS security engineering approach and are consistent with organization-level cybersecurity architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain communication channels with stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish overall enterprise information security architecture (EISA) with the organization’s overall security strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish relationships, if applicable, between the incident response team and other groups, both internal (e.g., legal department) and external (e.g., law enforcement agencies, vendors, public relations professionals)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate and approve development efforts to ensure that baseline security safeguards are appropriately installed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate contracts to ensure compliance with funding, legal, and program requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate cost/benefit, economic, and risk analysis in decision-making process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate factors such as reporting formats required, cost constraints, and need for security restrictions to determine hardware configuration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the effectiveness and comprehensiveness of existing training programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the effectiveness of laws, regulations, policies, standards, or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine recovered data for information of relevance to the issue at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuse computer network attack analyses with criminal and counterintelligence investigations and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify components or elements, allocate security functions to those elements, and describe the relationships between the elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify alternative information security strategies to address organizational security objective."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and direct the remediation of technical problems encountered during testing and implementation of new systems (e.g., identify and find work-arounds for communication protocols that are not interoperable)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and prioritize critical business functions in collaboration with organizational stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and prioritize essential system functions or sub-systems required to support essential capabilities or business functions for restoration or recovery after a system failure or during a system recovery event based on overall system requirements for continuity and availability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and/or determine whether a security incident is indicative of a violation of law that requires specific legal action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify basic common coding flaws at a high level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify data or intelligence of evidentiary value to support counterintelligence and criminal investigations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify digital evidence for examination and analysis in such a way as to avoid unintentional alteration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify elements of proof of the crime."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify information technology (IT) security program implications of new technologies or technology upgrades."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify organizational policy stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify security implications and apply methodologies within centralized and decentralized environments across the enterprise’s computer systems in software development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify security issues around steady state operation and management of software and incorporate security measures that must be taken when a product reaches its end of life."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, assess, and recommend cybersecurity or cybersecurity-enabled products for use within a system and ensure that recommended products are in compliance with organization's evaluation and validation requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, collect, and seize documentary or physical evidence, to include digital media and logs associated with cyber intrusion incidents, investigations, and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement new system design procedures, test procedures, and quality standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement security designs for new or existing system(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement specific cybersecurity countermeasures for systems and/or applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate cybersecurity vulnerability solutions into system designs (e.g., Cybersecurity Vulnerability Alerts)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install and maintain network infrastructure device operating system software (e.g., IOS, firmware)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install or replace network hubs, routers, and switches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate and align information security and/or cybersecurity policies to ensure that system analysis meets security requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate automated capabilities for updating or patching system software where practical and develop processes and procedures for manual updating and patching of system software based on current and projected patch timeline requirements for the operational environment of the system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate new systems into existing network architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interface with external organizations (e.g., public affairs, law enforcement, Command or Component Inspector General) to ensure appropriate and accurate dissemination of incident and other Computer Network Defense information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and apply laws, regulations, policies, standards, or procedures to specific issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and/or approve security requirements relative to the capabilities of new information technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret patterns of noncompliance to determine their impact on levels of risk and/or overall effectiveness of the enterprise’s cybersecurity program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead and align information technology (IT) security priorities with the security strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead and oversee information security budget, staffing, and contracting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain baseline system security according to organizational policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain database management systems software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain deployable cyber defense audit toolkit (e.g., specialized cyber defense software and hardware) to support cyber defense audit missions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain directory replication services that enable information to replicate automatically from rear servers to forward units via optimized routing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain information exchanges through publish, subscribe, and alert functions that enable users to send and receive critical information as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain information systems assurance and accreditation materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain knowledge of applicable cyber defense policies, regulations, and compliance documents specifically related to cyber defense auditing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make recommendations based on test results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage accounts, network rights, and access to systems and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage and approve Accreditation Packages (e.g., ISO/IEC 15026-2)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the compilation, cataloging, caching, distribution, and retrieval of data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the monitoring of information security data sources to maintain organizational situational awareness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the publishing of Computer Network Defense guidance (e.g., TCNOs, Concept of Operations, Net Analyst Reports, NTSM, MTOs) for the enterprise constituency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage threat or target analysis of cyber defense information and production of threat information within the enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and evaluate a system's compliance with information technology (IT) security, resilience, and dependability requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and evaluate the effectiveness of the enterprise's cybersecurity safeguards to ensure that they provide the intended level of protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and maintain databases to ensure optimal performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor network capacity and performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and report the usage of knowledge management assets and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document and escalate incidents (including event’s history, status, and potential impact for further action) that may cause ongoing and immediate impact to the environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee and make recommendations regarding configuration management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee the information security training and awareness program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in an information security risk assessment during the Security Assessment and Authorization process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the development or modification of the computer environment cybersecurity program plans and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patch network vulnerabilities to ensure that information is safeguarded against outside parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform analysis of log files from a variety of sources (e.g., individual host logs, network traffic logs, firewall logs, and intrusion detection system [IDS] logs) to identify possible threats to network security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform backup and recovery of databases to ensure data integrity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform cyber defense incident triage, to include determining scope, urgency, and potential impact, identifying the specific vulnerability, and making recommendations that enable expeditious remediation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform cyber defense trend analysis and reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform dynamic analysis to boot an “image” of a drive (without necessarily having the original drive) to see the intrusion as the user may have seen it, in a native environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform event correlation using information gathered from a variety of sources within the enterprise to gain situational awareness and determine the effectiveness of an observed attack."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform file signature analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform hash comparison against established database."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform cybersecurity testing of developed applications and/or systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform initial, forensically sound collection of images and inspect to discern possible mitigation/remediation on enterprise systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform integrated quality assurance testing for security functionality and resiliency attack."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform real-time forensic analysis (e.g., using Helix in conjunction with LiveView)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform timeline analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform needs analysis to determine opportunities for new and improved business process solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform real-time cyber defense incident handling (e.g., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation) tasks to support deployable Incident Response Teams (IRTs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform secure programming and identify potential flaws in codes to mitigate vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform security reviews, identify gaps in security architecture, and develop a security risk management plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform security reviews and identify security gaps in security architecture resulting in recommendations for inclusion in the risk mitigation strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform static media analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform system administration on specialized cyber defense applications and systems (e.g., antivirus, audit and remediation) or Virtual Private Network (VPN) devices, to include installation, configuration, maintenance, backup, and restoration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform risk analysis (e.g., threat, vulnerability, and probability of occurrence) whenever an application or system undergoes a major change."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tier 1, 2, and 3 malware analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform validation steps, comparing actual results with expected results and analyze the differences to identify impact and risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and conduct security authorization reviews and assurance case development for initial installation of systems and networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and manage the delivery of knowledge management projects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan, execute, and verify data redundancy and system recovery procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and recommend modifications or adjustments based on exercise results or system environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare audit reports that identify technical and procedural findings, and provide recommended remediation strategies/solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare digital media for imaging by ensuring data integrity (e.g., write blockers in accordance with standard operating procedures)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare use cases to justify the need for specific information technology (IT) solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare, distribute, and maintain plans, instructions, guidance, and standard operating procedures concerning the security of network system(s) operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process crime scenes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly document all systems security implementation, operations, and maintenance activities and update as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide a managed flow of relevant information (via web-based portals or other means) based on mission requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide advice on project costs, design concepts, or design changes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide an accurate technical evaluation of the software application, system, or network, documenting the security posture, capabilities, and vulnerabilities against relevant cybersecurity compliances."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide daily summary reports of network events and activity relevant to cyber defense practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide enterprise cybersecurity and supply chain risk management guidance for development of the Continuity of Operations Plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide feedback on network requirements, including network architecture and infrastructure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide guidelines for implementing developed systems to customers or installation teams."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide cybersecurity guidance to leadership."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input on security requirements to be included in statements of work and other appropriate procurement documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to implementation plans and standard operating procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to the Risk Management Framework process activities and related documentation (e.g., system life-cycle support plans, concept of operations, operational procedures, and maintenance training materials)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide leadership and direction to information technology (IT) personnel by ensuring that cybersecurity awareness, basics, literacy, and training are provided to operations personnel commensurate with their responsibilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide ongoing optimization and problem-solving support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide recommendations for possible improvements and upgrades."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide recommendations on data structures and databases that ensure correct and quality production of reports/management information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide recommendations on new database technologies and architectures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide system-related input on cybersecurity requirements to be included in statements of work and other appropriate procurement documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide technical assistance on digital evidence matters to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide technical documents, incident reports, findings from computer examinations, summaries, and other situational awareness information to higher headquarters."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive and analyze network alerts from various sources within the enterprise and determine possible causes of such alerts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize a possible security violation and take appropriate action to report the incident, as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately report forensic artifacts indicative of a particular operating system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address security implications in the software acceptance phase including completion criteria, risk acceptance and documentation, common criteria, and methods of independent testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend new or revised security, resilience, and dependability measures based on the results of reviews."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend resource allocations required to securely operate and maintain an organization’s cybersecurity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve conflicts in laws, regulations, policies, standards, or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review authorization and assurance documents to confirm that the level of risk is within acceptable limits for each software application, system, and network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review existing and proposed policies with stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review or conduct audits of information technology (IT) programs and projects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review training documentation (e.g., Course Content Documents [CCD], lesson plans, student texts, examinations, Schedules of Instruction [SOI], and course descriptions)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Secure the electronic device or information source."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve on agency and interagency policy boards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend policy and coordinate review and approval."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Store, retrieve, and manipulate data for analysis of system capabilities and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supervise or manage protective or corrective measures when a cybersecurity incident or vulnerability is discovered."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the design and execution of exercise scenarios."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide support to security/certification test and evaluation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test and maintain network infrastructure including software and hardware devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Track and document cyber defense incidents from initial detection through final resolution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Track audit findings and recommendations to ensure that appropriate mitigation actions are taken."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate functional requirements into technical solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate security requirements into application design elements including documenting the elements of the software attack surfaces, conducting threat modeling, and defining any specific security criteria."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot system hardware and software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Extract data using data carving techniques (e.g., Forensic Tool Kit [FTK], Foremost)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use federal and organization-specific published documents to manage operations of their computing environment system(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capture and analyze network traffic associated with malicious activities using network monitoring tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use specialized equipment and techniques to catalog, document, extract, collect, package, and preserve digital evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize models and simulations to analyze or predict system performance under different operating conditions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify and update security documentation reflecting the application/system security design features."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that application software/network/system security postures are implemented as stated, document deviations, and recommend required actions to correct those deviations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that the software application/network/system accreditation and assurance documentation is current."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write and publish cyber defense techniques, guidance, and reports on incident findings to appropriate constituencies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write instructional materials (e.g., standard operating procedures, production manual) to provide detailed guidance to relevant portion of the workforce."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote awareness of security issues among management and ensure sound security principles are reflected in the organization's vision and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research current technology to understand capabilities of required system or network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify cyber capabilities strategies for custom hardware and software development based on mission requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop security compliance processes and/or audits for external services (e.g., cloud service providers, data centers)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct required reviews as appropriate within environment (e.g., Technical Surveillance, Countermeasure Reviews [TSCM], TEMPEST countermeasure reviews)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct cursory binary analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee policy standards and implementation strategies to ensure procedures and guidelines comply with cybersecurity policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in Risk Governance process to provide security risks, mitigations, and input on other technical risk."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the effectiveness of procurement function in addressing information security requirements and supply chain risks through procurement activities and recommend improvements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine scope, infrastructure, resources, and data sample size to ensure system requirements are adequately demonstrated."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide timely detection, identification, and alerting of possible attacks/intrusions, anomalous activities, and misuse activities and distinguish these incidents and events from benign activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use cyber defense tools for continual monitoring and analysis of system activity to identify malicious activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze identified malicious activity to determine weaknesses exploited, exploitation methods, effects on system and information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in identifying, prioritizing, and coordinating the protection of critical cyber defense infrastructure and key resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ approved defense-in-depth principles and practices (e.g., defense-in-multiple places, layered defenses, security robustness)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify security requirements specific to an information technology (IT) system in all phases of the system life cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that plans of actions and milestones or remediation plans are in place for vulnerabilities identified during risk assessments, audits, inspections, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assure successful implementation and functionality of security requirements and appropriate information technology (IT) policies and procedures that are consistent with the organization's mission and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform penetration testing as required for new or updated applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design countermeasures and mitigations against potential exploitations of programming language weaknesses and vulnerabilities in system and elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and document how the implementation of a new system or new interfaces between systems impacts the security posture of the current environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and develop key management functions (as related to cybersecurity)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze user needs and requirements to plan and conduct system security development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop cybersecurity designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations, high integrity and availability requirements, multilevel security/processing of multiple classification levels, and processing Sensitive Compartmented Information)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that security design and cybersecurity development activities are properly documented (providing a functional description of security implementation) and updated as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and document supply chain risks for critical system elements, as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create auditable evidence of security measures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support necessary compliance activities (e.g., ensure that system security configuration guidelines are followed, compliance monitoring occurs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the acquisition process as necessary, following appropriate supply chain risk management practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that all acquisitions, procurements, and outsourcing efforts address information security requirements consistent with organization goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect intrusion artifacts (e.g., source code, malware, Trojans) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as technical expert and liaison to law enforcement personnel and explain incident details as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuously validate the organization against policies/guidelines/procedures/regulations/laws to ensure compliance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forecast ongoing service demands and ensure that security assumptions are reviewed as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and/or implement policies and procedures to ensure protection of critical infrastructure as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with stakeholders to identify and/or develop appropriate solutions technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and develop new tools/technologies as related to cybersecurity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform virus scanning on digital media."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform file system forensic analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform static analysis to mount an \"image\" of a drive (without necessarily having the original drive)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform static malware analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize deployable forensics toolkit to support operations as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine tactics, techniques, and procedures (TTPs) for intrusion sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine network topologies to understand data flows through the network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend computing environment vulnerability corrections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and analyze anomalies in network traffic using metadata."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct research, analysis, and correlation across a wide variety of all source data sets (indications and warnings)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validate intrusion detection system (IDS) alerts against network traffic using packet analysis tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Isolate and remove malware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify applications and operating systems of a network device based on network traffic."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reconstruct a malicious attack or activity based off network traffic."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify network mapping and operating system (OS) fingerprinting activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and document User Experience (UX) requirements including information architecture and user interface requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement cybersecurity independent audit processes for application software/networks/systems and oversee ongoing independent audits to ensure that operational and Research and Design (R&D) processes and procedures are in compliance with organizational and mandatory cybersecurity requirements and accurately followed by Systems Administrators and other cybersecurity staff when performing their day-to-day activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop contract language to ensure supply chain, system, network, and operational security are met."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and leverage the enterprise-wide version control system while designing and developing secure applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement and integrate system development life cycle (SDLC) methodologies (e.g., IBM Rational Unified Process) into development environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performs configuration management, problem management, capacity management, and financial management for databases and data management systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supports incident management, service-level management, change management, release management, continuity management, and availability management for databases and data management systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze candidate architectures, allocate security services, and select security mechanisms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze incident data for emerging trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the effectiveness of security controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the construction of signatures which can be implemented on cyber defense network tools in response to new or observed threats within the network environment or enclave."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consult with customers about software system design and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with intelligence analysts to correlate threat assessment data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and document quality standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a system security context, a preliminary system security Concept of Operations (CONOPS), and define baseline system security requirements in accordance with applicable cybersecurity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and deliver technical training to educate others or meet customer needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of computer based training modules or classes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of course assignments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of course evaluations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of grading and proficiency standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the development of individual/collective development, training, and/or remediation plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of learning objectives and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of on-the-job training materials or programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of written tests for measuring and assessing learner proficiency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct software programming and development of documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document a system's purpose and preliminary system security concept of operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ configuration management processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate network infrastructure vulnerabilities to enhance capabilities being developed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate security architectures and designs to determine the adequacy of security design and architecture proposed or provided in response to requirements contained in acquisition documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow software and systems engineering life cycle standards and processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain assured message delivery systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain incident tracking and solution database."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notify designated managers, cyber incident responders, and cybersecurity service provider team members of suspected cyber incidents and articulate the event's history, status, and potential impact for further action in accordance with the organization's cyber incident response plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform cyber defense trend analysis and reporting."
+			},
+			"comment": {
+				"en-us": [
+					"Note - missing from Final"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that all systems components can be integrated and aligned (e.g., procedures, databases, policies, software, and hardware)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build, install, configure, and test dedicated cyber defense hardware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated with T0228"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supervise and assign work to programmers, designers, technologists and technicians, and other engineering and scientific personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write detailed functional specifications that document the architecture development process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead efforts to promote the organization's use of knowledge management and information sharing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act as a primary stakeholder in the underlying information technology (IT) operational processes and functions that support the service, provide direction and monitor all significant activities so the service is delivered successfully."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advocate for adequate funding for cyber training resources, to include both internal and industry-provided courses, instructors, and related materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze data sources to provide actionable recommendations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the crisis to ensure public, personal, and resource protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess all the configuration management (change configuration/release management) processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess effectiveness and efficiency of instruction according to ease of instructional technology use and student learning, knowledge transfer, and satisfaction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the behavior of the individual victim, witness, or suspect as it relates to the investigation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the validity of source data and subsequent findings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in assessing the impact of implementing and sustaining a dedicated cyber defense infrastructure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect metrics and trending data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct a market analysis to identify, assess, and recommend commercial, Government off-the-shelf, and open source products for use within a system and ensure recommended products are in compliance with organization's evaluation and validation requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct hypothesis testing using statistical processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct learning needs assessments and identify requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confer with systems analysts, engineers, programmers, and others to design application."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate and manage the overall service provided to a customer end-to-end."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with internal and external subject matter experts to ensure existing qualification standards reflect organizational functional requirements and meet industry standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with organizational manpower stakeholders to ensure appropriate allocation and distribution of human capital assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create interactive learning exercises to create an effective learning environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and develop system administration and management functionality for privileged access users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, implement, test, and evaluate secure interfaces between information systems, physical systems, and/or embedded technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the extent of threats and recommend courses of action or countermeasures to mitigate risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and facilitate data-gathering methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement standardized position descriptions based on established cyber work roles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and review recruiting, hiring, and retention procedures in accordance with current HR policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop cyber career field classification structure to include establishing career field entry requirements and other nomenclature such as codes and identifiers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist in the development of training policies and protocols for cyber training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop strategic insights from large data sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop the goals and objectives for cyber curriculum."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that cyber career fields are managed in accordance with organizational HR policies and directives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that cyber workforce management policies and processes comply with legal and organizational requirements regarding equal opportunity, diversity, and fair hiring/employment practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that appropriate Service-Level Agreements (SLAs) and underpinning contracts have been defined that clearly set out for the customer a description of the service and the measures for monitoring the service."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish acceptable limits for the software application, network, or system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and collect metrics to monitor and validate cyber workforce readiness including analysis of cyber workforce data to assess the status of positions identified, filled, and filled with qualified personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and oversee waiver processes for cyber career field entry and training qualification requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish cyber career paths to allow career progression, deliberate development, and growth within and between cyber career fields."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish manpower, personnel, and qualification data element standards to support cyber workforce management and reporting requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish, resource, implement, and assess cyber workforce management programs in accordance with organizational requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gather feedback on customer satisfaction and internal service performance to foster continual improvement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporates risk-driven systems maintenance updates process to address system deficiencies (periodically and out of cycle)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the internal relationship with information technology (IT) process owners supporting the service, assisting with the definition and agreement of Operating Level Agreements (OLAs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan instructional strategies such as lectures, demonstrations, interactive exercises, multimedia presentations, video courses, web-based courses for most effective learning environment in conjunction with educators and trainers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present technical information to technical and nontechnical audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present data in creative formats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Program custom algorithms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote awareness of cyber policy and strategy as appropriate among management and ensure sound principles are reflected in the organization's mission, vision, and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide actionable recommendations to critical stakeholders based on data analysis and findings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide criminal investigative support to trial counsel during the judicial process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and apply cyber career field qualification standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and apply organizational policies related to or influencing the cyber workforce."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review service performance reports identifying any significant issues and variances, initiating, where necessary, corrective actions and ensuring that all outstanding issues are followed up."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review/Assess cyber workforce effectiveness to adjust skill and/or qualification standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support integration of qualified cyber workforce personnel into information systems life cycle development processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize technical documentation or resources to implement a new mathematical, data science, or computer science method."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validate specifications and requirements for testability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with other service managers and product owners to balance and prioritize services to meet overall customer requirements, constraints, and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write and publish after action reviews."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process image with appropriate tools depending on analyst’s goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform Windows registry analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform file and registry monitoring on the running system after identifying intrusion via dynamic analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter media information into tracking database (e.g., Product Tracker Tool) for digital media that has been acquired."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correlate incident data and perform cyber defense reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain deployable cyber defense toolkit (e.g., specialized cyber defense software/hardware) to support Incident Response Team mission."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively allocate storage capacity in the design of data management systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read, interpret, write, modify, and execute simple scripts (e.g., Perl, VBScript) on Windows and UNIX systems (e.g., those that perform tasks such as: parsing large data files, automating manual tasks, and fetching/processing remote data)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize different programming languages to write code, open files, read files, and write output to different files."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize open source language such as R and apply quantitative techniques (e.g., descriptive and inferential statistics, sampling, experimental design, parametric and non-parametric tests of difference, ordinary least squares regression, general line)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that design and development activities are properly documented (providing a functional description of implementation) and updated as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the acquisition process as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and apply applicable laws, statutes, and regulatory documents and integrate into policy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot prototype design and process issues throughout the product design, development, and pre-launch phases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify functional- and security-related features to find opportunities for new capability development to exploit or mitigate vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and/or develop reverse engineering tools to enhance capabilities and detect vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct import/export reviews for acquiring systems and software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop data management capabilities (e.g., cloud-based, centralized cryptographic key management) to include support to the mobile workforce."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop supply chain, system, network, performance, and cybersecurity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that supply chain, system, network, performance, and cybersecurity requirements are included in contract language and delivered."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enable applications with public keying by leveraging existing public key infrastructure (PKI) libraries and incorporating certificate management and encryption functionalities when appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and leverage the enterprise-wide security services while designing and developing secure applications (e.g., Enterprise PKI, Federated Identity server, Enterprise Antivirus solution) when appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install, update, and troubleshoot systems/servers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acquire and maintain a working knowledge of constitutional issues which arise in relevant laws, regulations, policies, agreements, standards, procedures, or other issuances."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer test bed(s), and test and evaluate applications, hardware infrastructure, rules/signatures, access controls, and configurations of platforms managed by service provider(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the indexing/cataloguing, storage, and access of explicit organizational knowledge (e.g., hard copy documents, digital files)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement data management standards, requirements, and specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze computer-generated threats for counter intelligence or criminal activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and provide information to stakeholders that will support the development of security application or modification of an existing security application."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze organizational cyber policy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the results of software, hardware, or interoperability testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze user needs and requirements to plan architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze security needs and software requirements to determine feasibility of design within time and cost constraints and security mandates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess policy needs and collaborate with stakeholders to develop policies to govern cyber activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gather and preserve evidence used on the prosecution of computer crimes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Check system hardware availability, functionality, integrity, and efficiency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect and analyze intrusion artifacts (e.g., source code, malware, and system configuration) and use discovered data to enable mitigation of potential cyber defense incidents within the enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct analysis of log files, evidence, and other information to determine best methods for identifying the perpetrator(s) of a network intrusion or other crimes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct framing of pleadings to properly identify alleged violations of law, regulations, or policy/guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct periodic system maintenance including cleaning (both physically and electronically), disk checks, routine reboots, data dumps, and testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct trial runs of programs and software applications to ensure that the desired information is produced and instructions and security levels are correct."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correlate training and learning to business or mission requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create, edit, and manage network access control lists on specialized cyber defense systems (e.g., firewalls and intrusion prevention systems)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and analyze encrypted data, stenography, alternate data streams and other forms of concealed data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capture and integrate essential system capabilities or business functions required for partial or full system restoration after a catastrophic failure event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and integrate current and future mission environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create training courses tailored to the audience and physical environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deliver training courses tailored to the audience and physical/virtual environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply concepts, procedures, software, equipment, and/or technology applications to students."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design/integrate a cyber strategy that outlines the vision, mission, and goals that align with the organization’s strategic plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, develop, integrate, and update system security measures that provide confidentiality, integrity, availability, authentication, and non-repudiation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design hardware, operating systems, and software applications to adequately address requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop enterprise architecture or system components required to meet user needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design to security requirements to ensure requirements are met for all systems and/or applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design training curriculum and course content based on requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in development of training curriculum and course content."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, build, implement, and maintain a knowledge management framework that provides end-users access to the organization’s intellectual capital."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine and develop leads and identify sources of information to identify and/or prosecute the responsible parties to an intrusion or other crimes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define baseline security requirements in accordance with applicable guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop software system testing and validation procedures, programming, and documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop secure software testing and validation procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop system testing and validation procedures, programming, and documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organization systems administration standard operating procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement data mining and data warehousing applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement data mining and data warehousing programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement and enforce local network usage policies and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop procedures and test fail-over for system operations transfer to an alternate site based on system availability requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop cost estimates for new or modified system(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop detailed design documentation for component and interface specifications to support system design and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop guidelines for implementation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop mitigation strategies to address cost, schedule, performance, and security risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that training meets the goals and objectives for cybersecurity training, education, or awareness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose and resolve customer reported system incidents, problems, and events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and report organizational security posture trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and report system security posture trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document original condition of digital and/or associated evidence (e.g., via digital photographs, written reports, hash function checking)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draft, staff, and publish cyber policy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document and update as necessary all definition and architecture activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide legal analysis and decisions to inspectors general, privacy officers, oversight and compliance personnel regarding compliance with cybersecurity policies and relevant legal and regulatory requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess adequate access controls based on principles of least privilege and need-to-know."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the impact of changes to laws, regulations, policies, standards, or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure the execution of disaster recovery and continuity of operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide guidance on laws, regulations, policies, standards, or procedures to management, personnel, or clients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ information technology (IT) systems and digital storage media to solve, investigate, and/or prosecute cybercrimes and fraud committed against people and property."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify components or elements, allocate comprehensive functional components to include security functions, and describe the relationships between the elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and address cyber workforce planning and management issues (e.g. recruitment, retention, and training)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make recommendations based on trend analysis for enhancements to software and hardware solutions to enhance customer experience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential conflicts with implementation of any cyber defense tools (e.g., tool and signature testing and optimization)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the protection needs (i.e., security controls) for the information system(s) and network(s) and document appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement security measures to resolve vulnerabilities, mitigate risks, and recommend security changes to system or system components as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement Risk Management Framework (RMF)/Security Assessment and Authorization (SA&A) requirements for dedicated cyber defense systems within the enterprise, and document and maintain records for them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate implementation of new or revised laws, regulations, executive orders, policies, standards, or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement designs for new or existing system(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement system security measures in accordance with established procedures to ensure confidentiality, integrity, availability, authentication, and non-repudiation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install and configure database management systems and software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install and configure hardware, software, and peripheral equipment for system users in accordance with organizational standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure the integration and implementation of Cross-Domain Solutions (CDS) in a secure environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead and oversee budget, staffing, and contracting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer accounts, network rights, and access to systems and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage Accreditation Packages (e.g., ISO/IEC 15026-2)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform asset management/inventory of information technology (IT) resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the information technology (IT) planning process to ensure that developed solutions meet customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage system/server resources including performance, capacity, availability, serviceability, and recoverability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mitigate/correct security deficiencies identified during security/certification testing and/or recommend risk acceptance for the appropriate senior leader or authorized representative."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify and maintain existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and maintain system/server configuration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and report client-level computer system performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor external data sources (e.g., cyber defense vendor sites, Computer Emergency Response Teams, Security Focus) to maintain currency of cyber defense threat condition and determine which security issues may have an impact on the enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess and monitor cybersecurity related to system implementation and testing practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor the rigorous application of cyber policies, principles, and practices in the delivery of planning and management services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek consensus on proposed policy changes from stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee installation, implementation, configuration, and support of system components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify minimum security requirements are in place for all applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform an information security risk assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate incident response functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform developmental testing on systems under development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform interoperability testing on systems exchanging electronic information with other systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform operational testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose faulty system/server hardware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform repairs on faulty system/server hardware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform secure program testing, review, and/or assessment to identify potential flaws in codes and mitigate vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate results regarding the identification of gaps in security architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform security reviews and identify security gaps in architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and coordinate the delivery of classroom techniques and formats (e.g., lectures, demonstrations, interactive exercises, multimedia presentations) for the most effective learning environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan non-classroom educational techniques and formats (e.g., video courses, mentoring, web-based courses)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan implementation strategy to ensure that enterprise components can be integrated and aligned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare legal and other relevant documents (e.g., depositions, briefs, affidavits, declarations, appeals, pleadings, discovery)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare reports to document the investigation following legal standards and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote knowledge sharing between information owners/users through an organization’s operational processes and systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide enterprise cybersecurity and supply chain risk management guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides cybersecurity recommendations to leadership based on significant threats and vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to implementation plans and standard operating procedures as they relate to information systems security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to implementation plans, standard operating procedures, maintenance documentation, and maintenance training materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide policy guidance to cyber management, staff, and users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a trend analysis and impact report."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot hardware/software interface and interoperability problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review forensic images and other data sources (e.g., volatile data) for recovery of potentially relevant information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review, conduct, or participate in audits of cyber programs and projects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct periodic reviews/revisions of course content for accuracy, completeness alignment, and currency (e.g., course content documents, lesson plans, student texts, examinations, schedules of instruction, and course descriptions)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend revisions to curriculum and course content based on feedback from previous training sessions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as an internal consultant and advisor in own area of expertise (e.g., technical, copyright, print media, electronic media)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the CIO in the formulation of cyber-related policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide support to test and evaluation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test, evaluate, and verify hardware and/or software to determine compliance with defined specifications and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record and manage test data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trace system requirements to design components and perform gap analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate proposed capabilities into technical requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Use data carving techniques (e.g., FTK-Foremost) to extract data for further analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify stability, interoperability, portability, and/or scalability of system architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with stakeholders to resolve computer security incidents and vulnerability compliance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write and publish cyber defense recommendations, reports, and white papers on incident findings to appropriate constituencies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and evaluate available technologies and standards to meet customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide advice and input for Disaster Recovery, Contingency, and Continuity of Operations Plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform technical (evaluation of technology) and nontechnical (evaluation of people and operations) risk and vulnerability assessments of relevant technology focus areas (e.g., local computing environment, network and infrastructure, enclave boundary, supporting infrastructure, and applications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make recommendations regarding the selection of cost-effective security controls to mitigate risk (e.g., protection of information, systems and processes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draft and publish supply chain security and risk management documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and approve a supply chain security/risk management policy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply cybersecurity functions (e.g., encryption, access control, and identity management) to reduce exploitation opportunities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine and document software patches or the extent of releases that would leave software vulnerable."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document how the implementation of a new system or new interface between systems impacts the current and target environment including but not limited to security posture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess and design security management functions as related to cyberspace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate key management functions as related to cyberspace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze user needs and requirements to plan and conduct system development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate on cybersecurity designs to meet specific operational needs and environmental factors (e.g., access controls, automated applications, networked operations, high integrity and availability requirements, multilevel security/processing of multiple classification levels, and processing Sensitive Compartmented Information)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accurately characterize targets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust collection operations or collection plan to address identified issues/challenges and to synchronize collections with overall operational requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to the analysis, design, development or acquisition of capabilities used for meeting objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze feedback to determine extent to which collection products and services are meeting requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze incoming collection requests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze internal operational architecture, tools, and procedures for ways to improve performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze target operational architecture for ways to gain access."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze plans, directives, guidance and policy for factors that would influence collection management's operational structure and requirement s (e.g., duration, scope, communication requirements, interagency/international agreements)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Answer requests for information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply and utilize authorized cyber capabilities to enable access to targeted networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply expertise in policy and processes to facilitate the development, negotiation, and internal staffing of plans and/or memorandums of agreement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply cyber collection, environment preparation and engagement expertise to enable new exploitation and/or continued collection operations, or in support of customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess and apply operational environment factors and risks to collection management process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply and obey applicable statutes, laws, regulations and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate for intelligence support to operational planning activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess all-source intelligence and recommend targets to support cyber operation objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess efficiency of existing information exchange and management systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess performance of collection assets against prescribed specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess target vulnerabilities and/or operational capabilities to determine course of action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the effectiveness of collections in satisfying priority information gaps, using available capabilities and methods, and adjust collection strategies and collection requirements accordingly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist and advise interagency partners in identifying and developing best practices for facilitating operational support to achievement of organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide expertise to course of action development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to the development of a common operational picture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a common intelligence picture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to the development of cyber operations specific indicators."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the coordination, validation, and management of all-source collection requirements, plans, and/or activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the development and refinement of priority information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide expertise to the development of measures of effectiveness and measures of performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the identification of intelligence collection shortfalls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enable synchronization of intelligence support plans across partner organizations as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform analysis for target infrastructure exploitation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to the identification of cyber-related success criteria."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Brief threat and/or target current situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build and maintain electronic target folders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Classify documents in accordance with classification guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Close requests for information once satisfied."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with intelligence analysts/targeting organizations involved in related areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with development organizations to create and deploy the tools needed to achieve objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with other customer, Intelligence and targeting organizations involved in related cyber areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with other internal and external partner organizations on target access and operational issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with other team members or partner organizations to develop a diverse program of information materials (e.g., web pages, briefings, print materials)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with customer to define information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate new developments, breakthroughs, challenges and lessons learned to leadership, and internal and external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare allocated and available assets to collection demand as expressed through requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile lessons learned from collection management activity's execution of organization collection objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, integrate, and/or interpret all-source data for intelligence or vulnerability value with respect to specific targets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and conduct analysis of target communications to identify information essential to support operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct analysis of physical and logical digital technologies (e.g., wireless, SCADA, telecom) to identify potential avenues of access."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct access enabling of wireless computer and digital networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct collection and processing of wireless computer and digital networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct end-of-operations assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct exploitation of wireless computer and digital networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct formal and informal coordination of collection requirements in accordance with established guidelines and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct independent in-depth target and technical analysis including target-specific information (e.g., cultural, organizational, political) that results in access."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct in-depth research and analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct network scouting and vulnerability analyses of systems within a network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct nodal analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct on-net activities to control and exfiltrate data from deployed technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct on-net and off-net activities to control, and exfiltrate data from deployed, automated technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct open source data collection via various online tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct quality control to determine validity and relevance of information gathered about networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, review and implement all levels of planning guidance in support of cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct survey of computer and digital networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct target research and analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider efficiency and effectiveness of collection assets and resources if/when applied against priority information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construct collection plans and matrixes using established guidance and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to crisis action planning for cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to the development of the organization's decision support tools if necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to the development, staffing, and coordination of cyber operations policies, performance standards, plans and approval packages with appropriate internal and/or external decision makers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate intelligence equities into the overall design of cyber operations plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate resource allocation of collection assets against prioritized collection requirements with collection discipline leads."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate inclusion of collection plan in appropriate documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate target vetting with appropriate partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Re-task or re-direct collection assets and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with intelligence and cyber defense partners to obtain relevant essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with intelligence planners to ensure that collection managers receive information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with the intelligence planning team to assess capability to satisfy assigned intelligence tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate, produce, and track intelligence requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate, synchronize and draft applicable intelligence sections of cyber operations plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use intelligence estimates to counter potential target actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create comprehensive exploitation strategies that identify exploitable technical or operational vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain awareness of internal and external cyber organization structures, strengths, and employments of staffing and technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deploy tools to a target and utilize them once deployed (e.g., backdoors, sniffers)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect exploits against targeted networks and hosts and react accordingly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine course of action for addressing changes to objectives, guidance, and operational environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine existing collection management webpage databases, libraries and storehouses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine how identified factors affect the tasking, collection, processing, exploitation and dissemination architecture's form and function."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine indicators (e.g., measures of effectiveness) that are best suited to specific cyber operation objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine organizations and/or echelons with collection authority over all accessible collection assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine what technologies are used by a given target."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a method for comparing collection reports to outstanding requirements to identify information gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop all-source intelligence targeting materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply analytic techniques to gain more target information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain deliberate and/or crisis plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and review specific cyber operations guidance for integration into broader planning activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and review intelligence guidance for integration into supporting cyber operations planning and execution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop coordinating instructions by collection discipline for each phase of an operation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop cyber operations plans and guidance to ensure that execution and resource allocation decisions align with organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop detailed intelligence support to cyber operations requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop information requirements necessary for answering priority information requests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop measures of effectiveness and measures of performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate collection assets based on leadership's guidance, priorities, and/or operational emphasis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop munitions effectiveness assessment or operational assessment materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop new techniques for gaining and keeping access to target systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or participate in the development of standards for providing, requesting, and/or obtaining support from external partners to synchronize cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or shape international cyber engagement strategies, policies, and activities to meet organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop potential courses of action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop procedures for providing feedback to collection managers, asset managers, and processing, exploitation and dissemination centers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop strategy and processes for partner planning, operations, and capability development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, implement, and recommend changes to appropriate planning procedures and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, maintain, and assess cyber cooperation security agreements with external partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Devise, document, and validate cyber operation strategy and planning documents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminate reports to inform decision makers on collection issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminate tasking messages and collection plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct and document an assessment of the collection results using established procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draft cyber intelligence collection and production requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Edit or execute simple scripts (e.g., Perl, VBScript) on Windows and UNIX systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage customers to understand customers’ intelligence needs and wants."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure operational planning efforts are effectively transitioned to current operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that intelligence planning activities are integrated and synchronized with operational planning timelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish alternative processing, exploitation and dissemination pathways to address identified issues or problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validate the link between collection requests and critical information requirements and priority intelligence requirements of leadership."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish processing, exploitation and dissemination management activity using approved guidance and/or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate operational effects generated through cyber activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate threat decision-making processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify threat vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify threats to Blue Force vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate available capabilities against desired effects to recommend efficient solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate extent to which collected information and/or produced intelligence satisfy information requests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate intelligence estimates to support the planning cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the conditions that affect employment of available cyber intelligence capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate and evaluate the effectiveness of network analysis strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate extent to which collection operations are synchronized with operational requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the effectiveness of collection operations against the collection plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine intercept-related metadata and content with an understanding of targeting significance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exploit network devices, security devices, and/or terminals or environments using various methods or tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate access enabling by physical and/or wireless means."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate continuously updated intelligence, surveillance, and visualization input to common operational picture managers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate interactions between internal and external partner decision makers to synchronize and integrate courses of action in support of objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate the sharing of “best practices” and “lessons learned” throughout the cyber operations community."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with developers, conveying target and technical knowledge in tool requirements submissions, to enhance tool development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate collection strategies based on knowledge of available intelligence discipline capabilities and gathering methods that align multi-discipline collection capabilities and accesses with targets and their observables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gather and analyze data (e.g., measures of effectiveness) to determine effectiveness, and provide reporting for follow-on activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate cyber operations and communications security support plans into organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate intelligence and counterintelligence to support plan development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gather information about networks through traditional and alternative techniques, (e.g., social network analysis, call-chaining, traffic analysis.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate requests for information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify threat tactics, and methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify all available partner intelligence capabilities and limitations supporting cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and evaluate threat critical capabilities, requirements, and vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, draft, evaluate, and prioritize relevant intelligence or information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and manage security cooperation priorities with external partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and submit intelligence requirements for the purposes of designating priority information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify collaboration forums that can serve as mechanisms for coordinating processes, functions, and outputs with specified organizations and functional groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify collection gaps and potential collection strategies against targets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify coordination requirements and procedures with designated collection authorities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify critical target elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify intelligence gaps and shortfalls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify cyber intelligence gaps and shortfalls for cyber operational planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify gaps in our understanding of target technology and developing innovative collection approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify issues or problems that can disrupt and/or degrade processing, exploitation and dissemination architecture effectiveness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify network components and their functionality to enable analysis and target development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential collection disciplines for application against priority information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential points of strength and vulnerability within a network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and mitigate risks to collection management ability to support the plan, operations and target cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the need, scope, and timeframe for applicable intelligence environment preparation derived production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, locate, and track targets via geospatial analysis techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to or develop courses of action based on threat factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform external partners of the potential effects of new or revised policy and guidance on cyber operations partnering activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform stakeholders (e.g., collection managers, asset managers, processing, exploitation and dissemination centers) of evaluation results using established procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiate requests to guide tasking and assist with collection management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate cyber planning/targeting efforts with other organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret environment preparations assessments to determine a course of action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Issue requests for information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead and coordinate intelligence support to operational planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead or enable exploitation operations in support of organization objectives and target requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Link priority collection requirements to optimal assets and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain awareness of advancements in hardware and software technologies (e.g., attend training or conferences, reading) and their potential implications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain relationships with internal and external partners involved in cyber planning or related areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain situational awareness and functionality of organic operational infrastructure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain situational awareness of cyber-related intelligence requirements and associated tasking."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain situational awareness of partner capabilities and activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain situational awareness to determine if changes to the operating environment require review of the plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain target lists (i.e., RTL, JTL, CTL, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make recommendations to guide collection in support of customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify collection requirements as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and evaluate integrated cyber operations to identify opportunities to meet organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and report changes in threat dispositions, activities, tactics, capabilities, objectives, etc. as related to designated cyber operations warning problem sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and report on validated threat activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor completion of reallocated collection efforts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor open source websites for hostile content directed towards organizational or partner interests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor operational environment and report on adversarial activities which fulfill leadership’s priority information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor operational status and effectiveness of the processing, exploitation and dissemination architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor target networks to provide indications and warning of target communications changes or processing failures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor the operational environment for potential factors and risks to the collection operation management process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate and maintain automated systems for gaining and maintaining access to target systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Optimize mix of collection assets and resources to increase effectiveness and efficiency against essential information associated with priority intelligence requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Produce timely, fused, all-source cyber operations intelligence and/or indications and warnings intelligence products (e.g., threat assessments, briefings, intelligence studies, country studies)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to the review and refinement of policy, to include assessments of the consequences of endorsing or not endorsing such policy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to planning teams, coordination groups, and task forces as necessary."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject-matter expertise and support to planning/developmental forums and working groups as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Provide subject matter expertise in course of action development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct long-range, strategic planning efforts with internal and external partners in cyber activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to planning efforts with internal and external cyber operations partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to development of exercises."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Propose policy which governs interactions with external coordination groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform content and/or metadata analysis to meet organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct cyber activities to degrade/remove information resident in computers and computer networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform targeting automation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Characterize websites."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide subject matter expertise to website characterizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare for and provide subject matter expertise to exercises."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize collection requirements for collection platforms based on platform capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process exfiltrated data for analysis and/or dissemination to customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Produce network reconstructions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Produce target system analysis products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Profile network or system administrators and their activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Profile targets and their activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide advice/assistance to operations and intelligence decision makers with reassignment of collection assets and resources in response to dynamic operational situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide advisory and advocacy support to promote collection planning as an integrated component of the strategic campaign plans and other adaptive plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide aim point and reengagement recommendations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide analyses and support for effectiveness assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide current intelligence support to critical internal/external stakeholders as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide cyber focused guidance and advice on intelligence support plan inputs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide evaluation and feedback necessary for improving intelligence production, intelligence reporting, collection requirements, and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide information and assessments for the purposes of informing leadership and customers; developing and refining objectives; supporting operation planning and execution; and assessing the effects of operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input for the development and refinement of the cyber operations objectives, priorities, strategies, plans, and programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input and assist in post-action effectiveness assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input and assist in the development of plans and guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input for targeting effectiveness assessments for leadership acceptance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide input to the administrative and logistical elements of an operational support plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide intelligence analysis and support to designated exercises, planning activities, and time sensitive operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide effectiveness support to designated exercises, and/or time sensitive operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide operations and reengagement recommendations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide planning support between internal and external partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide real-time actionable geolocation information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide target recommendations which meet leadership objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide targeting products and targeting support as designated."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide time sensitive targeting support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide timely notice of imminent or hostile intentions or activities which may impact organization objectives, resources, or capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend refinement, adaption, termination, and execution of operational plans as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review appropriate information sources to determine validity and relevance of information gathered."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reconstruct networks in diagram or report format."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record information collection and/or environment preparation activities against targets during operations designed to achieve cyber effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report intelligence-derived significant network events and intrusions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Request discipline-specific processing, exploitation, and disseminate information collected using discipline's collection assets and resources in accordance with approved guidance and/or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research communications trends in emerging technologies (in computer and telephony networks, satellite, cable, and wireless) in both open and classified sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and comprehend organizational leadership objectives and guidance for planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review capabilities of allocated collection assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review intelligence collection guidance for accuracy/applicability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review list of prioritized collection requirements and essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and update overarching collection plan, as required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review, approve, prioritize, and submit operational requirements for research, development, and/or acquisition of cyber capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Revise collection matrix based on availability of optimal assets and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sanitize and minimize information to protect sources and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scope the cyber intelligence planning effort."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as a conduit of information from partner teams by identifying subject matter experts who can assist in the investigation of complex or unusual situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as a liaison with external partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solicit and manage to completion feedback from requestors on quality, timeliness, and effectiveness of collection against collection requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specify changes to collection plan and/or operational environment that necessitate re-tasking or re-directing of collection assets and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specify discipline-specific collections and/or taskings that must be executed in the near term."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Submit information requests to collection requirement management section for processing as collection requests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Submit or respond to requests for deconfliction of cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support identification and documentation of collateral effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synchronize cyber international engagement activities and associated resource requirements as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synchronize cyber portions of security cooperation plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synchronize the integrated employment of all available organic and partner intelligence collection assets using available collaboration capabilities and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test and evaluate locally developed tools for operational use."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test internal developed tools and techniques against target tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Track status of information requests, including those processed as collection requests and production requirements, using established procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate collection requests into applicable discipline-specific collection requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use feedback results (e.g., lesson learned) to identify opportunities to improve collection management efficiency and effectiveness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validate requests for information according to established criteria."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work closely with planners, intelligence analysts, and collection managers to ensure intelligence requirements and collection plans are accurate and up-to-date."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work closely with planners, analysts, and collection managers to identify intelligence gaps and ensure intelligence requirements are accurate and up-to-date."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document lessons learned that convey the results of events and/or exercises."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advise managers and operators on language and cultural issues that impact organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and process information using language and/or cultural expertise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess, document, and apply a target's motivation and/or frame of reference to facilitate analysis, targeting and collection opportunities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate across internal and/or external organizational lines to enhance collection, analysis and dissemination."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct all-source target research to include the use of open source materials in the target language."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct analysis of target communications to identify essential information in support of organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform quality review and provide feedback on transcribed or translated materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate and interpret metadata to look for patterns, anomalies, or events, thereby optimizing targeting, analysis and processing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify cyber threat tactics and methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify target communications within the global network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain awareness of target communication tools, techniques, and the characteristics of target communication networks (e.g., capacity, functionality, paths, critical nodes) and their potential implications for targeting, collection, and analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide feedback to collection managers to enhance future collection and analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform foreign language and dialect identification in initial source data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform or support technical network analysis and mapping."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide requirements and feedback to optimize the development of language processing tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform social network analysis and document as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scan, identify and prioritize target graphic (including machine-to-machine communications) and/or voice language material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tip critical or time-sensitive information to appropriate customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transcribe target voice materials in the target language."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate (e.g., verbatim, gist, and/or summaries) target graphic material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate (e.g., verbatim, gist, and/or summaries) target voice material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify foreign language terminology within computer programs (e.g., comments, variable names)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide near-real time language analysis support (e.g., live operations)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify cyber/technology-related terminology in the target language."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with the general counsel, external affairs and businesses to ensure both existing and new services comply with privacy and data security obligations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with legal counsel and management, key departments and committees to ensure the organization has and maintains appropriate privacy and confidentiality consent, authorization forms and information notices and materials reflecting current organization and legal practices and requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with the appropriate regulating bodies to ensure that programs, policies and procedures involving civil rights, civil liberties and privacy considerations are addressed in an integrated and comprehensive manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Liaise with regulatory and accrediting bodies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with external affairs to develop relationships with regulators and other government officials responsible for privacy and data security issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain current knowledge of applicable federal and state privacy laws and accreditation standards, and monitor advancements in information privacy technologies to ensure organizational adaptation and compliance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure all processing and/or databases are registered with the local privacy/data protection authorities where required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with business teams and senior management to ensure awareness of “best practices” on privacy and data security issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with organization senior management to establish an organization-wide Privacy Oversight Committee"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve in a leadership role for Privacy Oversight Committee activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate on cyber privacy and security policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with cybersecurity personnel on the security risk assessment process to address privacy compliance and risk mitigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interface with Senior Management to develop strategic plans for the collection, use and sharing of information in a manner that maximizes its value while complying with applicable privacy regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide strategic guidance to corporate officers regarding information resources and technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist the Security Officer with the development and implementation of an information infrastructure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with the Corporate Compliance Officer regarding procedures for documenting and reporting self-disclosures of any evidence of privacy violations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work cooperatively with applicable organization units in overseeing consumer information access rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as the information privacy liaison for users of technology systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act as a liaison to the information systems department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop privacy training materials and other communications to increase employee understanding of company privacy policies, data handling practices and procedures and legal obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee, direct, deliver or ensure delivery of initial privacy training and orientation to all employees, volunteers, contractors, alliances, business associates and other appropriate third parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct on-going privacy training and awareness activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with external affairs to develop relationships with consumer organizations and other NGOs with an interest in privacy and data security issues—and to manage company participation in public events related to privacy and data security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with organization administration, legal counsel and other related parties to represent the organization’s information privacy interests with external parties, including government bodies, which undertake to adopt or amend privacy legislation, regulation or standard."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report on a periodic basis regarding the status of the privacy program to the Board, CEO or other responsible individual or committee"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with External Affairs to respond to press and other inquiries regarding concern over consumer and employee data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide leadership for the organization’s privacy program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct and oversee privacy specialists and coordinate privacy and data security programs with senior executives globally to ensure consistency across the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure compliance with privacy practices and consistent application of sanctions for failure to comply with privacy policies for all individuals in the organization’s workforce, extended workforce and for all business associates in cooperation with Human Resources, the information security officer, administration and legal counsel as applicable"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop appropriate sanctions for failure to comply with the corporate privacy policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve allegations of noncompliance with the corporate privacy policies or notice of information practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and coordinate a risk management and compliance framework for privacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Undertake a comprehensive review of the company’s data and privacy projects and ensure that they are consistent with corporate privacy and data security goals and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and manage enterprise-wide procedures to ensure the development of new products and services is consistent with company privacy policies and legal obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a process for receiving, documenting, tracking, investigating and acting on all complaints concerning the organization’s privacy policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish with management and operations a mechanism to track access to protected health information, within the purview of the organization and as required by law and to allow qualified individuals to review or receive a report on such activity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide leadership in the planning, design and evaluation of privacy and security related projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish an internal privacy audit program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Periodically revise the privacy program considering changes in laws, regulatory or company policy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide development guidance and assist in the identification, implementation and maintenance of organization information privacy policies and procedures in coordination with organization management and administration and legal counsel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assure that the use of technologies maintains, and does not erode, privacy protections on use, collection and disclosure of personal information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor systems development and operations for security and privacy compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct privacy impact assessments of proposed rules on the privacy of personal information, including the type of personal information collected and the number of people affected"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct periodic information privacy impact assessments and ongoing compliance monitoring activities in coordination with the organization’s other compliance and operational assessment functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review all system-related information security plans to ensure alignment between security and privacy practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with all organization personnel involved with any aspect of release of protected information to ensure coordination with the organization’s policies, procedures and legal requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Account for and administer individual requests for release or disclosure of personal and/or protected information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and manage procedures for vetting and auditing vendors for compliance with the privacy and data security policies and legal requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the implementation and ongoing compliance monitoring of all trading partner and business associate agreements, to ensure all privacy concerns, requirements and responsibilities are addressed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act as, or work with, counsel relating to business partner contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mitigate effects of a use or disclosure of personal information by employees or business partners"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and apply corrective action procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer action on all complaints concerning the organization’s privacy policies and procedures in coordination and collaboration with other similar functions and, when necessary, legal counsel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the organization’s privacy compliance program, working closely with the Privacy Officer, Chief Information Security Officer, and other business leaders to ensure compliance with federal and state privacy laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and correct potential company compliance gaps and/or areas of risk to ensure full compliance with privacy regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage privacy incidents and breaches in conjunction with the Privacy Officer, Chief Information Security Officer, legal counsel and the business units"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate with the Chief Information Security Officer to ensure alignment between security and privacy practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish, implement and maintains organization-wide policies and procedures to comply with privacy regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that the company maintains appropriate privacy and confidentiality notices, consent and authorization forms, and materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain appropriate communications and training to promote and educate all workforce members and members of the Board regarding privacy compliance issues and requirements, and the consequences of noncompliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine business partner requirements related to the organization’s privacy program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and administer a process for receiving, documenting, tracking, investigating and taking corrective action as appropriate on complaints concerning the company’s privacy policies and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cooperate with the relevant regulatory agencies and other legal entities, and organization officers, in any compliance reviews or investigations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform ongoing privacy compliance monitoring activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor advancements in information privacy technologies to ensure organization adoption and compliance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop or assist with the development of privacy training materials and other communications to increase employee understanding of company privacy policies, data handling practices and procedures and legal obligations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Appoint and guide a team of IT security experts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with key stakeholders to establish a cybersecurity risk management program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and assign individuals to specific roles associated with the execution of the Risk Management Framework."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a risk management strategy for the organization that includes a determination of risk tolerance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the missions, business functions, and mission/business processes the system will support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify stakeholders who have a security interest in the development, implementation, operation, or sustainment of a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify stakeholders who have a security interest in the development, implementation, operation, or sustainment of a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify stakeholder assets that require protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct an initial risk assessment of stakeholder assets and update the risk assessment on an ongoing basis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define the stakeholder protection needs and stakeholder security requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the placement of a system within the enterprise architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify organization-wide common controls that are available for inheritance by organizational systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct a second-level security categorization for organizational systems with the same impact level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the boundary of a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the security requirements allocated to a system and to the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the types of information to be processed, stored, or transmitted by a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Categorize the system and document the security categorization results as part of system requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the characteristics of a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Register the system with appropriate organizational program/management offices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select the security controls for a system and document the functional description of the planned control implementations in a security plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a strategy for monitoring security control effectiveness; coordinate the system-level strategy with the organization and mission/business process-level monitoring strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and approve security plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement the security controls specified in a security plan or other system documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document changes to planned security control implementation and establish the configuration baseline for a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, review, and approve a plan to assess the security controls in a system and the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the security controls in accordance with the assessment procedures defined in a security assessment plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare a security assessment report documenting the issues, findings, and recommendations from the security control assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct initial remediation actions on security controls based on the findings and recommendations of a security assessment report; reassess remediated controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare a plan of action and milestones based on the findings and recommendations of a security assessment report excluding any remediation actions taken."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assemble an authorization package and submit the package to an authorizing official for adjudication."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the risk from the operation or use of a system or the provision or use of common controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and implement a preferred course of action in response to the risk determined."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine if the risk from the operation or use of the system or the provision or use of common controls, is acceptable."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor changes to a system and its environment of operation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the security controls employed within and inherited by the system in accordance with an organization-defined monitoring strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to risk based on the results of ongoing monitoring activities, assessment of risk, and outstanding items in a plan of action and milestones."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update a security plan, security assessment report, and plan of action and milestones based on the results of a continuous monitoring process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report the security status of a system (including the effectiveness of security controls) to an authorizing official on an ongoing basis in accordance with the monitoring strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review the security status of a system (including the effectiveness of security controls) on an ongoing basis to determine whether the risk remains acceptable."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement a system disposal strategy which executes required actions when a system is removed from service."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sponsor and promote continuous monitoring within the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assign staff as needed to appropriate continuous monitoring working groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify reporting requirements to support continuous monitoring activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish scoring and grading metrics to measure effectiveness of continuous monitoring program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine how to integrate a continuous monitoring program into the organization’s broader information security governance structures and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use continuous monitoring scoring and grading metrics to make information security investment decisions to address persistent issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that the continuous monitoring staff have the training and resources (e.g., staff and budget) needed to perform assigned duties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with organizational risk analysts to ensure that continuous monitoring reporting covers appropriate levels of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with the organizational risk analysts to ensure risk metrics are defining realistically to support continuous monitoring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with organizational officials to ensure continuous monitoring tool data provides situation awareness of risk levels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish triggers for unacceptable risk thresholds for continuous monitoring data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with organizational officials to establish system level reporting categories that can be used by the organization’s continuous monitoring program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Designate a qualified person to be responsible for the management and implementation of the continuous monitoring program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the continuous monitoring stakeholders and establish a process to keep them informed about the program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify security oriented organization reporting requirements that are fulfilled by the continuous monitoring program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the continuous monitoring data to make information security investment decisions to address persistent issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define triggers within the continuous monitoring program that can be used to define unacceptable risk and result in action being taken to resolve."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish scoring and grading metrics to measure effectiveness of continuous monitoring program."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with security managers to establish appropriate continuous monitoring reporting requirements at the system level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the continuous monitoring tools and technologies to assess risk on an ongoing basis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish appropriate reporting requirements in adherence to the criteria identified in the continuous monitoring program for use in automated control assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use non-automated assessment methods where the data from the continuous monitoring tools and technologies is not yet of adequate sufficiency or quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop processes with the external audit group on how to share information regarding the continuous monitoring program and its impact on security control assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify reporting requirements for use in automated control assessment to support continuous monitoring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine how the continuous monitoring results will be used in ongoing authorization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish continuous monitoring tools and technologies access control process and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that continuous monitoring tools and technologies access control is managed adequately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a process to provide technical help to continuous monitoring mitigators."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate continuous monitoring reporting requirements across various users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish responsibilities for supporting implementation of each continuous monitoring tool or technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish liaison with scoring and metrics working group to support continuous monitoring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and operate a process to manage introduction of new risk to support continuous monitoring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish continuous monitoring configuration settings issues and coordination sub-group."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish continuous monitoring tools and technologies performance measurement/management requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using scores and grades to motivate and assess performance while addressing concerns to support continuous monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with security managers (i.e., system owners, information system security managers, information system security officers, etc.) to establish appropriate reporting requirements for continuous monitoring at the system level."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use continuous monitoring tools to assess risk on an ongoing basis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the continuous monitoring data to make information security investment decisions to address persistent issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to issues flagged during continuous monitoring, escalate and coordinate a response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review findings from the continuous monitoring program and mitigate risks on a timely basis."
+			}
+		}
+	]
+}

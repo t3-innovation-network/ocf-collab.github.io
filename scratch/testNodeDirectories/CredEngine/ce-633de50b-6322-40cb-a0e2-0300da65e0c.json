@@ -1,0 +1,3183 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-633de50b-6322-40cb-a0e2-0300da65e0c1",
+		"name": {
+			"en-us": "NICE Cybersecurity Workforce Framework: Knowledge"
+		},
+		"description": {
+			"en-us": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. Knowledge is a body of information applied directly to the performance of a function. Current version as of January 18, 2018."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"cybersecurity",
+				"cyberspace",
+				"education",
+				"role",
+				"specialty area",
+				"knowledge"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer networking concepts and protocols, and network security methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of risk management processes (e.g., methods for assessing and mitigating risk)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of laws, regulations, policies, and ethics as they relate to cybersecurity and privacy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cybersecurity and privacy principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber threats and vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of specific operational impacts of cybersecurity lapses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of authentication, authorization, and access control methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of applicable business processes and operations of customer organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of application vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of communication methods, principles, and concepts that support the network infrastructure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of capabilities and applications of network equipment including routers, switches, bridges, servers, transmission media, and related hardware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of capabilities and requirements analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber defense and vulnerability assessment tools and their capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of complex data structures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer algorithms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer programming principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of concepts and practices of processing digital forensic data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of encryption algorithms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cryptography and cryptographic key management concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data administration and data standardization policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data backup and recovery."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data mining and data warehousing principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of database management systems, query languages, table relationships, and views."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of database systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of digital rights management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of business continuity and disaster recovery continuity of operations plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization's enterprise information security architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization's evaluation and validation requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization's Local and Wide Area Network connections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of electrical engineering as applied to computer architecture (e.g., circuit boards, processors, chips, and computer hardware)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of enterprise messaging systems and associated software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of resiliency and redundancy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of host/network access control mechanisms (e.g., access control list, capabilities lists)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network services and protocols interactions that provide network communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of installation, integration, and optimization of system components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of human-computer interaction principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Security Assessment and Authorization process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cybersecurity and privacy principles used to manage risks related to the use, processing, storage, and transmission of information or data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cybersecurity and privacy principles and methods that apply to software development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of vulnerability information dissemination sources (e.g., alerts, advisories, errata, and bulletins)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of incident categories, incident responses, and timelines for responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of incident response and handling methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of industry-standard and organizationally accepted analysis principles and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cybersecurity and privacy principles and organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information security systems engineering principles (NIST SP 800-160)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intrusion detection methodologies and techniques for detecting host and network-based intrusions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) architectural concepts and frameworks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Risk Management Framework (RMF) requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) security principles and methods (e.g., firewalls, demilitarized zones, encryption)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of local area and wide area networking principles and concepts including bandwidth management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of low-level computer languages (e.g., assembly languages)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of mathematics (e.g. logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of measures or indicators of system performance and availability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current industry methods for evaluating, implementing, and disseminating information technology (IT) security assessment, monitoring, detection, and remediation tools and procedures utilizing standards-based concepts and capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of microprocessors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network access, identity, and access management (e.g., public key infrastructure, Oauth, OpenID, SAML, SPML)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network hardware devices and functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network traffic analysis methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of new and emerging information technology (IT) and cybersecurity technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operating systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol [TCP] and Internet Protocol [IP], Open System Interconnection Model [OSI], Information Technology Infrastructure Library, current version [ITIL])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of packet-level analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of parallel and distributed computing concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of performance tuning tools and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of policy-based and risk adaptive access controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Privacy Impact Assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of process engineering concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of programming language structures and logic."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of query languages such as SQL (structured query language)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of remote access technology concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of resource management principles and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of secure configuration management techniques. (e.g., Security Technical Implementation Guides (STIGs), cybersecurity best practices on cisecurity.org)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of key concepts in security management (e.g., Release Management, Patch Management)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security system design tools, methods, and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of server administration and systems engineering theories, concepts, and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of server and client operating systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of server diagnostic tools and fault identification techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software debugging principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software design tools, methods, and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software development models (e.g., Waterfall Model, Spiral Model)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software engineering."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of sources, characteristics, and uses of the organization’s data assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of structured analysis principles and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of system and application security threats and vulnerabilities. (See K0070)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system design tools, methods, and techniques, including automated systems analysis and design tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system software and organizational design standards, policies, and authorized approaches (e.g., International Organization for Standardization [ISO] guidelines) relating to system design."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of systems administration concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of systems diagnostic tools and fault identification techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system life cycle management principles, including software security and usability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of systems testing and evaluation methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of technology integration processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of telecommunications concepts (e.g., Communications channel, Systems Link Budgeting, Spectral efficiency, Multiplexing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities and functionality associated with content creation technologies (e.g., wikis, social networking, content management systems, blogs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities and functionality associated with various technologies for organizing and managing information (e.g., databases, bookmarking engines)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities and functionality of various collaborative technologies (e.g., groupware, SharePoint)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the characteristics of physical and virtual data storage media."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the cyber defense Service Provider reporting structure and processes within one’s own organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of the common networking protocols (e.g., TCP/IP), services (e.g., web, mail, Domain Name Server), and how they interact to provide network communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the enterprise information technology (IT) architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organization’s enterprise information technology (IT) goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the systems engineering process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the type and frequency of routine hardware maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Virtual Private Network (VPN) security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of web services (e.g., service-oriented architecture, Simple Object Access Protocol, and web service description language)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of what constitutes a network attack and a network attack’s relationship to both threats and vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Insider Threat investigations, reporting, investigative tools and laws/regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of concepts, terminology, and operations of a wide range of communications media (computer and telephone networks, satellite, fiber, wireless)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of physical computer components and architectures, including the functions of various components and peripherals (e.g., CPUs, Network Interface Cards, data storage)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of adversarial tactics, techniques, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network tools (e.g., ping, traceroute, nslookup)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of defense-in-depth principles and network security architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of different types of network communication (e.g., LAN, WAN, MAN, WLAN, WWAN)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of electronic devices (e.g., computer systems/components, access control devices, digital cameras, digital scanners, electronic organizers, hard drives, memory cards, modems, network components, networked appliances, networked home control devices, printers, removable storage devices, telephones, copiers, facsimile machines, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge that technology that can be exploited."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of file extensions (e.g., .dll, .bat, .zip, .pcap, .gzip)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of file system implementations (e.g., New Technology File System [NTFS], File Allocation Table [FAT], File Extension [EXT])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of processes for seizing and preserving digital evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of hacking methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how information needs and collection requirements are translated, tracked, and prioritized across the extended enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information security program management and project management principles and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of investigative implications of hardware, Operating Systems, and network technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of legal governance related to admissibility (e.g. Rules of Evidence)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of multiple cognitive domains and tools and methods applicable for learning in each domain."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of processes for collecting, packaging, transporting, and storing electronic evidence while maintaining chain of custody."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Supply Chain Risk Management Practices (NIST SP 800-161)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the nature and function of the relevant information structure (e.g., National Information Infrastructure)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of types and collection of persistent data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of command-line tools (e.g., mkdir, mv, ls, passwd, grep)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of virtualization technologies and virtual machine development and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of web mail collection, searching/analyzing techniques, tools, and cookies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of which system files (e.g., log files, registry files, configuration files) contain relevant information and where to find those system files."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of types of digital forensics data and how to recognize them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of deployable forensics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of web filtering technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities of different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the range of existing networks (e.g., PBX, LANs, WANs, WIFI, SCADA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Wi-Fi."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of interpreted and compiled computer languages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of secure coding techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0420"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection management processes, capabilities, and limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of front-end collection systems, including traffic collection, filtering, and selection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of social dynamics of computer attackers in a global context."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security event correlation tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organization's core business/mission processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of emerging security issues, risks, and vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of import/export control regulations and responsible agencies for the purposes of reducing supply chain risk."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization's risk tolerance and/or risk management approach."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of enterprise incident response program, roles, and responsibilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current and emerging threats/threat vectors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software related information technology (IT) security principles and methods (e.g., modularization, layering, abstraction, data hiding, simplicity/minimization)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software quality assurance process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of supply chain risk management standards, processes, and practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of electronic evidence law."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of legal rules of evidence and court procedure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber defense and information security policies, procedures, and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational information technology (IT) user security policies (e.g., account creation, password rules, access control)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Voice over IP (VoIP)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the common attack vectors on the network layer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution attacks)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber attackers (e.g., script kiddies, insider threat, non-nation state sponsored, and nation sponsored)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of critical information technology (IT) procurement requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of functionality, quality, and security requirements and how these will apply to specific items of supply (i.e., elements and processes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of risk/threat assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of the nature and function of the relevant information structure. (See K0127)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system administration, network, and operating system hardening techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of applicable laws, statutes (e.g., in Titles 10, 18, 32, 50 in U.S. Code), Presidential Directives, executive branch guidelines, and/or administrative/criminal legal guidelines and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) supply chain security and supply chain risk management policies, requirements, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of critical infrastructure systems with information communication technology that were designed without system security considerations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of hardware reverse engineering techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of middleware (e.g., enterprise service bus and message queuing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0499 (prior to draft SP 800-181)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of networking protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software reverse engineering techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Extensible Markup Language (XML) schemas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of secure software deployment methodologies, tools, and practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network security architecture concepts including topology, protocols, components, and principles (e.g., application of defense-in-depth)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification [RFID], Infrared Networking [IR], Wireless Fidelity [Wi-Fi]. paging, cellular, satellite dishes), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly. (See K0274)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data carving tools and techniques (e.g., Foremost)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of reverse engineering concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of anti-forensics tactics, techniques, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of forensics lab design configuration and support applications (e.g., VMWare, Wireshark)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of debugging procedures and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of file type abuse by adversaries for anomalous behavior."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of malware analysis tools (e.g., Oily Debug, Ida Pro)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of malware with virtual machine detection (e.g. virtual aware malware, debugger aware malware, and unpacked malware that looks for VM-related strings in your computer’s display device)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of encryption methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of signature implementation impact for viruses, malware, and attacks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Windows/Unix ports and services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of advanced data remediation security features in databases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Cloud-based knowledge management technologies and concepts related to security, governance, procurement, and administration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data classification standards and methodologies based on sensitivity and other risk factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Import/Export Regulations related to cryptography and other security technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of database access application programming interfaces (e.g., Java Database Connectivity [JDBC])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational process improvement concepts and process maturity models (e.g., Capability Maturity Model Integration (CMMI) for Development, CMMI for Services, and CMMI for Acquisitions)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security architecture concepts and enterprise architecture reference models (e.g., Zachman, Federal Enterprise Architecture [FEA])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of service management concepts for networks and related standards (e.g., Information Technology Infrastructure Library, current version [ITIL])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of symmetric key rotation techniques and concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of learning assessment techniques (rubrics, evaluation plans, tests, quizzes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of basic system, network, and OS hardening techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of ethical hacking principles and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of circuit analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer based training and e-learning services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of covert communication techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data backup and restoration concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of confidentiality, integrity, and availability requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cybersecurity-enabled software products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of instructional design and evaluation models (e.g., ADDIE, Smith/Ragan model, Gagne’s Events of Instruction, Kirkpatrick’s model of evaluation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the Risk Management Framework Assessment Methodology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational training policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of learning levels (i.e., Bloom’s Taxonomy of learning)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Learning Management Systems and their use in managing learning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of learning styles (e.g., assimilator, auditory, kinesthetic)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of local area network (LAN) and wide area network (WAN) principles. (See K0050)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of modes of learning (e.g., rote learning, observation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of OSI model and underlying network protocols (e.g., TCP/IP)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of relevant laws, legal authorities, restrictions, and regulations pertaining to cyber defense activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0073"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system administration concepts for operating systems such as but not limited to Unix/Linux, IOS, Android, and Windows operating systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of the common networking protocol and services deployed at CC/S/A. (See K0565)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational training systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of various types of computer architectures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of taxonomy and semantic ontology theory."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of applications that can log errors, exceptions, and application faults and logging."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cloud service models and how those models can limit incident response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of crisis management protocols, processes, and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of critical protocols (e.g., IPSEC, AES, GRE, IKE)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the National Cybersecurity Workforce Framework, work roles, and associated tasks, knowledge, skills, and abilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of full spectrum cyber capabilities (e.g., defense, attack, exploitation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to leverage research and development centers, think tanks, academic research, and industry systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to utilize Hadoop, Java, Python, SQL, Hive, and Pig to explore data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of industry best practices for service desk."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of machine learning theory and principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of media production, communication, and dissemination techniques and methods, including alternative ways to inform via written, oral, and visual media."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of multi-level security systems and cross domain solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational human resource policies, processes, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational security policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational training and education policies, processes, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of physical and physiological behaviors that may indicate suspicious or abnormal activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of principles and processes for conducting training and education needs assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of relevant concepts, procedures, software, equipment, and technology applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of remote access processes, tools, and capabilities related to customer support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of strategic theory and practice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of sustainment technologies, processes and strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Test & Evaluation processes for learners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the judicial process, including the presentation of facts and evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of training and education principles and methods for curriculum design, teaching and instruction for individuals and groups, and the measurement of training and education effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0227"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of binary analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network architecture concepts including topology, protocols, and components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0224"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) acquisition/procurement requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of test procedures, principles, and methodologies (e.g., Capabilities and Maturity Model Integration (CMMI))."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of malware analysis concepts and methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Personally Identifiable Information (PII) data security standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Payment Card Industry (PCI) data security standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Personal Health Information (PHI) data security standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) risk management policies, requirements, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of program protection planning (e.g. information technology (IT) supply chain security/risk management policies, anti-tampering techniques, and requirements)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of infrastructure supporting information technology (IT) for safety, performance, and reliability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to evaluate the trustworthiness of the supplier and/or product."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of laws, policies, procedures, or governance relevant to cybersecurity for critical infrastructures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of forensic footprint identification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of mobile communications architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the acquisition/procurement life cycle process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operating system structures and internals (e.g., process management, directory structure, installed applications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network analysis tools used to identify software communications vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of general kill chain (e.g., footprinting and scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of transmission records (e.g., Bluetooth, Radio Frequency Identification (RFID), Infrared Networking (IR), Wireless Fidelity (Wi-Fi). paging, cellular, satellite dishes, Voice over Internet Protocol (VoIP)), and jamming techniques that enable transmission of undesirable information, or prevent installed systems from operating correctly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of configuration management techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current and emerging data encryption (e.g., Column and Tablespace Encryption, file and disk encryption) security features in databases (e.g. built-in cryptographic key management features)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current and emerging data remediation security features in databases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of database access application programming interfaces (APIs) (e.g., Java Database Connectivity [JDBC])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of systems engineering theories, concepts, and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information technology (IT) service catalogues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0200"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of use cases related to collaboration and content synchronization across platforms (e.g., Mobile, PC, Cloud)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of developing and applying user credential management system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of implementing enterprise key escrow systems to support data-at-rest encryption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of N-tiered typologies (e.g. including server and client operating systems)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of an organization's information classification program and procedures for information compromise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of industry standard security models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system/server diagnostic tools and fault identification techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of systems security testing and evaluation methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the enterprise information technology (IT) architectural concepts and patterns (e.g., baseline, validated design, and target architectures.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the operations and processes for incident, problem, and event management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of integrating the organization’s goals and objectives into the architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of IT system operation, maintenance, and security needed to keep equipment functioning properly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of confidentiality, integrity, and availability principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of capabilities, applications, and potential vulnerabilities of network equipment including hubs, routers, switches, bridges, servers, transmission media, and related hardware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of countermeasure design for identified security risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of countermeasures for identified security risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network mapping and recreating network topologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the basic operation of computers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the use of sub-netting tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of concepts and practices of processing digital forensic data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data concealment (e.g. encryption algorithms and steganography)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic physical computer components and architectures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of common network tools (e.g., ping, traceroute, nslookup). (See K0111)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cryptology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of emerging technologies that have potential for exploitation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of hacking methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of industry indicators useful for identifying technology trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence gathering principles, policies, and procedures including legal authorities and restrictions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of external organizations and academic institutions with cyber focus (e.g., cyber curriculum/training and Research & Development)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of industry technologies’ potential cybersecurity vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the principal methods, procedures, and techniques of gathering information and producing, reporting, and sharing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of business or military operation plans, concept operation plans, orders, policies, and standing rules of engagement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of procedures used for documenting and querying reported incidents, problems, and events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operating system command-line tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of technical delivery capabilities and their limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization's evaluation and validation criteria."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of engineering concepts as applied to computer architecture and associated computer hardware/software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of embedded systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system fault tolerance methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Intrusion Detection System (IDS)/Intrusion Prevention System (IPS) tools and applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Information Theory (e.g., source coding, channel coding, algorithm complexity theory, and data compression)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of demilitarized zones."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of local area network (LAN), wide area network (WAN) and enterprise principles and concepts, including bandwidth management. (See K0050)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of mathematics, including logarithms, trigonometry, linear algebra, calculus, statistics, and operational analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of statistics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of successful capabilities to identify the solutions to less common and more complex system problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of network protocols (e.g., Transmission Control Protocol (TCP), Internet Protocol (IP), Dynamic Host Configuration Protocol (DHCP)), and directory services (e.g., Domain Name System (DNS)). (See K0332)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network design processes, to include understanding of security objectives, operational objectives, and trade-offs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network traffic analysis (tools, methodologies, processes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current and emerging cyber technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of access authentication methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0007"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data mining techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to use network analysis tools to identify vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of how traffic flows across the network (e.g., Transmission Control Protocol (TCP), Internet Protocol (IP), Open System Interconnection Model (OSI))."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of foreign disclosure policies and import/export control regulations as related to cybersecurity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of penetration testing principles, tools, and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of root cause analysis techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of an organization’s threat environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of cyber attackers (e.g., script kiddies, insider threat, non-nation state sponsored, and nation sponsored)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of principles and methods for integrating system components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge and understanding of operational design."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of a wide range of basic communications media concepts and terminology (e.g., computer and telephone networks, satellite, cable, wireless)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of website types, administration, functions, and content management system (CMS)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of accepted organization planning systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of applicable statutes, laws, regulations and policies governing cyber targeting and exploitation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of forms of intelligence support needs, topics, and focus areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of possible circumstances that would result in changing collection management authorities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of relevant reporting and dissemination procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of all-source reporting and dissemination procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of analytic tools and techniques for language, voice and/or graphic material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of analytical constructs and their use in assessing the operational environment. (See K0224)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of analytical standards and the purpose of intelligence confidence levels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of approved intelligence dissemination processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of assembly code."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of asset availability, capabilities and limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of attack methods and techniques (DDoS, brute force, spoofing, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of auditing and logging procedures (including server-based logging)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of available databases and tools necessary to assess appropriate collection tasking."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic back-up and recovery procedures including different types of backups (e.g., full, incremental)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic computer components and architectures, including the functions of various peripherals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of penetration testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of implants that enable cyber collection and/or preparation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic malicious activity concepts (e.g., footprinting, scanning and enumeration)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic physical computer components and architecture, including the functions of various components and peripherals (e.g., CPUs, Network Interface Cards, data storage). (See K0109)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of principles of the collection development processes (e.g., Dialed Number Recognition, Social Network Analysis)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of programming concepts (e.g., levels, structures, compiled vs. interpreted languages)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of basic software applications (e.g., data storage and backup, database applications) and the types of vulnerabilities that have been found in those applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of basic structure, architecture, and design of modern digital and telephony networks. (See K0599)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of wireless applications vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal and external customers and partner organizations, including information needs, objectives, structure, capabilities, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of classification and control markings standards, policies and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of classification and control markings standards. (See K0377)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of client organizations, including information needs, objectives, structure, capabilities, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collaborative tools and environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collateral damage and estimating impact(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection capabilities and limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection capabilities, accesses, performance specifications, and constraints utilized to satisfy collection plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection management functionality (e.g., positions, functions, responsibilities, products, reporting requirements)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0142"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection management tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection planning process and collection plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection searching/analyzing techniques and tools for chat/buddy list, emerging technologies, VOIP, Media Over IP, VPN, VSAT/wireless, web mail and cookies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection sources including conventional and non-conventional sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection systems, capabilities, and processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of common computer/network infections (virus, Trojan, etc.) and methods of infection (ports, attachments, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of common networking devices and their configurations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of common reporting databases and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer networking fundamentals (i.e., basic computer components of a network, types of networks, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of computer programming concepts, including computer languages, programming, testing, debugging, and file types."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security concepts in operating systems (e.g., Linux, Unix.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of concepts related to websites (e.g., web servers/pages, hosting, DNS, registration, web languages such as HTML)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of crisis action planning and time sensitive planning procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of crisis action planning for cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of criteria for evaluating collection products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of criticality and vulnerability factors (e.g., value, recuperation, cushion, countermeasures) for target selection and applicability to the cyber domain."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cryptologic capabilities, limitations, and contributions to cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current collection requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current computer-based intrusion sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of current software and methodologies for active defense and system hardening."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of customer information needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber actions (i.e. cyber defense, information gathering, environment preparation, cyber-attack) principles, capabilities, limitations, and effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber intelligence/information collection capabilities and repositories."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber laws and their effect on Cyber planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber laws and legal considerations and their effect on cyber planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber lexicon/terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber operation objectives, policies, and legalities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber operations support or enabling processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber operations terminology/lexicon."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data communications terminology (e.g., networking protocols, Ethernet, IP, encryption, optical devices, removable media)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of data flow process for terminal or environment collection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of database administration and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of database theory."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of databases, portals and associated dissemination vehicles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of deconfliction processes and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of deconfliction reporting to include external organization interaction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of denial and deception techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of different organization objectives at all levels, including subordinate, lateral and higher."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of dynamic and deliberate targeting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of encryption algorithms and cyber capabilities/tools (e.g., SSL, PGP)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of encryption algorithms and tools for wireless local area networks (WLANs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of enterprise-wide information management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of evasion strategies and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of evolving/emerging communications technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of existing, emerging, and long-range issues related to cyber operations strategy, policy, and organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of forensic implications of operating system structure and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of front-end collection systems, including traffic collection, filtering, and selection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of fundamental cyber concepts, principles, limitations, and effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of fundamental cyber operations concepts, terminology/lexicon (i.e., environment preparation, cyber-attack, cyber defense), principles, capabilities, limitations, and effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of general Supervisory control and data acquisition (SCADA) system components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of mobile cellular communications architecture (e.g., LTE, CDMA, GSM/EDGE and UMTS/HSPA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of governing authorities for targeting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of host-based security products and how those products affect exploitation and reduce vulnerability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of how collection requirements and information needs are translated, tracked, and prioritized across the extended enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how converged technologies impact cyber operations (e.g., digital, telephony, wireless)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of how hubs, switches, routers work together in the design of a network. (See K0143)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how Internet applications work (SMTP email, web-based email, chat clients, VOIP)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how modern digital and telephony networks impact cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how modern wireless communications systems impact cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to collect, view, and identify essential information on targets of interest from metadata (e.g., email, http)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to establish priorities for resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of how to extract, analyze, and use metadata."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0036"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of identification and reporting processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of implementing Unix and Windows systems that provide radius authentication and logging, DNS, mail, web service, FTP server, DHCP, firewall, and SNMP."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of indications and warning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of information security concepts, facilitating technologies and methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence capabilities and limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence confidence levels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence disciplines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence employment requirements (i.e., logistical, communications support, maneuverability, legal restrictions, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence preparation of the environment and similar processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence production processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence reporting principles, policies, procedures, and vehicles, including report formats, reportability criteria (requirements and priorities), dissemination practices, and legal authorities and restrictions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence requirements tasking systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intelligence support to planning, execution, and assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal and external partner cyber operations capabilities and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal and external partner intelligence processes and the development of information requirements and essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal and external partner reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of internal tactics to anticipate and/or emulate threat capabilities and actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Internet and routing protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Internet network addressing (IP addresses, classless inter-domain routing, TCP/UDP port numbering)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intrusion detection systems and signature development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of intrusion sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of key cyber threat actors and their equities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of key factors of the operational environment and threat."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of language processing tools and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of leadership's Intent and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of legal considerations in targeting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of malware analysis and characteristics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of malware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of methods and techniques used to detect various exploitation activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of methods for ascertaining collection asset posture and availability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of methods to integrate and summarize information from any potential sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of midpoint collection (process, objectives, organization, targets, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network administration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network construction and topology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network security implementations (e.g., host-based IDS, IPS, access control lists), including their function and placement in a network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of network topology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0058"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of networking and Internet communications fundamentals (i.e. devices, device configuration, hardware, software, applications, ports/protocols, addressing, network architecture and infrastructure, routing, operating systems, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of non-traditional collection methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of obfuscation techniques (e.g., TOR/Onion/anonymizers, VPN/VPS, encryption)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of objectives, situation, operational environment, and the status and disposition of internal and external partner collection capabilities available to support planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of ongoing and future operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operational asset constraints."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operational effectiveness assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operational planning processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of operations security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization and/or partner collection systems, capabilities, and processes (e.g., collection and protocol processors)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization cyber operations programs, strategies, and resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization decision support tools and/or methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization formats of resource and asset readiness reporting, its operational relevance and intelligence collection impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization issues, objectives, and operations in cyber as well as regulations and policy directives governing cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization objectives and associated demand on collection management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization objectives, leadership priorities, and decision-making risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization or partner exploitation of digital networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organization policies and planning concepts for partnering with internal and/or external organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational and partner authorities, responsibilities, and contributions to achieving objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational and partner policies, tools, capabilities, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational hierarchy and cyber decision-making processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational planning concepts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational priorities, legal authorities and requirements submission processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of organizational structures and associated intelligence capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Knowledge of OSI model and underlying networking protocols (e.g., TCP/IP)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of physical and logical network devices and infrastructure to include hubs, switches, routers, firewalls, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of post implementation review (PIR) approval process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of planning activity initiation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of planning timelines adaptive, crisis action, and time-sensitive planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of principles and practices related to target development such as target knowledge, associations, communication systems, and infrastructure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of priority information, how it is derived, where it is published, how to access, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of production exploitation and dissemination needs and architectures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of products and nomenclature of major vendors (e.g., security suites - Trend Micro, Symantec, McAfee, Outpost, and Panda) and how those products affect exploitation and reduce vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of relevant laws, regulations, and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of required intelligence planning products associated with cyber operational planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of research strategies and knowledge management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of risk management and mitigation strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of satellite-based communication systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of scripting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security hardware and software options, including the network artifacts they induce and their effects on exploitation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of security implications of software configurations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of specialized target language (e.g., acronyms, jargon, technical terminology, code words)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of specific target identifiers, and their usage."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of staff management, assignment, and allocation processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of strategies and tools for target research."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of structure, approach, and strategy of exploitation tools (e.g., sniffers, keyloggers) and techniques (e.g., gaining backdoor access, collecting/exfiltrating data, conducting vulnerability analysis of other systems in the network)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of system administration concepts for the Unix/Linux and Windows operating systems (e.g., process management, directory structure, installed applications, Access Controls)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target and threat organization structures, critical capabilities, and critical vulnerabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target communication profiles and their key elements (e.g., target associations, activities, communication infrastructure)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target communication tools and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target cultural references, dialects, expressions, idioms, and abbreviations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target development (i.e., concepts, roles, responsibilities, products, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target estimated repair and recuperation times."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target intelligence gathering and operational preparation techniques and life cycles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target language(s)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target list development (i.e. Restricted, Joint, Candidate, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target methods and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target or threat cyber actors and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target vetting and validation procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target, including related current events, communication profile, actors, and history (language, culture) and/or frame of reference."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of targeting cycles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of tasking mechanisms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of tasking processes for organic and subordinate collection assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of tasking, collection, processing, exploitation and dissemination."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of TCP/IP networking protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of telecommunications fundamentals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of terminal or environmental collection (process, objectives, organization, targets, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the available tools and applications associated with collection requirements and collection management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the basic structure, architecture, and design of converged applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the basic structure, architecture, and design of modern communication networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the basics of network security (e.g., encryption, firewalls, authentication, honey pots, perimeter protection)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities and limitations of new and emerging collection capabilities, accesses and/or processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the capabilities, limitations and tasking methodologies of internal and external collections as they apply to planned cyber activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the characteristics of targeted communication networks (e.g., capacity, functionality, paths, critical nodes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the common networking and routing protocols (e.g. TCP/IP), services (e.g., web, mail, DNS), and how they interact to provide network communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the critical information requirements and how they're used in planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the data flow from collection origin to repositories and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the definition of collection management and collection management authority."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the existent tasking, collection, processing, exploitation and dissemination architecture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the factors of threat that could impact collection operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the feedback cycle in collection processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the functions and capabilities of internal teams that emulate threat activities to benefit the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the fundamentals of digital forensics to extract actionable intelligence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the impact of language analysis on on-net operator functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the impacts of internal and external partner staffing estimates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the information environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the intelligence frameworks, processes, and related systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the intelligence requirements development and request for information processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organization, roles and responsibilities of higher, lower and adjacent sub-elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organization’s established format for collection plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organization’s planning, operations and targeting cycles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organizational planning and staffing process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organizational plans/directives/guidance that describe objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organizational policies/procedures for temporary transfer of collection authority."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the organizational structure as it pertains to full spectrum cyber operations, including the functions, responsibilities, and interrelationships among distinct internal elements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the outputs of course of action and exercise analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the POC’s, databases, tools and applications necessary to establish environment preparation and surveillance products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the priority information requirements from subordinate, lateral and higher levels of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the process used to assess the performance and impact of operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the processes to synchronize operational assessment procedures with the critical information requirement process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the production responsibilities and organic analysis and production capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the purpose and contribution of target templates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the range of cyber operations and their underlying intelligence support needs, topics, and focus areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the relationships between end states, objectives, effects, lines of operation, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the relationships of operational objectives, intelligence requirements, and intelligence production tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the request for information process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the role of network operations in supporting and facilitating other organization operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the structure and intent of organization specific plans, guidance and authorizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the structure, architecture, and design of modern digital and telephony networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the structure, architecture, and design of modern wireless communications systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the systems/architecture/communications used for coordination."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of collection disciplines and capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the ways in which targets or threats use the Internet."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of threat and/or target systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of tipping, cueing, mixing, and redundancy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of transcript development processes and techniques (e.g., verbatim, gist, summaries)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of translation processes and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Unix/Linux and Windows operating systems structures and internals (e.g., process management, directory structure, installed applications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of virtual machine technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of virtualization products (VMware, Virtual PC)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into K0131"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of what constitutes a “threat” to a network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of who the organization’s operational planners are, how and where they can be contacted, and what are their expectations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of wireless technologies (e.g., cellular, satellite, GSM) to include the basic structure, architecture, and design of modern wireless communications systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of privacy disclosure statements based on current laws."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of continuous monitoring, its processes, and Continuous Diagnostics and Mitigation (CDM) program activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Automated security control assessments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of hardware asset management and the value of tracking the location and configuration of networked devices and software across departments, locations, facilities and, potentially, supporting business functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of software asset management and the value of tracking the location and configuration of networked devices and software across departments, locations, facilities and, potentially, supporting business functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of continuous monitoring technologies and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of risk scoring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of controls related to the use, processing, storage, and transmission of data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of risk assessment methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge that patching and software updates are impractical for some networked devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of secure update mechanisms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the importance of ingress filtering to protect against automated threats that rely on spoofed network addresses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of cyber competitions as a way of developing skills by providing hands-on experience in simulated, real-world situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of white/black listing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the latest intrusion techniques, methods and documented intrusions external to the organization."
+			}
+		}
+	]
+}

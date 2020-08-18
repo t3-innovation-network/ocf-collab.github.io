@@ -1,0 +1,1903 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-bf139ee2-cc1e-4ea5-97c6-6dea17ebebeb",
+		"name": {
+			"en-us": "NICE Cybersecurity Workforce Framework: Skills"
+		},
+		"description": {
+			"en-us": "The National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework components provide the means to identify work roles and related knowledge, skills, abilities and tasks of cybersecurity work. Skill is often defined as an observable competence to perform a learned psychomotor act. Skills in the psychomotor domain describe the ability to physically manipulate a tool or instrument like a hand or a hammer. Skills needed for cybersecurity rely less on physical manipulation of tools and instruments and more on applying tools, frameworks, processes, and controls that have an impact on the cybersecurity posture of an organization or individual. Current version as of January 18, 2018."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"cybersecurity",
+				"cyberspace",
+				"education",
+				"role",
+				"specialty area",
+				"skill"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in allocating storage capacity in the design of data management systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill of identifying, capturing, containing, and reporting malware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing network traffic capacity and performance characteristics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying and incorporating information technologies into proposed solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying confidentiality, integrity, and availability principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying host/network access controls (e.g., access control list)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying organization-specific systems analysis principles and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Skill in assessing the robustness of security systems and designs. (See S0027)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting capabilities and requirements analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting information searches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting knowledge mapping (e.g., map of knowledge repositories)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting queries and developing algorithms to analyze data structures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting software debugging."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting test events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in configuring and optimizing software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating and utilizing mathematical or statistical models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating policies that reflect system security objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating programs that validate and process multiple inputs including command line arguments, environmental variables, and input streams."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing and deploying signatures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing a data analysis structure (i.e., the types of data a test must generate and how to analyze that data)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing countermeasures to identified security risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing security controls based on cybersecurity principles and tenets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing the integration of hardware and software solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in detecting host and network based intrusions via intrusion detection technologies (e.g., Snort)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining an appropriate level of test rigor for a given system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining how a security system should work (including its resilience and dependability capabilities) and how changes in conditions, operations, or the environment will affect these outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing data dictionaries."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing data models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing operations-based testing scenarios."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing and applying security system access controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing, testing, and implementing network infrastructure contingency and recovery plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in diagnosing connectivity problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in discerning the protection needs (i.e., security controls) of information systems and networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in establishing a routing schema."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating the adequacy of security designs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in generating queries and reports."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying possible causes of degradation of system performance or availability and initiating actions needed to mitigate this degradation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in implementing, maintaining, and improving established network security practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in installing, configuring, and troubleshooting LAN and WAN components such as routers, hubs, and switches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in maintaining databases. (i.e., backup, restore, delete data, transaction log files, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in maintaining directory services. (e.g., Microsoft Active Directory, LDAP, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in mimicking threat behaviors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in optimizing database performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing packet-level analysis using appropriate tools (e.g., Wireshark, tcpdump)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in preserving evidence integrity according to standard operating procedures or national standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in systems integration testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in the measuring and reporting of intellectual capital."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in design modeling and building use cases (e.g., unified modeling language)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in the use of penetration testing tools and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in tuning sensors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using incident handling methodologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using knowledge management technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using protocol analyzers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using the appropriate tools for repairing software, hardware, and peripheral equipment of a system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using Virtual Private Network (VPN) devices and encryption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing code in a currently supported programming language (e.g., Java, C++)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing test plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing memory dumps to extract information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in collecting data from a variety of cyber defense resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing and executing technical training programs and curricula."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying and extracting data of forensic interest in diverse media (i.e., media forensics)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying gaps in technical capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying, modifying, and manipulating applicable system components within Windows, Unix, or Linux (e.g., passwords, user accounts, files)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in collecting, processing, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in setting up a forensic workstation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in talking to others to convey information effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using forensic tool suites (e.g., EnCase, Sleuthkit, FTK)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using scientific rules and methods to solve problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix XenDesktop/Server, Amazon Elastic Compute Cloud, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in physically disassembling PCs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, antivirus software, anti-spyware)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in securing network communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing and categorizing types of vulnerabilities and associated attacks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in protecting a network against malware. (e.g., NIPS, anti-malware, restrict/prevent external devices, spam filters)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing damage assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using network analysis tools to identify vulnerabilities. (e.g., fuzzing, nmap, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating test plans for applicability and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in integrating black box security testing tools into quality assurance process of software releases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in configuring and utilizing network protection components (e.g., Firewalls, VPNs, network intrusion detection systems)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting audits or reviews of technical systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating the trustworthiness of the supplier and/or product."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in deep analysis of captured malicious code (e.g., malware forensics)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using binary analysis tools (e.g., Hexedit, command code xxd, hexdump)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in one-way hash functions (e.g., Secure Hash Algorithm [SHA], Message Digest Algorithm [MD5])."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing anomalous code as malicious or benign."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing volatile data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying obfuscation techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interpreting results of debugger to ascertain tactics, techniques, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reading Hexadecimal data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying common encoding techniques (e.g., Exclusive Disjunction [XOR], American Standard Code for Information Interchange [ASCII], Unicode, Base64, Uuencode, Uniform Resource Locator [URL] encode)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reading and interpreting signatures (e.g., snort)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying security controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Skill in detecting host and network based intrusions via intrusion detection technologies. (See S0025)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Skill in determining how a security system should work and how changes in conditions, operations, or the environment will affect these outcomes. (See S0027)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in utilizing or developing learning activities (e.g., scenarios, instructional games, interactive exercises)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in utilizing technologies (e.g., SmartBoards, websites, computers, projectors) for instructional purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying technical delivery capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing the predictive power and subsequent generalizability of a model."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting Test Readiness Reviews."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Skill in data mining techniques. (See S0202)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in data pre-processing (e.g., imputation, dimensionality reduction, normalization, transformation, extraction, filtering, smoothing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing and documenting overall program Test & Evaluation strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing workforce and position qualification standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying hidden patterns or relationships."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying Test & Evaluation infrastructure (people, ranges, tools, instrumentation) requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interfacing with customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in managing test assets, test resources, and test personnel to ensure effective completion of test events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing format conversions to create a standard representation of the data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing sensitivity analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in preparing Test & Evaluation reports."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing multi-level security/cross domain solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in providing Test & Evaluation resource estimate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing machine understandable semantic ontologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in Regression Analysis (e.g., Hierarchical Stepwise, Generalized Linear Model, Ordinary Least Squares, Tree-Based Methods, Logistic)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reviewing logs to identify evidence of past intrusions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in system, network, and OS hardening techniques. (e.g., remove unnecessary services, password policies, network segmentation, enable logging, least privilege, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in the use of design methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in transformation analytics (e.g., aggregation, enrichment, processing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in troubleshooting and diagnosing cyber defense infrastructure anomalies and work through resolution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using basic descriptive statistics and techniques (e.g., normality, model distribution, scatter plots)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using data analysis tools (e.g., Excel, STATA SAS, SPSS)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using data mapping tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using manpower and personnel IT systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using outlier identification and removal techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing scripts using R, Python, PIG, HIVE, SQL, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing malware."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting bit-level analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in processing digital evidence, to include protecting and making legally sound copies of evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting reviews of systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in secure test plan design (e. g. unit, integration, system, acceptance)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in network systems management principles, models, methods (e.g., end-to-end systems performance monitoring), and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting application vulnerability assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using Public-Key Infrastructure (PKI) encryption and digital signature capabilities into applications (e.g., S/MIME email, SSL traffic)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying security models (e.g., Bell-LaPadula model, Biba integrity model, Clark-Wilson integrity model)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying the systems engineering process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing security systems designs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting research for troubleshooting novel client-level problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting system/server planning, management, and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in correcting physical and technical problems that impact system/server performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in integrating and applying policies that meet system security objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating policies that enable systems to meet performance objectives (e.g. traffic routing, SLA's, CPU specifications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing security controls based on cybersecurity principles and tenets. (e.g., CIS CSC, NIST SP 800-53, Cybersecurity Framework, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in designing the integration of technology processes and solutions, including legacy systems and modern programming languages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing applications that can log and handle errors, exceptions, and application faults and logging."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in implementing and testing network infrastructure contingency and recovery plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in troubleshooting failed system components (i.e., servers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in translating operational requirements into protection needs (i.e., security controls)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying and anticipating system/server performance, availability, capacity, or configuration problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in installing system and component upgrades. (i.e., servers, appliances, network devices)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in monitoring and optimizing system/server performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing packet-level analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recovering failed systems/servers. (e.g., recovery software, failover clusters, replication, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in operating system administration. (e.g., account maintenance, data backups, maintain system performance, install and configure new hardware/software)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in configuring and validating network workstations and peripherals in accordance with approved standards and/or specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in the use of design modeling (e.g., unified modeling language)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into S0160"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying various subnet techniques (e.g., CIDR)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into S0060"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing the application of cryptographic standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Skill in collecting, packaging, transporting, and storing electronic evidence to avoid alteration, loss, physical damage, or destruction of data. (See S0068)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying gaps in technical delivery capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing vulnerabilities in security systems. (e.g., vulnerability and compliance scanning)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in setting up physical or logical sub-networks that separate an internal local area network (LAN) from other untrusted networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting trend analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in configuring and utilizing computer protection components (e.g., hardware firewalls, servers, routers, as appropriate)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing impact/risk assessments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying secure coding techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using security event correlation tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using code analysis tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing root cause analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in administrative planning activities, to include preparation of functional and specific support plans, preparing and managing correspondence, and staffing procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing a target's communication networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing essential network data (e.g., router configuration files, routing protocols)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing language processing tools to provide feedback to enhance tool development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into S0062"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing midpoint collection data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing target communications internals and externals collected from wireless LANs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing terminal or environment collection data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in analyzing traffic to identify network devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying analytical methods typically employed to support planning and to justify recommended strategies and courses of action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying crisis planning procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in applying various analytical methods, tools, and techniques (e.g., competing hypotheses; chain of reasoning; scenario methods; denial and deception detection; high impact-low probability; network/association or link analysis; Bayesian, Delphi, and Pattern analyses)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing a target's frame of reference (e.g., motivation, technical capability, organizational structure, sensitivities)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing and/or estimating effects generated during and after cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing current tools to identify needed improvements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in assessing the applicability of available analytical tools to various situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in auditing firewalls, perimeters, routers, and intrusion detection systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in complying with the legal restrictions for targeted information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting non-attributable research."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting research using all available sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting research using deep web."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting social network analysis, buddy list analysis, and/or cookie analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in conducting social network analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating and extracting important information from packet captures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating collection requirements in support of data acquisition activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating plans in support of remote operations. (i.e., hot/warm/cold/alternative sites, disaster recovery)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in data mining techniques (e.g., searching file systems) and analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in defining and characterizing all pertinent aspects of the operational environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in depicting source or collateral data on a network map."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining appropriate targeting options through the evaluation of available capabilities against desired effects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining installed patches on various operating systems and identifying patch signatures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining the effect of various router and firewall configurations on traffic patterns and network performance in both LAN and WAN environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in determining the physical location of network devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing and executing comprehensive cyber operations assessment programs for assessing and validating operational performance characteristics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing intelligence reports."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in developing or recommending analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in disseminating items of highest intelligence value in a timely manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in documenting and communicating complex technical and programmatic information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating accesses for intelligence value."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating and interpreting metadata."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating available capabilities against desired effects to provide effective courses of action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating data sources for relevance, reliability, and objectivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating information for reliability, validity, and relevance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in evaluating information to recognize relevance, priority, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in exploiting/querying organizational and/or partner collection databases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in extracting information from packet captures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in fusion analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in generating operation plans in support of mission and target requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in gisting target communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying a target’s communications networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying a target's network characteristics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying alternative analytical interpretations to minimize unanticipated outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying critical target elements, to include critical target elements for the cyber domain."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying cyber threats which may jeopardize organization and/or partner interests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "WITHDRAWN: Integrated into S0066"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying how a target communicates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying intelligence gaps and limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying language issues that may have an impact on organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying leads for target development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying non-target regional languages and dialects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying the devices that work at each level of protocol models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in identifying, locating, and tracking targets via geospatial analysis techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in information prioritization as it relates to operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interpreting compiled and interpretive programming languages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interpreting metadata and content as applied by collection systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interpreting traceroute results, as they apply to network analysis and reconstruction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in interpreting vulnerability scanner results to identify vulnerabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in knowledge management, including technical documentation techniques (e.g., Wiki page)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in managing client relationships, including determining client needs/requirements, managing client expectations, and demonstrating commitment to delivering quality results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in navigating network visualization software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in number normalization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing data fusion from existing intelligence for enabling new and continued collection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in performing target system analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in preparing and presenting briefings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in preparing plans and related correspondence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in prioritizing target language material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in processing collected data for follow-on analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in providing analysis on target-related matters (e.g., language, cultural, communications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in providing analysis to aid writing phased after action reports."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in providing real-time, actionable geolocation information utilizing target infrastructures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in providing understanding of target or threat systems through the identification and link analysis of physical, functional, or behavioral relationships."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reading, interpreting, writing, modifying, and executing simple scripts (e.g., PERL, VBS) on Windows and Unix systems (e.g., those that perform tasks like parsing large data files, automating manual tasks, and fetching/processing remote data)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing and interpreting malicious network activity in traffic."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing denial and deception techniques of the target."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing midpoint opportunities and essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing relevance of information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing significant changes in a target’s communication patterns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing technical information that may be used for leads for metadata analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing technical information that may be used for leads to enable remote operations (data includes users, passwords, email addresses, IP ranges of the target, frequency in DNI behavior, mail servers, domain servers, SMTP header information)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in recognizing technical information that may be used for target development including intelligence development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in relevant programming languages (e.g., C++, Python, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in remote command line and Graphic User Interface (GUI) tool usage."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in researching essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in researching vulnerabilities and exploits utilized in traffic."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reverse engineering (e.g., hex editing, binary packaging utilities, debugging, and strings analysis) to identify function and ownership of remote tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reviewing and editing assessment products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reviewing and editing intelligence products from various sources for cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reviewing and editing plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in reviewing and editing target materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in server administration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in survey, collection, and analysis of wireless LAN metadata."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in synthesizing, analyzing, and prioritizing meaning across data sets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in tailoring analysis to the necessary levels (e.g., classification and organizational)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in target development in direct support of collection operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in target network anomaly identification (e.g., intrusions, dataflow or processing, target implementation of new technologies)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in technical writing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in testing and evaluating tools for implementation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in transcribing target language communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in translating target graphic and/or voice language materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using Boolean operators to construct simple and complex queries."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using databases to identify target-relevant information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using geospatial data and applying geospatial resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using multiple analytic tools, databases, and techniques (e.g., Analyst’s Notebook, A-Space, Anchory, M3, divergent/convergent thinking, link charts, matrices, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using multiple search engines (e.g., Google, Yahoo, LexisNexis, DataStar) and tools in conducting open-source searches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using non-attributable networks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using research methods including multiple, different sources to reconstruct a target network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using targeting databases and software packages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using tools, techniques, and procedures to remotely exploit and establish persistence on a target."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using trace route tools and interpreting the results as they apply to network analysis and reconstruction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in using various open source data collection tools (online trade, DNS, mail, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in utilizing feedback to improve processes, products, and services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in utilizing virtual collaborative workspaces and/or tools (e.g., IWS, VTCs, chat rooms, SharePoint)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in verifying the integrity of all files. (e.g., checksums, Exclusive OR, secure hashes, check constraints, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in wireless network target analysis, templating, and geolocation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing (and submitting) requirements to meet gaps in technical capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing about facts and ideas in a clear, convincing, and organized manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing effectiveness reports."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in writing, reviewing and editing cyber-related Intelligence/assessment products from multiple sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to access information on current assets available, usage."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to access the databases where plans/directives/guidance are maintained."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze strategic guidance for issues requiring clarification and/or additional guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze target or threat sources of strength and morale."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to anticipate intelligence capability employment requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to anticipate key target or threat activities which are likely to prompt a leadership decision."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to apply analytical standards to evaluate intelligence products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to apply the capabilities, limitations and tasking methodologies of available platforms, sensors, architectures and apparatus as they apply to organization objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to apply the process used to assess the performance and impact of cyber operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to articulate a needs statement/requirement and integrate new and emerging collection capabilities, accesses and/or processes into collection operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to articulate intelligence capabilities available to support execution of the plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to articulate the needs of joint planners to all-source analysts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to associate Intelligence gaps to priority information requirements and observables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to compare indicators/observables with requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to conceptualize the entirety of the intelligence process in the multiple domains and dimensions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to convert intelligence requirements into intelligence production tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to coordinate the development of tailored intelligence products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to correlate intelligence priorities to the allocation of intelligence resources/assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to craft indicators of operational progress/success."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to create and maintain up-to-date planning documents and tracking of services/production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to determine feasibility of collection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to develop a collection plan that clearly shows the discipline that can be used to collect the information needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to distinguish between notional and actual resources and their applicability to the plan under development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to ensure that the collection strategy leverages all available resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to evaluate factors of the operational environment to objectives, and information requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to evaluate requests for information to determine if response information exists."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to evaluate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to express orally and in writing the relationship between intelligence capability limitations and decision-making risk and impacts on the overall operation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to extract information from available tools and applications associated with collection requirements and collection operations management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to graphically depict decision support materials containing intelligence and partner capability estimates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify and apply tasking, collection, processing, exploitation and dissemination to associated collection disciplines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify Intelligence gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify when priority information requirements are satisfied."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to implement established procedures for evaluating collection management and operations activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to interpret planning guidance to discern level of analytical support required."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to interpret readiness reporting, its operational relevance and intelligence collection impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to monitor target or threat situation and environmental factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to monitor threat effects to partner capabilities and maintain a running estimate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to optimize collection system performance through repeated adjustment, testing, and re-adjustment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to orchestrate intelligence planning teams, coordinate collection and production support, and monitor status."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to prepare and deliver reports, presentations and briefings, to include using visual aids or presentation technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to relate intelligence resources/assets to anticipated intelligence requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to resolve conflicting collection requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to review performance specifications and historical information about collection assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to specify collections and/or taskings that must be conducted in the near term."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to synchronize operational assessment procedures with the critical information requirement process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to synchronize planning activities and required intelligence support."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to translate the capabilities, limitations and tasking methodologies of organic, theater, national, coalition and other collection capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to use collaborative tools and environments for collection operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to use systems and/or tools to track collection requirements and determine if they are satisfied."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in creating policies that reflect the business’s core privacy objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in negotiating vendor agreements and evaluating vendor privacy practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill in communicating with all levels of management including Board members (e.g., interpersonal skills, approachability, effective listening skills, appropriate use of style and language for the audience)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to anticipate new security threats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to remain aware of evolving technical infrastructures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to use critical thinking to analyze organizational patterns and relationships."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze and assess internal and external partner cyber operations capabilities and tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze and assess internal and external partner intelligence processes and the development of information requirements and essential information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze and assess internal and external partner organization capabilities and limitations (those with tasking, collection, processing, exploitation and dissemination responsibilities)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to analyze and assess internal and external partner reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to develop insights about the context of an organization’s threat environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to design incident response for cloud service models."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify successful capabilities to find solutions to less common and more complex system problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to apply cybersecurity and privacy principles to organizational requirements (relevant to confidentiality, integrity, availability, authentication, non-repudiation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to use risk scoring to inform performance-based and cost-effective approaches to help organizations to identify, assess, and manage cybersecurity risk."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify sources, characteristics, and uses of the organization’s data assets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to use cyber defense Service Provider reporting structure and processes within one’s own organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to respond and take local actions in response to threat sharing alerts from service providers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to translate, track, and prioritize information needs and intelligence collection requirements across the extended enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to ensure that accountability information is collected for information system and information and communications technology supply chain infrastructure components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skill to identify cybersecurity and privacy issues that stem from connections with internal and external customers and partner organizations."
+			}
+		}
+	]
+}
