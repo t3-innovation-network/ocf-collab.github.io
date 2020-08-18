@@ -6,7 +6,7 @@
     "ceterms": "http://purl.org/ctdl/terms/",
     "dct": "http://purl.org/dc/terms/",
     "dcterms": "http://purl.org/dc/terms/",
-    "ocfc": "https://purl.org/ocfc/terms#",
+    "ocfc": "https://ocfc-collab.org/ns/",
     "owl": "http://www.w3.org/2002/07/owl#",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
@@ -381,6 +381,16 @@
       "schema:rangeIncludes": "schema:DefinedTerm"
     },
     {
+      "@id": "ocfc:providerNodeAgent",
+      "@type": "rdf:Property",
+      "dcterms:identifier": "ocfc:providerNodeAgent",
+      "rdfs:comment": "Identifier (UUID) of the provider node agent.",
+      "rdfs:isDefinedBy": "ocfc:",
+      "rdfs:label": "Provider Node Agent",
+      "schema:domainIncludes": "ocfc:RegistryDirectory",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
       "@id": "ocfc:providerResponseDate",
       "@type": "rdf:Property",
       "dcterms:identifier": "ocfc:providerResponseDate",
@@ -424,14 +434,14 @@
       "schema:rangeIncludes": "xsd:string"
     },
     {
-      "@id": "ocfc:requesterAgent",
+      "@id": "ocfc:requesterNodeAgent",
       "@type": "rdf:Property",
       "dcterms:identifier": "ocfc:requesterAgent",
-      "rdfs:comment": "URL of the requester node agent.",
+      "rdfs:comment": "Identifier (UUID) of the requester node agent.",
       "rdfs:isDefinedBy": "ocfc:",
-      "rdfs:label": "Requester Agent",
-      "schema:domainIncludes": "ocfc:AssetEnvelope",
-      "schema:rangeIncludes": "xsd:anyURI"
+      "rdfs:label": "Requester Node Agent",
+      "schema:domainIncludes": "ocfc:RegistryDirectory",
+      "schema:rangeIncludes": "xsd:string"
     },
     {
       "@id": "ocfc:requesterMetamodel",

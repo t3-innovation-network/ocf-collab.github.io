@@ -1,5 +1,5 @@
 {
-  "@context": "https://example.org/ocfc/ns/context.json",
+  "@context": "https://ocf-collab.org/ns/ocfcContext.json",
   "@graph": [
     {
       "@id": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7",

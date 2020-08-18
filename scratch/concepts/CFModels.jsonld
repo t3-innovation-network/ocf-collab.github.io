@@ -4,7 +4,7 @@
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "skos": "http://www.w3.org/2004/02/skos/core#",
-    "t3nt": "https://t3innovationnetwork.org/networktrust/terms/",
+    "ocfc": "https://ocf-collab.org/nt/",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "created": {"@id": "dct:created", "@type": "xsd:date" },
     "conditionsOfAccess": {"@id": "schema:conditionsOfAccess", "@container": "@language" },
@@ -15,52 +15,48 @@
     "inScheme": { "@id": "skos:inScheme", "@type": "@id" },
     "modified": { "@id": "dct:modified", "@type": "xsd:date" },
     "prefLabel": {"@id": "skos:prefLabel", "@container": "@language" },
-    "publicationStatus": { "@id": "t3nt:publicationStatus", "@type": "@id" },
     "title": {"@id": "dct:title", "@container": "@language" }
   },
   "@graph": [
       {
-      "@id": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
+      "@id": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
       "@type": "skos:ConceptScheme",
       "created": "2020-01-30",
       "creator": {"en-US": "T3 Competency Framework Registry Network, Technical Work Group"},
       "description": {"en-US": "The concepts in this scheme identify the published competency framework metamodels (ontologies) defining a competency framework and its associated competencies. Where applicable, each URI also identifies the version of that language; thus, a particular language of description may have multiple concepts in the scheme--one for each of its versions."},
       "title": {"en-US": "Competency Framework Models"},
       "hasTopConcept": [
-        "https://t3innovationnetwork.org/networktrust/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
-        "https://t3innovationnetwork.org/networktrust/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
-        "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
+        "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+        "https://ocf-collab.org/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
       ]
     },
     {
-      "@id": "https://t3innovationnetwork.org/networktrust/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+      "@id": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
       "@type": "skos:Concept",
       "prefLabel": {"en-US": "ASN"},
       "definition": {"en-US": "ASN Description Language specification"},
       "modified": "2020-01-30",
-      "publicationStatus": "http://metadataregistry.org/uri/RegStatus/1001",
-      "inScheme": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
-      "topConceptOf": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
+      "inScheme": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
+      "topConceptOf": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
     },  
     {
-      "@id": "https://t3innovationnetwork.org/networktrust/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+      "@id": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
       "@type": "skos:Concept",
       "prefLabel": {"en-US": "CASE 1.0"},
       "definition": {"en-US": "IMS Global Case specification version 1.0"},
       "modified": "2020-01-30",
-      "publicationStatus": "http://metadataregistry.org/uri/RegStatus/1001",
-      "inScheme": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
-      "topConceptOf": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
+      "inScheme": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
+      "topConceptOf": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
     },
     {
-      "@id": "https://t3innovationnetwork.org/networktrust/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+      "@id": "https://ocf-collab.org/concepts/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c",
       "@type": "skos:Concept",
       "prefLabel": {"en-US": "CTDL-ASN"},
       "definition": {"en-US": "Credential Transparency Description Language (CTDL) profile of the ASN Description Language specification."},      
       "modified": "2020-01-30",
-      "publicationStatus": "http://metadataregistry.org/uri/RegStatus/1001",
-      "inScheme": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
-      "topConceptOf": "https://t3innovationnetwork.org/networktrust/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
+      "inScheme": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
+      "topConceptOf": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e"
     }
   ]
 }
