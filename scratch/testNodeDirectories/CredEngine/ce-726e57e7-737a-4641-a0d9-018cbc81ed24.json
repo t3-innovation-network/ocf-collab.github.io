@@ -1,0 +1,4130 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-726e57e7-737a-4641-a0d9-018cbc81ed24",
+		"name": {
+			"en-us": "Advanced Commercial Buildings Energy Management Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with the Department of Energy Office of Energy Efficiency and Renewable Energy (DOE EERE) and the National Institute of Building Sciences (NIBS)/DOE Better Buildings Workforce Guidelines project, the Consortium for Building Energy Innovation (CBEI) team developed a competency model for the advanced commercial building (ACB) workforce that provides a support system to build a better workforce. The ACB workforce consists of the following job groups: Building Operations Professional, Energy Auditor, Building Commissioning Professional, and Energy Manager. This model was designed to address the needs of a high-growth sector, support the expansion of the advanced commercial buildings market and increased demand for a skilled and qualified workforce. This model is different from most of the models on the site as it was based off of job task analyses (JTA) for all four jobs. The knowledge and skills from the JTAs were analyzed and categorized to show shared competencies across all four jobs (Tiers 1-5) as well as unique competencies to each occupation (Tier 6-Occupation-Specific). Another unique characteristic of the ACB Competency Model is the inclusion of key performance competencies, which are identified by the asterisk (*) in the top tier (Occupation-Specific). These competencies are referenced as keys to success and focus on successful behaviors as opposed to the knowledge skills and abilities (KSAs) required to do the job. In 2018, the model was revised to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"commercial buildings",
+				"energy management",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to remain calm in an emergency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to work in abnormal conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Working with others from a range of backgrounds"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to cope with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Familiarity with learning styles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Negotiation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persistence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship building skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Successful training outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leadership:"
+			},
+			"comment": {
+				"en-us": [
+					"Leading people and groups effectively"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leadership skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teaching skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Team management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to deal with difficult people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication:"
+			},
+			"comment": {
+				"en-us": [
+					"Communicating effectively through active listening, presenting, and fostering support"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to communicate technical information to others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to communicate to specific audiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to use collaborative meeting tools (e.g., web conferencing, teleconferences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply assertiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change management techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate using the vocabulary/terminology of a related trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with co-workers and/or business people in writing (letters, memos)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with co-workers and/or business people verbally (face-to-face)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications methods (Skype, Webinar, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow verbal job instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interviewing skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multimedia skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observational skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Summarize information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verbal communication skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Written communication skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Management:"
+			},
+			"comment": {
+				"en-us": [
+					"The process of controlling and managing various forms of information"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to create and utilize spreadsheets and databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to analyze data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to apply data to protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to create a matrix"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to create checklists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to create graphs, charts, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic data architecture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic database usage, design, and management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Information Modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data collection protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data interpretation and management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find information in catalogs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find information in references (Machinery handbook, tap/drill charts, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Records/document management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheet analysis skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheet skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transfer number sequences from a source into a column"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Word processing skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering & Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Electrical and mechanical engineering best practices and principles in the design, construction and operation of buildings"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic energy engineering calculations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic engineering skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read drawings and specifications sheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of engineering practices and principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Math & Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Principles of mathematics and scientific rules and methods"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to convert units"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to use conversion factors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate the perimeter and areas of common figures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change numbers from fractions into decimals and back"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change numbers from percentages into decimals and back"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert measurements from one unit to another (English to Metric, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Figure averages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find distances and directions on land maps"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find the dimensions of an object from a scale drawing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make rough estimates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure accurately to 0.01 inches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure angles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure area (square inches, square centimeters, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure board feet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure length to 1/16 of an inch"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure length to 1/32 of an inch"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure length to 1/4 of an inch"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure length to 1/8 of an inch"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure linear distances (length, width, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure temperature to within 1 degree Fahrenheit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure volume (cubic inches, liters, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure weights using devices calibrated in pounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multiply and factor algebraic expressions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining measurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform angular calculations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform math operations using exponential numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform math operations using signed (positive and negative) numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform math operations using single and multiple digit numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform mathematical operations with decimals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform mathematical operations with fractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform simple math operations of addition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform simple math operations of division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform simple math operations of multiplication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform simple math operations of subtraction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and apply coefficient measurements indicated in a table or chart"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and follow a map, chart, plan, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and use the scale of a drawing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read flowcharts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read information from tables and graphs (bar, circle, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read measurements taken with common measuring tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read statistical data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read, interpret, and use size-scale relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record measurements, using appropriate unit notations (feet, yards, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve angle-circle problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve compound angle problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve formula calculations with more than one unknown"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve formula calculations with one unknown"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve oblique triangle problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve oblique triangle trigonometry problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve percent problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve problems with graphs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve ratio problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve right triangle problems using Pythagorean theorem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve right triangle trigonometry problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve triangle-circle problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use tools to measure quantities and solve problems involving measurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Write clearly and concisely in a professional manner"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading ability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report writing skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical reading ability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical writing skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write words and numbers legibly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Development/Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Build the business case and communicate effectively to all parties involved the financial and environmental benefits to energy project implementation"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business acumen"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business case development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental impacts of energy consumption"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Unique requirements for facility usage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, & Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic format"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to comprehend technical documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to follow written and sequenced directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret test readings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to operate digitizing equipment (scanners, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to perform document discovery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to photograph evidence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to read gauges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to read technical data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and follow directions found in equipment manuals and code books"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and interpret directions found on labels, packages, or instruction sheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recordkeeping skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating innovative and creative solutions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to think creatively and holistically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logical thought processes to analyze information and draw conclusions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to compare costs of technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to compare data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to compare products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to forecast situational resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to recognize abnormalities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to relate graphic information to real world situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare names"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decision making ability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate options/alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluation methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantitative analysis skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work within a schedule and keep track of details using prescribed procedures"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to create project scope documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to determine manpower requirements from scope of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret scheduling tools (Gantt chart, milestone, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret scope of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to multitask"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to plan for future needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to prioritize"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to write meeting minutes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detail-oriented"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow-up techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Job responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Long term goals of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project objectives, goals, and purpose"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project scheduling skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scope of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying problem-solving and critical-thinking skills to the work environment"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect information to solve a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem solving skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Work cooperatively with others to complete work assignments"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to train others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to work with difficult people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitation skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in brainstorming"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Team building skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Design/Construction:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems and processes involved in building design and construction"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to read and interpret construction documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction contracting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction documents and specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction management processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction methods and concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Divisions used in construction specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General building construction materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General construction process knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Historic building practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Historical data associated with facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan reading skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sequence of construction activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical power quality monitoring system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical power system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical power system and Emergency power system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elevator/escalator systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lighting control system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lighting system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire and Life Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency alert systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency communication systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire alarm system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire protection (Sprinkler) system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Life safety systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security equipment (lighting, cameras, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Smoke evacuation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audio-visual systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IT systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air compressor and distribution system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air compressors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air distribution system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building HVACR systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Combined heat and power system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conveyance systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cooling generation equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fresh air systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heat generation equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC system or HVACR system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVACR system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Low temperature refrigeration systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Variable drive system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Variable speed (Frequency) drive system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plumbing Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chilled water system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Condenser water system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Domestic hot water system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gray and black water systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Irrigation equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Irrigation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plumbing systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Potable cold water system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Primary sewer/gray water systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pumps and pumping systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Steam and hot water system (heating)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Steam distribution system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated windows and blinds systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building envelope"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building systems * (*see list)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel oil system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel storage and distribution systems (USTs, ASTs, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory gas system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical gas systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nurse call systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pneumatic tube systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public address systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Space scheduling systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standpipe/sprinkler systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uninterruptable and critical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uninterruptible power systems (UPSs)/Building Energy Storage Systems (BSS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vertical transportation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Window types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost Estimating/Accounting:"
+			},
+			"comment": {
+				"en-us": [
+					"Basic accounting and cost estimating related to construction and building operations"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to evaluate bid proposals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to write proposals and cost estimates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic accounting skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic knowledge of tariffs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Budget categories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Budgeting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction budgets and costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction cost estimating skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost estimating skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Costs of systems or improvements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimating skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Feasibility studies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization's budgeting process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamentals of Energy & Power:"
+			},
+			"comment": {
+				"en-us": [
+					"Basic knowledge related to energy generation, consumption and power units and definitions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret utility bills, rate structures and utility contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic energy concepts and principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic knowledge of tariffs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic utility bill analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "District energy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "District energy systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy load profiles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy source pricing structures (demand charges, power factor charges, time of use charges, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy unit calculations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of utility bill information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, & Security:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a health and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies (including OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards (including biohazards, potential contaminants, and other hazardous chemicals) and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the health effects of contaminants including stay times"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize potential environmental, health and safety (EHS) hazards and risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow ventilation requirements for consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR if trained and summon assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials including remediation and clean up if necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training and security training and emergency drills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely; understand lock-out/tag-out safety procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment and understand their limitations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify worker's rights under law including obtaining safety training in a language you understand, being protected from toxic chemicals, and being provided required safety gear"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace, making suggestions, and reporting injuries, incidents, and hazards, as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations & Maintenance:"
+			},
+			"comment": {
+				"en-us": [
+					"Overall knowledge of building systems, structure, interiors and exteriors and grounds so the facility and its systems function efficiently, reliably, safely, and securely."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to conduct a root cause analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Best maintenance practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CMMS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deferred issues (deferred maintenance)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Indicators of problems with equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintainability, access, and operational requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance costs of existing systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance management systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance procedures and roles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitoring systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Options for extending the life of equipment and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reporting capabilities of work order systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Root cause analysis techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical equipment knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical characteristics of facilities and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building operation plan (including original design load)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building operations and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment operations and specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expected equipment performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expected life of major building components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilities management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facility type processes and operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of age of building on building systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of facility operations on scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manpower utilization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manual equipment operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Normal equipment operating parameters/limits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Normal routine operation of the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "O&M Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupancy impacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupancy types and typical evacuation procedures for various occupancies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupant requirements and standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation equipment loads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operational impact of inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations within the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Owner's long-term plan for the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Owner's operational configuration and personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Space usage and occupancy schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical aptitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of interlocked equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations, Codes, & Standards:"
+			},
+			"comment": {
+				"en-us": [
+					"Comply with regulations and building codes and apply industry standards to ensure quality work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to research and interpret Codes and Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Americans with Disabilities Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applicable energy regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building and Energy Codes and Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "EPA regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General knowledge of the authority having jurisdiction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry accepted Codes, Standards and Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry accepted standards, codes and guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection agencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Licensing requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local water restrictions and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Permitting requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Permitting resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read codes (building codes, electrical codes, standards, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulatory record requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State and local energy mandates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Management & Contracting:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of contract types, contract administration and the ability to assess and manage risk."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to conduct a risk assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret contract documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to understand contract documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract administration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracts and service providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "QC skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk assessment and management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Service contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Industry Processes:"
+			},
+			"comment": {
+				"en-us": [
+					"Processes, procedures, standards and general technology associated with advanced energy retrofits"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit processes and tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commissioning process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emerging technologies and tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy audit methodology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry norms for manpower"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry terminology, jargon, and acronyms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prevailing commissioning pricing structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stakeholder groups (health and safety, facility operations, occupants, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Substantial completion and final completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade terminology and definitions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of auditing equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of industry best practices for various building systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of various specialized facility types (labs, clean rooms, hospitals, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of what an energy audit is"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Science Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"The analysis and control of the physical phenomena affecting buildings and architecture including the analysis of building materials and building envelope systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building sciences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convective air transport (pressure/flow)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fluid dynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heat transfer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC interactions with the enclosure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Indoor air quality (thermal comfort, health, safety)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material selection (IAQ, thermal mass, moisture durability)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Moisture transport through the enclosure (diffusion or mechanically)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Psychometrics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of photometric charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic Analysis & Financing:"
+			},
+			"comment": {
+				"en-us": [
+					"Funding mechanisms, financial analysis tools, and ability to build a financial business case and support funding of projects"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to describe key points of interest and attractions and respond to questions about"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to conduct economic analysis of alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic financial terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing ROIs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incentive programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Life-span cost and quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ROI analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical non-energy costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial analysis methodologies and threshold (e.g., life cycle costs analysis, ROI)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial skills (ROI, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First cost vs. lifecycle costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Funding sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Life cycle assessments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifecycle accounting practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rebates and incentives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility Economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rate schedules for utilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility and tax incentives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility bill analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility bill structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility invoicing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility rate structures and schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility rates, tariffs, and contracts (including specialized rates and programs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility rebate incentives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility regulations and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility time of use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy & Water Efficiency:"
+			},
+			"comment": {
+				"en-us": [
+					"Basic and emerging principles and concepts that promote energy and water conservation efficiency."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic skills in conducting energy audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Benefits of energy efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Best practices for energy efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Climate zone variations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy calculations (e.g. energy modeling)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy conservation opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy efficiency measures (EEM) and economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy management fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy recovery system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy use analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Foot-candles/lumens and lighting concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heating and cooling degree days and balance point temperature"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "How to interpret interval data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "How to interpret weather data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of operational changes (occupancy changes) on performance expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Onsite energy generation (CHP, PV, wind, thermal, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship between deficiencies and energy efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of load shedding and its importance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weather effects on energy use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weather impact on the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weather related factors affecting equipment (temperatures, dew points, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Management & Control Systems:"
+			},
+			"comment": {
+				"en-us": [
+					"Various system control elements and techniques and measures to apply to manage energy performance and increase energy efficiency"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to manipulate equipment controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access controls systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building automation control systems and programming"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building interior and exterior lighting fixtures and controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Controls graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Controls theory and operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demand management strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy information systems (EISs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy management control systems (EMCSs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC control system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Peak demand loads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process systems and controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sequence of operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strong control system skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Various control technologies (new and legacy)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water distribution and control system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement, Verification, & Reporting:"
+			},
+			"comment": {
+				"en-us": [
+					"Data gathering, trending, and interpreting data to track, benchmark, and report performance"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret baselines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret nationally recognized energy benchmarking standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjusting equipment based on readings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Baselines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Benchmarking skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Best practices in measurement and verification methodology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building certification programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy certification programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy metering and monitoring system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Functional testing procedures, equipment, and results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "How to verify data (check meters, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpreting equipment test readings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "M&V methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measured variables to verify system performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement equipment (current transformers, data loggers, etc.) and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meter calibration and verification skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Metering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Submetering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System documentation requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trend analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical ranges of energy performance metrics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility meter types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Sustainability concepts and practices relating to the design, construction, and operations of buildings"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carbon Footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contributors to carbon or environmental footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental sustainability and efficiency goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Greenhouse gas calculations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mitigator of carbon or environmental footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Indoor environmental quality (IEQ) standards (e.g., lighting, temperature, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Renewable energy system (CHP, PV, Wind, Thermal, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar mapping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "When to conduct IEQ tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Whole Building Performance:"
+			},
+			"comment": {
+				"en-us": [
+					"Concepts of how energy conservation measures, products, and technology work together to improve building performance"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to utilize a systems or holistic approach to equipment checks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Components of building and process systems and assemblies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disaster resistance/resiliency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-cost vs. ongoing cost effectiveness analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "How system components work together"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of building systems on health and wellbeing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance tradeoffs between energy, durability, comfort and IAQ"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems interactions and integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems thinking (thinking of the interactions between systems)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems understanding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "When a building needs to be \"tuned up\" versus new installations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Whole building integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupation Specific Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Commissioning (Cx) Professional"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to assess building performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to assess timeframes for construction and commissioning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to conduct a needs assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to determine appropriate sampling procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to distinguish between systems, equipment, and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to identify specialty workers needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret the TAB report"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to review controls graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to serve as a mediator between owners, contractors and others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Climate zone variations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commissioned systems knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commissioning plan development skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx budgeting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx manpower requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx processes and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx reporting documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx sequence of events"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cx team member requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data normalization (weather, days of the month, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evidence collection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Failure mode analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fault diagnostic knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forensic skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Issue resolution process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturers of Cx equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methodology to inspect systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Needs assessment processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Owners Project Requirements (OPR)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proportional balancing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regression modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Required construction and installation tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sampling protocols and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Start up requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Survey techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test and Air Balance (TAB)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing equipment and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing sequencing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Training facilitation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical site visit protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warranty provisions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possesses technical competencies to gather assess appropriate information*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possesses foundational competencies in engineering*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicates effectively with key stakeholders*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively manages teams and projects*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approaches projects collaboratively (works with the client)*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies analytical decision-making process to include both financial goals and energy saving goals*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops practical solutions beyond energy consumption*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively influences others to achieve goals*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies systems thinking when identifying appropriate solutions and/or troubleshooting*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Operations Professional"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to communicate with regulatory authorities/inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to diagnose equipment and system failures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to distinguish between manual and automatic operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to evaluate facility conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to identify alternate work practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to identify options for extending useful life of equipment and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to integrate disparate systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to perform equipment checks and tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to write Key Performance Indicators (KPIs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asset inventories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic knowledge of contaminant limits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic knowledge of insurance policies for equipment and operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Break-even analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chain of custody"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common or frequent deficiencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Company labor policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comparing alternatives to satisfy demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conditions under which a building should be evacuated"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consumable logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consumable sourcing guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contaminant containment protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contingency plans/data recovery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Criticality of various systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer requirements for business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer service skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decontamination requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguishing equivalency between equipment and/or systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency equipment operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Failure modes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial penalties for going above peak demand threshold"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First response mitigation techniques (what type of fire extinguisher to use, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Funding limitations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HIPAA requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of change on tenant/occupant space"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incident command systems (ICS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inclement weather escalation plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inclement weather local logistics (shelter, food, transportation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infection control procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrated work management systems structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interim life safety measures (fire watch, alternate evacuation routes, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory control skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key logic systems (master keys vs. other keys)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labor contract agreements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Load demand schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Location of facility equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locksmith skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Management requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material availability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical evaluation policies and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Municipal requirement for disposal and recycle of consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Incident Management Systems (NIMs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational security requirements (access requirements, levels of security, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outsourcing options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Payment policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance improvement plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel performance review processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reclamation techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommended maintenance schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrigerant recovery techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulated consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remediation procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote monitoring systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote system fluency (DDC, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource planning personnel management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resources required for typical tenant/occupant requests and issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Request For Proposal (RFP) Process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Service level agreements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shelf life of consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard Operating Procedures related to equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized emergency equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialty exhaust systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Storage requirements for consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tenant/occupant requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tenant/occupant tolerances in changes to systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing and balancing procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Thermal energy storage system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Thermodynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade and Union requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade knowledge for specific equipment and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of all staff functions carried out in the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of staffing models (vacation, sick leave, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "When substitutions of equipment or systems are not allowed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work control procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work order processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possesses technical competencies to gather appropriate information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicates effectively with key stakeholders (Energy Auditor)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Focuses on customer service/ stakeholder satisfaction (Energy Auditor)*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Works collaboratively with all key stakeholders*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures that all key stakeholders are properly informed*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies systems thinking when identifying appropriate solutions and/or troubleshooting*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multitasks effectively and in a timely manner*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Views everything from the lenses of \"how can I improve the operations and the operational mission of the building's stakeholders\"*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Auditor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to determine tools needed for an audit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to interpret thermography"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building physics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building pressurization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimum required time period of utility data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programming skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sampling protocols and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of audits (level 1, 2, or 3, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical energy analysis methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical energy usage by building type"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Typical percentage of end usage by occupancy type"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand available data types for weather (bin data, hourly data, TMY, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Focuses on customer service/client satisfaction*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approaches projects collaboratively (works with the client)*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possesses technical competencies to gather appropriate information*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies analytical decision-making process to include both financial goals and energy saving goals*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methodically collects data while considering the entire system to solve problems*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops practical solutions beyond energy consumption*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicates effectively with key stakeholders*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Delivers objective reports that are realistic, credible and verifiable*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Considers the client’s goals and needs*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to download data from different types of meters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to read future markets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to use Energy STAR portfolio manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adept at reusing and reapplying existing systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy accounting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy accounting skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project delivery methods (ESCO, PPA, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regression analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability of sources of meter data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively aware of industry trends and direction*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates all benefits of energy efficiency*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess technical competencies to gather and assess appropriate information*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess foundational competencies in engineering*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies analytical decision-making process to include both financial goals and energy saving goals*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops practical solutions beyond energy consumption*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures that all key stakeholders are properly informed*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies systems thinking when identify appropriate solutions and/or troubleshooting*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Informs and educates stakeholders as a means to change behavior*"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Informs and educates stakeholders as a means to change behavior*"
+			}
+		}
+	]
+}
