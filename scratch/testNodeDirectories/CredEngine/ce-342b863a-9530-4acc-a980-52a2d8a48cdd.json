@@ -1,0 +1,2809 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-342b863a-9530-4acc-a980-52a2d8a48cdd",
+		"name": {
+			"en-us": "Geospatial Technology Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Geospatial Technology Competency Model framework was developed through a collaborative effort involving the Employment and Training Administration (ETA), the GeoTech Center, and industry experts.\n\nOver the course of 2018, the GeoTech Center and industry subject matter experts updated the model with guidance from ETA to reflect the knowledge and skills needed by today's geospatial technology professionals."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"geospatial",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work effectively with others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respecting diversity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact appropriately and respectfully with supervisors and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with people who have diverse personalities and backgrounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be flexible and open-minded when dealing with a wide range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to and consider others' viewpoints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the morals and beliefs of society"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one's decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating commitment to the values, standards of conduct, and well-being of one's profession."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay calm, think clearly, and act decisively in stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strengthen your profession by mentoring junior colleagues and championing continuing professional development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow rules and standards of dress and personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to the wellbeing of our community"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating gumption at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new responsibilities and work challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive and effort to accomplish tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achievement motivations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently, predictably, and reliably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations, complete assignments, and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal and professional lifelong learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback and modify behavior for improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use change as a learning opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn and adopt new techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in learning activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through job shadowing and continuing education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek and maintain membership in professional associations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read technical publications to stay abreast of new developments in the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain certifications and continuing education credits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrating and applying learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying personal interests and career pathways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written technical and non-technical information in documents such as charts, graphs, manuals, maps, memos, records, reports, schedules, surveys, tables, and titles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infer or locate meaning of unknown or technical vocabulary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the essential message and purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate and analyze written materials critically, synthesizing information from multiple sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discriminate reliable from unreliable sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify relevant details, facts, and main ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to create work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as case studies, charts, contracts, designs, diagrams, directions, graphs, legal descriptions, letters, manuals, maps, plans, records, reports, and surveys"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages and other written information, which may contain technical material, in a logical, organized, coherent and persuasive manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop ideas with supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization; use appropriate grammar (e.g., correct tense, subject-verb agreements, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in a manner appropriate for business; use language appropriate for the target audience; avoid unnecessary jargon; use appropriate tone and work choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Avoid plagiarism by paraphrasing, citing, and referencing sources properly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to express ideas and solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply mathematical principles:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Systems and Relationships - whole numbers, decimals, fractions, and percentages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Operations and Computation - addition, subtraction, multiplication, and division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and Estimation - measurement of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed; unit conversion; numerical analysis to obtain approximate solutions when necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical notation - the language of mathematics to express mathematical ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Reasoning and Problem Solving - inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistics and Probability - standard deviation, variance, tests of significance, sampling, probability, and confidence intervals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Algebra - equations, patterns, functions, 3D vectors, and matrices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometry - size, shape, and position of figures; using geometric principles to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trigonometry - relationships among the sides and angles of triangles on planes and spheres"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geography:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the science of place and space. Knowing how to ask and discover where things are located on the surface of the earth, why they are located where they are, how places differ from one another, and how people interact with the environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply geographic skills, including:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Subject-specific Geographic Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human-Environment Interaction:"
+			},
+			"comment": {
+				"en-us": [
+					"Know and apply geographic information about relationships between nature and society (e.g., pollution from industrial development, economic effects of drought)"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regional Geography:"
+			},
+			"comment": {
+				"en-us": [
+					"Know and apply knowledge of the physical and human geography of a specific country or world region"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Geography:"
+			},
+			"comment": {
+				"en-us": [
+					"Know and apply geographic information about the processes that shape physical landscapes; weather, climate and atmospheric processes; ecosystems and ecological processes; and natural hazards"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cultural Geography:"
+			},
+			"comment": {
+				"en-us": [
+					"Know and apply geographic information about culture and cultural processes, including religion, language, ethnicity, diffusion, meaning of landscapes, cultural significance of place"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geographic Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geographic Information Systems (GIS):"
+			},
+			"comment": {
+				"en-us": [
+					"Use GIS to acquire, manage, display, and analyze spatial data in digital form"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cartography:"
+			},
+			"comment": {
+				"en-us": [
+					"Producing, creating, and designing paper or digital maps"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field Methods:"
+			},
+			"comment": {
+				"en-us": [
+					"Use interviews, questionnaires, observations, photography, maps, GPS, GIS, and other techniques to measure geographic information in the field"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spatial Statistics:"
+			},
+			"comment": {
+				"en-us": [
+					"Use quantitative methods to process spatial data for the purpose of making calculations, models, and inferences about space, spatial patterns, and spatial relationships"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geographic Perspectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spatial Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Identify, explain, and find meaning in spatial patterns and relationships, such as site conditions, how places are similar and different, the influence of a land feature on its neighbors, the nature of transitions between places, how places are linked at local, regional, and/or global scales"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Perspective:"
+			},
+			"comment": {
+				"en-us": [
+					"Possess and apply knowledge of how people, places, and regions are linked by global networks and processes (e.g., globalization, international trade, immigration, Internet technology, global climate system)"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interdisciplinary Perspective:"
+			},
+			"comment": {
+				"en-us": [
+					"Draw on synthesize the information, concepts, and methods of the natural and social sciences for geographic research and applications"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be familiar with the historical origins of geospatial technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and Engineering:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing and applying the principles, rules, and methods of science and engineering to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific knowledge and methods:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Method - the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of a hypothesis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the physical and social science that is appropriate to a chosen geospatial application domain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Subject-specific Scientific Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Sciences, such as Agricultural Science - production of goods through the growing of plants, animals, and other life forms; Biology - the phenomena of life and living organisms; Environmental Science/Ecology - the relationships between organisms and their environments; Forestry - the cultivation, maintenance, and management of forests; Geology - the origin, history, and structure of the earth; Hydrology - properties, distribution, and effects of water on the Earth's surface; Meteorology and Climatology - phenomena of the atmosphere, especially weather and weather conditions; Oceanography - scientific study of oceans, the life that inhabits them, and their physical characteristics; Physics - matter and energy and their interactions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social sciences, such as Anthropology - the origins and social relationships of human beings; Demography - the characteristics of human populations; Economics - the production, distribution and consumption of goods and services and their management; History - the interpretation of past events involving human beings; Political Science - the government of states and other political units; and Sociology - the study and classification of human societies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering knowledge and methods:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design - design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering technologies, including computer-aided engineering and drafting, site surveying, leveling, and ground-based laser scanning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the engineering disciplines that are appropriate to a chosen geospatial application domain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Subject-specific Engineering Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Familiarity with applications of science and engineering principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Listening and Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Give full attention to what other people are saying, take time to understand the points being made, ask questions as appropriate, and refrain from interrupting at inappropriate times"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking and Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others; present thoughts and ideas persuasively; gain commitment and ensure support for proposed ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytic Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use inductive and deductive reasoning to analyze, synthesize, compare, and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the underlying relationship among facts and connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize problems into manageable parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigation and file management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scroll bars, a mouse, and dialog boxes to work within the computer's operating system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access and switch between applications and files of interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet and E-mail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the Internet to find information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open and configure standard browsers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use searches, hypertext references, and transfer protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Send and retrieve electronic mail (e-mail)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write e-mail with an appropriate tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage personal schedule and contact information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the Internet to find and attend online training, web conferences, webinars, self-paced training, and other applicable interactive sites"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ collaborative/groupware applications to facilitate group work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing and Publishing Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to compose text and insert graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Format, edit, and print text"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Save and retrieve word processing documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to enter, manipulate, and format text and numerical data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert, delete, and manipulate cells, rows, and columns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and save worksheets, charts, and graphs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to create, manipulate, edit, and present digital representations of information to an audience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to manage large amounts of information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and edit simple databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Input data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retrieve detailed records using a query language"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create reports to communicate the information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer programming and algorithms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic understanding or appreciation of programming language principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Code or script as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop web applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with pictures in graphics programs or other applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and create graphs, diagrams, and other information graphics that most effectively and appropriately represent particular data sets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert graphics into other files/programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete projects."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in the team and identify with its goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine when to be a leader and when to be a follower depending on what is needed to achieve team’s goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify roles of team members and effectively communicate with all members of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with others to formulate team objectives and develop consensus for best outcome"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Give and receive feedback constructively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to considering new ways of doing things and the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting team objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use teamwork skills to achieve goals, solve problems, and manage conflict"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Recognizing, exploring, and using a broad range of ideas and practices."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employing unique analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unique analyses and generate original, innovative ideas and solutions in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating innovative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "See the possibilities of “what can be” and inspire a shared sense of purpose within the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities to develop unique approaches and useful solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeing the big picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and possess a big picture view of the situation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and organizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply effective organizational skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Break down large problems into more manageable component tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement a plan for a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing or planning work to accomplish more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change gears in response to unpredictable or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively change plans, goals, actions, or priorities to deal with changing situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare actual and ideal performance in order to identify performance gaps or opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a timeline for sequencing the activities of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish specific goals to accomplish work in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working remotely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand or appreciate the impact of working remotely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capability to work remotely as required"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem by analyzing its component parts and defining critical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, obtain, and review information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to develop new ideas for and answer to work related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build models to conceptualize and develop theoretical and practical frameworks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Articulate a value proposition for particular customers, users, and stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and Implement a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after contemplating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, select, and apply tools or technological solutions appropriate to the task at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information technology and computer applications as it supports the gathering, storage, manipulation, and transfer of data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping current on tools and technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies, and methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may asses in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Help people adapt to the changes brought on by new technologies and helping them to see the value and benefits of new technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot and maintain tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, code, categorize, calculate, tabulate, audit, or verify information or data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform with rigorous exactness and a high degree of accuracy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply techniques for observing and gathering data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining logs, records, and files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement quality assurance and quality control procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detecting errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic/Business/Financial Principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic understanding of markets, economic terminology, and business principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic System as a Framework for Decision-making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantify the costs and benefits of an information technology solution for a given organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess patterns of technologies by examining their effects on parts of an organization, as well as the effects on the organization’s interactions with customers, suppliers, distributors, and workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship between individual performance and the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics - Act in the best interests of the company, your co-workers, your community, other stakeholders, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal/Financial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with the letter and spirit of applicable laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use company property legitimately, minimizing loss and waste; report loss, waste or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain privacy and confidentiality of company information, as well as that of customers and co-workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with intellectual property laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect trade secrets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental/Health/Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hold paramount the safety, health, and welfare of the public"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a healthful and safe environment and report any violations/discrepancies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure equipment and systems are designed to be environmentally friendly and strive to continually minimize the resulting carbon footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emphasize quality, customer satisfaction, and fair pricing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with customers in good faith; no bribes, kickbacks, or excessive hospitality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and resist temptations to compete unfairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of market trends, company’s position in the market place, and defined market segments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand position of product/service in relation to market demand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the company and product brand through building and maintaining customer relations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate internal and external customer demands and needs into the product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate skills in leadership and team building, including enlisting others to work toward a shared vision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss strategies for managing growth, including using replicable processes to create enterprises that are sustainable"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geospatial Business Fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of the various professions, agencies and firms that comprise the geospatial technology industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the respective roles of the private sector, universities, non-profit organizations, and government agencies in the geospatial market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make a business case for a given organization’s investment in geospatial technology, including value added and risks minimized"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize ethical implications of bidding and other business practices in geospatial business contexts and make reasoned decisions about appropriate actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Crosscutting Geospatial Abilities and Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Earth Geometry and Geodesy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss the roles of several geometric approximations of the earth’s shape, such as geoids, ellipsoids, and spheres"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe characteristics and appropriate uses of common geospatial coordinate systems, such as geographic (latitude and longitude), UTM and State Plane Coordinates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship of horizontal datums, such as North America Datum of 1983 (NAD 83) or the World Geodetic System of 1984 (WGS 84), to coordinate system grids and geometric approximations of the earth’s shape"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe characteristics and appropriate uses of common map projections, such as Transverse Mercator, Lambert Conformal Conic, Albers Conic Equal Area, Azimuthal Equidistant, and Polar Stereographic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss the elements of geospatial data quality, including geometric accuracy, thematic accuracy, resolution, precision, and fitness for use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "In the context of a given geospatial project, explain the difference between quality control and quality assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify data quality and integration problems likely to be associated with geospatial and attribute data acquired with legacy systems, processes, and crowd sourcing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate and interpret statistical methods and measures of the accuracy of a digital data set, such as Root Mean Square Error (RMSE), linear regression and standard deviation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Positioning Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the basic components and operations of the Global Navigation Satellite System (GNSS), such as the Global Positioning System (GPS) and similar systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the role of GNSS in location-based services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect and integrate GNSS positions and associated attribute data with other geospatial data sets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe characteristics and appropriate uses of electrical and mechanical inertial measurement units (IMU)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote Sensing and Photogrammetry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the value of the electromagnetic spectrum"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate the several types of resolution that characterize remotely-sensed data, including spatial, spectral, radiometric, and temporal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe characteristics, difference and appropriate uses of active and passive sensors (e.g. optical, microwave, multispectral, hyperspectral, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare the capabilities and limitations of various sensor types in the context of project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the use of sampling ground truth data for quality assurance in remote sensing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain photogrammetric principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare the capabilities and limitations of various sensor platforms such as satellites, terrestrial, aircraft and unmanned aerial vehicles (UAVs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cartography"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ cartographic design principles to create and edit visual representations of geospatial data, including maps, graphs, and diagrams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate how the selection of data classification and/or symbolization techniques affects the message of the thematic map"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critique the design of a given map in light of its intended audience and purpose"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geographic Information Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of the conceptual foundations on which geographic information systems (GIS) are based, including the problem of representing change over time and the imprecision and uncertainty that characterizes all geo graphic information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use geospatial hardware and software tools to digitize and georeference a paper map or plat"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acquire and integrate a variety of field data, image data, vector data, and attribute data to create, update, and maintain GIS databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specify uses of standard non-spatial data models, specifically the relational data model and its extensions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare advantages and disadvantages of standard spatial data models, including the nature of vector, raster, and object-oriented models, in the context of spatial data used in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe examples of geospatial data analysis in which spatial relationships such as distance, direction, and topologic relationships (e.g., adjacency, connectivity, and overlap) are particularly relevant"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use geospatial software tools to perform basic GIS analysis functions, including spatial measurement, data query and retrieval, vector overlay, raster map algebra and to use large datasets (e.g., big data)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a working knowledge of GIS hardware and software capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programming, application development, and geospatial information technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of common geospatial algorithms, such as geocoding or drive time analysis, by writing or interpreting pseudo code"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize GIS tasks that are amenable to automation, such as route generation, incident response, and land use change analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify alternatives for customization and automation, such as APIs, SDKs, scripting languages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the information technology components of a GIS, such as databases, software programs, application servers, data servers, SAN Devices, workstations, switches, routers, and firewalls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare benefits and shortcomings of desktop, server, enterprise, and hosted (cloud) software applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss trends in geospatial technology and applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare the capabilities, limitations, and the ability to integrate of different types of geospatial software, such as CAD, BIM, GIS, and image processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize opportunities to leverage positioning technology to create mobile end-use applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify allied fields that rely on geospatial technology and that employ geospatial professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in scientific and professional organizations and coordinating organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate familiarity with codes of professional ethics and rules of conduct for geospatial professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify legal, ethical, and business considerations that affect an organization's decision to share geospatial data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conceptual Foundations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spatial and topological relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geospatial Data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Earth geometry and its approximations, including geoids, ellipsoids, and spheres"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Georeferencing systems, including coordinate systems and land partitioning systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Datums, horizontal and vertical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Map projections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data quality, including geometric accuracy, thematic accuracy, resolution and precision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Surveying, including numerical methods such as coordinate geometry, least-squares adjustment, and network adjustments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Navigation Satellite System, including GPS, GLONASS, Galileo, BeiDou (a.k.a. Compass), QZSS, and navigation applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data input, including field-collection, digitizing, scanning, crowd sourced, real time feeds, data conversion and integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Terrain modeling and representation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Photogrammetry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote Sensing, including aerial imaging, image interpretation, image processing, multispectral and hyperspectral remote sensing, and full-motion video"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Metadata, standards (e.g., ISO, FGDC, OGC) and spatial data infrastructure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alternative positioning and tracking technologies, such as Wi-Fi, cellular, Bluetooth, and RFID"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database Management Systems, including relational, object-oriented, and extensions of the relational model"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Models, including grid, raster, TIN, hierarchical, topological, vector, network, and object-oriented"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geospatial data compression methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data archiving and retrieval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data accessibility and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Aspects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conceptual Models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometric Measures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Overlay Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Viewshed Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cartography and Visualization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles of Map Design, including symbolization, color use, and typography"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphic Representation Techniques, including thematic mapping, multivariate displays, and web mapping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Considerations for Mapping, including source materials, data abstraction (classification, selection and generalization), and map projections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Map Production"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "GIS&T and Society"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal issues, including property rights, liability, and public access to geospatial information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethical issues, including privacy, geographic profiling, and inequities due to the “digital divide”"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Codes of ethics for geospatial professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational and Institutional Aspects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional, scientific and trade organizations, such as AAG, ACSM, ASPRS, GITA, MAPPS, NSGIC, and URISA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional certification and licensing bodies, including GISCI, ASPRS and NCEES"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal agencies, such as U.S. Geological Survey, U.S. Census Bureau, National Geospatial-Intelligence Agency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International organizations, such as GSDI, ISPRS, and ICA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Publications, including scholarly journals, trade magazines, and blogs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State and regional coordinating bodies, such as NSGIC and state Geographic Information Offices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards organizations, such as FGDC, ISO and OGC"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Sector Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Positioning and Data Acquisition:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the unique geometric and thematic properties of geospatial data, the factors that affect data quality, and data production technologies. Includes data collection, data capture methods and technologies used to collect georeferenced observations and measurements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use geospatial software to transform ellipsoid, datum, and/or map projection to georegister one set of geospatial data to another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geocode a list of address-referenced locations to map data encoded with geographic coordinates and attributed with address ranges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss examples of systematic and unsystematic land partitioning systems in the U.S. and their implications for land records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize that land records are administered differently around the world"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the distinction between a property boundary and its representations, such as deed lines, lines on imagery, boundary depictions in cadastral (land records) databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plot a legal boundary description from a deed or plat"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design a system for acquiring, processing and integrating geospatial data from diverse sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sampling strategies for field data collection, including systematic, random, and stratified random sampling, and describe circumstances favorable to each"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how spatial autocorrelation influences sampling strategies and statistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform requirements analysis for remotely sensed data acquisition using resolution concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of “bit depth” and its implications for remotely-sensed image data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan a remotely sensed data acquisition mission, including specifying an appropriate sensor and platform combination suited for particular project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the differences between ellipsoidal (or geodetic) heights, geoidal heights,"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand GNSS data post-processing (such as National Geodetic Survey’s Online Positioning Service) and real time (such as Real Time Kinematic)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect and integrate carrier phase (survey grade) GNSS positions and associated attribute data with other geospatial data sets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret the quality of GNSS data based on possible sources of error"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain major GNSS error sources, such as ionospheric delay, clock error, ephemerides, and satellite health"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the process to produce an orthoimage data product with geometric accuracy suitable for project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how aerotriangulation contributes to data quality confidence and is applicable to completing related tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Produce a metadata document that conforms to FGDC, ISO or other geospatial metadata standard"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how to conduct primary research and implications of data privacy and confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe how information can be harvested and geocoded from social media"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the process of acquiring and integrating large and heterogeneous datasets (spatial or nonspatial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how a mobile device calculates location coordinates (e.g., GNSS, triangulation, trilateration, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare differential GNSS and autonomous GNSS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geospatial Data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Earth Geometry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Land Partitioning Systems, including metes and bounds, USPLS< and long lots"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Georeferencing Systems, including coordinate systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Datums"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Map Projections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Land Surveying"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Navigation Satellite System"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field Data Collection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Photogrammetry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote Sensing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Metadata"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis and Modeling:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge and application of the analytical functions (“exploratory” analyses as well as model-driven analyses) of geospatial software tools."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe an example of a useful application of a buffer operation in GIS software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform a site suitability analysis using intersection and overlay functions of GIS software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use GIS software to identify an optimal route that accounts for visibility, slope, and specified land uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform dynamic segmentation on transportation network data encoded in a linear reference system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how leading online routing systems work, and account for common geocoding errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use location-allocation software functions to locate service facilities that satisfy given constraints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop conceptual, logical, and physical models of a geospatial database designed in response to user requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how spatial data aggregation into different areal extents affects interpretation of results (Modifiable Areal Unit Problem)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain characteristics and appropriate uses of geospatial modeling techniques (e.g. artificial intelligence, machine learning, and deep learning)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate familiarity with the existence of predictive models and their applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ cartographic techniques to represent different kinds of uncertainty, including uncertain boundary locations, transitional boundaries, and ambiguity of attributes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how to represent boundaries in plats, records, and descriptions, as stipulated in legal statute and precedent"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine appropriate image data and image analysis techniques needed to fulfill project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the processes involved in geometric correction, radiometric correction, and mosaicking of digital remotely sensed data and the resulting errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how to quantify the thematic accuracy of a land use/land cover map derived from remotely-sensed imagery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the thematic accuracy of a data product using ground verification methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the difference between pixel-based and object-based image classification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform object-oriented image classification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Analytical Operations, such as buffers, overlay, neighborhoods, and map algebra"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Analytical Methods, such as point pattern analysis, spatial cluster analysis, multi-criteria evaluation, and spatial process models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis of Surfaces, including interpolation of surfaces, surface features, and viewshed analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geostatistics, including spatial sampling, semi-variogram modeling, and kriging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Mining, including pattern recognition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network Analysis, including least-cost paths, flow modeling, and accessibility modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Aspects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geocomputation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Neurocomputing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cellular Automata Models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heuristics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetic algorithms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agent-based Models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Simulation Models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uncertainty"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geospatial Data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Land Surveying"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field Data Collection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote Sensing, including algorithms and processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cartography and Visualization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphic Representation Techniques, including dynamic and interactive displays, Web mapping and visualizations, and visualization of uncertainty"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "GIS&T and Society"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethical Aspects, including obligations to individuals, to employers and clients, to colleagues and the profession, and to society"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal Aspects, including liability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational and Institutional Aspects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allied industries in which professionals need to understand geographic principles, such as Agribusiness; Economic Development; Military/Intelligence; Homeland Security; Emergency Management & E911; Environmental and Natural Resources; Forestry; Coastal and Marine Resources Management; Real Estate and Land Management; Telecommunications; Energy, Exploration and Mining; Utilities (Public and Private) and Power Generation; City, State, County, Provincial and other Local Government; Transportation and Logistics (Fleet Management, Mobile Resource Management, Road and Highway Planning and Maintenance); Urban and Regional Planning; Mobile Location-Based Services and Communication (Navigation, Location-based alerts, Location-based gaming, Location-based search); Telematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allied industries in which geographic information is a crucial part of many job functions, including Advertising, Marketing and Market Research; Architecture, Engineering and Construction; Banking and Finance; Insurance; Cultural Resource Management; Health Care; Education; Journalism and Publishing; Law Enforcement; Manufacturing; Politics and Elections; Public Safety and Health; Restaurants and Food Service; Entertainment; Retail; Tourism"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software and Application Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Design and development of geospatial software and applications, including GIS software products, applications for processing, analysis, or adding value to remotely sensed data, and applications to automate routine tasks and to customize end-user interfaces."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop use cases for user-centered requirements analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform a feasibility study and cost/benefit analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design a geospatial system architecture that responds to user needs, including desktop, server, and mobile applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate effectively with end-users to ensure that software applications meet user needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Optimize geospatial system performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify appropriate software development tools for particular end uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that software code complies with industry standards, such as those promulgated by the Open Geospatial Consortium (OGC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the factors that affect the interoperability of geospatial software applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automate geospatial analysis such as transformation, raster analysis, and geometric operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scripting languages to automate repetitive tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customize geospatial software using proprietary and open source software components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scripting languages or other tools to create web mapping applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ query languages such as SQL to interrogate spatial data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively in teams to plan and coordinate software and application development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay informed about trends and best practices in information technology and software engineering, such as unit testing, version control, and continuous integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate open source software components for re-use and potential return contributions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Realize opportunities to leverage positioning technology to create mobile end-user applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how geospatial software in large enterprises fits into SOA (Service Oriented Architectures) and SaaS (Software as a Service)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be able to leverage web architectural opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical Methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structured Query Language"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spatial Queries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Aspects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Definition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System Implementation"
+			}
+		}
+	]
+}

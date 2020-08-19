@@ -1,0 +1,4116 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-21155df0-ccc4-404d-ad84-00a6559161d6",
+		"name": {
+			"en-us": "Health Information Management: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In 2011, the Employment and Training Administration (ETA) worked with technical and subject matter experts from education, business, and industry to develop a comprehensive competency model for the Electronic Health Records (EHR) industry sector. The model was designed as a resource supporting workforce development efforts to prepare the U.S. healthcare system to support quality healthcare outcomes through effective use of information technologies.\n\nIn 2017, ETA reconvened these subject matter experts to begin the process up updating the model. The model was finalized in late 2018. To reflect the evolving changes in the industry, the name has been changed to the Health Information Management Competency Model."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"health",
+				"information management",
+				"health informatics",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work effectively with others from diverse backgrounds"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating sensitivity/empathy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sincere interest in other and their concerns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity to the needs and feelings of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Look for ways to help people and deliver assistance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating insight into behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately interpret the communications of others as expressed through various formats (e.g., writing, speech, American Sign Language, computers, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show understanding of others’ behaviors and motives by demonstrating appropriate responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate flexibility for change based on the ideas and actions of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show awareness of one’s own perceptions and avoid making assumptions about work situations, projects, assignments, and/or other team members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining open relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to share problems and successes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respecting diversity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact respectfully and cooperatively with others who are of a different race, culture, or age, or have different abilities, gender or sexual orientation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity, flexibility, and open-mindedness when dealing with different values, beliefs, perspectives, customs, or opinions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value an environment that supports and accommodates a diversity of people and ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying strong moral principles and work ethic."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by a strict code of ethics and behavior, even in the face of opposition."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to behave ethically."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand that behaving ethically goes beyond what the law requires."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use company time and property responsibly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform work-related duties according to laws, regulations, contract provisions, and company policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting fairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make decisions that are objective and reflect the just treatment of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility/accountability for one’s decisions and actions and for those of one’s group, team, or department."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional presence."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain composure and keep emotions in check."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal calmly and effectively with stressful or difficult situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a professional demeanor."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupational and worksite requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wear appropriate identification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from lifestyle choices which negatively impact the workplace and individual performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remain free from substance abuse."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a professional image of oneself and the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to effective job performance by taking action on one’s own and following through to get the job done."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with drive and strong accomplishment orientations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist to accomplish a task despite difficult conditions, tight deadlines, or obstacles and setbacks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Go beyond the routine demands of the job to increase its variety and scope"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide suggestions and/or take actions that result in improved work processes, communications, or task performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative to seek out new work challenges, influence events, or originate actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging, but realistic work goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring issues to closure by pushing forward until a resolution is achieved."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop own ways of working effectively and efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform effectively even with minimal direction, support or approval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for completing one’s own work assignments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achievement motivation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit confidence in capabilities and an expectation to succeed in future activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently and predictably."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be reliable, responsible, and dependable in fulfilling obligations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently follow through on commitments and consistently complete assignments by deadlines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attendance and punctuality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Come to work on time and as scheduled."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arrive on time for meetings or appointments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dial in to phone calls and web conferences on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently check work to ensure that all essential details have been considered."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice errors or inconsistencies and take prompt, thorough action to correct them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow directions as communicated in a variety of ways such as writing, speech, American Sign Language, computers, or other formats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask appropriate questions to clarify any instructional ambiguities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability & Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the capability to adapt to new, different, or changing requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is open to considering new ways of doing things."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seek out and carefully consider the merits of new approaches to work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace new approaches when appropriate and discard approaches that are no longer working."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dealing with change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "When necessary, take proper and effective action without having all the necessary facts in hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Easily adapt plans, goals, actions, or priorities in response to unpredictable or unexpected events, pressures, situation, and job demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effortlessly shift gears and change direction when working on multiple projects or issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to self-development and improvement of knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions showing an interest in personal and professional lifelong learning and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seed feedback from multiple sources about how to improve and develop."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify behavior based on feedback or self-analysis of past mistakes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn and accept help from supervisors and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in learning activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify when it is necessary to acquire new knowledge and skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to develop and maintain knowledge, skills, and expertise necessary to perform one’s role successfully by participating in relevant training and professional development programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through attending seminars and conferences, participating in professional groups, reading journal articles, studying text books related to the field, job shadowing, and/or attending continuing education courses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using change as a learning opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate changes in work demands and search for and participate in assignments or training that addresses these changing demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make insightful career planning decisions that integrate others’ feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrating and applying learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate newly learned knowledge and skills with existing knowledge and skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete tasks, particularly in new or unfamiliar situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences, paragraphs, and figures in work-related documents on paper, on computers, or adaptive devices."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and understand written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations, and directions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand purpose of written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend the author’s meaning and identify the main ideas expressed in the written material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Note details and facts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect inconsistencies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify implied meaning and details."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically evaluate and analyze information in written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review written information for completeness and relevance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguish fact from opinion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synthesize information from multiple written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information integrations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate what is learned from written materials with prior knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use what is learned from written material to follow instructions and complete tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to new situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard business English to compile information and prepare written documents on paper, on computers, or adaptive devices."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, spreadsheets, and flow charts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, and coherent manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present well-developed ideas supported by information and examples."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proofread finished documents for errors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tailor content to appropriate audience and purpose."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribute written materials appropriately for intended audiences and purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct grammar (e.g., correct tense, subject-verb agreement, no missing words)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write legibly when using handwriting to communicate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use language appropriate for the target audience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight, perception, and depth in writing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using principles of mathematics such as algebra, geometry, and trigonometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ technology to add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ technology to calculate averages, ratios, proportions, and rates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ technology to convert decimals to fractions and fractions to decimals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ technology to convert fractions to percents and percents to fractions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ technology to convert decimals to percents and percents to decimals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand relationships between numbers and identify and understand patterns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly convert from one measurement to another (e.g., from English to metric or International System of Unit [SI], or Fahrenheit to Celsius)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate mathematical formulas and techniques to solve problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science & Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to deploy ideas and solve problems on paper, on computers, or adaptive devices."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand basic scientific principles and use appropriate technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific method (e.g., identify problems, collect information, form opinions and draw conclusions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand overall intent and proper procedures for set-up and operation of equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of Biology, Chemistry, Pharmacology, Pathophysiology, Anatomy, Physiology, and Physics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic scientific principles and technology to complete tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand overall intent and proper procedures for set-up and operation of equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply data standards to facilitate information exchange and continuity of care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication:"
+			},
+			"comment": {
+				"en-us": [
+					"Listening, speaking, and signaling so others can understand using a variety of methods, including hearing, speech, American Sign Language, instant messaging, text-to-speech devices, etc."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convey information clearly, correctly, and succinctly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use common English conventions including proper grammar, tone and pace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively establish interpersonal contact with one or more individuals using eye contact, body language and non-verbal expression as appropriate to the person’s culture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receiving information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to, understand, interpret, and respond to messages received in a variety of ways, including hearing, American Sign Language, instant messaging, text-to-speech devices, and other methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend complex instructions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify feeling and concerns communicated in various formats, such as writing, speech, American Sign Language, computers, etc. and responds appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider others’ viewpoints and alter opinion when it is appropriate to do so."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active interpersonal communication skills using reflection, restatement, questioning, and clarification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively answer questions of others of communicate an inability to do so and suggest other sources of answers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observing carefully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice nonverbal cues and respond appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to visual sources of information (e.g., video)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ascertain relevant visual information and use appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/Influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gain commitment and ensure support for proposed ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytic Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning and mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically review, analyze, synthesize, compare, and interpret information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant and/or missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the principles underlying the relationship among facts and apply this understanding when solving problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions or approaches to a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify connections between issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly understand, orient to, and integrate new information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using information technology and related applications, including adaptive devices and software, to convey and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basic functions and terminology related to computer hardware, software, information systems, and communication devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic computer software, hardware, and communication devices to perform tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing software to compose, organize, edit and print documents and other business communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet software to enter, manipulate, edit, and format text and numerical data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use presentation software to create, manipulate, edit, and present digital representations of information to an audience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use database software to manage data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and maintain a well-organized electronic file storage system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using the Internet and email"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the Internet to search for online information and interact with websites."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the Internet and web-based tools to manage basic workplace tasks (elgl, calendar management, contacts management, and timekeeping)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use electronic mail to communicate in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the different types of social media and their appropriate workplace and non-workplace uses, and the impact that various social media activities can have on one’s personal and professional life."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ collaborative/groupware applications to facilitate group work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensuring computer security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and comply with the organization’s privacy policy and information security guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defend against potential abuses of private information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and respond appropriately to suspicious vulnerabilities and threats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the most recent security software, web browser, and operating system to protect against online threats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize strong passwords, passphrases, and basic encryption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize secure Web addresses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Literacy:"
+			},
+			"comment": {
+				"en-us": [
+					"Functional and critical thinking skills related to information, media, and technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and Evaluate Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate information efficiently (time) and effectively (sources)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate information critically and competently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review information obtained for relevance and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to eliminate those gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and Manage Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information accurately and creatively for the issue or problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the flow of information from a wide variety of sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to get a better understanding of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze Media"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand both how and why media messages are constructed, and for what purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine how individuals interpret messages differently, how values and points of view are included or excluded, and how media can influence beliefs and behaviors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw upon team members’ strengths and weaknesses to achieve results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instruct others in learning new skills and learn from other team members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist others who have less experience or have heavy workloads."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to express their ideas and opinions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit tact and diplomacy and strive to build consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve team goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting team objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work as part of a team, contributing to the group’s effort to achieve goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and commit to the goals, norms, values, and customs of the team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose behaviors and actions that best support the team and accomplishment of work tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a group approach to identify problems and develop solutions based on group consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw on the willingness, ability, and confidence of group members to achieve team goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring others together to reconciled differences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reach formal or informal agreements that promote mutual goals and interests and obtain commitment to those agreements from individuals or groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Efficiently and effectively addressing the needs of customers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding customer needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify internal and external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to what customer are saying and ask questions to identify customer needs, interests, and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate the future needs of the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Providing personalized service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide prompt, efficient, and personalized assistance to meet the requirements, requests, and concerns of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide thorough, accurate information to answer customers’ questions and inform them of commitment times or performance guarantees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address customer comments, questions, concerns, and objections with direct, accurate, and timely responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and propose appropriate solutions and/or services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish boundaries as appropriate for unreasonable customer demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting professionally"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is pleasant, courteous, and professional when dealing with internal or external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is calm and empathetic when dealing with hostile customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping customers informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with customers during projects and following project completion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep customers up to date about decisions that affect them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek the comments, criticisms, and involvement of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust services based on customer feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct risk analyses that identify obstacles to project completion and develop contingency plans to address identified high risk factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize multiple competing tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tasks correctly, quickly, and efficiently according to their relative urgency and importance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Managing projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate personnel and other resources needed for project completion (e.g., financial material or equipment)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage activities to meet plans, allocating time and resources effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of and document plans, assignments, changes, and deliverables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan for dependencies of one task on another."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate efforts with all affected parties, keeping them informed of progress and all relevant changes to project timelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off track."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assure job accommodations are made for personnel who need or request them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document the project’s final outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating innovative and creative solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employing unique analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use original analyses and generate new, innovative ideas in complex areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating innovative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative processes or solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities and perspectives to develop new solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways to add value to the efforts of a team and organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeing the big picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and appreciate the consequences of actions on other parts of the system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor patterns and trends to see a bigger picture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify or design systems to improve performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving & Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating, evaluating, and implementing solutions to problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the true nature of the problem and define critical issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the importance and criticality of the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available reference systems to locate and obtain information relevant to understanding the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, gathering, and organizing relevant information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively use both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to solving the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine information obtained for relevance and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information and take steps to eliminate those gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to gain a better understanding of the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skillfully use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different solutions or approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing a solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after evaluating the relative merits of each possible option."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in highly ambiguous or ill-defined situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a realistic approach for implementing the chosen solution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document the problem and corrective actions taken and their outcomes and communicate these to the appropriate parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools & Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools, technology, and equipment in accordance with established operating procedures and safety standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate appropriate use of tools and technology to complete work functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and apply appropriate tools or technological solutions to the problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carefully consider which tools or technological solutions are appropriate for a given job, and work with IT to consistently choose the best tool or technological solution for the problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setup and adjust equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor equipment and alert IT department if system is malfunctioning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping current on tools and technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapt quickly to changes in process or technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the purpose and principles of programming languages and identify commonly used languages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn how to maintain and troubleshoot tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of errors and take the appropriate corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop alternative to complete a task if desired tool or technology is not available."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling & Coordinating:"
+			},
+			"comment": {
+				"en-us": [
+					"Making arrangements that fulfill all requirements as efficiently and economically as possible."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arranging and informing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make arrangements (e.g., for meetings or travel) that fulfill all requirements as efficiently and economically as possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform others of arrangements, giving them complete, accurate, and timely information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle all aspects of arrangements thoroughly and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to the schedules of others affected by arrangements, resolve schedule conflicts or travel issues, and take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinating in distributed environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate schedules of colleagues, co-workers, and clients in regional locations (e.g., across time zones) to optimize productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leverage technology (e.g., internet, teleconferenced) to facilitate information sharing in distributed work environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take advantage of team member availability throughout business hours in multiple time zones to enhance productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shiftwork"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively coordinate the transition of staff at the beginning and end of each work shift."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminate crucial information in an organized manner to rapidly bring staff up to speed at the start of their shifts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that staff is updated on work completed on past shifts and work that still needs to be completed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, & Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/digital format, including adaptive devices and software."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detecting errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify vague or ambiguous documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Route errors to appropriate person to correct documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and complete appropriate forms quickly and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forward or process forms in a timely and accurate manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to and follow through on important items requiring attention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expedite forms, orders, or advances that require immediate attention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain appropriate information, signatures, and approvals promptly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that all information is present and accurate before forwarding materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, categorize, and verify information or data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply systematic techniques for observing and gathering data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining and securing logs, records, and files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records, and files up-to-date and readily accessible, noting important changes (e.g., master patient index, accounting of disclosures, financial reimbursement data, revenue management, data dictionaries)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "File data and documentation in accordance with organization’s requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Using information on basic organizational principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the mission, structure, and functions of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grasp the potential impact of the company’s well-being on employees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for coworkers, colleagues, and customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and report loss, waste, safety hazards, fraudulent activity or theft of company property to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand market trends in the industry and the organization’s positions in the market."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know who the organization’s primary competitors are and stay current on organizational strategies to maintain competitiveness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the organization through building and maintaining customer relations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize major challenges faced by the organization and industry, and identify key strategies to address challenges."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Sustainability means meeting the needs of the present without compromising the ability of future generations to meet their own needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimizing environmental impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment, processes, and systems that minimize environmental impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek to upgrade processes beyond pollution control to pollution prevention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize advances in science and technology to upgrade levels of efficiency and environmental protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to minimize waste through reuse and recycling, improve efficiency, and reduce resource use."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complying with standards, laws, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local laws, regulations, and policies related to environmental impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use sustainable business practices consistent with ISO 14001 International Environmental Management Guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health & Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Comply with procedures for a safe and health work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal, environmental, and jobsite safety practices and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with local, state, federal, and organizational health, safety, security, and environmental policies and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment and decrease waste."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR, if trained, and summon assistance as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials, including biohazardous waste materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person and one’s patients"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and obey safety signs, symbols, and labels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and implement patient safety practices that promote quality health outcomes, patient security, and health information security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate, as appropriate, in disaster recovery planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to disease prevention and infection control measures and follow Centers for Disease Control and Prevention (CDC) Standard Precautions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize material safety data sheets."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and follow Occupational Safety and Health Administration (OSHA) Blood borne Pathogen Standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect universal precautions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in data stewardship and follow protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Industry Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the organization and delivery of health care and public health in the United States."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the components of the health care system in the United States: the medical model, the spectrum of care, services provided, key stakeholders, command and control processes, and workflow."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the administrative and functional organization of the entities that deliver health care in the U.S., understanding both inpatient and outpatient settings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the organization of public health in the U.S. at the federal, state, and local levels, and discuss the role of public health in averting epidemics and bioterrorism."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specify the key issues driving health care policy in the United State and the key issues driving health care reform."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe health care financing structures, distinguishing between public and private, including insurance plans, third-party payers, Medicare, and Medicaid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the organization and structures of Health Maintenance Organizations (HMOs) Preferred Provider Organizations (PPOs), and Independent Practice Associations (IPAs)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe patient billing and reimbursement methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand compliance issues (e.g., third-party payment treatment requirements, release of information, integration of systems, population management matrix sharing)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the education, licensure, registration, and certification requirements for key health care professions. Critically evaluating and appropriately implementing new techniques and technologies supported by research-based evidence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the role and functions of key U.S. health-related organizations such as the Joint Commission, Food and Drug Administration (FDA), Centers for Disease Control (CDC) and National Institutes of Health (NIH) with an emphasis on their impact on Electronic Health Records."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practitioners Offices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treatment Facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospitals - Such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Access and Long Term Acute Care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical and Surgical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Psychiatric and Substance Abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialty"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outpatient Centers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ambulatory Surgery Centers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Home Healthcare Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical and Diagnostic Laboratories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other Ambulatory Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Primary Care Medical Home (PCMH)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retail Health Clinics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nursing and Residential Care Facilities - Such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Residential Care Facilities (assisted living) for the Elderly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Residential Facilities for People with Disabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skilled Nursing Facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Education and continuing education requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational regulation (e.g., licensure, registration, certification) and facility/program accreditation requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State and federal legislation and regulations that govern the delivery of health services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Related Health Industry - Such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health industry product vendors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IT service providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information Exchange (HIE) organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health research organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pharmaceutical research companies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public health agencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Insurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Affordable Care Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accountable Care Organizations/Patient-Centered Medical Homes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health insurance options (HMO, PPO, EOP, POS, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medicaid/Medicare compliance guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record-keeping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Referrals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Healthcare Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Culture of safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient-centric service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Service excellence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reduction of health disparities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Care Delivery:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the practices, procedures, and personnel used to deliver quality patient care."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and adhere to the principles of quality care, clinical practice guidelines, and patient-centered care methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe clinical personnel and other health care professionals, including education, training, certification, and licensure, and identify their roles within teams, departments, organizations, and the overall health care environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the role of community health and public health in managing illness outbreaks, epidemics, and pandemics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a basic understanding of the roles, boundaries, and working relationships of interdisciplinary teams."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the major processes of information gathering, analysis, and documentation used by clinicians to detect, understand, and prevent or treat diseases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe evidence-based medicine and evaluate the appropriateness of an ordered plan of care to ensure consistency with evidence-based practice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply research findings in clinical decision making and the provision of patient care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basic health care delivery models and their impact on work processes, information exchange, and the use of appropriate technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe common forms of evaluation, quality measurement, performance improvement, and incentive payment schemes meant to influence care delivery."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement and practice patient-centered care, which includes effective and efficient communication, shared decision making, and support for patient needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and implement quality improvement processes, including:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify errors and hazards in care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continually measure quality of care in terms of structure, process, and outcomes in relation to patient and community needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and test interventions to change processes and systems of care with the goals of improving care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles of Quality Care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient-centered care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interdisciplinary teams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evidence-based practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality measurement and continuous program improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of Informatics and underlying technologies (e.g., EHR database)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinical quality measures and statistical reporting (VBP, PQRS, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of incentive payment schemes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Health Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audiologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dentists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dietitians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expressive/Creative Arts Therapists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information and Communication Professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information Technology Professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Healthcare Managers and Administrators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical Imaging Professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical Laboratory Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nurses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Licensed Practical Nurses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nursing aides, orderlies, and attendants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nurse Practitioners"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Registered Nurses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physician Assistants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physicians and Osteopaths"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Podiatrists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Psychologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speech Language Pathologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Therapists and Rehabilitation Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vision-related Professions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Care Settings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ambulatory care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acute and emergency care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospital-based and critical care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Telehealth"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Community health and public health settings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Healthcare Delivery Models (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chronic disease management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "End of life care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disease management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Population-based care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Long-term care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interdisciplinary care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multidisciplinary care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Episodic one-on-one care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Technology for the purpose of:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient-provider communications (e.g., patient portals)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnoses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treatment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Industry Ethics:"
+			},
+			"comment": {
+				"en-us": [
+					"Evaluating and applying the merits, risks, and social concerns of activities in the field of health care."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interests of the client/patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to a code of medical ethics and professional values in care delivery, including such issues as ethical conflicts and health disparities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to professional standards of clinical practice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate dependability: follow through with all tasks regarding education and professional training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report and prevent fraud, abuse and neglect."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect confidentiality of client/patient records."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between ethical and legal issues impacting health care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make ethical decision."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect client rights and responsibilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the role of organizational structures to support ethical decision making (e.g., ethics committees)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an awareness of cultural competence in the context of cultural, social, age, and ethnic diversity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Morality and ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethical and legal issues impacting the health industries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Malpractice, liability, and negligence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem sensitivity - the negative consequences of action/inaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem solving techniques when confronted with ethical dilemmas or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expressed, informed, implied, and involuntary consent"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HIPAA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient’s Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cultural sensitivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Language assistance services (e.g., bilingual staff and interpreter services)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Standards on Culturally and Linguistically Appropriate Services (CLAS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Service area demographics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws & Regulations:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the relevant local, state, and federal laws and regulations that impact the health industry."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand key legal issues in medicine and the concepts underlying the application of privacy, confidentiality, medical malpractice, tort reform, and security to health care practice and information technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Help individuals and organizations adhere to the Health Insurance Portability and Accountability Act (HIPAA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the implementation of meaningful use of health information technology in the context of the Health Information Technology for Economic and Clinical Health (HITECH) Act."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the history of regulation of the health industry in the U.S. and understand how changes in laws, regulations, or policies, or new and emerging technologies impact the industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply the fundamentals of privacy and confidentiality policies and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe how legislation related to privacy and security of electronic health information has evolved in the U.S."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable federal and state laws, policies, regulations and legislated rights of clients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice responsibly within the ethical framework of the Patients’ Bill of Rights."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal responsibilities, limitations, and implications of actions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with policies and requirements for documentation, information security and record keeping."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep up to date on facility and program accreditation standards, as well as federal and state laws and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow agency and facility policies and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client/Patient"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client/patient advocacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client/Patient Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Good Samaritan Law"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws and Regulations (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information Technology for Economic and Clinical Health (HITECH) Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinical Laboratory Improvement Amendments (CLIA) Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Medical Treatment and Active Labor Act (EMTALA) regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Insurance Portability and Accountability Act of 1996 (HIPPA) and updates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Needle Stick Prevention Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Safety and Health Administration (OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Privacy and confidentiality policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protected Health Information (PHI)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relevant state and local laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Voluntary Accreditation (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "American Osteopathic Association regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commission on Accreditation of Rehabilitation Facilities, CARF International standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Joint Commission standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Sector Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information and Technology Literacy and Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the existing and emerging principles and concepts of health records."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the principles of health information structure and the uses of health information (such as electronic health records, comparative reports, and trended data)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between the types of patient health records (such as paper-based, electronic health record, personal health record)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand, define, apply, and correctly pronounce medical and public health terminology and vocabularies in order to interpret, transcribe, and communicate information, data, and observations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare and contrast different types of health information systems in terms of their ability to meet the needs of various types of health care enterprises."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how the principles of health care data exchange and health care data standards relate to patient care, productivity, and data analysis."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the process of migration to an electronic health record (EHR) from the perspectives of organizational strategy, planning, analysis of EHR options, decision-making techniques, training, and implementation strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the role and importance of health information to manage knowledge and mitigate error."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the background of today’s health IT landscape including EHR, HIE, CDS, applications in Public Health, and relevant professional organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the process and value of EHR certification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe health information systems and technology used by the organization including resources, routes, and flow of information, to include patient portals and use of patient-generated health data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the changing and complex workflows practiced in the delivery of patient care and in related business operations in order to efficiently and optimally migrate to a computerized environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe e-health initiatives as they relate to businesses and consumers (e.g., personal health, scheduling, screening, evaluations, assessments)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify barriers associated with computerized health data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply applicable policies and procedures regarding release of any patient-specific data to authorized users."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Medical Health Record (paper, electronic, hybrid)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "History - Care history and identification of outstanding/pending care requirements SOAP (Subjective, Objective, Assessment, Plan)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outcomes of care provided and responses to the plan of care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Current patient status and assessments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support decision based on assessments to drive new plans of care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnoses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treatments procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Progress notes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nursing and other therapeutic monitoring reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administrative and referral documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discharge summary and instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consumer-generate health information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "EHR navigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical terminology foundations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abbreviations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acronyms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic and procedure terms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Roots, prefixes, suffixes, eponyms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health terminologies and classification systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of: anatomy, physiology, disease processes, pharmacology, and medical terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record-keeping and documentation procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record retention and disposal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Release of information documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ediscovery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content and formal of types of medical records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Information Exchange"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access, retrieval , and submission procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization policy regarding storage and transfer of information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health data sets (e.g., OASIS, HEDIS, UHDDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software selection and vendor interface"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient portals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content and uses of health information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of patient engagement in health information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency medical records concepts (e.g., inclusion of patient-generate health data and audio and video files in patient records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of health information systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interoperability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mobile devices and telehealth"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health Informatics Skills Using the EHR:"
+			},
+			"comment": {
+				"en-us": [
+					"Using technology to control and safeguard the collection, organization, structure, processing, and delivery of health information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the use of technology in entering and maintaining electronic health records."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and update documents within the electronic health record (EHR) and the personal health record (PHR) using electronic tools and applications (including portable computing devices, word processing, spreadsheet, database, and desktop presentation applications)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter locate, and retrieve information in the electronic health record for various purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the organization’s mission and functions as it pertains to electronic health record application, its meaningful use, and the underlying technology required for adherence."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and describe elements of coding and charge capture in health care and identify classification and systematic health-related terminologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate technology such as mobile devices as communication and analytics tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize company-supported software to complete job-specific tasks and understand the interaction between company-support and EHR technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the technology used by the medical organization including resources, routes, and multi-path flow of information, to include patient portals and use of patient-generated health data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between primary and secondary health data sources and databases and know the policies and procedures related to populating and using the health data content within those primary and secondary health data source and databases."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend components of networking hardware that meet standards and support information exchange."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize basic IT “troubleshooting” processes to identify the root cause of an IT-related problem and utilize and IT Help Desk for problem resolution where necessary to maximize efficiency and effectiveness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze standards associated with the EHR functional model, the PHR functional model, and the family of profiles associated with specific domain functional requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select appropriate technology input methods given different technology uses, user populations, and contexts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact with vendors, compare and choose products, and evaluate vendor services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common components of a health IT system and types of HIT applications:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E-Mar"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "POE"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "PACS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ADT"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lab"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "DSS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Registries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Billing/coding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acute care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Community health"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public health"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Small provider practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information governance implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computerized Provider Order Entry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality improvement and reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E-Prescribing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized health information software applications (e.g., computer-based documentation systems for point-of-care, computerized physician order entry, coding)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mainstream software applications (e.g., spreadsheets, databases, email, mobile applications)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hardware and communication technologies and formats related to personal health records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data analytics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data capture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpretation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Usage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data standards required for the interoperable exchange"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data elements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Imaging standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical device standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workflow processes by stakeholder"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patients"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinician"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional and non-professional staff"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decision makers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workflow design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development and presentation of implementation plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitation of decision-making meetings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementation of the changes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluation of new processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability of new workflow processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous quality improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Privacy and Confidentiality of Health Information:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard documentation procedures to collect and communicate appropriate health information within legal and regulatory requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow confidentiality and security measures to protect electronic health information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement administrative, physical, and technical safeguards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate activation planning that supports and maintains safety and quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow access protocols for entry to an electronic health record."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply fundamental documentation requirements in the electronic creation and recordkeeping environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize components of risk management, contingency planning, and data recovery procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor use of information technology for inappropriate use leading to hazards and errors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select improvement tools and implement quality measures to assist clinical teams in improving the quality and safety of the electronic health record."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report any possible breaches of confidentiality in accordance with organizational policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve minor technology problems associated with using an electronic information application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe security issues with mobile and medical devices and elements of disaster preparedness and disaster recovery."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal and regulatory requirements for the storage and transfer of information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client/Patient Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client/Patient advocacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protected Health Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infrastructure:"
+			},
+			"comment": {
+				"en-us": [
+					"Design and implement the operational technology infrastructure for Automation Systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to applicable policies and procedures for the use of networks, including intranet and internet applications to facilitate the electronic health records (EHR), personal health records (PHR) and public health records."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement administrative, physical, and technical safeguards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow access protocols for entry to an electronic health record."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply fundamental documentation requirements in the electronic creation and recordkeeping environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize component of risk management, contingency planning, and data recovery procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report any possible breaches of confidentiality in accordance with organizational policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve minor technology problems associated with using an electronic information application."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality measures for incorporation into information systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation principles and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data storage and retrieval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "eDiscovery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data accessibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data recovery procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data integrity (business continuity, disaster recovery, encryption, ID management)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Privacy, confidentiality, legal and ethical issues"
+			}
+		}
+	]
+}

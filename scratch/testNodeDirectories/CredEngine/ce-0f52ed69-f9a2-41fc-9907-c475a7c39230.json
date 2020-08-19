@@ -1,0 +1,1783 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-0f52ed69-f9a2-41fc-9907-c475a7c39230",
+		"name": {
+			"en-us": "NHA Certified Patient Care Technician/Assistant (CPCT/A)"
+		},
+		"description": {
+			"en-us": "NHA Certified Patient Care Technician/Assistant (CPCT/A)"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Domain 1: Patient Care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Domain 2: Compliance, Safety, and Professional Responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Domain 3: Infection Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Domain 4: Phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Domain 5: EKG"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "A. Provide basic patient care under the direction of nursing staff (e.g., bathing, bed-making, catheter care, assisting with activities of daily living [ADLs], positioning)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Proper body mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Patient bathing techniques (e.g., partial bath, sitz bath, full bed bath)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Oral care (e.g., denture care, special mouth care)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Perineal care (e.g., catheter care)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Foley catheter care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Types of patient beds (e.g., closed, open, surgical, occupied)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "7. How to operate patient beds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "8. Considerations in caring for patients who have functional limitations (e.g., physical, sensory, cognitive, or mental impairment)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "B. Provide emotional support for a patient and family while performing patient care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Therapeutic communication techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Culturally competent care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Positive and negative coping mechanisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "C. Set up equipment to be used by a patient (e.g., oxygen equipment, suction equipment, monitors)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Oral suctioning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. How to operate patient beds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Oxygen delivery systems (e.g., rebreather masks, nasal cannula)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "D. Provide care for a patient who has a feeding tube (e.g., take aspiration precautions, observe tubing for kinks or problems)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Types of feeding tubes (e.g., percutaneous endoscopic gastrostomy [PEG] tube, gastrostomy [G] tube, nasogastric [NG] tube)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Considerations for patients who have feeding tubes (e.g., recognizing and reporting complications)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Aspiration precautions for patients who have difficulty swallowing (e.g., patient positioning)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E. Recognize and adapt approach to care for a patient who has functional limitations (e.g., physical, sensory, cognitive, or mental impairment)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Considerations in caring for patients who have functional limitations (e.g., physical, sensory, cognitive, or mental impairment)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "F. Report any changes in a patient's condition (e.g., level of consciousness, shortness of breath)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Signs and symptoms of changing patient condition (e.g., loss of consciousness, shortness of breath, change to psychological or emotional state)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "G. Monitor and record functions related to bodily functions (e.g., urine output, emesis, bowel movements)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Characteristics and measurement of expected and unexpected intake and output"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "H. Perform ostomy care, excluding irrigation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Ostomy care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "I. Assist with ostomy care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Ostomy care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "J. Monitor, record, and accurately measure intake and output (e.g., percentage of meal eaten, mL of fluid)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Characteristics and measurement of expected and unexpected intake and output"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "K. Perform passive range-of-motion (ROM) exercises for a patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Passive ROM techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "L. Assist the patient with adaptive devices for ADLs (e.g., feeding and dressing devices, ambulatory assistive devices)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Adaptive devices and their operation/use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "M. Perform patient rounding (e.g., check for consciousness, breathing, positioning)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Signs and symptoms of changing patient condition (e.g., loss of consciousness, shortness of breath, change to psychological or emotional state)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Elements of patient rounding (e.g., pain, positioning, personal needs, proactive ADLs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Factors to consider when prioritizing patient needs (e.g., fall risk, elopement risk, rapid responses, stat laboratory values)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Hospital Consumer Assessment of Healthcare Providers (HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "N. Remove peripheral IVs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. IV discontinuation process and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "O. Assist in sterile and aseptic dressing changes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Aseptic and sterile dressing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "P. Assist a patient with ambulation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of a gait belt"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Q. Transfer a non-weight-bearing patient (e.g., stretcher to bed)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Mechanical lift operation, including safety precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Types of transfers (e.g., stretcher to bed, bed to wheelchair)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "R. Transfer a weight-bearing patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of a gait belt"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Types of transfers (e.g., stretcher to bed, bed to wheelchair)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "S. Transport a patient via bed, stretcher, or wheelchair."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Patient transport considerations (e.g., backing into elevator, moving slowly over bumps, raised side rails)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "T. Apply immobility splints to a patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Safe splint application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "U. Provide skin care (e.g., repositioning, nonprescription creams, moisture barriers) and use devices (e.g., air mattresses, draw sheets) to prevent skin breakdown"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Signs of impaired circulation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Stages of skin breakdown"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Devices to prevent skin breakdown (e.g., air mattresses, draw sheets)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Basic body positions (e.g., prone, supine, Fowler's) and when to use them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "V. Identify and report changes in skin integrity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Signs of impaired circulation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Stages of skin breakdown"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "W. Apply sequential compression devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of sequential compression devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "X. Apply antiembolism stockings/compression hose."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of antiembolism stockings/compression hose"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Y. Assist a patient with turn, cough, and deep breathing (TCDB)\nexercises."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of TCDB exercises"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Z. Assist a patient with incentive spirometry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Purpose and use of an incentive spirometer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "AA. Administer first aid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Basic first aid techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "BB. Perform healthcare provider CPR."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Signs of need for CPR"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Basic life support for healthcare providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. American Heart Association CPR guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CC. Report critical values (e.g., blood glucose levels, vital signs) to the appropriate nurse assigned to the patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Critical values (e.g., point-of-care testing, vital signs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Vital signs, parameters, and methods for obtaining them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "DD. Recognize and report edema."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Signs and symptoms of edema"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "EE. Recognize and report patient pain using a pain scale."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Signs and symptoms of pain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "FF.Recognize and report signs and symptoms of a wound\ninfection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Indicators of the need for a dressing change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Wound care techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "GG. Follow the Five Rights of Delegation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Five Rights of Delegation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HH. Prioritize patient care based on patient's needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Factors to consider when prioritizing patient needs (e.g., fall risk,\nelopement risk, rapid responses, stat laboratory values)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "II. Recognize visual abnormalities in patient specimens (e.g., stool, sputum, urine, emesis)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Appearances and quantities of expected and unexpected specimens"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "JJ. Obtain, record, monitor, and report vital signs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Structure and function of body systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common disease processes (e.g., myocardial infarction, cardiovascular disease, congestive heart failure, diabetes, cancers in general, chronic obstructive pulmonary disease)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Vital signs, parameters, and methods for obtaining them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Special considerations in obtaining blood pressure readings (e.g.,\npatients who have venous or arterial access, mastectomy patients)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "KK. Weigh a patient (e.g., standing, wheelchair-bound, using bed scales)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Types of scales (e.g., electronic, bed, mechanical) and their use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "LL.Provide noncurative care to a patient who is receiving hospice care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Positive and negative coping mechanisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Kübler-Ross' five stages of grief"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. End-of-life care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "MM. Support the coping mechanisms of a patient and family who are dealing with grief, death, and dying."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Positive and negative coping mechanisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Kübler-Ross' five stages of grief"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. End-of-life care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "NN. Perform postmortem care."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Postmortem care process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "A. Define, identify, and report abuse or neglect."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Different types of abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Methods for identifying indications of abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Role of social services in health care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Mandated reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Patients' Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Medical ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "B. Prevent workplace injuries by following Occupational Safety and Health Administration (OSHA) guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Resources and regulations regarding workplace safety (e.g., OSHA, National Institute for Occupational Safety and Health [NIOSH], Centers for Disease Control [CDC])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Safety Data Sheets (SDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Emergency/disaster preparedness (e.g., RACE, PASS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Operational standards (e.g., JC, CLSI, HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "C. Recognize and respond to emergency situations (e.g., fire, hostage, biological hazard)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Resources and regulations regarding workplace safety (e.g., OSHA, National Institute for Occupational Safety and Health [NIOSH], Centers for Disease Control [CDC])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Safety Data Sheets (SDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Emergency/disaster preparedness (e.g., RACE, PASS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "D. Follow procedures for identifying patients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. The two patient identifiers using National Patient Safety Goals (i.e., name and date of birth)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Operational standards (e.g., JC, CLSI, HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. HIPAA regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Patients' Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Electronic health records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E. Follow Joint Commission (JC) patient safety guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Resources and regulations regarding workplace safety (e.g., OSHA, National Institute for Occupational Safety and Health [NIOSH], Centers for Disease Control [CDC])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Safety Data Sheets (SDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Operational standards (e.g., JC, CLSI, HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "F. Follow safety procedures when using medical supplies and equipment (e.g., lock hospital bed, lock wheelchairs, raise stretcher side rails, apply safety belts and restraints)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Resources and regulations regarding workplace safety (e.g., OSHA, National Institute for Occupational Safety and Health [NIOSH], Centers for Disease Control [CDC])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Operational standards (e.g., JC, CLSI, HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "G. Report and document work-related accidents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Mandated reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Resources and regulations regarding workplace safety (e.g., OSHA, National Institute for Occupational Safety and Health [NIOSH], Centers for Disease Control [CDC])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Safety Data Sheets (SDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "H. Adhere to HIPAA regulations regarding protected health information (PHI)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. HIPAA regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "I. Adhere to Patients' Bill of Rights."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Patients' Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Medical ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "J. Communicate with other health care professionals using electronic health records and appropriate medical terminology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Electronic health records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Medical terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "K. Follow the chain of command."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Healthcare setting chain of command"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "L. Adhere to operational standards (e.g., JC, Clinical and Laboratory Standards Institute [CLSI], national standards, Hospital Conksumer Assessment of Healthcare Providers [HCAHPS], medical codes of ethics)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Operational standards (e.g., JC, CLSI, HCAHPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Medical ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "M. Practice within defined scope of patient care technician practice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Scope of practice of the patient care technician"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "A. Use standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Cause and prevention of health care-associated infections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. OSHA guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Personal protective equipment use while following standard precautions (e.g., gloves, gowns, masks, shoe covers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Common health care-associated infections (e.g., urinary tract infection, methicillin-resistant Staphylococcus aureus [MRSA], Clostridium difficile [C. difficile])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "B. Disinfect equipment before and after use."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Cause and prevention of health care-associated infections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Disinfectant dry times (e.g., bleach, alcohol, ammonia chlorides)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "C. Dispose of biohazardous materials (e.g., sharps containers, red bags) according to OSHA standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. OSHA guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Personal protective equipment use while following standard precautions (e.g., gloves, gowns, masks, shoe covers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "D. Follow exposure control plans in the event of occupational exposure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. OSHA guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E. Perform aseptic technique."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Cause and prevention of health care-associated infections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Personal protective equipment use while following standard precautions (e.g., gloves, gowns, masks, shoe covers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Common health care-associated infections (e.g., urinary tract infection, methicillin-resistant Staphylococcus aureus [MRSA], Clostridium difficile [C. difficile])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "F. Perform sterile technique."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. CDC standard and transmission-based precautions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Cause and prevention of health care-associated infections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Personal protective equipment use while following standard precautions (e.g., gloves, gowns, masks, shoe covers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Common health care-associated infections (e.g., urinary tract\ninfection, methicillin-resistant Staphylococcus aureus [MRSA],\nClostridium difficile [C. difficile])"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "A. Perform capillary punctures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Vascular system as it relates to phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Order of draw for capillary and venipuncture collections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Site selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Appropriate equipment for capillary and venipunctures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "7. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "8. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "9. Implied or informed consent requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "10. Testing requirements (e.g., fasting, medication, basal state)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "11. Insertion and removal techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "12. Tube additives appropriate to testing requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "13. Patient safety considerations (e.g., arm rest on chair, wheelchair\nwheels locked, fall precautions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "14. Common complications during or as a result of primary collection (e.g., lack of blood flow, hematoma, petechiae, nerve injury)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "B. Perform venipuncture (e.g., winged infusion set, evacuated tube system, syringe)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Vascular system as it relates to phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Order of draw for capillary and venipuncture collections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Site selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Appropriate equipment for capillary and venipunctures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "7. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "8. Special considerations for venipuncture (e.g., medication review, limb restrictions, mastectomy, stroke)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "9. Considerations in determining venous accessibility (e.g., patient age and condition)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "10. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "11. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "12. Implied or informed consent requirement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "13. Testing requirements (e.g., fasting, medication, basal state)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "14. Insertion and removal techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "15. Tube additives appropriate to testing requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "16. Patient safety considerations (e.g., arm rest on chair, wheelchair wheels locked, fall precautions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "17. Common complications during or as a result of primary collection (e.g., lack of blood flow, hematoma, petechiae, nerve injury"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "C. Collect nonblood specimens."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Nonblood specimen collection techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Implied or informed consent requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "D. Perform blood culture collections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Vascular system as it relates to phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Order of draw for capillary and venipuncture collections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Site selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "7. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "8. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "9. Implied or informed consent requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "10. Testing requirements (e.g., fasting, medication, basal state)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "11. Insertion and removal techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "12. Tube additives appropriate to testing requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "13. Patient safety considerations (e.g., arm rest on chair, wheelchair wheels locked, fall precautions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "14. Common complications during or as a result of primary collection (e.g., lack of blood flow, hematoma, petechiae, nerve injury)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "15. Blood culture collection technique"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E. Identify and respond to adverse reactions to collection (e.g., syncope, diaphoresis, nausea, seizure)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Common adverse reactions to collection (e.g., syncope, diaphoresis, nausea, seizure)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Common complications during or as a result of primary collection (e.g., lack of blood flow, hematoma, petechiae, nerve injury)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "F. Handle and transport blood samples."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Vascular system as it relates to phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "5. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "G. Transport specimens based on handling requirements (e.g., temperature, light, time)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "H. Label specimens at the bedside."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Information required on requisition forms (e.g., testing requirements, patient information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Specimen labeling techniques and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "I. Verify appropriate functioning of equipment (e.g., sterility, expiration date, manufacturer's defects)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Appropriate equipment for capillary and venipunctures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "J. Perform quality control related to Clinical Laboratory Improvement Amendments (CLIA)-waived procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. CDC standards as they relate to specimen collection and transportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "K. Explain nonblood specimen collection procedures to patient (e.g., stool, urine, semen, sputum)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Nonblood specimen collection techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "L. Handle and transport patient-collected nonblood specimens."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Chain of infection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. CDC standards as they relate to specimen collection and\ntransportation (e.g., prevention of blood-borne pathogens, exposure control, asepsis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Information required on requisition forms (e.g., testing requirements, patient information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "M. Avoid preanalytical errors when collecting blood specimens (e.g., quantity not sufficient [QNS], hemolysis)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Vascular system as it relates to phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Preanalytical errors when collecting blood specimens (e.g., QNS, hemolysis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "N. Adhere to chain of custody guidelines when required (e.g., forensic studies, blood alcohol, drug screen)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Phlebotomy standards (e.g., CLSI, CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Order of draw for capillary and venipuncture collections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Patient identification guidelines for phlebotomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Chain of custody guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "A. Prepare the patient (e.g., patient history, patient positioning, skin preparation, lead placement)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Basic functions of an EKG machine"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Placement of 3-lead, 5-lead, and 12-lead electrodes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Patients who have special considerations (e.g., pediatric patients,\nmastectomy, right-sided heart, posterior chest, amputations)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "B. Apply electrodes on patient."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Placement of 3-lead, 5-lead, and 12-lead electrodes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Patients who have special considerations (e.g., pediatric patients,\nmastectomy, right-sided heart, posterior chest, amputations)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "C. Identify and respond to signs and symptoms of cardiopulmonary compromise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Cardiac conduction system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Basic life support for healthcare providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Signs and symptoms of cardiopulmonary compromise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "D. Identify and resolve artifacts from the tracing (e.g., wandering\nbaseline, somatic, electrical)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Artifacts (e.g., wandering baseline, somatic, electrical)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Artifact resolution techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E. Recognize and report dysrhythmias."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Cardiac conduction system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Characteristics of waveforms of a cardiac cycle to determine symmetry, direction, and amplitude (e.g., P waves, QRS complexes, S-T segments, T waves, U waves)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "F. Respond to potentially life-threatening arrhythmias (e.g., ventricular tachycardia, ventricular fibrillation)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Cardiac conduction system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "2. Basic life support for health care providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "3. Signs and symptoms of cardiopulmonary compromise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "4. Life-threatening arrhythmias (e.g., ventricular tachycardia, ventricular fibrillation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "G. Verify EKG machine paper speed (e.g., 25 mm, 50 mm)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Basic functions of an EKG machine"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "H. Verify EKG machine sensitivity (e.g., h, 1, 2)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. Basic functions of an EKG machine"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "I. Maintain EKG equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "1. EKG equipment maintenance and cleaning requirements"
+			}
+		}
+	]
+}

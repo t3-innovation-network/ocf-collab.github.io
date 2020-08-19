@@ -1,0 +1,2130 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-4ef79a9f-ffe5-4f99-8fb3-fc716414586e",
+		"name": {
+			"en-us": "Energy Generation, Transmission and Distribution Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The competency model framework for energy generation, transmission, and distribution was developed through a collaborative effort involving the Employment and Training Administration (ETA) and the Center for Energy Workforce Development (CEWD).\n\nTo ensure that the model reflects the knowledge and skills needed by today's energy workforce, CEWD has taken the lead to update the model. The updated model contains new information on the need for Science and Information Technology skills and the importance of Ethics, Employability, and Entrepreneurship skills, as well as updated key behaviors in several competency areas.\n\nIn 2018, the model was revised again to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"energy generation",
+				"energy transmission",
+				"energy distribution"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with people"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates concern for others by being sensitive to their needs and feelings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shows understanding of others behavior by demonstrating appropriate responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates respect for the opinions, perspectives, customs and individual differences of others by including others in problem solving and decision making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains open communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes and accurately interprets the verbal and nonverbal behaviors of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates flexibility and open mindedness when dealing with a wide range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listens to and considers others’ viewpoints and alters own opinion when it is appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treats all in a fair and equitable manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaves ethically through responsible use of company time and property"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reports unethical behavior demonstrated by others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional presence and adhering to ethical standards"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates self-control by maintaining composure and keeping emotions in check even in difficult situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a professional appearance by dressing appropriately for the job and maintaining personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses professional language when speaking with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reputation:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a high degree of personal ethics and behaviors"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is free from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates financial responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains an acceptable grade point average in school"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Has not embarrassed oneself through internet postings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a good driving record"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motivation:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to effective job performance"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures that job is done safely, accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies new and better processes or procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows instructions and direction from others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes responsibility for completing one's own work assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability/Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comes to work when scheduled and on-time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with company policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Does not attend to personal business while on the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manages stressful situations effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfills obligations of the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Self-Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to self development and improvement"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies goals and career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeks opportunities to learn new skills and tasks and to refine current skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapts quickly to changes in process or technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accepts help from others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Flexibility & Adaptability:"
+			},
+			"comment": {
+				"en-us": [
+					"Adjusting to changing work requirements"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjusts to changing priorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies logical stopping points in work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refocuses attention to new assignment quickly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly learns new assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shifts gears and changes direction when working on multiple projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates and accepts changes in work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to Learn:"
+			},
+			"comment": {
+				"en-us": [
+					"Incorporating classroom and on the job training into work performance"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and uses material taught in the classroom and on the job training in work situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies information provided in training to work tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Desires and shows willingness to learn new assignments, procedures and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to solve problems"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adds, subtracts, multiplies and divides with whole numbers, fractions, decimals and percents; calculates averages, ratios, proportions and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reads and understands tables and graphs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes measurement of time, temperature, distance, length, width, height, perimeter, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly converts from one measurement to another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translates practical problems into useful mathematical expressions and uses appropriate mathematical formulas and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solves simple algebraic equations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to determine slope, midpoint and distance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculates perimeters, areas and volumes of basic shapes and solids"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reads, tracks and calculates gauge measurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, Reading and Using Information:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing how to find information and identifying essential information"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to read and understand written material"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sorts through distracting information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scans written material for subject of interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to identify main ideas in written material"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly interprets written material"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates what is learned from written materials with prior knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies what is learned from the written material to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard business English to write messages to co-workers and reports to managers and associates"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creates documents such as work orders or memos"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses standard syntax and sentence structure, correct spelling, punctuation and capitalization and appropriate grammar"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writes clearly and concisely in a professional and courteous manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writes effectively for a variety of audiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicates thoughts, ideas and information which may contain technical material in a logical, organized and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clearly develops ideas and elaborates on them with relevant supporting examples and specific details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shows insight, perception and depth in writing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening:"
+			},
+			"comment": {
+				"en-us": [
+					"Listening carefully in order to incorporate information into work activities"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listens carefully to others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly interprets information provided by others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to incorporate information into actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Communicating in spoken English well enough to be understood by supervisors, co-workers and customers"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses standard sentence structure and appropriate grammar"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaks clearly, in precise language and in a logical organized and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps language simple and appropriate for the audience’s level of knowledge of the subject"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Possessing an appropriate mastery of knowledge, techniques, skills, modern tools and advanced technology"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies basic engineering principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies the appropriate technical solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies principles of engineering science and technology, techniques, procedures and equipment to the design and production of various goods and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies the basics of electricity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and selects the appropriate hand or small electric tools or diagnostic equipment for the work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solves problems where a variety of mechanical, electrical, thermal or fluid faults could be the reason for the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to solve problems"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discusses the role of creativity in constructing scientific questions, methods and explanations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulates scientifically investigable questions, constructs investigations, collects and evaluates data and develops scientific recommendations based on findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands physical principles such as force, friction and energy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands weight and mass and how it relates to rigging, wind and structure supports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and evaluates the characteristics and hazards of electricity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes and understands the interactions of compatible and incompatible substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies basic scientific principles and technology to solve problems and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating basic IT skills for workplace efficiency and work flow"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses Personal Information Management (PIM) applications to increase workplace efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employs technological tools to expedite workflow including word processing, databases, reports, spreadsheets, multimedia presentations, electronic calendar, contacts, email and internet applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employs computer operations applications to access, create, manage, integrate and store information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employs collaborative/groupware applications to facilitate group work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logical thought processes to analyze information and draw conclusions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies inconsistent or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically reviews, analyzes, synthesizes, compares and interprets information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draws conclusions from relevant and/or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tests possible hypotheses to ensure the problem is correctly diagnosed and the best solution is found"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perceives and understands relationships appropriate to the task"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the relationship between an individual’s own job and the goals and operations of company and industry"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to articulate the organization's mission and functions and its position in the marketplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes one's role in the functioning of the company"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with applicable laws and rules governing work and reports loss, waste or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acts in the best interest of the company, community and environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Developing capacities used to work with others"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accepts membership in the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies with the goals, norms, values and customers of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses a group approach to identify problems and develop solutions based on group consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicates with all members of the team to achieve goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops constructive and cooperative working relationships with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shows sensitivity to the thoughts and opinions of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responds appropriately to positive and constructive feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourages others to express their ideas and opinions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learns from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies interpersonal skills to help team achieve goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gives full attention to what others are saying, taking time to understand the points being made, asking questions as appropriate and not interrupting at inappropriate times"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates loyalty to the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following Directions:"
+			},
+			"comment": {
+				"en-us": [
+					"Receiving, understanding and carrying out assignments with minimal supervision"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receives, interprets, understands and responds to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Picks out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interprets complex instructions and their relevance to the work assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asks questions to clarify unclear directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acts upon the instruction to complete an assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning/Organizing/Scheduling:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work within a schedule using prescribed procedures"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizes various competing tasks and performs them quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finds new ways of organizing work area or planning work to accomplish work more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimates resources needed for project completion; allocates time and resources effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates obstacles to project completion and develops contingency plans to address them; takes necessary corrective action when projects go off-track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plans and schedules tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Makes arrangements that fulfill all requirements as efficiently and economically as possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responds to the schedules of others affected by arrangements; informs others of arrangements, giving them complete, accurate and timely information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes steps to verify all arrangements; recognizes problems, generates effective alternatives and takes corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively coordinates the transition of employees at the beginning and end of each work shift; disseminates crucial information in an organized manner to rapidly bring employees up to speed at the start of their shifts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving/Decision-Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying problem-solving and critical-thinking skills to help grow the business and/or to resolve workplace conflict"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates or recognizes the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies the true nature of the problem by analyzing its component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively uses both internal and external resources to locate and gather information; examine information obtained for relevance and completeness; recognizes important gaps in existing information and takes steps to eliminate those gaps; recalls previously learned information that is relevant to the problem; organizes information as appropriate to gain a better understanding of the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates previously learned and externally obtained information to generate a variety of high quality alternative approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skillfully uses logic and analysis to identify the strengths and weaknesses, the costs and benefits and the short and long-term consequences of different approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively chooses the best solution after contemplating available approaches to the problem; makes difficult decisions even in highly ambiguous or ill-defined situations; quickly chooses an effective solution without assistance when appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commits to a solution in a timely manner and develops a realistic approach for implementing the chosen solution; observes and evaluates the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses scientific rules and methods to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics:"
+			},
+			"comment": {
+				"en-us": [
+					"Describing the importance of personal ethics and legal responsibility"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates or recognizes the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates and justifies decisions based on ethical reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates alternative responses to workplace situations based on personal, professional, ethical and legal responsibilities and employer policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and explains personal and long-term consequences of unethical or illegal behaviors in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interprets and explains written organizational policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employability and Entrepreneurship Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Defining ongoing career development"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and demonstrates positive work behaviors needed to be employable"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops personal career plan that includes goals, objectives and strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examines licensing, certification and industry credentialing requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a career portfolio to document knowledge, skills and experience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates and compares employment opportunities that match career goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and exhibits traits for retaining employment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies opportunities and researches requirements for career advancement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Researches the benefits of ongoing professional development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examines and describes entrepreneurship opportunities as a career planning option"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Basic Hand and Power Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Having capability to operate and troubleshoot electric and electronic equipment, mechanical and electrical products"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selects and applies appropriate tools or technological solutions to frequently encountered problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carefully considers which tools or technological solutions are appropriate for a given job and consistently chooses the best tool or technological solution for the problem at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an interest in learning about new and emerging tools and technologies; seeks out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knows how to maintain and troubleshoot tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses basic computer technology to receive work orders, report progress and maintain records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Awareness:"
+			},
+			"comment": {
+				"en-us": [
+					"Complying with the procedures necessary to ensure a safe and healthy work environment"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stops the job if there are unsafe working conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates and prevents work-related injuries, illnesses, and potential hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates changes in the environment with respect to their impact on safety of self and others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with federal, state, and local regulations, and company health and safety policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promotes effective local, state or national security operations for the protection of people, data, property and institutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alerts co-workers and supervisory personnel to hazardous conditions and deviations from safety procedures as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administers first aid or CPR if trained and summons assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains appropriate certification and is knowledgeable in first aid or first response procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handles and disposes of hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates knowledge of lock out/tag out practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses equipment and tools in compliance with user manuals and training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands potential threats created by deviation from safety procedures and improper use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses appropriate personal protective equipment (e.g., safety glasses, work boots, and hard hats) and keeps equipment in good working order per documented job safety analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reports injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contributes to discussion of safety concerns in the workplace, making suggestions as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Principles and Concepts:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing the basic and emerging principles and concepts that impact the energy industry, including: energy production, energy transmission and alternative energy technologies"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to explain the flow of energy from generation through distribution to the customer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to explain the role of regulators and unions in the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discusses the history of the United States energy industry/infrastructure (refer to Energy Information Administration - www.eia.doe.gov )"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies the role and function of generation, transmission and distribution organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the role of regulatory bodies in the energy industry (such as:"
+			},
+			"comment": {
+				"en-us": [
+					"Federal Energy Regulatory Commission - www.ferc.gov; State Public Service Commissions) highlighting the concept of “obligation to serve”"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the different structures of energy companies, including investor-owned utilities, municipalities (associated utility practices such as water/wastewater), electric cooperatives, independent power producers and is able to explain the different lines of energy business, including electric and gas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the process of metering and billing for energy consumption"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an awareness of alternative and renewable energy technologies, including geothermal energy, solar energy, wind energy, water energy and biofuel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Laws and Regulations:"
+			},
+			"comment": {
+				"en-us": [
+					"Complying with relevant local, state, and federal environmental laws and regulations that impact the energy industry"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discusses environmental laws and regulations that impact the energy industry (local, state and federal) and explains the importance of proper documentation to ensure compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates professional responsibility for maintaining all policies and standards for health, safety and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with all relevant environmental laws issued by federal agencies, including EPA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows energy standards produced by industry organizations, such as ANSI, API, NACE and NFPA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies appropriate jurisdiction for local, state and federal regulatory agencies as they pertain to the energy industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains current knowledge of regulatory procedures governing operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Control/Continuous Improvement:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to design, analyze and effectively use systems, components and methods with a framework of quality and continuous improvement"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conducts tests and inspections of products, services or processes to evaluate quality or performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporates new information into both current and future problem solving and decision making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitors/assesses performance of self, other individuals or organizations to make improvements or take corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines how a system should work and how changes in conditions, operations and the environment will affect outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting:"
+			},
+			"comment": {
+				"en-us": [
+					"Diagnosing and correcting abnormalities and malfunctions in equipment and production processes"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitors equipment to ensure maintenance schedules are adhered to"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates knowledge of normal equipment operation (how the individual pieces of equipment relate to each other) in order to spot potential equipment problems before they occur"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines causes of operating errors, decides what to do about them and knows when to notify more senior personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Specific Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-Nuclear Generation:"
+			},
+			"comment": {
+				"en-us": [
+					"Technical skills and knowledge necessary for gas, oil, coal, hydro, solar, wind, biofuel or geothermal power plant personnel"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and Engineering Theory and Concepts:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to define and explain the differences and similarities of power generation, including use of different fuel types (fossil fuels - gas and oil, hydro and marine, alternative fuels - solar, wind, biofuel and geothermal) and different plant uses (i.e., peaking, load following, base load)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to explain the advantages and disadvantages of alternative energy sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the behavior of matter"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies direct current (DC) concepts and laws; performs calculations and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel, series-parallel combinations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "conductors and insulators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "direct current (DC) theory and DC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electrical laws (such as Ohm's law, Kirchhoff's voltage and current laws)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electron theory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as ohms, volts, amps, watts, coulombs, joules)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, resistance and power"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies alternating current (AC) concepts and laws; performs calculations and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "alternating current (AC) theory and AC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as henries, farads, reactance, impedance)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "passive components, capacitors and inductors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "single-phase versus three-phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, impedance, real, reactive, apparent power and power factor relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Has a basic knowledge of water and general chemistry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Components Knowledge:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of the location of equipment in the plant, how the equipment operates and normal operating parameters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to use tools such as hand tools, power tools and meters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of the mechanical components such as air compressors, heat exchangers, steam condensers, steam generators, pumps, ejectors, strainers, filters and traps, steam traps, steam turbines and valves"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of diesel engines including main structural components, main moving components, principles of operations, failure mechanisms and systems and accessories and support systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of air conditioning, heating and ventilation systems, including refrigeration machines and the basic refrigeration cycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of structural and auxiliary equipment such as boilers, elevators, fire barriers, hangers and snubbers for support and restraint and hoists and cranes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of rotating equipment including generators, motors and motor-generators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of resistive electrical equipment including heaters and heat tracing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of electrical supply components including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "batteries and chargers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "circuit breakers (such as protection)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "inverters and uninterruptible power supplies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "switchgear, load centers and motor control centers (such as protective relaying and schematics of a basic system from high voltage to lower voltage)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "transformers (such as step-up transformers and step-down transformers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of electrical control components including cables, control circuits, meters and relays"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory, construction and application of valve actuator types (such as motors, pneumatic, hydraulic)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the theory and application of electronic equipment including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "analyzers (such as H2, O2 and chemical)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "signal converters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the principles associated with instrumentation and control and describes the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic control circuits (such as proportional, integral, derivative and a combination of the three; saturation cutoff, steady-state error, limiters, effects of disturbances)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "pneumatic devices (such as actuators)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "sensors (such as types of sensors, for example, pressure, flow, temperature)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "hydraulic controls (such as actuators)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains bearing design and lubrication principles associated with the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "determination of oil levels and requirements and addition of correct oil to plant components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "environmental hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "factors that affect lubrication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "friction and wear"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "fluid lubrication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "lubricant types and characteristics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "purpose and necessity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "storage and transfer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "symptoms and problems associated with improper lubrication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "safety hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the principles associated with thermodynamics and combustion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of hazardous and safety procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to calibrate and certify tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to plan and organize relevant materials and tools prior to job site work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Skills:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledge of procedures to access, file and use record-keeping logs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands computer operation, utilizes integrated/multiple software and networks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to use Microsoft Office (or equivalent) software to prepare spreadsheets for data analysis and reports for management review and approval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nuclear Generation:"
+			},
+			"comment": {
+				"en-us": [
+					"Technical skills and knowledge necessary for nuclear power plant personnel"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Science:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains and uses the fundamental concepts associated with electricity (e.g., electric charge, electric current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the components of electrical systems including switchyard construction, transformers, relays, circuit breakers and motors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reactor Theory and Operations:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the general design overview of the basic reactor types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates understanding of reactor startup and shutdown procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the fission process including the construction of fission product barriers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations and Repair:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with the procedures necessary to ensure a safe and healthy work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operates, repairs and tests machines, devices and equipment based on electrical or mechanical principles in order to diagnose machine malfunctions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operates basic hand and small electric tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conducts tests and inspections of products, services or processes to evaluate quality or performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines the kind of tools and equipment needed to do a job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Watches gauges, dials or other indicators to make sure a machine is working properly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to read, interpret and create basic prints used in the design, operation and maintenance of electrical systems including engineering drawings, diagrams and schematics - documentation diagrams, single line diagrams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Additional Academic Requirements:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physics - Explains and uses physics terms, units, definitions and basic concepts including mechanical principles (laws of motion, energy, conditions of equilibrium) and units (pressure, temperature, flow, volume)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Atomic & Nuclear Physics - Explains the basic atomic and nuclear physics terms, unit, definitions and basic concepts including atomic structure, nuclear interactions and reactions, sources of residual heat/decay heat and reactor operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemistry - Explains the chemistry terms, units, definitions and basic concepts and applies the concepts successfully on the job, including fundamentals of chemistry (molecules, mixtures, solutions and compounds, corrosion control), water chemistry control, reactor water chemistry and the corrosion process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics - Has experience and knowledge in scientific notation, dimensional analysis, geometry, trigonometry, graphs and control charts, relational charts, exponents and logarithms and basic statistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electric Transmission and Distribution:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge and skills necessary for the transmission and distribution of electricity from the generation source to the end customer"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and Technology:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the components and workings of the electric transmission and distribution network"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies direct current (DC) concepts and laws and performs calculation and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel, series-parallel combinations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "conductors and insulators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "direct current (DC) theory and DC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electrical laws (such as Ohm's law, Kirchhoff's voltage and current laws)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electron theory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as ohms, volts, amps, watts, coulombs, joules)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, resistance and power"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies alternating current (AC) concepts and laws and performs calculations and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "alternating current (AC) theory and AC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as henries, farads, reactance, impedance)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "passive components, capacitors and inductors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "single-phase versus three-phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, impedance, real, reactive, apparent power and power factor relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands how electrical current moves through a circuit or a system and how electricity affects a circuit or system. Understands how to control current and resistance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the way solid things move and how leverage, force, friction and momentum affect that motion and is able to solve problems with simple machines, complex machines and mechanical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the way fluids (liquids and gases such as water and air) act as conductors or insulators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the movement of heat, specifically which substances warm up quickly when heated and which ones warm up more slowly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands how specific heat works, including how different materials hold heat for different amounts of time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and applies tag out/lock out procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Components Knowledge:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of design techniques, tools and principles involved in production of precision technical plans, blueprints, drawings and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of machines and tools, including their designs, uses, repair and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to work with electrical instruments such as voltmeters, ammeters, fault locators, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the application of hosts, tackle and knots used in construction and maintenance work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the interrelationships among components of systems in order to understand how such components affect each other, act together, fit together, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to identify “unusual” sounds or vibrations from among competing, “normal” sounds or vibrations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to detect deviations or exceptions from normal operating conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interacts directly with the public listening to and understanding customer needs and determining how to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interacts with customers regarding the termination and restoration of electric service, which is required as a result of maintenance and construction work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gas Transmission and Distribution:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge and skills necessary for the transmission and distribution of natural gas from the refinery to the end customer"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and Technology:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and applies the fundamental concepts of natural gas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the components and workings of the gas transmission and distribution network, including metering and regulating stations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies direct current (DC) concepts and laws and performs calculation and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel, series-parallel combinations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "conductors and insulators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "direct current (DC) theory and DC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electrical laws (such as Ohm's law, Kirchhoff's voltage and current laws)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "electron theory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as ohms, volts, amps, watts, coulombs, joules)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, resistance and power"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies alternating current (AC) concepts and laws and performs calculations and measurements including the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "alternating current (AC) theory and AC sources (such as ideal voltage and current, non-ideal voltage and current)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "basic electrical circuits such as series and parallel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "units of electrical measurement (such as henries, farads, reactance, impedance)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "passive components, capacitors, inductors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "single-phase versus three-phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "voltage, current, impedance, real, reactive, apparent power and power factor relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the way solid things move and how leverage, force, friction, and momentum affect that motion and is able to solve problems with simple machines, complex machines and mechanical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the way fluids (liquids and gases such as water and air) move through systems and is able to solve problems with plumbing, hydraulics or pneumatics (compressed gas)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the movement of heat, specifically which substances warm up quickly when heated and which ones warm up more slowly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands how specific heat works, including how different materials hold heat for different amounts of time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Components Knowledge:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of design techniques, tools and principles involved in the production of precision technical plans, blueprints, drawings and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is knowledgeable of machines and tools, including their designs, uses, repair and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interacts directly with the public listening to and understanding customer needs and determining how to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interacts with customers regarding the termination and restoration of gas service, which is required as a result of maintenance and construction work"
+			}
+		}
+	]
+}

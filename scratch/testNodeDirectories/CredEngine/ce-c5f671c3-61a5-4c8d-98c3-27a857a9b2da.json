@@ -1,0 +1,963 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-c5f671c3-61a5-4c8d-98c3-27a857a9b2da",
+		"name": {
+			"en-us": "American Board of Genetic Counseling (ABGC) Detailed Content Outline"
+		},
+		"description": {
+			"en-us": "Certification by the American Board of Genetic Counseling (ABGC) indicates that individual practitioners have met the standards necessary to provide competent genetic counseling services."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Gathering Initial Information & Medical History"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gathering Initial Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical History"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Family History & Risk Counseling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pedigree and Family History"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Assessment and Risk Counseling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing & Diagnosis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnosis and Natural History"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing Options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test Results & Discussion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication & Psychosocial Counseling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Psychosocial Assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Psychosocial Support/Counseling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resources/Ethics/Research/Education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resources and Follow-Up"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethical/Legal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Education/Policy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate case information to determine:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and evaluate medical records and prior testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review of literature and other resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop preliminary risk assessment and/or differential diagnosis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, determine appropriateness of, and prepare for potential diagnostic and screening tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess eligibility for, and impact of, insurance coverage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek input about or develop a preliminary care plan with the health care team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elicit/Review history:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Appropriateness of services requested"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need for consultation with other experts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need to obtain additional information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need to include relevant family members in the evaluation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need to include interpreters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prenatal history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Birth history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Congenital anomalies/birth defects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developmental history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health problems and age of onset"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospitalizations and surgeries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New CompetencyCurrent and past medications and exposures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reproductive history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review of systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss with client relevant outside records and previous test results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Educate client about purpose for, and process of, family history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elicit history and facilitate recall by tailoring questioning for the individual case"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elicit family health history to identify common hereditary risk factors (e.g., cancer, cardiovascular disease, mental health disorder)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document ethnicity and consanguinity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construct a complete pedigree using standardized pedigree nomenclature"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and respond to emotional reactions to family history discussion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Educate client about importance of updating family history as changes occur over time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Family dynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnoses requiring confirmation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Referrals or evaluations needed to identify diagnoses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability of primary historian"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate agenda for discussion of diagnoses and natural history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate natural history, characteristics, and symptoms of working diagnosis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate client specific findings and needs into discussion of diagnosis and natural history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate on management plan as a member of the healthcare team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide guidance about clinical management to medical professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tailor follow-up plan according to client circumstances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convey information about the following:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic genetic concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnosis or indication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Etiology or mode of inheritance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Natural history and prognosis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Variable expressivity or penetrance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Options for prevention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treatment options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reproduction options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Management options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow-up medical plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify most informative persons for testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide guidance about genetic testing to medical professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify/Select most appropriate test(s) considering:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain testing options:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate decision making and informed consent:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate genetic testing:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test methodology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinical context"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Predictive value of tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Screening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Predictive"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carrier"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain possible testing results and implications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss financial and insurance implications of testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss risks, benefits, and limitations of testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss alternatives to genetic testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Help client anticipate the range of emotional effects client and/or family members may experience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Help client integrate their own values into making decisions about genetic testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select laboratory for testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss test with laboratory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify specimens for testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically analyze test results, taking into consideration:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate significance of test results for a patient depending on:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss results to include:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss recommendations for additional testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methodology and technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Literature and resources (e.g., genome browsers, models, databases)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Family history"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinical utility of test"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sensitivity, specificity, or positive/negative predictive value"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implications of positive, negative, and ambiguous results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implications of secondary / incidental findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate client understanding and response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify interaction based on client's understanding and response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address client misconceptions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New Competency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust practices to accommodate telephone consultation with healthcare providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure appropriate communication of relevant case components to:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patients"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Families"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Healthcare providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish rapport through verbal or non-verbal interaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish rapport in a session with an interpreter"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize agenda to focus on key information that must be conveyed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a mutually agreed upon genetic counseling agenda with the client"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elicit client concerns, expectations, and perceptions and modify agenda as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess knowledge base of client"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outline the genetic evaluation process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address anxiety or concerns articulated by the client including those:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Precipitated by the request for services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "External to the consultation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "External to the consultation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess client's psychosocial needs and recognize need for referral"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess client and/or family:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emotions, mood, and affect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support systems and barriers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defense mechanisms and coping strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cultural/Religious beliefs, traditions, and values"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Socio-economic background, experiences, and lifestyles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health literacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health beliefs and attitudes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address client emotions and/or behavior using:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ active listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ anticipatory guidance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize cross-cultural genetic counseling techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess competence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote autonomy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address family communication issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate client decision making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote coping and adjustment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice within boundaries of client/professional relationship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate communication between the client and the healthcare team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct a counseling session that demonstrates an appreciation of counseling theories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advocate for clients in medical or non-medical settings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address client's need for follow-up services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address family's need for follow-up services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate resources and services:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refer to other professionals, agencies, resources, and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support groups"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New CompetencyOther medical experts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client education materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet resources (e.g., social media, foundations, patient registries)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with privacy and confidentiality regulations regarding personal health information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform clients of potential limitations to maintaining privacy and confidentiality of genetic information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to the medical and legal requirements of case documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss real or potential discrimination risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New Competency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ ethical frameworks to address clinical dilemmas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek consultation with ethical/legal experts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with National Society of Genetic Counselors Code of Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the applicability of published position statements and practice guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice in accordance with institution-specific guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and manage real or perceived conflicts of interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with regulations for protection of human subjects in research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enroll subjects in research studies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as liaison for client participation in research studies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate research findings to clinical arena"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct and/or interpret data analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Submit abstracts to scientific meetings or professional conferences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct presentations at scientific meetings or professional conferences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide education to:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide training and supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop educational materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote new or existing services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in development of institution-specific guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetic counseling students"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetic counselors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other healthcare students and professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public"
+			}
+		}
+	]
+}

@@ -1,0 +1,2559 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-370b8df1-3e08-4956-872f-e4726ad620a5",
+		"name": {
+			"en-us": "Aerospace Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with the Aerospace Industries Association (AIA) and the National Defense Industrial Association (NDIA), the Employment and Training Administration (ETA) has worked with industry leaders to develop a comprehensive competency model for the aerospace industry. The model is designed to evolve along with changing skill requirements. AIA and NDIA have committed to working with their industry partners to keep the model current.\n\nIn 2018, the model was revised to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"aerospace",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with others from diverse backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact appropriately and respectfully with supervisors and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with ethical standards for your field"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and dealing calmly with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupation and maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive, and effort to accomplish tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new responsibilities and work challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging, but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability & Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently, predictably, and reliably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations, complete assignments, and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal and professional lifelong learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn and adopt new techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback, and modify behavior for improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through science fairs, reading publications, job shadowing, and continuing education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying personal interests and career pathways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written technical and non-technical information in documents such as manuals, regulations, procedures, reports, memos, graphs, charts, tables, schedules, and signs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify relevant details, facts, specifications, and main ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the essential message and purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infer or locate meaning of unknown or technical vocabulary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to compile information and prepare written reports."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct English spelling, grammar, and punctuation to produce logical and accurate written correspondence, instructions, and documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, and messages, which may contain technical material, in a logical, organized, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, and flow charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write words, numbers, sentences, reports, and data using technical terminology and notations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using principles of mathematics such as algebra, geometry, and trigonometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply mathematical principles:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Systems and Relationships - whole numbers, decimals, fractions, and percentages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Operations, Computation and Estimation - addition, subtraction, multiplication and division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and Estimation - measurement of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed. Conversion from one measurement to another (e.g., from English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Notation - the language of mathematics to express mathematical ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Reasoning and Problem Solving - inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistics and Data Analysis - collection, reporting and analysis of data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Probability and Predictions - calculating probability to make predictions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Algebra and Functions - equations, patterns, and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometry - shapes and using geometric principles to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trigonometry - triangles and trigonometric functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculus - concepts of exponential, logarithmic and trigonometric functions, vectors, complex numbers, conic sections, and analytic geometry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific method (identify problems, collect information, form opinions, draw conclusions) and apply basic scientific research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify relevant chemical, mechanical, biological, electrical, and physical properties of materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe, explain, predict scientific phenomena"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct scientific investigations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret scientific evidence and draw conclusions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply scientific principles:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Inquiry - Scientific Method (identify problems, collect information, form opinions, draw conclusions) and apply basic scientific research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Science (Chemistry and Physics) - properties of matter, structure of atoms, energy, motion and forces"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Earth and Space Science - origin and evolution of the universe and earth systems, geology, meteorology, astronomy, hydrology, and oceanography"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering & Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine appropriate uses of technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, analyze, and construct objects or processes for practical purposes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use mathematics to solve practical work-related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use engineering principles for project analysis, design, testing, implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic design techniques, tools, and principles to produce precision technical plans, blueprints, drawings, and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate mathematical models or other methods of computer analysis to develop, evaluate, or modify design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, operate, and maintain technological systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct troubleshooting, research and development, invention and innovation, and experimentation in problem-solving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand basic principles of circuit boards, processors, chips, electronic equipment, and computer hardware and software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply engineering principles to material selection and processing method alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attributes of design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Artificial intelligence and design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computerized standard test and test bench development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modeling, control, and tele-operation (operation at a distance)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific visualization and animation techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automation/robotics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Listening & Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active listening skills using reflection, restatement, questioning, and clarification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and interpret verbal and non-verbal communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking/Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and use non-verbal communication consistent with verbal communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas in a persuasive manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical & Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use inductive and deductive reasoning to analyze, synthesize, compare, and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the underlying relationship among facts and connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and break down complex systems into their component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship and interdependency of the part and the system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize problems into manageable parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and efficiently use basic computer hardware (e.g. PCs, printers) and software (e.g. word processing software, spreadsheet software) to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand common computer terminology (e.g., program, operating system) and is familiar with the fundamental capabilities of computers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing programs to compose, organize, and edit simple documents and other business communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use electronic mail to communicate and Internet applications to search for information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet, database, and presentation software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter data and type materials quickly and accurately and"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double check work carefully and identify/correct typographical errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage file storage: use functions to store, retrieve, and sort detailed records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in and identify with the goals of a team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with multi-disciplinary teams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify roles of team members and effectively communicate with all members of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with others to formulate team objectives and develop consensus for best outcome"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use teamwork skills to achieve goals, solve problems, and manage conflict"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Give and receive feedback constructively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to considering new ways of doing things and the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply effective organizational skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement a plan for a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing or planning work to accomplish tasks more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability/Flexibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change gears in response to unpredictable or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively change plans, goals, actions, or priorities to deal with changing situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a timeline for sequencing the activities of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish specific goals to accomplish work in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innovation & Invention:"
+			},
+			"comment": {
+				"en-us": [
+					"Formulating new ideas for and applications of processes and products."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unique analyses and generate new, innovative ideas in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities to develop unique approaches and useful solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and possess a big picture view of the situation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify Opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify needs, wants, and problems as they are changing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to develop and offer new products and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve, streamline, reinvent work processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the failure of other projects as research for a possible new venture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct experiment and application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify design trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design a system, product, or service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology Transfer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify scientific research which has potential commercial value"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the consequences of societal or technological change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop practical applications for the results of scientific research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply newly created technology to new, innovative, productive uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methods for the Creation and Improvement of Products and Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply lean six sigma methods for creation and/or improvement of products/processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define problems that affect customer value and impact company financially"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and apply appropriate quantitative and qualitative techniques in applications in aerospace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving & Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying knowledge of STEM principles to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem by analyzing its component parts and defining critical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, obtain, and review information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to develop new ideas for and answers to work related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify criteria and constraints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply concepts of probability to help make decisions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and Implement a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after contemplating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider the technical and cultural (and other non-technical) factors in the decision process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection & Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, select, and apply tools or technological solutions appropriate to the task at hand (e.g., use statistical tools to show reliability of data, use probes and sensors to collect data)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information technology and computer applications as it supports the gathering, storage, manipulation, and transfer of data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies and methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and decide what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, & Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply techniques for observing and gathering data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record data with the correct number of significant figures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete required maintenance forms, records, and inspection reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational Awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand trends in the industry and the company’s position in the market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the company and understand the potential impact one’s own performance can have on the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay current on organizational strategies to maintain competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice sustainability by using processes that are non-polluting; conserve energy and natural resources; are economically sound; and safe for employees, communities, and consumers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how sustainable practices contribute to economic growth, social objectives, and environmental stewardship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of the similarities among and differences between ethics, law, morals, and etiquette"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal/Financial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain privacy and confidentiality of company information, as well as that of customers and co-workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with intellectual property laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect trade secrets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerospace Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the aerospace industry and its principles, its key sectors, and relevant laws and regulations."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn and apply appropriate aerospace terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify key differences and similarities among aerospace industry sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the properties and applications of materials frequently used in the aerospace industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and comply with relevant local, state, federal, and international laws and regulations that impact the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review procedures to ensure compliance with regulatory requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the requirements for certification in aerospace fields"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop understanding of security clearance process and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain required security clearance, if necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerospace Sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product and Parts Manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing Laboratories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Space Research and Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Defense"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Service/Support"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Support/Field Service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Areas of Specialization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Avionics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerodynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aeronautics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Celestial Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Propulsion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Thermodynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Standards and Certifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Metals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plastics/Polymers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Composites"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ceramics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fluids"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws & Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal Aviation Administration (FAA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Original Equipment Manufacturer (OEM) maintenance specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "American Transport Association (ATA) codes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimum Equipment Lists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal Acquisition Regulations (FARs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Code of Federal Regulations (CFRs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airworthiness Directives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advisory Circulars"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Transportation Safety Board (NTSB)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Civil Aviation Organization (ICAO)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Aeronautics and Space Administration (NASA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "European Aviation Safety Agency (EASA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Air Transport Association (IATA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Import/Export Requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design & Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Application of engineering and mathematical principles to design aerospace components."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of product lifecycle models and acquisition models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply new product and process development methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate conceptual design of aeronautical or aerospace products or systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop design criteria for aeronautical or aerospace products or systems, including testing methods, production costs, quality standards, and completion dates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate product data and design from inspections and reports for conformance to design criteria, engineering principles, customer requirements, safety, and quality standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate and improve the producibility, reliability, safety, and maintainability of alternate product and process designs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop prototypes of aerospace components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop new technologies for use in aviation, defense systems, and space exploration, often specializing in areas such as structural design, guidance, navigation and control, instrumentation and communication, or production methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and conduct experimental, environmental, operational, and stress tests on models and prototypes of aircraft and aerospace systems and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct tests to determine whether equipment, software, or procedures are operating as expected"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be familiar with type design certification requirements; designing to comply with applicable aeronautical regulatory agencies (FAA, EASA, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the impact of engineering from multiple perspectives, such as economic, ethical, health and safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tools and Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer-aided design (CAD) software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Robotics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lasers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced electronic optics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical or scientific software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development environment software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data base user interface and query software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphics or photo imaging software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial control software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drafting and design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Desktop publishing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electronics communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphic communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multimedia technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Networking systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering & Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structural Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Optical Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Launch Systems Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product & Parts Manufacturing:"
+			},
+			"comment": {
+				"en-us": [
+					"Assembly, installation, inspection, and repair of aerospace components."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage raw materials/consumables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate and control production/lab equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carry out procedures for producing, assembling, and installing aerospace components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use state-of-the-art tools and assembly techniques to create and assemble aerospace products and parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret schematic drawings, diagrams, blueprints, specifications, work orders, and reports in order to determine materials requirements and assembly instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shop floor control models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing resource planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Improvement methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bills of Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schematic drawings, diagrams, blueprints, specifications, work orders, and reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft, missiles, or space vehicles component manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerospace engines, propulsion units, auxiliary equipment or parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft conversion (i.e., major modifications to systems)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete aircraft or propulsion system overhaul and rebuilding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-destructive testing methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production, Assembly, and Installation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerospace component assembly procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laser materials processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Friction stir processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High speed machining"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abrasive slurry cutting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Composites manufacturing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electronics material processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Joining, welding, and assembly processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management & Quality Assurance:"
+			},
+			"comment": {
+				"en-us": [
+					"Management of projects to ensure products and processes meet quality system requirements as defined by the industry and customer specifications."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze project requests and proposals and engineering data to determine feasibility, producibility, cost, safety, and production time of aerospace or aeronautical product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule the project in logical steps and budget time required to meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare contracts and negotiate revisions, changes and additions to contractual agreements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare and submit budget estimates and progress and cost tracking reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and approve purchase orders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meet and maintain certification requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use quality and continuous improvement processes to improve safety, quality, cost and schedule performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor production for product and process quality, cost and schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ audits and inspections to maintain the quality and continuous improvement process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correct the product and process to meet quality standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support and maintain quality systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management and Execution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategic planning/global competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management tools and techniques (e.g. Deming Cycle)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product lifecycle management (PLM) software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lean manufacturing/Six Sigma"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement cycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply chain logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material and resource management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational design and management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations research, analysis, and forecasting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel management methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labor relations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accounting/finance/economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality requirements and inspection methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internal and external auditing procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Organization for Standardization (ISO) 9000"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supplier and sub-tier quality assurance relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First article inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehousing requirements to support lot traceability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Benchmarking and best practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business process reengineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance improvement strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aviation Maintenance:"
+			},
+			"comment": {
+				"en-us": [
+					"Inspection, servicing, and repair aircraft components and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify general types of aircraft, engines, propellers, and rotors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use aircraft drawings, symbols, and system schematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and conduct routine maintenance checks and incorporate unscheduled, non-routine tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and select appropriate nondestructive testing methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize, detect, and classify defects using common techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate to appropriate personnel possible discrepancies and defects that could affect airworthiness of aircraft"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct work in a safe manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write descriptions of work performed including aircraft discrepancies and corrective actions using typical aircraft maintenance records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply inspection procedures involved in testing aircraft and missile systems under simulated operational conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform systems readiness tests and pre- and post-operational checkouts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record and interpret test data on parts, assemblies, and mechanisms to diagnose malfunctions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and comply with aerospace standards and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply improvement methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand operation of major aircraft/aerospace systems such as conditioned air, hydraulics, pneumatics, engines, fuel, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand concepts of troubleshooting systems and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform troubleshooting on faulty systems and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and be able to use Automated and Built In Test equipment/features"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airframe Structures, Systems, & Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wood structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft covering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft finishes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sheet metal and non-metallic structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft landing gear systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic and pneumatic power systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cabin atmosphere control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft instrument systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication and navigation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft fuel systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft electrical system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Position and warning systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ice and rain control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire protection systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhesives; substrate preparation, mixing and application, shelf-life"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacture of composite parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corrosion control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Metal processing including welding, annealing, heat treating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Powerplant Systems & Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine instrument systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine fire protection systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine electrical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lubrication systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ignition and starting systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel metering systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine fuel systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Induction and engine airflow systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine cooling systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engine exhaust and reverser systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Propellers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Turbine powered auxiliary power units"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental, Safety, & Health:"
+			},
+			"comment": {
+				"en-us": [
+					"Practices and procedures necessary to ensure a safe and healthy work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a Healthy and Safe Environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies (especially those related to emissions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR if trained and summon assistance as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials and commercial and industrial waste according to regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding One’s Person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate safely on the shop and/or hangar floor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize Foreign Object Debris (FOD) and mitigate FOD damage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achieve and maintain environmental certifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace, making suggestions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal protective equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Foreign Object Debris (FOD)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Safety and Health Administration (OSHA) requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Management System (SMS) policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Waste Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource Conservation and Recovery Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Air Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Water Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Toxic Substances Control Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Safety Data Sheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Emissions Standards for Aerospace Manufacturing and Rework Facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Certifications (ISO 14000)"
+			}
+		}
+	]
+}

@@ -1,0 +1,1855 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-b4f7e4d1-bc57-4bd3-86f7-4158ed4a997f",
+		"name": {
+			"en-us": "Heavy Highway Civil Construction Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with the Associated General Contractors of America (AGC), the Employment and Training Administration (ETA) has worked with industry leaders to develop a comprehensive competency model for the heavy highway civil construction industry. The model is designed to evolve along with changing skill requirements. AGC has committed to working with its industry partners to keep the model current."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"highway",
+				"civil construction",
+				"Competency Model CLearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Display skills to work with others from a range of backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact respectfully with coworkers of different cultures, genders, and backgrounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work cooperatively with others on the job and display a good-natured attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Display accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply ethical standards of the industry to workplace/jobsite conduct"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for property of customers, employer, and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintain a professional demeanor."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by keeping emotions in check"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and deal calmly with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for the workplace/jobsite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrate a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive, and effort to accomplish tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task or problem despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work independently and perform effectively even with little or no supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate the ability to change from one task to another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative to seek out new responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain challenging, but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability & Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Display responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arrive at work fit and on time each day"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Avoid absenteeism"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work accurately and quickly under pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete assignments and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with rules, policies, and procedures such as safety, personal hygiene, personal discipline, substance abuse, employee theft, and sexual harassment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Willingness to Learn:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand the importance of learning new information for both current and future problem solving and decision making."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in training opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn new skills related to the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept help from supervisors and co-workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out feedback from others to improve job performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, and opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify opportunities for career advancement and certification requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand technical and workplace documents such as regulations, manuals, reports, memos, forms, graphs, charts, tables, calendars, schedules, signs, and notices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand operating directions, installation instructions, and standard operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the meaning of specialized words or phrases unique to the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to follow instructions and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Use standard English to compile information and prepare written documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate ideas, information, and messages which may contain technical material, in a logical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare documents such as written estimates, work orders, memos, and technical reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fill out forms, reports, records, logs, and documents to comply with project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use industry terminology, acronyms, and jargon appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Use principles of mathematics such as arithmetic, algebra, and geometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions; convert fractions to percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of structures, distances, length, width, height, perimeter, area, angles, weight, and temperature"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert common units of measurement (e.g., from English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find level, plumb, and square"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read gauges and measurement instruments accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate sizes, distances, and quantities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use dimension, space, and structure calculations to estimate resources, materials, and supplies needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the right mathematical method or formula to solve a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform math operations accurately to complete jobsite/workplace tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use various formulas for calculating the amount of materials needed to complete a task"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate volumes of shapes and structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate dimensions from blueprints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Use scientific rules and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand scientific principles critical to the construction profession: physics, chemistry, geology and environmental science, hydraulics, hydrology, & engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand chemical reactions such as how mortar sets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand physical principles such as forces, friction, and energy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand physico-chemical properties such as the effects of moisture and temperature changes on materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand weight and mass and how it relates to rigging, wind, and structure supports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and evaluate the characteristics and hazards of electricity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and understand the interactions of compatible and incompatible substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic scientific principles and technology to solve problems and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication—Visual & Verbal:"
+			},
+			"comment": {
+				"en-us": [
+					"Listen, speak, and signal so others can understand.  Communicate in spoken English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking & Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak in English well enough to be understood by others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and succinctly to convey information correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend terminology spoken on a construction site"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of slang and jargon related to the different trades"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and respond to verbal messages and instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Visual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use hand signals to communicate with other workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the correct location to see and be seen as the signaler"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize universal signs and symbols such as colors, flags, stakes to function safely in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Use a computer and related applications to input, store, and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic computer hardware (e.g. PCs, printers) and software (e.g. word processing software, spreadsheet software) to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand capabilities of computers and common computer terminology (e.g., program, operating system)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand computer terminology related to the construction profession (e.g., Global Positioning Systems, Geographic Information Systems, Electronic Surveying Equipment, Computer-Aided Design)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize, store, and retrieve files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing Documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing programs to create simple documents and business communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Electronic Mail and Internet applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Spreadsheet and Database applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter data and type materials quickly and accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double check work to identify and correct typographical errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Work cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the roles and responsibilities of the individual as part of a team and the hierarchy of individuals on the jobsite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform responsibly as a team member and assist other members of the work team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve team goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively resolve conflicts with co-workers to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist others who have less experience or have heavy workloads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following Directions:"
+			},
+			"comment": {
+				"en-us": [
+					"Receive, understand and carry out assignments with minimal supervision."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions to clarify unclear directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act upon the instruction to complete an assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend and follow steps used in construction work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following Plans & Schedules:"
+			},
+			"comment": {
+				"en-us": [
+					"Receive, understand, and carry out assignments to follow the planned workflow sequence."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the relationship between available resources and requirements of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan work processes including matching material amounts and types of work to be done"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create work sequences for tasks and units of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively in order to meet the established schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate the time required to perform activities needed to accomplish a specific task"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish specific goals to accomplish work in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust plan/schedules to respond to unexpected events and conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide updates on complete work, materials used, and materials needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving & Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply critical-thinking skills to solve problems encountered on the work site."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem and define critical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, obtain, and review information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to develop new ideas for and answers to work related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and Implement a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the best solution after contemplating approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Select, use, and maintain tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and Use Tools & Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the hand and power tools appropriate to the work site and to the trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select tools, technology, machinery, and equipment appropriate for a given job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate appropriate use of tools to complete work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate hand or power tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging materials, tools, and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and decide what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, & Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Enter, transcribe, record, store, or maintain information in written or electronic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine structures and systems to determine need for repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose malfunctioning systems, apparatus, and material components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use checklists to track preventative maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete and maintain preventative maintenance records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor work and record progress of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records and files that are up-to-date and readily accessible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Craftsmanship:"
+			},
+			"comment": {
+				"en-us": [
+					"Recognize the responsibilities and personal characteristics of a professional craftsperson."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Aptitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the physical aptitudes necessary to perform critical work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate manual dexterity, balance, and eye-hand coordination"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sufficient stamina to complete critical work functions (e.g., complete full shift, walking, carrying heavy objects for extended periods)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay up-to-date technically and apply new knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform quality work meeting or exceeding the standards of the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building & Construction Design:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand the steps involved in building construction projects (e.g., understanding & interpreting drawings)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize basic engineering and architectural principles in structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify components of building systems needed to complete a construction project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand design techniques, tools, and principles involved in the production of precision technical plans, blueprints, drawings, and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret documentation, detailed instructions, drawings, or specifications about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Blueprints/Drawings/Specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand rough and detailed scale plans for structures based on sketches, engineering calculations, specification sheets and other data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize elements and symbols of blueprints, drawings, and specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret dimensions, symbols, types of lines, scales, and views, including elevations, plans, and sections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Visualize three-dimensional forms from two-dimensional drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate worksite features included on a construction plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert scaled blueprint drawing measurements to full dimensions for a given project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply surveying methods to problems of leveling, line direction, measurement of angles, measurement of distance, and transverse computations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of zoning, property lines, utilities, building line, setback, building corners, and elevation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the actual location/elevation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use lasers/levels/transits to check alignment and elevations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify specific hazards, such as cave-ins, and be aware of them while performing excavation tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform benching and sloping methods to prevent cave-ins"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install shoring and shielding systems to protect workers from cave-ins"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demolish and/or disassemble and remove structures and buildings prior to repair or new construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Resources:"
+			},
+			"comment": {
+				"en-us": [
+					"Identify, move, store, and supply construction and building materials for all types of construction activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify materials necessary to complete tasks in the trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the structure and properties of various materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate waste of resources/materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate necessity for additional/alternative resources/materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between compatible and incompatible substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand criteria used for material selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle, install, position, move, store, and secure materials properly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of various material finishing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and perform material testing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand appropriate transport methods of various construction materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate combinations of building materials and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations & Quality Assurance:"
+			},
+			"comment": {
+				"en-us": [
+					"Comply with regulations and building codes, and apply industry standards to ensure quality work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of and comply with governmental regulations, local and state building codes, contract provisions, and construction standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information given in regulations and codes correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pass job inspections and comply with regulations at all times"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Liability Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect a construction work site and correctly identify potential hazardous conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify strategies to mitigate hazards and take appropriate remediation measures, including posting proper warning signs and fencing off dangerous work areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document project and work site inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to prevent loss of materials during all stages of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete construction projects according to specified standards of quality and performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate efficiency and effectiveness of a project/job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure work is done well, safely, and according to code and customer requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect job sites, equipment, structures, or materials to identify the cause of errors or other problems or defects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect structures and systems for structural quality, general safety, and conformance to specifications and codes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct tests and inspections of products or processes to evaluate quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Impact Mitigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and abate all types of environmental hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate, maintain, and interpret data from air sampling equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and maintain decontamination systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remove, package, dispose of, and document hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to prevent/control wind or water erosion in land development and construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to minimize negative impact  to wetlands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health & Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Recognize and mitigate safety hazards including hazardous materials, environmental hazards, and accident conditions on a construction site."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, inspect, and use personal protective equipment such as respiratory protection and fall protection equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work to create a hazard-free, accident-free environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know effects of and how to deal with temperature extremes and weather conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow rules and procedures for working safely in confined spaces and at heights."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe rules and regulations to comply with personal and jobsite safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify workplace/jobsite environmental hazards to promote workplace/jobsite safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand shop and worksite safety, fire safety, electrical safety, and chemical safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify ladder and scaffold safety practices and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand dangers of construction excavation and follow appropriate safety measures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and follow basic hand signals relevant to moving vehicles, equipment, and materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of hazardous properties of materials such as radiation, toxicity, flammability, reactivity, corrosivity, and limits of fire resistance exposure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete and file accident reports in accordance with required standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Material Safety Data Sheets (MSDS) information to manage, use, and dispose of hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Sector Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction of Heavy/Highway & Civil Structures:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply knowledge of heavy/highway and civil materials and methods in the construction of different types of projects."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply knowledge of materials, methods, and techniques to construct major utility systems such as power plants, water, sewer, communication, electrical, nuclear power, refineries, and natural gas facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Road Construction and Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand road construction components to perform road marking and road pavement operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install roadside fixtures, utility poles, pre-cast concrete crash barriers, noise barriers, and raised pavement markers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bridge Construction and Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand bridge components and how to construct different types of bridges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply knowledge of the purpose, structure, construction methods, and materials in constructing different types of bridges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construct bridge substructures and superstructures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other Major Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply knowledge of materials, methods, and techniques in the construction of tunnels, canals, dams, railroads, pipelines, mass-transit facilities, golf courses, and wetlands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site Preparation:"
+			},
+			"comment": {
+				"en-us": [
+					"Perform clearing, excavating, and earthmoving operations."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Land Alteration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carry out grubbing methods (e.g., removal of trees, stumps, plants, and rocks)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform grading procedures (e.g., altering land surfaces by cutting, filling, and/or smoothing to meet a designated form and function)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Undertake soil remediation procedures (e.g., protecting and restoring the soil’s structure)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Below Grade Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand types and properties of soil"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install excavation support systems, such as trench sloping and shoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify underground piping materials and fittings and carry out joining methods for underground pipe"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install box culverts and catch basins"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install underground pipe"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the different colors used for utility marking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply the rules for digging around various utilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the procedures to follow if a utility (gas, power, water, etc.) line is hit during digging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Earthmoving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand types and properties of soil"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform a variety of earthmoving methods including stripping top soil; excavation; transportation of construction materials; placing and backfilling; watering, mixing, spreading, and leveling of materials; and compaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform soil stabilization methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy Equipment Operations:"
+			},
+			"comment": {
+				"en-us": [
+					"Properly operate and maintain equipment specific to heavy construction."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trucks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the use of rigid frame trucks: dump trucks, asphalt distribution trucks, broom trucks, transit-mix trucks, fuel/lubrication trucks, maintenance trucks, water trucks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how to use truck components and controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform basic safety checks on trucks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate types of tractor trailer trucks and trailers such as: bulk haulers, flat bed trailers, low boy trailers, belly dump trailers, side dump trailers, end dump trailers, live bottom trailers, tankers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand aspects of truck driving related to off road driving and construction site driving including hours of service rules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain and maintain a Commercial Driver’s License (CDL), including following rules and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply the safety rules for operating trucks on a construction site"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain equipment in good condition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate controls safely and efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose and perform minor repairs on equipment failures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "For the task at hand, use the correct type and size of equipment such as: compaction equipment, loaders, backhoe loaders, scrapers, bulldozers, excavators, telescoping excavators, motor graders, skid steer loaders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cranes and Forklifts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the uses of different types of construction cranes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform crane inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safely perform crane operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safely operate forklifts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate good lifting practices and proper rigging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and use proper hand signals, slings, rigging hardware, hitch configurations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand basic load-handling safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate how to work out signal use with spotters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials & Installation:"
+			},
+			"comment": {
+				"en-us": [
+					"Materials, methods, and techniques used in the construction of heavy/civil projects."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concrete Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply knowledge of concrete properties when performing methods of mixing, curing, and finishing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use structural concrete for bridge, road, and utility construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Level, smooth, and shape surfaces of freshly poured concrete"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of reinforced concrete and structural steel systems (e.g. vertical and horizontal loads on beams and columns, bending, shear, compressive and tensile stresses, and deflection analysis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Steel Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install structural steel in the construction of bridges, roads, and utilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Erect, bolt, rivet, and/or weld fabricated structural metal members that support the structure during and after construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set steel bars (rebar) or steel mesh in forms to strengthen concrete buildings, bridges, and highways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipefitting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install and repair high pressure pipe systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assemble, install, and maintain pipes to carry liquids, steam, compressed air, gases, and fluids needed for processing, manufacturing, heating, and cooling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measure, cut, bend, and thread pipes, joining sections together using elbows, “T” joints, or other couplings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Paving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate concrete paving equipment, including pavers, slip-form pavers, and texture/curing machines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform concrete paving operations including grade control, making joints, hand paving, and reinforcement and meet concrete paving quality control standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform hot mix asphalt paving operations including grade control, raking, and compaction and meet hot mix asphalt quality control standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traffic Control:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand, construct, and implement traffic control to move the general public around or through construction sites."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traffic Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement traffic control plans and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lay out, construct, and maintain fences and traffic barrier systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install barricades as needed at the worksite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct, flag, and signal public and construction vehicles in work zones"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of the Uniform Traffic Control Code or state equivalent for flagging and signage requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and use proper flagging techniques (control traffic with stop-slow bat)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and maintain light sources when working at night"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow lighting plans"
+			}
+		}
+	]
+}

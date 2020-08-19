@@ -1,0 +1,2494 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-a59e9bb7-e385-492a-bd50-e63f52349c72",
+		"name": {
+			"en-us": "Long-term Care, Supports, and Services Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Employment and Training Administration (ETA) has worked with technical and subject matter experts from education, business, and industry to develop a comprehensive competency model for the long-term care, supports, and services industry. The model is designed as a resource supporting workforce development efforts to prepare the workers who make it possible for the aging population and those with disabilities to live their lives with independence and dignity. The American Health Care Association (AHCA), the Paraprofessionals Healthcare Institute (PHI), the College of Direct Support, National Center for Assisted Living (NCAL), American Network of Community Options and Resources (ANCOR), Institute for the Future of Aging Services, the University of Minnesota Institute on Community Integration, and the University of Alaska, Anchorage Center for Human Development, and the National Alliance for Direct Support Professionals (NADSP) provided input and will continue to ensure that the model evolves to accommodate changing skill requirements.\n\nIn 2018, the model was revised to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"long-term care",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work effectively with others"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating concern for others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sincere interest in others and their concerns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity to the needs and feelings of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out ways to help and take action to help others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating insight into behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate flexibility for change based on the ideas and actions of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when relationships with others are strained"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining open communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respecting diversity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be flexible, sensitive and open-minded when dealing with a wide range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value diversity of people and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work well and develop effective relationships with diverse personalities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide to established code of ethics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose an ethical course of action and do the right thing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to behave accordingly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting fairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make decisions that are objective and reflect the just treatment of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions and for those of one’s group, team, or department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor at work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and keeping emotions in check even in very difficult situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal calmly and effectively with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupation and its requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wear appropriate identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be free from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a professional image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist and expend effort to accomplish tasks even when conditions are difficult or deadlines are tight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task or problem despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new work challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek opportunities to make improvements that can influence outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward mastering tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform effectively even with minimal direction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit confidence in capabilities and an expectation to succeed in future activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be reliable, responsible, and dependable in fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently follow through on commitments and consistently meets deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate regular and punctual attendance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Check work to ensure that all essential details have been considered"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take prompt action to notify supervisors of errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complying with policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the capability to adapt to new, different, or changing requirements"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to considering new ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide suggestions for innovative approaches to improve processes or tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback from multiple sources about how to improve and develop, and modify behavior based on feedback or self-analysis of past mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue opportunities to develop knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate fully in relevant training and professional development programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, options and opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make insightful career planning decisions based on integration and consideration of others’ feedback, and seek out additional training to pursue career goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written and electronic information in documents such as manuals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attain meaning and comprehend core ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate definitions of unfamiliar terms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to follow instructions and complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from instructional material to work situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to communicate thoughts, ideas, and information in written form"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare written materials that are easy to understand using correct wording"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages and other written information in a logical, organized, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas that are well developed with supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write legibly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double-check documentation to check for errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in factual manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use language appropriate for the target audience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate tone and word choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using principles of mathematics to solve problems"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and write numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Count and place numbers in sequence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize whether one number is larger than another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform basic math computations accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of time, temperature, volume, or weight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific methods to solve problems"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand basic scientific principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific method (i.e., identifies problems, collects information, forms opinions and draws conclusions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of basic Biology, Chemistry, Nutrition, Anatomy, Physiology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Listening and Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide or receive translation when necessary, to be understood by others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pay attention to listener responses and react appropriately to those responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, understand, and respond to verbal and nonverbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Two-way communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use meaningful two-way communication (i.e., speak clearly, pay close attention and seek to understand others, listen attentively and clarify information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to nonverbal cues and respond appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use augmentative and alternative communication methods (forms of communication other than oral speech)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/Influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others positively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use reasoning ability to perform job successfully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the facts and apply this understanding when solving problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand, orient to, and learn new assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively change direction and focus when working on multiple projects or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehending the basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and efficiently use basic computer hardware (e.g. PCs, PDAs, or printers) and software to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the fundamental capabilities of computers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entering data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter data into computer files with an acceptable degree of accuracy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double check data entry carefully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice when data are missing or look wrong"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure computer files are complete and accurate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledging team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the roles of each team member"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact with others consistent with the team structure and lines of authority"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show loyalty to the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw upon team members’ strengths to achieve results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit tact and diplomacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sensitivity to the thoughts and opinions of other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice team membership skills, such as cooperation, leadership, and anticipation of the needs of coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying with the team and its goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of team goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cooperate with others and contribute to the team’s effort"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a group approach to identify problems and develop solutions based on group consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve team goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect interdisciplinary differences among team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolving conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage conflict within the team through consideration of others’ points of view"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Actively looking for ways to ensure that a person-centered focus is used to providing care and support"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a desire to understand the needs of the person and family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to what the person and family are saying and ask questions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide prompt, efficient, and personalized assistance to meet requirements, requests, and concerns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide thorough, accurate information to answer questions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promoting Empowerment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop strategies to assist and support the person to make informed choices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote participation in the design of services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide opportunities for self-advocacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide information and facilitate access to human, legal, civil rights and other resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping customers informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with response to inquiries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond timely to requests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find ways of organizing work area or planning work to accomplish work efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contingency Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop contingency plans to address obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off-track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available resources to locate and obtain information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, gathering, and organizing relevant information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gather and organize information to gain a better understanding of the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refer the problem to appropriate personnel when necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of alternative approaches to solving the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing and implementing a solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the best solution after contemplating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner, and develop a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Re-evaluate solution to ensure it was the appropriate approach"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work tasks"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and adjust equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean, inspect, and maintain equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify possible defects or other problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Coordinating:"
+			},
+			"comment": {
+				"en-us": [
+					"Making arrangements and scheduling appointments"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Informing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to the schedules of others affected by arrangements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform others of arrangements, giving them complete, accurate and timely information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shift work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update co-workers on work completed on past shifts and work that still needs to be completed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instructing:"
+			},
+			"comment": {
+				"en-us": [
+					"Teaching or showing someone how to do something"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with individual receiving services to identify his/her needs, strengths and goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist individual receiving services to maintain and develop skills, including hand over hand assistance, prompting, verbal or visual instruction and other strategies as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be sensitive to and accommodate diverse learning styles, abilities, cultures, and experiences, including learners who have disabilities and other special needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate ways for individuals receiving services and other team members to give feedback on learning and performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the organization’s mission and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grasp the potential impact of the organization’s well-being on employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for coworkers, colleagues, and customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the organization, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and reports loss, waste, or theft or company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Health and Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Complying with procedures for a safe and healthy work environment"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR, if trained, and summon assistance as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Long-term Care, Supports, and Services:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the broad range of services and supports designed to ensure the health and safety, and promote independence of individuals receiving services"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the components of the long-term care, supports, and services system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify own role in the department, organization, and overall long-term care, supports, and services environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the purpose and goals of the supports provided"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize obstacles/barriers faced by individuals who rely on long-term supports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide supports, care, and services according to the individual plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Long-term Care, Supports, and Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose and goals of long-term care, supports, and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Individualized, person-centered supports, care, and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consumer-directed services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of Residential Support Settings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Independent Living /In-home supports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-residential Assisted Living"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Residential/Group Home"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Congregate Living/Assisted Living"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skilled Nursing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of the purposes and goals of Vocational Support"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supported employment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vocational rehabilitation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Day habilitation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Familiarity with the needs of Populations Served"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical disabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cognitive disabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual and/or developmental disabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behavioral health needs and/or addiction/chemical abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Age-related decline in functioning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Palliative care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospice care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Individual Service and Support Plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the support team and individual members in implementing the plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The assessment process of observing, gathering and reporting information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achievement of individual participant outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborative relationship to promote the effectiveness of desired goals as identified in plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supporting Daily Living:"
+			},
+			"comment": {
+				"en-us": [
+					"Effective application of the knowledge, skills and ethics necessary to assist and support individuals who require health and human services to live a self-determined life in a safe and healthy manner"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote independence, health, wellness, and quality of life"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide supports, care, and services based on the individual plan, including physical and health care assistance, and support to maintain independence and perform activities of daily living, working, and recreation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe, assess, and objectively communicate and document the needs of persons being supported"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Function and Usage of Assistive and Adaptive Devices/Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Appropriate Techniques to Assist a Person with:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standing/arising"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Walking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transferring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Passive range of motion exercises"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge and Techniques to Support Activities of Daily Living:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Eating/dining"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bathing and personal care activities (shaving, grooming)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dressing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Toileting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transferring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining continence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge and Techniques to Support the Instrumental Activities of Daily Living, such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shopping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traveling locally and afar"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Household chores such as laundry, cleaning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing food and food storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using the phone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking medicine"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge to Promote Participation in Activities of Meaningful Daily Living, such as vocation, recreation, spirituality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge to promote emotional well-being"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining independence and self sufficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participation in activities of choice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Socialization activities, including assistance to maintain relationships with family members, partners, friends and other members of the community"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Crisis Prevention and Conflict Resolution:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of potential crisis situations or behavior, and the appropriate procedures to de-escalate the situation or minimize the likelihood of danger"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proactively identify potential crises, and implement procedures to de-escalate situation or minimize likelihood of danger"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intervene as appropriate, using skills to ensure safety of person being supported, self, and others at risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate effective listening and problem solving skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor situation using effective communication skills with individual and other staff/resources to resolve conflict"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement proactive management strategies, including adjusting supports and environment as necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support and promote individuals’ ability to problem-solve"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply techniques for conflict resolution, crisis prevention, intervention and resolution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of resources available within and outside of workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General understanding of principles of Positive Behavior Supports (e.g., positive reinforcement for proper follow-through, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding of mediation strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply rules, regulations, and policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of restraints or aversive procedures, and/or other physical means during a behavioral crisis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation and reporting of event in accordance with standard operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics:"
+			},
+			"comment": {
+				"en-us": [
+					"Practice responsibly within the ethical framework of the profession"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adopt an accepted professional code of ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply the code of ethics when confronted with ethical dilemmas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that practice honors the human and civil rights of participants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that practice uses the principles and activities of culturally and linguistically appropriate services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Secure and maintain certification and licensure requirements for duties as required"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain professional boundaries, and respect an individual’s right to privacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply mandated standards for harassment, labor, and employment laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain confidentiality and informed consent practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the negative consequences of action/inaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and appropriately report situations of abuse and neglect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply the principles of:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics as they relate to long-term care, supports, and services outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethical and legal issues impacting the provision of health and human services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Malpractice, liability, and negligence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expressed, informed, implied, and involuntary consent"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient/resident/service participant Bill of Rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply the basic principles of:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Standards for Culturally and Linguistically Appropriate Services (CLAS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cultural sensitivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Language assistance services (e.g. bilingual staff and interpreter services)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format to efficiently manage record-keeping"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain accurate and objective records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Submit records to appropriate sources in a timely fashion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain standards of confidentiality and ethical practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn and keep current with appropriate documentation systems, setting priorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with policies and requirements for documentation and record keeping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain appropriate information, signatures, and approvals promptly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that all information is complete and accurate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing Forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and complete appropriate forms completely and in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to and follow through on important information in paperwork"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forward or process forms in a timely and accurate manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining Logs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "File documentation in accordance with organizational requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records, and files that are up-to-date and readily accessible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update logs, files, and records, noting important changes in status"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand legal aspects of documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and know appropriate medical terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws and Regulations:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of relevant local, state, and federal laws and regulations that impact the delivery of long-term support, care, and services"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal responsibilities, limitations, and implications of actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform duties according to regulations, policies, and laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Have an awareness of regulatory agencies, and the laws and implications for the practice of long-term care, supports, and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable federal and state laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow agency/facility policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulatory Agencies including but not limited to:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Centers for Medicare and Medicaid Services (CMS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Office of the Inspector General (OIG)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Department of Justice (DOJ)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Office for Civil Rights (OCR)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Safety and Health Administration (OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal, State, and Local Laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizational and Agency Policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patient Health and Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Implement procedures and protocols to promote the health and wellness of person receiving supports, care, or services"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and implement appropriate actions to promote healthy and safe living and to prevent illness and accidents, and spread of infectious disease"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and support individual's physical and mental health including level of comfort, satisfaction, nutritional requirements, and vital signs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic technical and medical terminology appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide assistance to take or (self-administer) medications accurately and in accordance with physician prescription, policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and recognize maltreatment issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prevent abuse and neglect by being aware of signs and symptoms of abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when those served may pose a danger to self or others and take appropriate action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with relevant safety standards and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to emergencies by notifying appropriate staff or outside agencies, if alone, call emergency services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate first aid/safety procedures when responding to emergencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic anatomy and physiology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply the knowledge of body systems and their functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical terms, abbreviations, acronyms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and use terminology appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health and Disease - Common Signs and Symptoms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical disabilities and health concerns related to physical limitations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major developmental disabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behavioral and emotional illness (mental illness, chemical abuse)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Issues related to Aging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aging process and concerns related to related physical and mental limitations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grieving the loss of loved ones"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Death and dying"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dosages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Side effects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maltreatment Issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incident reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notifying appropriate parties in and outside the facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Ombudsman"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe Health Practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disease and infection prevention and control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correct hand hygiene and washing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proper methods for cleanup and disposal of waste products (sharps, biohazard materials, barrier attire)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation and reporting requirements after exposure incidents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Standards and Regulations:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety signs, symbols, and labels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace hazards and dangers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Procedures and Protocols:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Injury and crisis prevention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First aid procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CPR/Defibrillator and protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency preparedness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Health and Personal Safety:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain proper immunizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply principles of body mechanics and ergonomics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use personal protective equipment (gloves, masks, gowns, etc.)"
+			}
+		}
+	]
+}

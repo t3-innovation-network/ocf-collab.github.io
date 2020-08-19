@@ -1,0 +1,169 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-07c25f74-9119-11e8-b852-782bcb5df6ac",
+		"name": {
+			"en-us": "O*NET Content Model Worker Requirements - Basic Skills: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "Developed capacities that facilitate learning or the more rapid acquisition of knowledge"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyLabel": {
+				"en-us": "Content"
+			},
+			"competencyText": {
+				"en-us": "Background structures needed to work with and acquire more specific skills in a variety of different domains"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Process"
+			},
+			"competencyText": {
+				"en-us": "Procedures that contribute to the more rapid acquisition of knowledge and skill across a variety of domains"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Reading Comprehension"
+			},
+			"competencyText": {
+				"en-us": "Understanding written sentences and paragraphs in work related documents."
+			},
+			"comment": {
+				"en-us": [
+					"reading work related information"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Active Listening"
+			},
+			"competencyText": {
+				"en-us": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times."
+			},
+			"comment": {
+				"en-us": [
+					"listening to others, not interrupting, and asking good questions"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Writing"
+			},
+			"competencyText": {
+				"en-us": "Communicating effectively in writing as appropriate for the needs of the audience."
+			},
+			"comment": {
+				"en-us": [
+					"writing things for co-workers or customers"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Speaking"
+			},
+			"competencyText": {
+				"en-us": "Talking to others to convey information effectively."
+			},
+			"comment": {
+				"en-us": [
+					"talking to others"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Mathematics"
+			},
+			"competencyText": {
+				"en-us": "Using mathematics to solve problems."
+			},
+			"comment": {
+				"en-us": [
+					"using math to solve problems"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Science"
+			},
+			"competencyText": {
+				"en-us": "Using scientific rules and methods to solve problems."
+			},
+			"comment": {
+				"en-us": [
+					"using scientific rules and strategies to solve problems"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Critical Thinking"
+			},
+			"competencyText": {
+				"en-us": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems."
+			},
+			"comment": {
+				"en-us": [
+					"thinking about the pros and cons of different ways to solve a problem"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Active Learning"
+			},
+			"competencyText": {
+				"en-us": "Understanding the implications of new information for both current and future problem-solving and decision-making."
+			},
+			"comment": {
+				"en-us": [
+					"figuring out how to use new ideas or things"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Learning Strategies"
+			},
+			"competencyText": {
+				"en-us": "Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things."
+			},
+			"comment": {
+				"en-us": [
+					"using the best training or teaching strategies for learning new things"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Monitoring"
+			},
+			"competencyText": {
+				"en-us": "Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+			},
+			"comment": {
+				"en-us": [
+					"keeping track of how well people and/or groups are doing in order to make improvements"
+				]
+			}
+		}
+	]
+}

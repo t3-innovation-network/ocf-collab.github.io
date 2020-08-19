@@ -1,0 +1,556 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+		"name": {
+			"en-us": "O*NET Content Model Worker Requirements - Knowledge: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "Organized sets of principles and facts applying in general domains"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyLabel": {
+				"en-us": "Business and Management"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and facts related to business administration and accounting, human and material resource management in organizations, sales and marketing, economics, and office information and organizing systems"
+			},
+			"comment": {
+				"en-us": [
+					"Business"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Manufacturing and Production"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and facts related to the production, processing, storage, and distribution of manufactured and agricultural goods"
+			},
+			"comment": {
+				"en-us": [
+					"Manufactured or Agricultural Goods"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Engineering and Technology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the design, development, and application of technology for specific purposes."
+			},
+			"comment": {
+				"en-us": [
+					"Engineering and Technology"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Mathematics and Science"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the history, theories, methods, and applications of the physical, biological, social, mathematical, and geography"
+			},
+			"comment": {
+				"en-us": [
+					"Math and Science"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Health Services"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and facts regarding diagnosing, curing, and preventing disease, and improving and preserving physical and mental health and well-being"
+			},
+			"comment": {
+				"en-us": [
+					"Health"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Education and Training"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects."
+			},
+			"comment": {
+				"en-us": [
+					"Education and Training"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Arts and Humanities"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of facts and principles related to the branches of learning concerned with human thought, language, and the arts."
+			},
+			"comment": {
+				"en-us": [
+					"Arts and Humanities"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Law and Public Safety"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of regulations and methods for maintaining people and property free from danger, injury, or damage; the rules of public conduct established and enforced by legislation, and the political process establishing such rules."
+			},
+			"comment": {
+				"en-us": [
+					"Safety and Government"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Communications"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the science and art of delivering information"
+			},
+			"comment": {
+				"en-us": [
+					"Communications"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Transportation"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and methods for moving people or goods by air, rail, sea, or road, including the relative costs and benefits."
+			},
+			"comment": {
+				"en-us": [
+					"Transportation"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Administration and Management"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources."
+			},
+			"comment": {
+				"en-us": [
+					"management"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Clerical"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of administrative and clerical procedures and systems such as word processing, managing files and records, stenography and transcription, designing forms, and other office procedures and terminology."
+			},
+			"comment": {
+				"en-us": [
+					"administrative services"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Economics and Accounting"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of economic and accounting principles and practices, the financial markets, banking and the analysis and reporting of financial data."
+			},
+			"comment": {
+				"en-us": [
+					"accounting and economics"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Sales and Marketing"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and methods for showing, promoting, and selling products or services. This includes marketing strategy and tactics, product demonstration, sales techniques, and sales control systems."
+			},
+			"comment": {
+				"en-us": [
+					"sales and marketing"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Customer and Personal Service"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction."
+			},
+			"comment": {
+				"en-us": [
+					"customer service"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Personnel and Human Resources"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations and negotiation, and personnel information systems."
+			},
+			"comment": {
+				"en-us": [
+					"human resources (HR)"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Production and Processing"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of raw materials, production processes, quality control, costs, and other techniques for maximizing the effective manufacture and distribution of goods."
+			},
+			"comment": {
+				"en-us": [
+					"manufacture and distribution of products"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Food Production"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of techniques and equipment for planting, growing, and harvesting food products (both plant and animal) for consumption, including storage/handling techniques."
+			},
+			"comment": {
+				"en-us": [
+					"food production"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Computers and Electronics"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming."
+			},
+			"comment": {
+				"en-us": [
+					"computers and electronics"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Engineering and Technology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services."
+			},
+			"comment": {
+				"en-us": [
+					"product and service development"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Design"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models."
+			},
+			"comment": {
+				"en-us": [
+					"design"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Building and Construction"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads."
+			},
+			"comment": {
+				"en-us": [
+					"building and construction"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Mechanical"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of machines and tools, including their designs, uses, repair, and maintenance."
+			},
+			"comment": {
+				"en-us": [
+					"mechanical"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Mathematics"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications."
+			},
+			"comment": {
+				"en-us": [
+					"arithmetic, algebra, geometry, calculus, or statistics"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Physics"
+			},
+			"competencyText": {
+				"en-us": "Knowledge and prediction of physical principles, laws, their interrelationships, and applications to understanding fluid, material, and atmospheric dynamics, and mechanical, electrical, atomic and sub- atomic structures and processes."
+			},
+			"comment": {
+				"en-us": [
+					"physics"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Chemistry"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the chemical composition, structure, and properties of substances and of the chemical processes and transformations that they undergo. This includes uses of chemicals and their interactions, danger signs, production techniques, and disposal methods."
+			},
+			"comment": {
+				"en-us": [
+					"chemistry"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Biology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of plant and animal organisms, their tissues, cells, functions, interdependencies, and interactions with each other and the environment."
+			},
+			"comment": {
+				"en-us": [
+					"biology"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Psychology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders."
+			},
+			"comment": {
+				"en-us": [
+					"psychology"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Sociology and Anthropology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of group behavior and dynamics, societal trends and influences, human migrations, ethnicity, cultures and their history and origins."
+			},
+			"comment": {
+				"en-us": [
+					"sociology and anthropology"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Geography"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles and methods for describing the features of land, sea, and air masses, including their physical characteristics, locations, interrelationships, and distribution of plant, animal, and human life."
+			},
+			"comment": {
+				"en-us": [
+					"geography"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Medicine and Dentistry"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures."
+			},
+			"comment": {
+				"en-us": [
+					"medicine and dentistry"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Therapy and Counseling"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of principles, methods, and procedures for diagnosis, treatment, and rehabilitation of physical and mental dysfunctions, and for career counseling and guidance."
+			},
+			"comment": {
+				"en-us": [
+					"therapy and counseling"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "English Language"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar."
+			},
+			"comment": {
+				"en-us": [
+					"English language"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Foreign Language"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the structure and content of a foreign (non-English) language including the meaning and spelling of words, rules of composition and grammar, and pronunciation."
+			},
+			"comment": {
+				"en-us": [
+					"foreign language"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Fine Arts"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of the theory and techniques required to compose, produce, and perform works of music, dance, visual arts, drama, and sculpture."
+			},
+			"comment": {
+				"en-us": [
+					"music, dance, visual arts, drama, or sculpture"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "History and Archeology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of historical events and their causes, indicators, and effects on civilizations and cultures."
+			},
+			"comment": {
+				"en-us": [
+					"history and archeology"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Philosophy and Theology"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of different philosophical systems and religions. This includes their basic principles, values, ethics, ways of thinking, customs, practices, and their impact on human culture."
+			},
+			"comment": {
+				"en-us": [
+					"philisophy and religion"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Public Safety and Security"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions."
+			},
+			"comment": {
+				"en-us": [
+					"public safety and security"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Law and Government"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process."
+			},
+			"comment": {
+				"en-us": [
+					"law and government"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Telecommunications"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of transmission, broadcasting, switching, control, and operation of telecommunications systems."
+			},
+			"comment": {
+				"en-us": [
+					"telecommunications"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Communications and Media"
+			},
+			"competencyText": {
+				"en-us": "Knowledge of media production, communication, and dissemination techniques and methods. This includes alternative ways to inform and entertain via written, oral, and visual media."
+			},
+			"comment": {
+				"en-us": [
+					"multimedia"
+				]
+			}
+		}
+	]
+}

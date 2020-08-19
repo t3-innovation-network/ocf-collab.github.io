@@ -1,0 +1,926 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+		"name": {
+			"en-us": "O*NET Content Model Worker Characteristics - Abilities: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "Enduring attributes of the individual that influence performance"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyLabel": {
+				"en-us": "Cognitive Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence the acquisition and application of knowledge in problem solving"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Psychomotor Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence the capacity to manipulate and control objects"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Physical Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence strength, endurance, flexibility, balance and coordination"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Sensory Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence visual, auditory and speech perception"
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Verbal Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence the acquisition and application of verbal information in problem solving"
+			},
+			"comment": {
+				"en-us": [
+					"Verbal"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Idea Generation and Reasoning Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence the application and manipulation of information in problem solving"
+			},
+			"comment": {
+				"en-us": [
+					"Ideas and Logic"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Quantitative Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities that influence the solution of problems involving mathematical relationships"
+			},
+			"comment": {
+				"en-us": [
+					"Math"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Memory"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the recall of available information"
+			},
+			"comment": {
+				"en-us": [
+					"Memory"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Perceptual Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the acquisition and organization of visual information"
+			},
+			"comment": {
+				"en-us": [
+					"Visual Understanding"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Spatial Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the manipulation and organization of spatial information"
+			},
+			"comment": {
+				"en-us": [
+					"Spatial"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Attentiveness"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to application of attention"
+			},
+			"comment": {
+				"en-us": [
+					"Attention"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Oral Comprehension"
+			},
+			"competencyText": {
+				"en-us": "The ability to listen to and understand information and ideas presented through spoken words and sentences."
+			},
+			"comment": {
+				"en-us": [
+					"listen and understand what people say"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Written Comprehension"
+			},
+			"competencyText": {
+				"en-us": "The ability to read and understand information and ideas presented in writing."
+			},
+			"comment": {
+				"en-us": [
+					"read and understand what is written"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Oral Expression"
+			},
+			"competencyText": {
+				"en-us": "The ability to communicate information and ideas in speaking so others will understand."
+			},
+			"comment": {
+				"en-us": [
+					"communicate by speaking"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Written Expression"
+			},
+			"competencyText": {
+				"en-us": "The ability to communicate information and ideas in writing so others will understand."
+			},
+			"comment": {
+				"en-us": [
+					"communicate by writing"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Fluency of Ideas"
+			},
+			"competencyText": {
+				"en-us": "The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity)."
+			},
+			"comment": {
+				"en-us": [
+					"come up with lots of ideas"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Originality"
+			},
+			"competencyText": {
+				"en-us": "The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem."
+			},
+			"comment": {
+				"en-us": [
+					"create new and original ideas"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Problem Sensitivity"
+			},
+			"competencyText": {
+				"en-us": "The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem."
+			},
+			"comment": {
+				"en-us": [
+					"notice when problems happen"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Deductive Reasoning"
+			},
+			"competencyText": {
+				"en-us": "The ability to apply general rules to specific problems to produce answers that make sense."
+			},
+			"comment": {
+				"en-us": [
+					"use rules to solve problems"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Inductive Reasoning"
+			},
+			"competencyText": {
+				"en-us": "The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events)."
+			},
+			"comment": {
+				"en-us": [
+					"make general rules or come up with answers from lots of detailed information"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Information Ordering"
+			},
+			"competencyText": {
+				"en-us": "The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations)."
+			},
+			"comment": {
+				"en-us": [
+					"order or arrange things"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Category Flexibility"
+			},
+			"competencyText": {
+				"en-us": "The ability to generate or use different sets of rules for combining or grouping things in different ways."
+			},
+			"comment": {
+				"en-us": [
+					"group things in different ways"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Mathematical Reasoning"
+			},
+			"competencyText": {
+				"en-us": "The ability to choose the right mathematical methods or formulas to solve a problem."
+			},
+			"comment": {
+				"en-us": [
+					"choose the right type of math to solve a problem"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Number Facility"
+			},
+			"competencyText": {
+				"en-us": "The ability to add, subtract, multiply, or divide quickly and correctly."
+			},
+			"comment": {
+				"en-us": [
+					"add, subtract, multiply, or divide"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Memorization"
+			},
+			"competencyText": {
+				"en-us": "The ability to remember information such as words, numbers, pictures, and procedures."
+			},
+			"comment": {
+				"en-us": [
+					"remember words, numbers, pictures, or steps"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Speed of Closure"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly make sense of, combine, and organize information into meaningful patterns."
+			},
+			"comment": {
+				"en-us": [
+					"quickly know what you are looking at"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Flexibility of Closure"
+			},
+			"competencyText": {
+				"en-us": "The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material."
+			},
+			"comment": {
+				"en-us": [
+					"see hidden patterns"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Perceptual Speed"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object."
+			},
+			"comment": {
+				"en-us": [
+					"quickly compare groups of letters, numbers, pictures, or other things"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Spatial Orientation"
+			},
+			"competencyText": {
+				"en-us": "The ability to know your location in relation to the environment or to know where other objects are in relation to you."
+			},
+			"comment": {
+				"en-us": [
+					"know where things are around you"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Visualization"
+			},
+			"competencyText": {
+				"en-us": "The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged."
+			},
+			"comment": {
+				"en-us": [
+					"imagine how something will look after it is moved around or changed"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Selective Attention"
+			},
+			"competencyText": {
+				"en-us": "The ability to concentrate on a task over a period of time without being distracted."
+			},
+			"comment": {
+				"en-us": [
+					"pay attention to something without being distracted"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Time Sharing"
+			},
+			"competencyText": {
+				"en-us": "The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources)."
+			},
+			"comment": {
+				"en-us": [
+					"do two or more things at the same time"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Fine Manipulative Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the manipulation of objects"
+			},
+			"comment": {
+				"en-us": [
+					"Hand and Finger Use"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Control Movement Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the control and manipulation of objects in time and space"
+			},
+			"comment": {
+				"en-us": [
+					"Controlled Movement"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Reaction Time and Speed Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to speed of manipulation of objects"
+			},
+			"comment": {
+				"en-us": [
+					"Reaction Time and Speed"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Arm-Hand Steadiness"
+			},
+			"competencyText": {
+				"en-us": "The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position."
+			},
+			"comment": {
+				"en-us": [
+					"keep your arm or hand steady"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Manual Dexterity"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+			},
+			"comment": {
+				"en-us": [
+					"hold or move items with your hands"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Finger Dexterity"
+			},
+			"competencyText": {
+				"en-us": "The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+			},
+			"comment": {
+				"en-us": [
+					"put together small parts with your fingers"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Control Precision"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions."
+			},
+			"comment": {
+				"en-us": [
+					"quickly change the controls of a machine, car, truck or boat"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Multilimb Coordination"
+			},
+			"competencyText": {
+				"en-us": "The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+			},
+			"comment": {
+				"en-us": [
+					"use your arms and/or legs together while sitting, standing, or lying down"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Response Orientation"
+			},
+			"competencyText": {
+				"en-us": "The ability to choose quickly between two or more movements in response to two or more different signals (lights, sounds, pictures). It includes the speed with which the correct response is started with the hand, foot, or other body part."
+			},
+			"comment": {
+				"en-us": [
+					"quickly decide if you should move your hand, foot, or other body part"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Rate Control"
+			},
+			"competencyText": {
+				"en-us": "The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene."
+			},
+			"comment": {
+				"en-us": [
+					"change when and how fast you move based on how something else is moving"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Reaction Time"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly respond (with the hand, finger, or foot) to a signal (sound, light, picture) when it appears."
+			},
+			"comment": {
+				"en-us": [
+					"quickly move your hand, finger, or foot based on a sound, light, picture or other command"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Wrist-Finger Speed"
+			},
+			"competencyText": {
+				"en-us": "The ability to make fast, simple, repeated movements of the fingers, hands, and wrists."
+			},
+			"comment": {
+				"en-us": [
+					"make fast, simple, repeated movements of your fingers, hands, and wrists"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Speed of Limb Movement"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly move the arms and legs."
+			},
+			"comment": {
+				"en-us": [
+					"quickly move your arms and legs"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Physical Strength Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the capacity to exert force"
+			},
+			"comment": {
+				"en-us": [
+					"Physical Strength"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Endurance"
+			},
+			"competencyText": {
+				"en-us": "The ability to exert oneself physically over long periods without getting out of breath"
+			},
+			"comment": {
+				"en-us": [
+					"Endurance"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Flexibility, Balance, and Coordination"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to the control of gross body movements"
+			},
+			"comment": {
+				"en-us": [
+					"Flexibility, Balance, and Coordination"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Static Strength"
+			},
+			"competencyText": {
+				"en-us": "The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+			},
+			"comment": {
+				"en-us": [
+					"lift, push, pull, or carry"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Explosive Strength"
+			},
+			"competencyText": {
+				"en-us": "The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object."
+			},
+			"comment": {
+				"en-us": [
+					"jump, sprint, or throw something"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Dynamic Strength"
+			},
+			"competencyText": {
+				"en-us": "The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue."
+			},
+			"comment": {
+				"en-us": [
+					"exercise for a long time without your muscles getting tired"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Trunk Strength"
+			},
+			"competencyText": {
+				"en-us": "The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without 'giving out' or fatiguing."
+			},
+			"comment": {
+				"en-us": [
+					"use your lower back and stomach"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Stamina"
+			},
+			"competencyText": {
+				"en-us": "The ability to exert yourself physically over long periods of time without getting winded or out of breath."
+			},
+			"comment": {
+				"en-us": [
+					"exercise for a long time without getting out of breath"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Extent Flexibility"
+			},
+			"competencyText": {
+				"en-us": "The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+			},
+			"comment": {
+				"en-us": [
+					"bend, stretch, twist, or reach with your body, arms, and/or legs"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Dynamic Flexibility"
+			},
+			"competencyText": {
+				"en-us": "The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs."
+			},
+			"comment": {
+				"en-us": [
+					"quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Gross Body Coordination"
+			},
+			"competencyText": {
+				"en-us": "The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion."
+			},
+			"comment": {
+				"en-us": [
+					"move your arms, legs, and mid-section together while your whole body is moving"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Gross Body Equilibrium"
+			},
+			"competencyText": {
+				"en-us": "The ability to keep or regain your body balance or stay upright when in an unstable position."
+			},
+			"comment": {
+				"en-us": [
+					"keep your balance or stay upright"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Visual Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to visual sensory input"
+			},
+			"comment": {
+				"en-us": [
+					"Vision"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Auditory and Speech Abilities"
+			},
+			"competencyText": {
+				"en-us": "Abilities related to auditory and oral input"
+			},
+			"comment": {
+				"en-us": [
+					"Hearing and Speech"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Near Vision"
+			},
+			"competencyText": {
+				"en-us": "The ability to see details at close range (within a few feet of the observer)."
+			},
+			"comment": {
+				"en-us": [
+					"see details up close"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Far Vision"
+			},
+			"competencyText": {
+				"en-us": "The ability to see details at a distance."
+			},
+			"comment": {
+				"en-us": [
+					"see details that are far away"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Visual Color Discrimination"
+			},
+			"competencyText": {
+				"en-us": "The ability to match or detect differences between colors, including shades of color and brightness."
+			},
+			"comment": {
+				"en-us": [
+					"notice the difference between colors, including shades and brightness"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Night Vision"
+			},
+			"competencyText": {
+				"en-us": "The ability to see under low light conditions."
+			},
+			"comment": {
+				"en-us": [
+					"see at night or under low light"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Peripheral Vision"
+			},
+			"competencyText": {
+				"en-us": "The ability to see objects or movement of objects to one's side when the eyes are looking ahead."
+			},
+			"comment": {
+				"en-us": [
+					"see something to your side when your are looking ahead"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Depth Perception"
+			},
+			"competencyText": {
+				"en-us": "The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object."
+			},
+			"comment": {
+				"en-us": [
+					"decide which thing is closer or farther away from you or decide how far away it is from you"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Glare Sensitivity"
+			},
+			"competencyText": {
+				"en-us": "The ability to see objects in the presence of glare or bright lighting."
+			},
+			"comment": {
+				"en-us": [
+					"see something even if there is a glare or very bright light"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Hearing Sensitivity"
+			},
+			"competencyText": {
+				"en-us": "The ability to detect or tell the differences between sounds that vary in pitch and loudness."
+			},
+			"comment": {
+				"en-us": [
+					"tell the difference between sounds"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Auditory Attention"
+			},
+			"competencyText": {
+				"en-us": "The ability to focus on a single source of sound in the presence of other distracting sounds."
+			},
+			"comment": {
+				"en-us": [
+					"pay attention to one sound while there are other distracting sounds"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Sound Localization"
+			},
+			"competencyText": {
+				"en-us": "The ability to tell the direction from which a sound originated."
+			},
+			"comment": {
+				"en-us": [
+					"notice the direction from where a sound came from"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Speech Recognition"
+			},
+			"competencyText": {
+				"en-us": "The ability to identify and understand the speech of another person."
+			},
+			"comment": {
+				"en-us": [
+					"recognize spoken words"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Speech Clarity"
+			},
+			"competencyText": {
+				"en-us": "The ability to speak clearly so others can understand you."
+			},
+			"comment": {
+				"en-us": [
+					"speak clearly"
+				]
+			}
+		}
+	]
+}

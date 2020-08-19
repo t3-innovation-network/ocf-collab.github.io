@@ -1,0 +1,413 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+		"name": {
+			"en-us": "O*NET Content Model Worker Requirements - Cross-Functional Skills: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "Developed capacities that facilitate performance of activities that occur across jobs"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyLabel": {
+				"en-us": "Social Skills"
+			},
+			"competencyText": {
+				"en-us": "Developed capacities used to work with people to achieve goals"
+			},
+			"comment": {
+				"en-us": [
+					"Social"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Complex Problem Solving Skills"
+			},
+			"competencyText": {
+				"en-us": "Developed capacities used to solve novel, ill-defined problems in complex, real-world settings"
+			},
+			"comment": {
+				"en-us": [
+					"Problem Solving"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Technical Skills"
+			},
+			"competencyText": {
+				"en-us": "Developed capacities used to design, set-up, operate, and correct malfunctions involving application of machines or technological systems"
+			},
+			"comment": {
+				"en-us": [
+					"Technical"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Systems Skills"
+			},
+			"competencyText": {
+				"en-us": "Developed capacities used to understand, monitor, and improve socio-technical systems"
+			},
+			"comment": {
+				"en-us": [
+					"People and Technology Systems"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Resource Management Skills"
+			},
+			"competencyText": {
+				"en-us": "Developed capacities used to allocate resources efficiently"
+			},
+			"comment": {
+				"en-us": [
+					"Resource Management"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Social Perceptiveness"
+			},
+			"competencyText": {
+				"en-us": "Being aware of others' reactions and understanding why they react as they do."
+			},
+			"comment": {
+				"en-us": [
+					"understanding people's reactions"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Coordination"
+			},
+			"competencyText": {
+				"en-us": "Adjusting actions in relation to others' actions."
+			},
+			"comment": {
+				"en-us": [
+					"changing what is done based on other people's actions"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Persuasion"
+			},
+			"competencyText": {
+				"en-us": "Persuading others to change their minds or behavior."
+			},
+			"comment": {
+				"en-us": [
+					"talking people into changing their minds or their behavior"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Negotiation"
+			},
+			"competencyText": {
+				"en-us": "Bringing others together and trying to reconcile differences."
+			},
+			"comment": {
+				"en-us": [
+					"bringing people together to solve differences"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Instructing"
+			},
+			"competencyText": {
+				"en-us": "Teaching others how to do something."
+			},
+			"comment": {
+				"en-us": [
+					"teaching people how to do something"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Service Orientation"
+			},
+			"competencyText": {
+				"en-us": "Actively looking for ways to help people."
+			},
+			"comment": {
+				"en-us": [
+					"looking for ways to help people"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Complex Problem Solving"
+			},
+			"competencyText": {
+				"en-us": "Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions."
+			},
+			"comment": {
+				"en-us": [
+					"noticing a problem and figuring out the best way to solve it"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Operations Analysis"
+			},
+			"competencyText": {
+				"en-us": "Analyzing needs and product requirements to create a design."
+			},
+			"comment": {
+				"en-us": [
+					"figuring out what a product or service needs to be able to do"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Technology Design"
+			},
+			"competencyText": {
+				"en-us": "Generating or adapting equipment and technology to serve user needs."
+			},
+			"comment": {
+				"en-us": [
+					"making equipment and technology useful for customers"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Equipment Selection"
+			},
+			"competencyText": {
+				"en-us": "Determining the kind of tools and equipment needed to do a job."
+			},
+			"comment": {
+				"en-us": [
+					"deciding what kind of tools and equipment are needed to do a job"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Installation"
+			},
+			"competencyText": {
+				"en-us": "Installing equipment, machines, wiring, or programs to meet specifications."
+			},
+			"comment": {
+				"en-us": [
+					"installing equipment, machines, wiring, or computer programs"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Programming"
+			},
+			"competencyText": {
+				"en-us": "Writing computer programs for various purposes."
+			},
+			"comment": {
+				"en-us": [
+					"writing computer programs"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Operation Monitoring"
+			},
+			"competencyText": {
+				"en-us": "Watching gauges, dials, or other indicators to make sure a machine is working properly."
+			},
+			"comment": {
+				"en-us": [
+					"watching gauges, dials, or display screens to make sure a machine is working"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Operation and Control"
+			},
+			"competencyText": {
+				"en-us": "Controlling operations of equipment or systems."
+			},
+			"comment": {
+				"en-us": [
+					"using equipment or systems"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Equipment Maintenance"
+			},
+			"competencyText": {
+				"en-us": "Performing routine maintenance on equipment and determining when and what kind of maintenance is needed."
+			},
+			"comment": {
+				"en-us": [
+					"planning and doing the basic maintenance on equipment"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Troubleshooting"
+			},
+			"competencyText": {
+				"en-us": "Determining causes of operating errors and deciding what to do about it."
+			},
+			"comment": {
+				"en-us": [
+					"figuring out what is causing equipment, machines, wiring, or computer programs to not work"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Repairing"
+			},
+			"competencyText": {
+				"en-us": "Repairing machines or systems using the needed tools."
+			},
+			"comment": {
+				"en-us": [
+					"repairing machines or systems using the right tools"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Quality Control Analysis"
+			},
+			"competencyText": {
+				"en-us": "Conducting tests and inspections of products, services, or processes to evaluate quality or performance."
+			},
+			"comment": {
+				"en-us": [
+					"testing how well a product or service works"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Judgment and Decision Making"
+			},
+			"competencyText": {
+				"en-us": "Considering the relative costs and benefits of potential actions to choose the most appropriate one."
+			},
+			"comment": {
+				"en-us": [
+					"thinking about the pros and cons of different options and picking the best one"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Systems Analysis"
+			},
+			"competencyText": {
+				"en-us": "Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes."
+			},
+			"comment": {
+				"en-us": [
+					"figuring out how a system should work and how changes in the future will affect it"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Systems Evaluation"
+			},
+			"competencyText": {
+				"en-us": "Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+			},
+			"comment": {
+				"en-us": [
+					"measuring how well a system is working and how to improve it"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Time Management"
+			},
+			"competencyText": {
+				"en-us": "Managing one's own time and the time of others."
+			},
+			"comment": {
+				"en-us": [
+					"managing your time and the time of other people"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Management of Financial Resources"
+			},
+			"competencyText": {
+				"en-us": "Determining how money will be spent to get the work done, and accounting for these expenditures."
+			},
+			"comment": {
+				"en-us": [
+					"making spending decisions and keeping track of what is spent"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Management of Material Resources"
+			},
+			"competencyText": {
+				"en-us": "Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work."
+			},
+			"comment": {
+				"en-us": [
+					"managing equipment and materials"
+				]
+			}
+		},
+		{
+			"competencyLabel": {
+				"en-us": "Management of Personnel Resources"
+			},
+			"competencyText": {
+				"en-us": "Motivating, developing, and directing people as they work, identifying the best people for the job."
+			},
+			"comment": {
+				"en-us": [
+					"selecting and managing the best workers for a job"
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,2478 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-6e0530c7-9495-4d4c-b030-cb196871b3f8",
+		"name": {
+			"en-us": "Certified Construction Manager (CCM) Exam Outline of Competencies"
+		},
+		"description": {
+			"en-us": "Construction Management Association of America (CMAA) core competencies for construction management (Certified Construction Manager (CCM))"
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Project Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Definitions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agency CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Beneficial Occupancy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bulletin"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Changes Conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change Order"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Constructibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Management Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Path Method"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct Costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fast Track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Force Account"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Multiple Prime Contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Phased Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Procedures Manual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule of Values"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scope Changes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Substantial Completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supplementary Conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Construction Management Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The purpose and content of the CM Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stating measurable objectives for the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methods and standards of measure commonly used to describe projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Qualitative/performance criteria essential to describe projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting and prioritizing pertinent reference documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Summarizing detailed project data for team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding relationships between project control systems, procedures and tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of project organization, decision and authority structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding organizational structures of other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the roles and responsibilities of project team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using the “responsibility matrix” to communicate lines of responsibility and authority"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site use planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of construction sequences and operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Components required for site mobilization/use over project duration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying unique site conditions which may impact construction operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alternative or prescriptive sequences to optimize site utilization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract administration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the contractual relationships of team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications of basic contracting/procurement strategies:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Single Prime/Multiple Prime"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lump Sum/Cost Plus/Guaranteed Maximum Price"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Build"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fast Track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Phased Purchase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Long Lead Procurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Owner Assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying and resolving conflicts duplications or omissions in contractual responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing contract administration and documentation procedures specific to project needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyzing contracting strategies to meet project cost and schedule goals within legal constraints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantifying the risks and benefits of alternate contracting strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the elements of project design and construction likely to give rise to disputes or claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General liability risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Special liability risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applying principles and techniques of risk management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Available alternative dispute resolution options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applicable laws and standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Project Procedures Manual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose and contents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Level of detail appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project funding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing information required to support owner’s funding requirements (cash flow, budgets, estimates, schedules, program definitions, project descriptions, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Professional Selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design resources required to meet specific project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic tasks and responsibilities of design professionals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining criteria for qualifications and experience of design professionals in relation to the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic contracting strategies for design professional services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding design professional contract standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic service vs. extra services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The design professional Request for Qualifications/Proposals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyzing the fee proposal and distribution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Contract Documents Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responsibilities of the parties to a contract"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic forms of agreement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic content requirements of a complete set of contract documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sources of risk arising out of design and construction processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sources of design efforts and omissions and construction deficiencies leading to construction problems and disputes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand degree to which risk can be managed, shifted or insured via construction documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance requirements and options developed by the owner for the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of basic building materials, systems and construction techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information required for proper coordination of construction processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding how sequences of construction relate to drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding how drawings and various levels of detail or integrated to create a complete depiction of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement of Construction Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public relations—means of reaching potential bidders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assessing bidding climates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirements for selection of pre-qualified bidders for bid advertisement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assessing and evaluating bidder qualifications relative to project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding basic content required of contract general conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Addressing risk management issues in contractor’s pre-award meetings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining expected outcomes of the information management system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data requirements to meet reporting goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Client expectations and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Appropriate levels of detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribution of reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedures for information plan revisions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Providing timely flow of information to the project team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Overall status and forecast of outcome vs. estimate plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding design report formats"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding cost/benefit analyses of various information systems levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedures for retrieval and processing of information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing appropriate public relations information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand real/perceived impacts of project on the community"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project and Construction Budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conceptual budgeting methods, components and factors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpreting conceptual budgets provided by the owner and assessing impacts on the project cost management plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrating the owner's conceptual budget into the overall cost management plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development of a project/construction budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project and owner objectives and cost constraints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement strategies, resource availability, productivity and other factors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site, market, environmental, contingency, escalation and other conditions impacting budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost Management System"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the purpose and objectives of a cost management system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilizing available resources to develop, coordinate and implement the system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the concept of cost planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need for and utilization of project feasibility studies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using cost models to monitor cost during progress of design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cash flow needs and availability based o the project progress schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing a compatible cash flow schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of external economic factors on project cost"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methods of project funding and how they impact project cost and schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection estimating techniques appropriate to the project and its phases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying factors for conceptual estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Significance and validity of parameters for cost estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concept of range estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship of a quantity survey-based cost estimate to procurement strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications of quantity surveys to cost estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost Compliance Monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the objectives of the cot management plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing and implementing a cost monitoring and compliance system utilizing available resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying cost monitoring methods and frequency of updating, cost tracking and reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Phase Cost Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimating the cost and budget impact of design elements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating design detail and changes and estimating their cost impact on the budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing effective value analysis program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alternate systems, methods, components and materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade off factors in terms of first vs. lifetime cost, availability, time of delivery, esthetics, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Phase Cost Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying cost monitoring and management procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding risks of project budgeting and cost analysis efforts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying, developing and implementing an effective schedule o values for prompt and equitable payment requests evaluation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying, developing and implementing an integrated cost-loaded schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing and implementing and effective change order control and evaluation system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Factors governing cost changes during construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying, developing and implementing an effective procedure for controlling, analyzing and evaluating cost of potential claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilization of man-hour/cost forecasting productivity studies, impact analysis, efficiency losses, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bid preparation and review and contract awards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracting procedures and types; advantages and constraints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interactions and relationships among project development team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responsibilities and management structure of project management team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management System"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship between project requirements and scheduling requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding costs of implementing various scheduling systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding how schedule types are developed and utilized"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common scheduling terms:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Float, fragnet, activity, loop precedence, time-scaled network, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determining appropriate level of detail for each type of schedule and project phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications of a cost-loaded schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of bar graphs and CPM schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Costs and benefits of manually prepared and computer generated schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Available computer programs for scheduling and their applications on various types and sizes of projects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection and sorting of activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilization of reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Frequency of progress reporting as it relates to project type and phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphic approaches to progress reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Summarizing schedule reports information into the project narrative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specifying report format (manual and computer generated) at the appropriate level for project participants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pre-Design Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application of resources to the project schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification of project milestones"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule calculations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forward and backward pass"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determining the critical path for a simple network"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Early/late dates and float values for activities in a network"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating progress on activities and determining relative percentages for work progress"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Phase Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Difference between \"statusing the schedule for progress\" (updating) and revising the schedule to reflect changes that have or will occur"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing schedule revisions and assessing and minimizing impact on project dates and costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Phase Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding when a recovery schedule should be required during the course of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The relationship of the recovery schedule to the base project schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determining the appropriate period of schedule recovery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types and uses of forms of recovery schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule impact of suspension of work, concurrent delays, compensable and non-compensable delays"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time impact analysis using as-planned, as-adjusted and as-built schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Float—its use and legal implications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparation and use of change order fragnet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining procedures for management of schedules to avoid risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of change orders on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipating potential claims for time extensions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using the schedule to evaluate and mitigate potential claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Being “claims conscious”"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding risks of management of schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding how the reporting and document control system interacts with the change order process extensions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract Administration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Contract Format"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating a project to determine the appropriate delivery technique(s)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding risk sharing methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the roles and responsibilities of the parties under each delivery technique"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining advantages and disadvantages of each delivery technique"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Phase Contract Administration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding design processes and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Importance of team member communication and interaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the project milestone schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining design phase milestones, tasks and responsibilities of team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding design requirements at various design milestones (concept, schematic, design development etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the requirements for different types of design reviews (program, technical, constructibility, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project legal requirements relative to proprietary specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documenting results of design reviews and communicating same to team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Procurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding construction contracting delivery methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bid packaging concepts and bid package interface requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bid packaging related to project needs and market conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disputes avoidance procedures and team building (partnering) concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing a construction contract procurement plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading and understanding contract documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market survey techniques and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor pre-qualification techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing a project advertisement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding bid process protocol"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bidding regulations in the public sector"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Importance of consistency in the bid process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bid and performance guarantees, such as bid and performance bonds, letters of credit, etc..."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining bid package scope and cost"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding project needs in terms of the bidding process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Negotiation procedures relative to determining bidder understanding of scope of requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor needs relative to bidding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing procedures for conducting bid evaluations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing recommendations for contract awards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract Document Preparation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contract provisions, general conditions and special conditions and their interaction and precedence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applicable provisions for tax exempt status, wage rates (Davis Bacon), and minority participation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project and jurisdiction permit, insurance and labor requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specification requirements of the contract, including inspections required during manufacture and at delivery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining documentation requirements for al aspects of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Phase Contract Administration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction contract methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fixed price contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fixed fee plus cost contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guaranteed maximum price contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Negotiated contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time and material contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing a checklist for contract deliverables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitoring contractor compliance with contract requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation requirements for all aspects of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining a system for contract documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project communications portion of the Project Procedures Manual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose of and interaction between contract document requests for information, owner directives, submittals, changes orders, periodic contract reports, photographs, payment requests, and related documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding team members’ responsibilities relative to the submittal process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the flow process for all submittals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining a contract change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirements relative to as-built drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the process for as-built review and approval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirements for shop drawings, coordination drawings, change orders, field orders, requests for information, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specification requirements of the contract, including inspections required during manufacture and at delivery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor’s procurement, expediting, delivery and installation processes relative to material and equipment furnished by contractor or owner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining contractors’ responsibility for quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Criteria for quality in construction and understanding when criteria are not being met"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corrective procedures for deficient and non-conforming work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Closeout"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationships among and responsibilities of team members relative to project acceptance and closeout"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing the process and documentation required during the acceptance and closeout process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing and administering punch lists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding guarantees, warranties, and punchlist requirement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Processes for inspection and correction of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining team member responsibilities and timing for inspection and correction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Roles of sureties and regulatory agencies in closeout and acceptance process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirement for submission, collection and assembly of operating and maintenance information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand contract requirements relative to record documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project requirements for permanent retention of project files and submittals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal requirements for retention of project files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation requirements for turnover"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing a tracking procedure for all closeout items"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Items which require finalization, such as changes, claims, training, punchlist, guarantees/warranties, certification of substantial completion, final lien waivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Issue resolution process pertaining to open changes and claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirements for operational training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and documentation of training performed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project requirements to be completed prior to final payment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding project accounting records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupancy/start-up requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional Practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing the Quality Management Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose and content of the Quality Management Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elements that comprise the quality management portion of a project budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining client/owner/user objectives and goals and incorporating them into the Quality Management Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stating measurable quality objectives for the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguishing quality management systems and their applicability to different contracting methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the interrelationships between basic project systems, procedures, and task elements and their relationship to quality management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrating contract drawings, specifications, general and special provisions, codes, submittals, changes and applicable regulations into quality management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer software available for project, cost, and schedule management and estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding how the Quality Management Plan integrates into other project plans and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting the Project Team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the selection process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining measurable (qualifications) data for selecting project participants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design Phase Quality Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requirements for design reviews: program, technical, constructibility, etc..."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding the purpose of a constructibility review"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying construction elements which affect the quality of the work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating bid submittals with regard to quality requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Phase Quality Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conformance of work to contract documents and applicable codes and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding which items of work require inspection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship to the overall project quality of:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Periodic monitoring, observation and inspection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementation of a project documentation procedure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Management of change order procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management during the construction phase"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitoring of project safety plans and implementation of safety plans for CM’s own employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responsibility of contractors for safety of contractors’ employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assigning responsibility for managing claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field Inspection Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and capabilities of construction materials used"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection reports and assessing their impact on the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating the inspection capabilities of inspection services companies and staff"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Quality Control Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose and content of the Construction Quality Control Plan (CQC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Acceptance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding which materials require testing on the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluating capabilities of material testing companies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing minimum or maximum criteria for materials to be tested"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determining applicable codes and regulations pertinent to materials being tested"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material testing reports and assessing their impact on the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General use and capabilities of materials used in construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material performance and its relationship to project quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing corrective procedures for deficient and on-conforming work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Management Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality control document retrieval and archival"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying quality management data requiring tracking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedures for communicating quality management data to other project parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Construction Manager as a Professional"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM’s role and responsibilities as a professional and leader"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Historical Evolution of CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Early construction management projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evolution of CM in the public sector"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problems encountered at the Federal level"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of associations in the development of CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Construction Management Association of America (CMAA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishment of standards of professional practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard forms of agreement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Certification of the Construction Manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics of Professional Practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics as a marketing issue"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics as a project delivery issue"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Delivery Methods for Construction Projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Factors impacting the project delivery function"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traditional approached to project delivery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracting options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advantages and disadvantages of the traditional system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design-Build as a delivery system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advantages and disadvantages of the design/build approach"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Management as a delivery system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Definitions of CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forms of Construction Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Placing CM on the agency at risk spectrum"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal relationships between owner and CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fiduciary responsibility and the potential conflict of interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defining the CM standard of care"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creating and maintaining the owner-CM relationship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forms of CM contract"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM as an agent of the owner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pure Agent"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ACM-Single Prime"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ACM-Multi Prime"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guaranteed Maximum Price CM (GMP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM as an independent contractor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dual Services CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Extended Services CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement and Compensation of Professional CM Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Owner selection of the project team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determining the project delivery system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Criteria for the project team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection of the Construction Manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM professional services contract issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard form versus specially developed contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal and other review processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public sector procurement of CM services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM compensation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic CM fee structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fixed fee"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fixed fee plus costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Percentage of constructions costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost reimbursement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guaranteed Maximum Price (GMP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General condition items"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consultant Agreements in CM Practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relationship of agreements to the project delivery process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM consulting agreements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CMAA and AIA approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CMAA standard form contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responsibilities defined by the Agency CM Series"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leadership role of the CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Conditions for Agency CM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responsibilities defined by the GMP CM Series"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal Obligations of the Construction Manager"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional practice liabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design defects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost estimates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Coordination"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor payment applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CM Third-Party liability issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor claims for project coordination and scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal injury claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employment practices and labor relations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employment discrimination laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Civil Rights Act of the 1964 Title VII"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "American with Disabilities Act of 1990"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Age Discrimination in Employment Act of 1967"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equal pay Act of 1963"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Civil Rights Acts of 1866 and 1871"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Immigration Reform and Control Act of 1986"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Jobsite labor disputes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drug and alcohol abuse in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal compensation law"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fair Labor Standards Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Davis-Bacon Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Service Contract Labor Standards Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Parental and family rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Family and Medical Leave Act of 1993"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employee privacy and statutory individual rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Environmental Projection Agency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CERCLA/Superfund"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource Conservation and Recovery Act (RCRA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Air Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean Water Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Environmental Policy Act of 1969"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Toxic Substances Control Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sources of Safety Liability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractual services and the CM’s duty to injured workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actions of the CM and the duty t injured workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Liability imposed by statute"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State-level safety legislation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Occupational Safety and health Act (OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Immunity and Indemnity from Safety Risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance coverage for safety-related claims"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applicability of Workers’ Compensation Laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Indemnification for safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purpose of pre-qualifying contractors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor’s OSHA 200 form"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand incident, frequency, and severity rates for comparison with national averages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Importance of the contractor’s Experience Modification Rate (EMR)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Safety Manual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic components of a Safety Program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review of contractor jobsite safety programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Emergency Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordination of police, fire, rescue, and emergency medical services prior to beginning construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor’s Safety Program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Need to avoid assumption of other parties’ safety responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risks associated with on-site safety and the respective roles and responsibilities of on-site employers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of labor and safety participation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety coordination among contractors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Job hazard analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contractor and CM safety training requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety enforcement responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Project Safety Committee"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocating Risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk identification and assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk allocation principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance for CM Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common project risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of insurance coverage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance requirements for projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alternative Forms of dispute Resolution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arbitration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mediation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mini-Trial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dispute Review Board"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mediation/Arbitration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Partnering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Definition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Benefits to the parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process of partnering"
+			}
+		}
+	]
+}

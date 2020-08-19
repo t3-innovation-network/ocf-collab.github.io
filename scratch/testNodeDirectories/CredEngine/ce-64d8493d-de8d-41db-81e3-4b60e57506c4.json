@@ -1,0 +1,2739 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-64d8493d-de8d-41db-81e3-4b60e57506c4",
+		"name": {
+			"en-us": "Enterprise Security Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Employment and Training Administration (ETA) collaborated with technical and subject matter experts from education, business, and industry to develop a comprehensive competency model for the Enterprise Security Industry. The model is designed as a resource supporting workforce development efforts to prepare the security workers that fulfill critical roles in the protection of national and global economies, providing a multitude of career opportunities ranging from managers and directors of enterprise security to intelligence analysts and chief security officers with major multinational corporations.\n\nThe Apollo Education Group and University of Phoenix developed the model and validated it in partnership with the ASIS Foundation. The ASIS International Chief Security Officer (CSO) Roundtable Leadership and Development Committee provided input and conducted with Apollo Education Group and the ASIS Foundation a series of validation sessions that included international delegates, subject matter experts and sessions with Bridge School of Management in New Delhi, India. The ASIS Foundation will continue to ensure that the model evolves to accommodate changing skill requirements."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"enterprise security",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills and Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with others from diverse backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating concern for others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sincere interest in others and their concerns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity to the needs and feelings of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Look for ways to help others and deliver assistance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating insight into behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately interpret the verbal and nonverbal behavior of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight into the actions and motives of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when relationships with others are strained"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining open communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to share problems and successes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respecting diversity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity and respect for the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value diversity of people and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with a wide range of people with flexibility and open-mindedness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to and consider others’ viewpoints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work well and develop effective relationships with diverse personalities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by a strict code of ethics and behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose an ethical course of action and do the right thing, even in the face of opposition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to behave accordingly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting fairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make decisions that are objective and reflect the just treatment of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes, or for not accomplishing those goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility/accountability for one’s decisions and actions and for those of one’s group, team or department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand that past behavior may affect one’s ability to obtain occupation or meet occupational requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attempt to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and keeping emotions in check"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal calmly and effectively with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a professional demeanor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupation and its requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wear appropriate identification, as required"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from lifestyle choices which negatively impact the workplace and individual performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be prepared to represent your organization and effort"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a positive image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and keeping emotions in check"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal calmly and effectively with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a professional demeanor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupation and its requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wear appropriate identification, as required"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from lifestyle choices which negatively impact the workplace and individual performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be prepared to represent your organization and effort"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a positive image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ability to deal with difficult people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a positive image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the capability to adapt to new, different, or changing requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employing unique analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unique analyses and generate valuable, innovative ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate related and seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using information or resources when needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remain open to considering new ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seek out and carefully consider the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace new approaches when appropriate and discard approaches that are no longer working"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dealing with ambiguity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take appropriate action without having all facts or permissions, when necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change plans, goals, action, or priorities in response to changing, unpredictable, or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently and predictably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations reliably, responsibly, and dependably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently follow through on commitments and consistently meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate regular and punctual attendance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand team or organizational goals, efforts, and requirements sufficiently to be able to assess and understand the purpose and appropriateness of detail work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Check work to ensure that all essential details have been considered"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice errors or inconsistencies that others have missed, and take prompt, thorough action to correct errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complying with policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve uncertainties with rules, policies, and procedures to assure compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback from multiple sources about how to improve, develop, and modify behavior based on feedback and/or self-analysis of past mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to develop and maintain the knowledge, skills, and expertise necessary to perform one’s role successfully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate fully in relevant training and professional development programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through technical expositions, seminars, professional groups, reading publications, job shadowing, certification and continuing education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipating changes in work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make insightful career planning decisions based on integration and consideration of others’ feedback, and seek out additional training to pursue career goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Understands and can apply basic security principles to the security of the enterprise or a specific structure, system or process."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan, organize, direct and manage the organization’s security program to avoid/control losses and apply the process to provide a secure work environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, manage, or conduct threat/vulnerability analyses to determine the probable frequency and severity of natural and man-made disasters, criminal activity, counterproductive and risk behaviors and risk categories on the organizations profitability, function, safety, and or ability to deliver products/services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate methods to improve security and loss prevention and information loss prevention systems on a continuous basis through auditing, review and assessment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and present employee security awareness programs to achieve organizational goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conducts pre-employment background screening for the unit, organization, operation or enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Foundations:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and manage budget and financial controls to achieve fiscal responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, implement, and manage policies, procedures, plans and directives to achieve organizational objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop procedures/techniques to measure and improve organizational productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, implement, and manage staffing, leadership, training, and management programs in order to achieve organizational objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor and ensure a sound ethical climate in accordance with the laws and the organization’s directives and standards to support and promote proper enterprise practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess sufficient logic, inductive, and deductive reasoning ability to perform job successfully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically review, analyze, synthesize, compare, and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant and/or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the principles underlying the relationship among facts and apply this understanding when solving problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be able to differentiate between fact and opinion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be able to effectively and efficiently present logic, reasoning, and analysis to others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly understand, orient to, and learn new assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shift gears and change direction when working on multiple projects or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying, and communicating in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledge feelings and concerns of communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate clearly and confidently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Track listener responses and react appropriately to those responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "When possible, effectively use eye contact and non-verbal expression"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Two-way communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice meaningful two-way communication (i.e., communicate clearly, pay close attention and seek to understand others, and clarify information)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be able to demonstrate good listening by summarizing or repeating communication back to other speakers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "As appropriate, effectively use eye contact, posture, and other nonverbal cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be able to effectively answer questions of others or communicate an inability to do so and suggest other sources of answers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gain commitment and ensure support for proposed ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading & Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents.  Using standard English to compile information and prepare written reports."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, and directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attain meaning and comprehend core ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn definitions of unfamiliar terms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically evaluate and analyze information in written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate and synthesize information from multiple written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify main ideas, implied meaning and details, missing information, biases, differing perspectives, sources, and reliability of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Note details, facts, and inconsistencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate what is learned from written materials with prior knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to follow instructions and complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to future situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare reports that are easy to understand using proper terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages, and other written information which may contain technical material, in a logical, organized, efficient, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas that are well developed with supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write legibly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proof read finished documents for errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribute written materials appropriately for intended audiences and purposes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in a manner appropriate for the industry and organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use language appropriate for the target audience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate tone and word choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "STEM Literacy (Science, Technology, Engineering, Mathematics):"
+			},
+			"comment": {
+				"en-us": [
+					"Understand and apply science, technology, engineering and mathematics to work within individual roles and responsibilities and in collaborating with allied workers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Method"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific method (identify problems, collect information, form and validate hypotheses, draw conclusions) and apply basic scientific research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply the scientific method to testing, measuring, and troubleshooting security functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Investigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate scientific constructs including: conclusions, conflicting data, controls, data, inferences, limitations, questions, sources of errors, and variables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic scientific principles to work-related responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technological"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance and Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Using technology tools such as software, computers, communication devices and related applications to input, retrieve, monitor, measure and communicate information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand terminology and demonstrate familiarity with the function and capabilities of common computer, software, information and communication technology devices, communication systems, information systems, components, and concepts, including wired and wireless telephones, wearable computing, audio conferences, videoconferences and online collaboration tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and efficiently use common computer hardware (e.g., desktops, laptops, tablets, PC components, cabling, wearable computing), software (e.g., operating systems, applications, communication, collaboration and productivity software) and communication devices (e.g., telephony, wireless devices, network and wireless systems) to perform tasks and communicate effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing applications to compose, organize, and edit simple documents and other business communications, and produce accurate outputs to print or share electronically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard formulas and functions, format and modify content, and demonstrate competence in creating and formatting spreadsheets, graphs, or charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet, database, and presentation software both independently and in an integrated fashion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use audio and video recording equipment and software to produce digital audio and video records and communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage file storage: use functions to store, retrieve, and sort documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand social media and their appropriate workplace uses and risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define:"
+			},
+			"comment": {
+				"en-us": [
+					"Be able to define a problem that needs information in order to be solve"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access:"
+			},
+			"comment": {
+				"en-us": [
+					"Search, find and retrieve appropriate information relative to the task"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply an organizational or classification system to organize retrieved information"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate:"
+			},
+			"comment": {
+				"en-us": [
+					"Be able to judge the quality, relevance, usefulness, efficiency, and adequacy of information and information sources for the defined purpose (including the authority, bias and timelines of information)"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate:"
+			},
+			"comment": {
+				"en-us": [
+					"Interpret and represent data and information gathered, using quality management tools to organize, compare, contrast, summarize and synthesize information from multiple sources"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create:"
+			},
+			"comment": {
+				"en-us": [
+					"Adapt, apply, design or author information resulting from the research that describes the research and its analysis and findings, facilitates decision-making, and develops conclusions and recommendations"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate:"
+			},
+			"comment": {
+				"en-us": [
+					"Communicate that research and its findings effectively and efficiently in person and through written, visual, and digital media in a way that is appropriate for the intended audience"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand new and emerging technologies that present solutions and risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate skill in applying and incorporating technologies into proposed solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand industry indicators useful for identifying technology trends and applications that can be applied to enhance the security of an enterprise, division or function of a group, asset or person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering:"
+			},
+			"comment": {
+				"en-us": [
+					"Using applications of scientific, economic, social and practical knowledge in order to enhance, design, plan and inspect the security of systems, processes and the physical structures."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, Application and Integration of Physical Security Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the basics of systems engineering, IT fundamentals, communications systems basics to help bridge the gaps across disciplines, facilitation security integrations in designs and avoid engineering re-designs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish security system requirements and performance specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands security legislative and regulatory functions and their impact on the design and construction physical structures, systems and processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies physical security measures and select appropriate system components."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to clearly and effectively communicate with corporate managers, end customers and engineers from other departments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and documents system design and pre-implementation plans."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies problems or opportunity to enhance security through the collection and analysis of data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Helps determine the specifications for the solution and develops conceptual design for facilities security, systems and processes, collaborates with others to reach consensus, and issues opinions for security designs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reviews, evaluates and implements new technologies that support best practices in areas that include, but are not limited to compliance, work management, outage restoration, and the planning and scheduling of work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses logical thought processes to analyze information and draw conclusions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies inconsistent or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically reviews, analyzes, synthesizes, compares and interprets information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tests possible hypotheses to ensure the security infrastructure, process or system is correctly analyzed or problems are properly diagnosed and the best solution is found"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines project requirements and estimates resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conducts economic analyses to determine optimum plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creates an effective project plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create milestones"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates project constraints and creates alternative plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitors project status against the plan and reports on the results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides input for requests for proposal (RFP’s) and assists in the analysis of responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides input into the preparation of contracts and participates in the negotiation of revisions, changes and additions to contractual agreements with consultants, clients, suppliers and subcontractors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acts independently on technical matters in the assigned field of expertise and recommends approval of professional services, materials & construction procurement contracts as related to the security of physical structures, processes and systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to express ideas, implement metrics, create fiscal projections and solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and write numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Count and place numbers in sequence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand relationships between numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percentages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions and fractions to decimals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert fractions to percentages and percentages to fractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take and understand measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly, including units of measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert from one measurement to another (e.g., from English to metric or International System of Units (SI), or Fahrenheit to Celsius)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform basic math computations accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate mathematical formulas and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledging team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the roles of each team member"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show loyalty to the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine when to be a leader and when to be a follower depending on what is needed to achieve the team’s goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to express their ideas and opinions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw upon team members’ strengths and weaknesses to achieve results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit tact and diplomacy and strive to build consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sensitivity to the thoughts and opinions of other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non- accusatory manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cooperate with others and contribute to the group’s effort"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying with the team and its goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the goals, norms, values, and customs of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a group approach to identify problems and develop solutions based on group consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate on virtual teams and use tools for virtual collaboration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolving conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring others together to reconcile differences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work concurrently on several tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion and develop contingency plans to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes necessary corrective action when projects go off-track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply lessons learned from previous tasks to more efficiently execute current tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocating resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine personnel and other resources required for achieving project deliverables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively and coordinate efforts with all affected parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, communicate, and implement a plan for a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a timeline for sequencing the activities of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of time, resources, assignments, and deliverables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles and develop contingency plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document plans, assignments, changes, and deliverables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and plan for dependencies (e.g., step A must be completed before step B)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage activities to meet plans and adjust plans and communicate changes as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in effective time management to keep multiple tasks moving forward"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innovative Strategic Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating innovative and creative solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unique analyses and generate new, innovative ideas in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities to develop unique approaches and useful solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out and entertain diverse perspectives, including those from other fields and roles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and possess a big picture view of the situation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate innovative thinking by using new and existing technology in new ways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways to add value to the efforts of a team and organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making :"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the true nature of the problem by analyzing its component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the importance of the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available reference systems to locate and obtain information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document the problem and any corrective actions already taken and their outcomes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, gathering, and organizing relevant information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively use both internal resources (e.g., internal computer networks, manuals, policy or procedure guidelines) and external resources (e.g., internet search engines) to locate and gather information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine information obtained for rigor, relevance, and completeness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information and take steps to eliminate those gaps"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to gain a better understanding of the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refer the problem to appropriate personnel when necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing a solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the best solution after contemplating available approaches to the problem, environmental factors, and conducting cost/benefit analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in highly ambiguous or ill-defined situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner, and develop a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document issues, plans, and solutions; get appropriate permissions; and communicate appropriately to impacted stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner, and develop a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document issues, plans, and solutions; get appropriate permissions; and communicate appropriately to impacted stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection and Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, evaluate, select, and apply hardware or software tools or technological solutions appropriate to the task at hand (e.g., use statistical tools to show reliability of data)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards or risks related to the use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present and obtain approval from decision-makers for acquiring tools and solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Negotiate with and manage relationships with vendors of tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document tools and technologies and how they are used in the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out and continue learning about new and emerging tools, technologies, and methodologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of your own personal and professional growth"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "6.Business Acumen:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational Awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand business mission and goals: impact, profit, market share, and/or reputation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the industry, trends in the industry, and the company’s position in the industry and market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the company and understand the potential impact one’s own performance can have on the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay current on organizational strategies to maintain competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand relevant legal and regulatory requirements of the operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply effective people and project management skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand fundamental and relevant business customer and supplier relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use product improvement techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with the norms of conventional business etiquette"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect intellectual property and proprietary information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of the importance of adding value to the enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate professional ethics to protect the privacy of the client, the integrity of the profession, and the privacy and integrity of you as an individual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Management:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrate ability to identify threats/risks and vulnerabilities taking into account the frequency, probability, speed of development, severity and reputational impact to achieve a holistic view of risk across the entity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to classify risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Classify risks according to relevant criteria under the entity’s control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Classify risks according to relevant criteria beyond the entity’s control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Classify risks according to relevant criteria with prior warnings (such as human behaviors, tornadoes and hurricanes)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Classify risks according to relevant criteria with no prior warnings (such as human behaviors, earthquakes)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s risk exposures from both internal and external sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s nature disaster risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s technological risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s human risks (e.g., workplace violence, theft, fraud, counterfeit products and services, accidental, negligent behaviors, reckless behaviors and intentional behaviors and services etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s controllable exposures/risks versus those beyond the entity’s control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to identify the organization’s resilience to events with prior warnings versus those with no prior warnings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to assess an organizations risk exposure over multiple assets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security (both physical and logical)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reputational / Brand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedural"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IT (including enterprise infrastructure)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "People"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain (including transportation and outsourcing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Availability of personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network Communications technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the proper use of penetration testing and vulnerability scanning for vulnerability assessments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the rationale of and adhere supply chain security/risk management policies, requirements, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the need for security products and services used in an organization’s operations and the need for continuous metrics on their ability to effectively address current and foreseeable risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the need to track/control/prevent/correct installation and execution of security products and services for the enterprise based on an asset inventory of approved procurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of training an organization’s workers to use sensitive business information, access to facilitates and other behaviors properly and to protect the organization’s and its stakeholders’ resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe and practice safe behaviors and avoid counterproductive or risk generating worker behaviors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the risks associated with social media and the countermeasures available to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the impact and proper use of environmental controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the need for security audit logging and analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance & Legal Aspects:"
+			},
+			"comment": {
+				"en-us": [
+					"Develop and maintain security policies, procedures and practices that comply with relevant elements of criminal, civil, administrative and regulatory law to minimize adverse legal consequences."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide coordination, assistance, and evidence such as documentation and testimony to support actual or potential proceedings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide advice and assistance to management and others in developing performance requirements and contractual terms for security vendors/suppliers and establish effective onitoring processes to ensure that organizational needs and contractual requirements are being met"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and maintain security policies, procedures, and practices that comply with relevant laws regarding investigations, personnel security, information security and other areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel Security & Business Continuity:"
+			},
+			"comment": {
+				"en-us": [
+					"Develop, implement and manage systems and security practices that protect people and practices to ensure enterprise continuity and risk resilience."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, implement and manage background investigations to validate individual for hiring, promotion or retention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, implement, manage, and evaluate policies, procedures, and programs, and methods to protect individuals in the workplace against harassment, threats and violence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify critical business practices (such as complex supply chain strategies implemented on a regional or global scale) that may adversely impact the entity’s ability to recover following a disaster event"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clearly define resource requirements for the Business Continuity Plan and solicit management support and commitment for required resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present and obtain management/leadership support, approval, and sponsors of Business Continuity Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with management and any risk management/enterprise risk management groups within the entity to gain agreement on a clear and standardized risk assessment methodology and to gain understanding of the entity’s tolerance for risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design a crisis communications plan that addresses the need for effective and timely communication between the entity and all the stakeholders impacted by an event or involved during the response and recovery efforts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide guidance within the plan to determine frequency of communications needed to each stakeholder before an event, during the event itself, and following an event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and establish relationships with the internal departments and personnel and external agencies, contractors, and others with responsibility for emergency preparedness and sponse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop an incident response strategy and plan to limit incident effect and to repair incident damage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify trigger points for key service and support areas to identify, escalate and execute strategies selected to take advantage of key risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop formal reports and presentations focused on increasing the awareness and potential impact of risks to the organization from a business continuity perspective"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define organizational titles, roles, lines of authority, succession of authority, and responsibilities for internal and external resources (e.g., corporate/business unit, departments, managers, supervisors, public agencies, contractors, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish an exercise, testing, maintenance and audit program for the Business Continuity Plan to establish confidence in a predictable and repeatable performance of recovery activities throughout the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate, conduct, and or participate in training, drills, and exercises with first responders to comply with regulations, as needed to establish required capabilities, and or as requested by first responders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct a debrief meeting immediately following training, drills and exercises and document actions to be taken to improve emergency preparedness and response capabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design framework and define document structure for the plan documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and obtain approval for criteria to be used to assess the impact on the entity’s operations including but not limited to: customer impact; financial impact; regulatory impact (fines, penalties, required to pull product off market due to loss of safety information); operational impact; reputational impact; human impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Security:"
+			},
+			"comment": {
+				"en-us": [
+					"Measures that are designed to deny unauthorized access to facilities, equipment and resources, and to protect personnel and property from damage or harm, involving the use of multiple layers of interdependent systems and techniques."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Survey facilities in order to manage and or evaluate the current status of physical security, emergency and or restoration capabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, implement and manage security processes to reduce the risk of loss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the effectiveness of security measures by testing and monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify assets to determine their value loss impact and criticality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the nature of threats so that scope of the problem can be determined"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct a physical security survey in order to identify the vulnerability of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform risk analysis so that appropriate countermeasures can be developed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish security system requirements and performance specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply physical security measures and select appropriate system components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and conduct system design and pre-implementation plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outline criteria for pre-bid meeting to ensure comprehensiveness of implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procure physical security measures, implement recommended quality assurance plan(s)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct commissioning acceptance testing, and delivery of the physical security measure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cyber/Information Security:"
+			},
+			"comment": {
+				"en-us": [
+					"The practice of protecting physical and electronic information from unauthorized access, use, disclosure, disruption, modification, perusal, inspection, recording or destruction."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Survey information facilities, processes, and systems to evaluate current status of: physical security, procedural security, information systems security, employee awareness, and information destruction and recovery capabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement policies and standards to ensure information is evaluated and protected against all forms of unauthorized inadvertent access, use, disclosure, modification, destruction or denial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and manage a program of integrated security controls and safeguards to ensure confidentiality, integrity, availability, authentication, non-repudiation, accountability, recoverability, and audit ability of sensitive information and associated information technology resources, assets and investigations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the effectiveness of the information security program’s integrated security controls, to include related policies, procedures and plans, to ensure consistency with organization strategy, goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk mitigation applied to computing devices such as computers and smartphones, as well as computer networks such as private and public networks, including the internet."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Secure processes and mechanisms by which computer-based equipment, information and services are protected from unintended or unauthorized access, change or destruction, and is of growing importance in line with the increasing reliance on computer systems of most societies worldwide"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Crisis Management:"
+			},
+			"comment": {
+				"en-us": [
+					"The process by which an enterprise deals with a critical incident or major event that threatens to harm the organization, its property, assets, systems, continuity and or people."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess and prioritize risks to mitigate potential consequences of incidents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare and plan how the organization will respond to incidents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to and manage an incident."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recover from incidents by managing the recovery and resumption of operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigations:"
+			},
+			"comment": {
+				"en-us": [
+					"The methodology the enterprise undertakes to collect and preserve information in reports to enable the enterprise to make reliable decisions in response to situations effectively interface with all stakeholders."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and manage investigation programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage or conduct the collection and preservation of evidence to support post-investigation actions (employee discipline, criminal or civil proceedings, arbitration and or other processes)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage or conduct surveillance processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage or conduct specialized investigations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage or conduct investigative interviews."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Case Management:"
+			},
+			"comment": {
+				"en-us": [
+					"A system to manage, analyze, report and present findings from investigations for internal enterprise stakeholders and external systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze case for applicable ethical conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis and assess case elements and strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine need and develop strategy by reviewing procedural options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare reports to substantiate investigative findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare and present business case, testimony or other case presentation by reviewing case files, meeting with stakeholders and presenting relevant facts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Globalization & Cultural Awareness:"
+			},
+			"comment": {
+				"en-us": [
+					"Integrating cultures and global dynamics into security systems, metrics and responses."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how security supports and is affected by globalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the impact of globalization on the business model"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and adhere to global standards and standardization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates cultural aspects into security applications and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "10. Governance:"
+			},
+			"comment": {
+				"en-us": [
+					"Specialty areas providing leadership, management, direction, and or development and advocacy so that individual and organization may effetely conduct security work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leading security policy and decision-making for the enterprise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accountability with budgets, finance and security decisions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Managing employment decisions, qualifications and related policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leading communication with executive decision makers and external representations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Sector Functional Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loss Prevention:"
+			},
+			"comment": {
+				"en-us": [
+					"Is a set of practices employed by retail companies and other corporate sectors reducing preventable losses and secure corporate systems, policies and procedures to mitigate losses caused by deliberate or inadvertent human actions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Banking and Financial Services:"
+			},
+			"comment": {
+				"en-us": [
+					"Is a specialized security field including retail banking, mortgage, credit/debit cards, internet banking, commercial and consumer lending to stock brokerages, insurance companies, and other financial institutions requiring a sophisticated application of various regulatory agencies."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering & Design:"
+			},
+			"comment": {
+				"en-us": [
+					"Is a specialized field of engineering that focuses on the security aspects in the design of systems that need to be able to deal robustly with possible sources of disruption, ranging from natural disasters to malicious acts."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Government Services:"
+			},
+			"comment": {
+				"en-us": [
+					"Government/industrial security professionals provide a variety of services from the protection of classified information in accordance with the National Industrial Security Program (NISP) to the protection of buildings, people and assets."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospitality & Entertainment:"
+			},
+			"comment": {
+				"en-us": [
+					"Security specialists operate in the hospitality, hotel, lodging, entertainment, event and gaming applying risk and personnel management, budgeting and finance, and a host of other areas in this specialized security segment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Healthcare:"
+			},
+			"comment": {
+				"en-us": [
+					"Security in the healthcare industry involves in a work environment oriented toward patient protection and service, and may also include safety and community emergency management, supply chain security, pharmaceutical security and other areas of specialization."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing:"
+			},
+			"comment": {
+				"en-us": [
+					"The security of manufacturing and industrial, as well as food and beverage production and processing and warehouse and distribution, facilities and operations includes industry specific risks and security risks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Services Sales, Equipment:"
+			},
+			"comment": {
+				"en-us": [
+					"Is a specialized area of security-related products and services have resulting from emerging threats and evolving high technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation:"
+			},
+			"comment": {
+				"en-us": [
+					"Specialized security segment that includes shipping, carrying, railroads, highways, freight, trucking, tourism, air cargo, ports, and other transportation domains with unit standards for security within the industry."
+				]
+			}
+		}
+	]
+}

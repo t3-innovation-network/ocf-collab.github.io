@@ -1,0 +1,5101 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-77918080-d071-4215-a63c-e507d7d93325",
+		"name": {
+			"en-us": "Hospitality, Tourism, and Events Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Employment and Training Administration (ETA) has worked with the National Travel and Tourism Office of the Department of Commerce and with technical and subject matter experts from education, business, and industry to develop a comprehensive competency model for the Hospitality, Tourism, and Events industry. The model identifies the knowledge, skills, and abilities that provide a foundation for industry workers, as well as competencies specific to key sectors. While the model seeks to cover all workers in the industry, it is not intended that each worker possess all of the competencies listed. The model is rather a compilation of competencies that can be included as a basis for preparation in a Hospitality, Tourism, and Events occupation.\n\nThe American Hotel and Lodging Educational Institute; American Society of Travel Agents; The Broadmoor Hotel; Destination Marketing Association International; International Association of Exhibitions and Events; Madison Area Technical College; National Concierge Association; National Federation of Tourist Guides Association; Purdue University College of Health and Human Sciences; and Richland College provided input to development of the model. The International Association of Exhibitions and Events (IAEE) and Madison Area Technical College have committed to providing technical assistance related to the model and to working with their industry partners to ensure that the model evolves to accommodate changing skill requirements.\n\nIn 2017, the model was revised again to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces. The updated CMC competencies were reviewed and validated by subject matter experts identified by the IAEE."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"hospitality",
+				"tourism",
+				"events",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the skills to work effectively with others from diverse backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating sensitivity/empathy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sincere interest in others and their concerns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity to the needs and feelings of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Look for ways to help people and deliver assistance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating insight into behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately interpret the communications of others as expressed through various formats (e.g., writing, speech, American Sign Language, computers, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when relationships with others are strained."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show understanding of others’ behaviors and motives by demonstrating appropriate responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate flexibility for change based on the ideas and actions of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining open relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to share problems and successes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respecting diversity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for coworkers, colleagues, and customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact respectfully and cooperatively with others who are of a different race, culture, or age, or have different abilities, gender, or sexual orientation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity, flexibility, and open-mindedness when dealing with different values, beliefs, perspectives, customs, or opinions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value an environment that supports and accommodates a diversity of people and ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying strong moral principles and work ethic."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by a strict code of ethics and behavior, even in the face of opposition."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to behave ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand that behaving ethically goes beyond what the law requires."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use company time and property responsibly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform work-related duties according to laws, regulations, contract provisions, and company policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting fairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make decisions that are objective and reflect the just treatment of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions and for those of one’s group, team, or department."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional presence."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain composure and keep emotions in check."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal calmly and effectively with stressful or difficult situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism tactfully and attempt to learn from it."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a professional demeanor."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupational and worksite requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from lifestyle choices which negatively impact the workplace and individual performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remain free from substance abuse."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a professional image of oneself and the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to effective job performance by taking action on one’s own and following through to get the job done."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with drive and a strong accomplishment orientation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist to accomplish a task despite difficult conditions, tight deadlines, or obstacles and setbacks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Go beyond the routine demands of the job to increase its variety and scope."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide suggestions and/or take actions that result in improved work processes, communications, or task performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative to seek out new work challenges, influence events, or originate action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging but realistic work goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring issues to closure by pushing forward until a resolution is achieved."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop own ways of working effectively and efficiently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform effectively even with minimal direction, support, or approval."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set own schedule to maximize productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for completing one’s own work assignments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achievement motivation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit confidence in capabilities and an expectation to succeed in future activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently and predictably."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is reliable, responsible, and dependable in fulfilling obligations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently follow through on commitments and consistently complete assignments by deadlines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attendance and punctuality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Come to work on time and as scheduled."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arrive on time for meetings or appointments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dial in to phone calls and web conferences on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently check work to ensure that all essential details have been considered."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice errors or inconsistencies and take prompt, thorough action to correct them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow directions as communicated in a variety of ways such as writing, speech, American Sign Language, computers, or other formats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask appropriate questions to clarify any instructional ambiguities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the capability to adapt to new, different, or changing requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is open to considering new ways of doing things."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seek out and carefully consider the merits of new approaches to work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace new approaches when appropriate and discard approaches that are no longer working."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dealing with change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take proper and effective action when necessary without having all the necessary facts in hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Easily adapt plans, goals, actions, or priorities in response to unpredictable or unexpected events, pressures, situations, and job demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effortlessly shift gears and change direction when working on multiple projects or issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to self-development and improvement of knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions showing an interest in personal and professional lifelong learning and development."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback from multiple sources about how to improve and develop."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify behavior based on feedback or self-analysis of past mistakes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn and accept help from supervisors and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in learning activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify when it is necessary to acquire new knowledge and skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to develop and maintain knowledge, skills, and expertise necessary to perform one’s role successfully by participating in relevant training and professional development programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively pursue opportunities to broaden knowledge and skills through seminars, conferences, professional groups, reading publications, job shadowing, and/or continuing education."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using change as a learning opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying career interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, options, and opportunities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make insightful career planning decisions that integrate others’ feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrating and applying learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate newly learned knowledge and skills with existing knowledge and skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete tasks, particularly in new or unfamiliar situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences, paragraphs, and figures in work-related documents (with accommodation if necessary)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and understand written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, contracts, regulations, and directions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the purpose of written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend the author’s meaning and identify the main ideas expressed in the written material."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Note details and facts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect inconsistencies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify implied meaning and details."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically evaluate and analyze information in written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review written information for completeness and relevance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguish fact from opinion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synthesize information from multiple written materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate what is learned from written materials with prior knowledge."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use what is learned from written material to follow instructions and complete tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to new situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard (business) English to compile information and prepare written documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, spreadsheets, and flow charts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, and coherent manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present well-developed ideas supported by information and examples."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proofread finished documents for errors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tailor content to appropriate audience and purpose."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribute written materials appropriately for intended audiences and purposes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct English grammar (e.g., correct tense, subject-verb agreement, no missing words)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write legibly when using handwriting to communicate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use language appropriate for the target audience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a tone and word choice appropriate for the industry and organization (e.g., writing is professional and courteous)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight, perception, and depth in writing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Uses principles of mathematics to express ideas and solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate averages, ratios, proportions, and rates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions and fractions to decimals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert fractions to percents and percents to fractions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to percents and percents to decimals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand relationships between numbers and identify and understand patterns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly convert from one measurement to another (e.g., from English to metric or International System of Units (SI), or Fahrenheit to Celsius)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate mathematical formulas and techniques to solve problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to express ideas and solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand basic scientific principles and uses appropriate technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the scientific method (i.e., identify problems, collect information, form opinions and draw conclusions)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand overall intent and proper procedures for set-up and operation of equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic scientific principles and technology to complete tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication:"
+			},
+			"comment": {
+				"en-us": [
+					"Listening, speaking, and signaling so others can understand (with accommodation if necessary)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express relevant information appropriately to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convey information clearly, correctly, and succinctly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use common English conventions including proper grammar, tone, and pace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively establish interpersonal contact with one or more individuals using eye contact, body language and non-verbal expression as appropriate to the person’s culture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receiving information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to, understand, interpret, and respond to messages received in a variety of ways, including hearing, American Sign Language, instant messaging, text-to-speech devices, and other methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend complex instructions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify feelings and concerns communicated in various formats, such as writing, speech, American Sign Language, computers, etc. and responds appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider others’ viewpoints and alter opinion when it is appropriate to do so."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active interpersonal communication skills using reflection, restatement, questioning, and clarification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observing carefully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice nonverbal cues and respond appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to visual sources of information (e.g., video)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ascertain relevant visual information and use appropriately."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/Influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gain commitment and ensure support for proposed ideas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logical thought processes to analyze information and draw conclusions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess sufficient inductive and deductive reasoning ability to perform job successfully."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically review, analyze, synthesize, compare, and interpret information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant and/or missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the principles underlying the relationship among facts and apply this understanding when solving problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions or approaches to a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify connections between issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly understand, orient to, and integrate new information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using information technology and related applications to convey and retrieve information (with accommodation when necessary)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basic functions and terminology related to computer hardware, software, information systems, and communication devices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic computer software, hardware, and communication devices to perform tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing software to compose, organize, edit, and print documents and other business communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet software to enter, manipulate, edit, and format text and numerical data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use presentation software to create, manipulate, edit, and present digital representations of information to an audience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use database software to manage data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and maintain a well-organized electronic file storage system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using the Internet and email"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the Internet to search for online information and interact with Web sites."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the Internet and web-based tools to manage basic workplace tasks (e.g., calendar management, contacts management, and timekeeping)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use electronic mail to communicate in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the different types of social media and their appropriate workplace and non-workplace uses, and the impact that various social media activities can have on one’s personal and professional life."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ collaborative/groupware applications to facilitate group work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensuring computer security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and comply with the organization’s privacy policy and information security guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defend against potential abuses of private information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and respond appropriately to suspicious vulnerabilities and threats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the most recent security software, web browser, and operating system to protect against online threats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize strong passwords, passphrases, and basic encryption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize secure Web addresses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw upon team members’ strengths and weaknesses to achieve results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instruct others in learning new skills and learn from other team members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist others who have less experience or have heavy workloads."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to express their ideas and opinions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit tact and diplomacy and strive to build consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve team goals and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting team objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work as part of a team, contributing to the group’s effort to achieve goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and commit to the goals, norms, values, and customs of the team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose behaviors and actions that best support the team and accomplishment of work tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a group approach to identify problems and develop solutions based on group consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolving conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring others together to reconcile differences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Efficiently and effectively addressing the needs of clients/customers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understanding customer needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify internal and external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to what customers are saying and ask questions to identify customer needs, interests, and goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate the future needs of the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Providing personalized service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide prompt, efficient, and personalized assistance to meet the requirements, requests, and concerns of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide thorough, accurate information to answer customers’ questions and inform them of commitment times or performance guarantees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address customer comments, questions, concerns, and objections with direct, accurate, and timely responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and propose appropriate solutions and/or services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish boundaries as appropriate for unreasonable customer demands."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate in the medium desired by the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting professionally"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is pleasant, courteous, and professional when dealing with internal or external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is calm and empathetic when dealing with hostile customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping customers informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with customers following provision of service."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep customers up to date about decisions that affect them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek the comments, criticisms, and involvement of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust services based on customer feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion and develop contingency plans to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize multiple competing tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tasks correctly, quickly, and efficiently according to their relative urgency and importance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Managing projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate personnel and other resources needed for project completion (e.g., financial material or equipment)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage activities to meet plans, allocating time and resources effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of and document plans, assignments, changes, and deliverables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan for dependencies of one task on another."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate efforts with all affected parties, keeping them informed of progress and all relevant changes to project timelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off track."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assure job accommodations are made for personnel who need or request them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating innovative and creative solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employing unique analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use original analyses and generate new, innovative ideas in complex areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating innovative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative processes or solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities and perspectives to develop new solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways to add value to the efforts of a team and organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeing the big picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and appreciate the consequences of actions on other parts of the system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor patterns and trends to see a bigger picture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify or design systems to improve performance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision-Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating, evaluating, and implementing solutions to problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem or objection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the true nature of the problem and define critical issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the importance and criticality of the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available reference systems to locate and obtain information relevant to understanding the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, gathering, and organizing relevant information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively use both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to solving the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine information obtained for relevance and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information and take steps to eliminate those gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to gain a better understanding of the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skillfully use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different solutions or approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing a solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after evaluating the relative merits of each possible option."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in highly ambiguous or ill-defined situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a realistic approach for implementing the chosen solution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document the problem and corrective actions taken and their outcomes and communicate these to the appropriate parties."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity (with accommodation, when necessary)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools, technology, and equipment in accordance with established operating procedures and safety standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate appropriate use of tools and technology to complete work functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and apply appropriate tools or technological solutions to the problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping current on tools and technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate information literacy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapt quickly to changes in process or technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn how to maintain and troubleshoot tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of errors and take the appropriate corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop alternatives to complete a task if desired tool or technology is not available."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Coordinating:"
+			},
+			"comment": {
+				"en-us": [
+					"Making arrangements that fulfill all requirements as efficiently and economically as possible."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arranging and informing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make arrangements (e.g. for meetings or travel) that fulfill all requirements as efficiently and economically as possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform others of arrangements, giving them complete, accurate, and timely information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle all aspects of arrangements thoroughly and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to the schedules of others affected by arrangements, resolve schedule conflicts or travel issues, and take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinating in distributed environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate schedules of colleagues, co-workers, and clients in regional locations. (i.e., across time zones) to ensure that inconvenience is minimized and productivity is enhanced."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leverage technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take advantage of team member availability throughout business hours in multiple time zones to enhance productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shiftwork"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively coordinate the transition of staff at the beginning and end of each work shift."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminate crucial information in an organized manner to rapidly bring staff up to speed at the start of their shifts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that staff is updated on work completed on past shifts and work that still needs to be completed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/digital format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detecting errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify vague or ambiguous documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Route errors to appropriate person to correct documentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and complete appropriate forms quickly and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forward or process forms in a timely and accurate manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to and follow through on important items requiring action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expedite forms, orders, or advances that require immediate attention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain appropriate information, signatures, and approvals promptly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that all information is present and accurate before forwarding materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, categorize, and verify information or data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply systematic techniques for observing and gathering data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining logs, records, and files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update logs, records, and files, noting important changes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "File data and documentation in accordance with organization’s requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Using information on basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the mission, structure, and functions of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the organization and understand the potential impact one’s own performance can have on the success of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grasp the potential impact of the company’s well-being on employees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand market trends in the industry and the company’s position in the market."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know who the company’s primary competitors are and stay current on organizational strategies to maintain competitiveness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the organization through building and maintaining customer relations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize major challenges faced by the organization and industry, and identify key strategies to address challenges."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles and Concepts:"
+			},
+			"comment": {
+				"en-us": [
+					"The fundamental principles and concepts related to the hospitality, tourism, and events establishments, organizations, and activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify basic types of hospitality, tourism, and events establishments and organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of risk management, security, and safety strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify industry demand generators, e.g., commercial business, tourism, groups and conventions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how economic factors such as supply and demand and seasonal fluctuations impact the industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of emerging industry concepts, principles, and consumer trends."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the positive impact of hospitality, tourism, and events on an area’s economy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the positive business impact of hospitality, tourism, and events on stakeholder/host organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the need to update services to reflect technological advances, e.g., mobile devices, virtual check in/out, Bluetooth capabilities in sleeping rooms, Wi-Fi availability."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and comply with local, state, and federal laws and regulations related to the industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how the industry differs from product-driven industries, e.g., intangibility, perishability, variability, simultaneity of production and consumption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and compare services and products from related industries to understand how they affect hospitality, tourism, and events products and services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare different ownership structures and their relative advantages and disadvantages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define industry terms including revenue, revenue management, no-show, discount inventory control, general session, attrition, cross aisles, and overbooking."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of establishments and organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lodging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commercial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resort"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convention Hotel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conference Center"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time-shares"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Second homes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Condo-hotels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Extended-stay"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Casino"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Community marketplace options"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Destination marketing organizations, e.g., Convention and Visitors Bureau"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convention Centers, special event venues, arenas, stadiums"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Amusement parks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food and beverage services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General service contractors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of ownership structure, such as"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Independently-owned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chain-affiliated"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corporations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Not for Profit Associations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal compliance issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Americans with Disabilities Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal and State Diversity Laws, e.g., gender, culture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Employment Laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organized Labor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public Health and Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Title VII of Civil Rights Act"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations and Procedures:"
+			},
+			"comment": {
+				"en-us": [
+					"Delivering, monitoring, controlling, and improving services common across the hospitality, tourism, and events sectors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and follow all practices that ensure the safety and security of guests, visitors, attendees, and employees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of the operations performed within the hospitality, tourism, and events industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and pursue relevant professional development programs, including any commonly required certifications or other credentials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide services appropriate to customer requirements, e.g., accessible services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak with customers to ensure satisfaction, to respond to complaints, or to make conversation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be professional, clear, and concise and actively listen to customers to identify their needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the positive language to use and the phrases to avoid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the positive body language to use and the body language to avoid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand customer acknowledgement procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the procedure for resolving customer complaints."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be up to date on organizational policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and monitor equipment or materials involved in the service provision process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate familiarity with local attractions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of inventory control."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry operations, amenities, and services, e.g.,"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conference facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conventions and meetings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertainment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local amenities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retail facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sporting activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation services and facilities (e.g., parking, public transportation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local attractions, e.g.,"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Man-made cultural attractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Natural attractions, public parks, and recreation areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertainment events and venues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety and Security:"
+			},
+			"comment": {
+				"en-us": [
+					"Provide a safe and secure environment for hospitality, tourism, and events customers, attendees, and workers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of evacuation routes, fire extinguisher location and use, shut-down procedures, and safety manuals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of facility guidelines to ensure physical safety of customers, attendees, employees, and organizers including emergency shutdown procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of disseminating information to customers addressing potential safety hazards and security issues, e.g., display safety and security information and materials in a public area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify situations where the number of customers or attendees would need to be controlled and explain how this would be accomplished."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid, CPR, and AED, if trained and summon assistance as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety, risk, and crisis management training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment e.g., rubber gloves for cleaning with chemicals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify activities that are suspicious and implement loss prevention safe guards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep records required by government agencies regarding sanitation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create a resource base to manage emergency situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Minimize the environmental, social, economic, and cultural impact of the organization, establishment, or event."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of industry sustainability concepts and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the environmental, social, economic, and cultural impact of the hospitality, tourism, and events industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of establishing a long-term sustainability management system that is suitable to its scope and considers environmental, economic, social, cultural, quality, health, safety, and aesthetic issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sustainability strategies related to the hospitality, tourism, and events industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local laws, regulations, and policies related to environmental impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maximize social and economic benefits to the community and minimize negative impacts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with local communities to support and enhance local culture."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to the protection and preservation of local historical, archaeological, culturally, and spiritually important properties and sites, and do not impede access to them by local residents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Do not adversely affect local access to livelihoods, rights-of-way, transport, and housing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Do not display or sell historical and archaeological artifacts, except as permitted by local and international law."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmentally sustainable programs, such as"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solid waste recycling program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food and resource conservation program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refillable amenity dispenser system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Composting program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mattress recycling program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guestroom soap and amenity donation program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Textile recycling program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy audit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Towel and linen reuse program"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy efficient interior light bulbs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "LEED building certification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability strategies, such as"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support initiatives for community development, e.g., infrastructure, social programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support programs to manage environmental impact, e.g., energy, water, and waste management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize local residents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use local and fair-trade goods and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect cultural and historical sites"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability standards, such as"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISO International Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "GRI G4 Sustainability Reporting Guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ASTM Sustainability Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Sustainable Tourism Council Criteria"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing and Sales:"
+			},
+			"comment": {
+				"en-us": [
+					"Promote and sell industry services and products (events)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define marketing and explain its purpose related to business outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship between marketing and sales."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand promotion, selling, and closing strategies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and pursue prospective customers and appropriate customer segments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in the selection of services based on the match between customer needs and product or service specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform customers regarding service contracts, offered services, estimated cost, delivery of services, and any other information regarding the purchase of services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize a variety of payment options to facilitate customer payments for services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor customer preferences to determine focus of sales efforts and services that satisfy customer needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research customers’ business objectives and tailor sales approach."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emphasize and promote features in marketing or sales."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of social/digital media and integrated marketing and communications trends, and describe how it applies to your organization’s sales strategy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe benefits of collaboration with other industries to provide an inclusive product to the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop an understanding of primary and secondary competitors in your market."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing strategy and tactics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prospecting and referral tactics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Qualifying customer groups for business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sponsorship management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance and Quality Control:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure materials, processes, services, and products meet quality specifications and customer expectations."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guarantee customer satisfaction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe customers’ business and expectations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor service to determine if it meets customer requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate outcomes to prevent or minimize customer inconvenience."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that service conforms to the established set of quality standards within the hospitality, tourism, and events industry and the company or establishment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report quality failures to appropriate individuals for corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek customer feedback and ensures needs have been fully met."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek ways to improve service delivery. Assess the organization and its services from the customer’s point of view."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accessibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure that all services offered by the hospitality establishment are accessible to all people, including people with disabilities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate fundamental understanding of principles of accessibility as they pertain to the hospitality, tourism, and events industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify common accessibility solutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of making a hospitality establishment both physically/architecturally accessible as well as technologically accessible, e.g., public-facing websites, online reservation systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the role of accessibility in achieving business goals, communicating with the public, and meeting federal equal employment opportunity requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of the organization’s accessibility features and the importance of communicating these to the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of accessibility laws and regulations which require compliance reporting."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide customer service and support for common accessibility issues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Familiarity with alternative methods of communicating with users (both in-person and remotely) who have disabilities and/or sensory or functional limitations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Americans with Disabilities Act (ADA) Checklist for New Lodging Facilities (http://www.ada.gov/hsurvey.htm)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lodging:"
+			},
+			"comment": {
+				"en-us": [
+					"The operation of lodging facilities and the care of guests who use these facilities, either through direct guest contact or the provision of background services that enhance the guest experience."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guest safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, local, and company health and safety regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of facility guidelines to ensure physical safety of customers and employees, including emergency shutdown procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of evacuation routes, fire extinguisher location and use, shut-down procedures, and safety manuals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of disseminating information to customers addressing potential safety hazards and security issues, e.g., display safety and security information and materials in a public area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how guest property is protected to minimize losses or liabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of alerting management and responders to any guests with disabilities during an emergency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend tourist attractions and accommodations that will be safe for all family members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand access restrictions and admission methods, if applicable."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify activities that are suspicious and implement loss prevention safe guards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know to whom one should report any safety hazards or suspicious people or activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe how the essential departments of a lodging operation work cooperatively to achieve guest service standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ effective reservation procedures to meet guest needs and maximize occupancy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the different types of reservations used to meet different guest needs, e.g., guaranteed vs. non-guaranteed, reservations guaranteed by credit card vs. reservations guaranteed by travel agents or corporations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify common sources used to make lodging reservations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how a computer system is used to process or change reservations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how forecasting is used to maximize occupancy levels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain procedures to meet guest needs through guest registration, rate assignment, room assignment, and determination of payment methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the necessary information during the registration process to correctly register guests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how room rates are established and assigned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how availability, room status, and other operating guidelines affect the assignment of guestrooms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how methods of payment are established with arriving guests to clarify payment procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how a property’s computer system is used to create guest accounts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the importance of check-out procedures to ensure guest satisfaction and verify settlement of account."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain account settlement procedures for different types of payment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of revenue management and hotel data analytics."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and follow hotel’s employee uniform and grooming policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the importance of housekeeping standards to assure guest satisfaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how key control procedures protect guests and minimize risks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how cash control procedures are used to protect funds."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know reporting procedures for housekeeping concerns and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguish between fixed and variable staff positions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how operations manage inventories to maintain adequate quantities of both recycled and non-recycled items."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of “par level” and its advantages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know telephone courtesy and your organization’s language for answering and closing calls, placing callers on hold, transferring calls, and taking messages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate familiarity with the activities at the establishment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify critical locations such as restrooms, telephones, ATMs and first aid stations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand which property facilities may be used by employees and the process for obtaining permission to use them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guest satisfaction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand facility guidelines related to ensuring customer satisfaction by assisting customers including, luggage and item delivery, room maintenance, basic customer inquiries, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to handle customer requests and complaints."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure requests and complaints are dealt with promptly and to the satisfaction of the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of hotel services, and dining recommendations (both in-house and out-of-house), and customer reservations for local events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of sources of entertainment and area attractions for tourists and guests, and how to apply that knowledge to assist in organizing guests' visits."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information to provide vacation guidance to customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and recommend appropriate travel methods for guests including air, rail, sea, car, and other modes of transportation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of applicable laws and regulations, including:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedures for protection of guests and their goods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innkeeper rights and obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Relevant state and local health codes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "OSHA health and safety regulations for employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lodging departments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rooms division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guest reception"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food and beverages division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering and maintenance department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing and sales division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finance department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human resource office"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Destination Marketing and Management:"
+			},
+			"comment": {
+				"en-us": [
+					"The development of a travel and tourism strategy for a specific destination that aids the long-term development of its communities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Destination marketing fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the purpose of destination marketing and management organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage with community stakeholders to develop support, appreciation, and advocacy for the value of tourism."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss the relationship between destination marketing and community and infrastructure planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the advantages of building an effective destination marketing plan in conjunction with community leaders and stakeholders."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the advantages of a consolidated marketing approach."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the difference between recommending and referring."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss the different services offered by DMO to its primary audiences:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vacation and leisure travelers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting professionals, convention attendees and business travelers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tour operators and travel agents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify typical DMO Members, e.g.,"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accommodations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Restaurants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Event Suppliers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify DMO funding sources, e.g.,"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupancy taxes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Membership dues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Improvement districts and"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Government resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sponsorship revenues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurial enterprises"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Housing reservation revenues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss products that DMOs typically promote:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convention centers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Headquarters hotels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Visitors information centers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attractions, events (sporting), and cultural offerings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packages combining projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation/accessibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recreational opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sports venues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of the legal issues associated with the running of a tourism organization, e.g., company taxation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of regulatory and zoning requirements in your community."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between destination marketing sustainability issues, e.g., environmental, cultural, financial, quality of life."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify local and regional tourism issues to determine the impact of each issue on related businesses/organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of disintermediation, i.e., removing the middleman, and how DMOs can target customers online."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss strategies for DMO member development and retention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify common DMO publications, e.g., visitors guide, meeting planners guide, group tour manual."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential DMO partners."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define marketing and explain its purpose related to business outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship between marketing and sales."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of research in destination marketing and identify common research topics, e.g., visitor volume, market share, brand image studies, and the economic impact of tourism."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe market segmentation, define target market, and explain how to reach key audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the purpose and parts of a marketing plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the purpose and parts of a communications plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to develop branding-related themes and messages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify common marketing tools."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how to incorporate social media, digital media, and integrated communications into your marketing plan and the benefits of doing so."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay abreast of new marketing trends and be able to integrate them into activities as appropriate, e.g., mobile technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Previous year analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketplace complications and changes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketplace opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Departmental reports/productivity goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategies based on market segment and demographics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Target audiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tactics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calendar (12 months)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Budget (12 months)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mission or purpose"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Goal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Target audiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Message"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tactics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Budget and timeline"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advertising"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Media publicity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Direct mail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collateral materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade shows"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet initiatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Special events"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Familiarization tours"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales calls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coopetition agreements (multi-city alliances)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Potential DMO partners"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local, regional, or state government"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Park districts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "School districts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Colleges and universities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business alliances and service organizations, e.g., downtown associations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chambers of commerce"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hospitality industry associations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Private event facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tour Operations and Travel Arrangements:"
+			},
+			"comment": {
+				"en-us": [
+					"The development, research, packaging, promotion, and delivery of a traveler’s experiences."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, local, and company health and safety regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of safety guidelines to ensure physical safety of customers and employees, including emergency procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of disseminating information to customers addressing potential safety hazards and security issues, e.g., display safety and security information and materials in a public area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of travel and tourism safety measures, e.g., travel insurance, credit card fraud procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine equipment safety, functionality, and durability to protect customers and minimize replacement costs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Travel arrangement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan expeditions, instruction, and commentary that is appropriate to customers’ skills and abilities, including any accessibility requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achieve a familiarity with acronyms, abbreviations, and definitions of terminology to communicate within the tourism industry, e.g., airport, airline, and city codes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Summarize and demonstrate use of information about time zones, seasons, domestic and international maps to create or enhance travel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unit and time conversion skills to develop schedules, and compute cost, distance, and time (including travel time) factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide information needed for trip, including local customs and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify diverse transportation, lodging, cruise, and food service options to produce a customized product."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to resolve problems with itineraries, services, or accommodations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a rapport with clients to ascertain the most desired aspects for the trip and plan the itinerary to meet those desires."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor reservations for changes and make alternative booking arrangements if changes arise before or during the trip."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of search databases (GDS) and online platforms for travel product pricing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to use social media and other web-based platforms to communicate with clients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how to compare pricing of travel products that may have ancillary fees to develop true price comparisons for clients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tour operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to describe key points of interest and attractions and respond to questions about them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of establishment or tour site’s processes and operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of travel routes and sites to be visited based on knowledge of area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify local and regional restrictions pertaining to coach travel and parking, including the legal hours for a coach driver, legal routes, and legal parking locations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of assistance to utilize in emergency situations for self, coworkers, and customers/guests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recreation, Amusements, and Attractions:"
+			},
+			"comment": {
+				"en-us": [
+					"The operation of establishments or facilities that provide services to meet varied cultural, entertainment, and recreational interests."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, local, and company health and safety regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of safety guidelines to ensure physical safety of customers and employees, including emergency procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of evacuation routes, fire extinguisher location and use, shut-down procedures, and safety manuals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of disseminating information to customers addressing potential safety hazards and security issues, e.g., display safety and security information and materials in a public area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know to whom one should report any safety hazards or suspicious people or activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply traffic control procedures to facilitate movement of people and vehicles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor traffic control issues to manage congestion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand employee safety and security issues unique to each venue."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine equipment safety, functionality, and durability to protect customers and minimize replacement costs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recreation, amusements, and attractions fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Name the factors that influence the attendance of your customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cite the methods of adjusting organization activities to accommodate a normal, slow, and busy day."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "List the factors that influence the capacity of the facility."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare venues and the unique organizational structure of various operating units."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the difference between public and private offerings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the difference between common types of attractions, including cultural heritage, natural, and child-friendly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize guidelines for access control to determine guest and group admission procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze each venue to determine the maintenance technology, merchandising, program, and product potential."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine identified admission procedures to manage and control individuals and groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the types of information and directions a guest would need at a facility entry point to become familiar with their surroundings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of risk management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of common risk factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of common risk management procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify organizational resources available for risk management procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of authorities, agencies, and governing bodies that preside over specific activities within a jurisdiction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand local-, organization-, and venue-specific emergency response protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to implement emergency response plans and communication procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to carry out contingency and business continuity plans as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meetings, Events, and Exhibitions Management:"
+			},
+			"comment": {
+				"en-us": [
+					"The planning, implementation, and evaluation of gatherings such as conventions, cultural events, political events, and trade shows."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategic planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the roles of the event organizer, attendee, and exhibitor."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the difference between business-to-business and business-to-consumer events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop mission statement, goals, and objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate financial requirements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop evaluation plan to measure return on investment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a strategic communications plan that supports the goals of the event and incorporates strategies for key stakeholders, employees, community members, and attendees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage stakeholder relationships."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guest safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, local, and company health and safety regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of facility guidelines to ensure physical safety of customers and employees, including emergency shutdown procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of evacuation routes, fire extinguisher location and use, shut-down procedures, and safety manuals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of disseminating information to customers addressing potential safety hazards and security issues, e.g., display safety and security information and materials in a public area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how guest property is protected to minimize losses or liabilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of alerting management and responders to any guests with disabilities during an emergency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend tourist attractions and accommodations that will be safe for all family members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand access restrictions and admission methods, if applicable."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify activities that are suspicious and implement loss prevention safe guards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know to whom one should report any safety hazards or suspicious people or activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of risk management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of common risk factors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of common risk management procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify organizational resources available for risk management procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of authorities, agencies, and governing bodies that preside over specific activities within a jurisdiction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand local-, organization-, and venue-specific emergency response protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to implement emergency response plans and communication procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to carry out contingency and business continuity plans as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and define customary events revenue and expense sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss budget, financial controls, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify funding sources, e.g., donors and sponsors."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of monitoring and revising budget throughout event planning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss pricing structure, e.g., percentage increase or cost plus, member discount rates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of event cancellation insurance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of Force Majeure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of indemnification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss cash handling procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider potential short- and long-term environmental impacts of meeting or event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe strategies to create positive outcomes and mitigate negative impacts or events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate environmental awareness into meeting or event management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply environmentally responsibility practices, e.g., conservation, recycling, and pollution reduction."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purchase goods and services from local and/or environmentally responsible suppliers, as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop project plan, quality standards, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of Request for Proposal (RFP) process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the role of the official service contractor."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the basic elements of a service contract, including contract cancellation processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify different types of service providers and available services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand when to outsource."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how the relationship between the event organizer and the various contractors is managed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss workforce requirements, policies, and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Articulate how local labor regulations impact events, including:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Unions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collective bargaining"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labor rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labor laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health and safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acquire staff or volunteers and ensure they are properly trained and prepared."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand job classifications for recruitment purposes, e.g., fulltime, part-time, seasonal, on-call."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Event design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine requirements to carry out meeting or event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine program objectives, components, sequence, and delivery formats."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of adult education and learning principles."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify ways to foster adult education in the event environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify process of securing potential speakers and performers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of the key considerations in the selection of food and beverage services, including menus, service styles, providers, and alcohol service."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the importance of training and liability of all parties related to alcohol service."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop theme for meeting or event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the security needs of an event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine requirements for staging and technical equipment, including audio-visual."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Floor plan development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify primary factors necessary to create a functional and workable floor plan that meets the needs of the target market and event management."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create a floor plan that incorporates the unique features of a venue or facility."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate technology options and tools to maximize sales and sponsorships."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate fire and safety codes and local regulations into the plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the most common kinds of booths/stands used in a typical floor plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify factors that affect traffic flow on a floor plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop plan for managing movements of attendees, e.g., wayfinding."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Housing and registration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the housing needs and booking habits of attendees."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship between event space and hotel blocks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of the event’s financial and contractual commitments in order to secure room blocks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate understanding of an effective registration and housing process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain attrition and ways to mitigate attrition."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define marketing and explain its purpose related to business outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the relationship between marketing and sales."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the purpose and parts of a marketing plan."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how to incorporate social media, digital media, and integrated communications into your marketing plan and the benefits of doing so."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe market segmentation, define target market, and explain how to reach key audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the advantages of a consolidated marketing approach"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate ability to develop branding-related themes and messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss forms of sponsorship and promotional opportunities associated with exhibitions and events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage meeting or event merchandise."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to public relations activities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay abreast of new marketing trends and be able to integrate them into activities as appropriate, e.g., mobile technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sales"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the development of an effective sales plan with accompanying goals and strategies, including a unique selling proposition (USP) for an event."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the importance of relationship selling."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the role of sales as a key element in promotion programs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the key steps in the sales cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between the types of facilities that host events."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the similarities and differences between US and non-US facilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the value of understanding and articulating the economic impact of the event on the host city."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential revenue streams for exhibition facilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate the value of stakeholder input, expectations, desired actions, and outcomes in the site-selection process."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discuss the importance of both strategic and operational aspects of site selection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between site-selection and site inspection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Event operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the roles of an exhibit company, a destination management company (DMC), and an A/V supplier."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a plan to manage on-site event operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the concept of on-site communications, including the need to:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish communications framework (e.g., define communication needs of event, identify responsibilities)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and acquire required communication equipment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish communication protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review the roles of the on-site event team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and implement logistics action plan for site set-up, operation, and take-down."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Return site to condition specified in contract/agreement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategic planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applicable legislation and regulatory requirements, such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local zoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health and safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Authorities, agencies, and governing bodies that preside over specific activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knowledge of target markets and attendee profile, such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attendees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibitors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sponsors and advertisers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Methods and principles of evaluation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management strategies and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Program sequencing tools, e.g., flow charts, Gantt charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tools or resources for financial planning, e.g., spreadsheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tools or resources available for meeting or event planning, e.g., software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of financial information required for strategic plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Components of legal contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost/benefit analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Foreign currency implications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Event design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Current trends in event design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design concepts of meetings or events, e.g., learning formats"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site layout design:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit space"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human and vehicular traffic flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental implications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Best use of resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketplace complications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketplace opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Departmental reports/productivity goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Target audiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tactics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calendar"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site considerations:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accessibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Washrooms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obstructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capacity limits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loading dock or loading entrance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Special needs parking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle road access"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weather back-up"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Event operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local- and venue-specific emergency response protocols"
+			}
+		}
+	]
+}

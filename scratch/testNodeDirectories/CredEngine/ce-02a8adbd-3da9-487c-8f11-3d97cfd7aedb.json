@@ -1,0 +1,5479 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-02a8adbd-3da9-487c-8f11-3d97cfd7aedb",
+		"name": {
+			"en-us": "Automation Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Automation Competency Model framework was developed through a collaborative effort involving the Employment and Training Administration (ETA) and industry experts from the Automation Federation.\n\nIn July 2018, the Automation Federation convened subject matter experts and worked with ETA to update the model to reflect the most current knowledge and skills needed by today's automation professionals. The update contains a realignment of skills and knowledge requirements including automation dynamics, latest industry standards, and updates to reflect performance management and decision support for industrial automation and control systems.\n\nThe revisions also incorporate foundational health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program, an initiative designed to help protect America's workforce and create safe, healthy, and productive workplaces. The updated CMC competencies were reviewed and validated by subject matter experts identified by the Automation Federation."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"automation",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work effectively with others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interacting and working with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact appropriately and respectfully with supervisors and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with people who have diverse personalities and backgrounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be flexible and open-minded when dealing with a wide range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to and consider others’ viewpoints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value an environment that supports and accommodates a diversity of people and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating sensitivity/empathy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Look for ways to help people and deliver assistance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sincere interest in others and their concerns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sensitivity to the needs and feelings of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating insight into behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate flexibility for change based on the ideas and actions of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately interpret the verbal and nonverbal behavior of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when relationships with others are strained"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show understanding of others’ behaviors and motives by demonstrating appropriate responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining open relations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to share problems and successes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose an ethical course of action and do the right thing, even in the face of opposition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to behave ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use company time and property responsibly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform work-related duties according to laws, regulations, contract provisions, and company policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with ethical standards for your field"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Acceptability:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a socially acceptable demeanor."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating self-control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and dealing with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional appearance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow rules and standards of dress and personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project a professional image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from lifestyle choices which negatively impact the workplace and individual performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a positive attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide suggestions for innovative approaches to improve process or tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new responsibilities and work challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek opportunities to influence events and originate action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Go beyond the routine demands of the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist others who have less experience or have heavy workloads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persisting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with drive and a strong accomplishment orientation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist and expend extra effort to accomplish tasks even when conditions are difficult, or deadlines are tight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting challenging goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring issues to closure by pushing forward until a resolution is achieved"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop own ways of working effectively and efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform effectively even with minimal direction, support or approval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for completing one’s own work assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Achievement motivations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit confidence in capabilities and an expectation to succeed in future activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently, predictably, and reliably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations, complete assignments, and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attendance and punctuality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Come to work on time and as scheduled"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arrive on time for meetings or appointments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently check work to ensure that all essential details have been considered"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notice errors or inconsistencies and take prompt, thorough action to correct them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal and professional lifelong learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn and adopt new techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback and modify behavior for improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through job shadowing and continuing education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate changes in work demands and search for and participate in assignments or training that address these changing demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying personal interests and career pathways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek and maintain membership in professional associations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read technical publications to stay abreast of new developments in the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain certifications and continuing education credits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written English sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written technical and non-technical information in documents such as manuals, reports, memos, graphs, charts, tables, schedules, signs, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify relevant details, facts, specifications, and main ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the essential message and purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infer or locate meaning of unknown or technical vocabulary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect inconsistencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify implied meaning and details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate what is learned from written materials with prior knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use what is learned from written material to follow instructions and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to new situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically evaluate and analyze information in written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review written information for completeness and relevance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguish fact from opinion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synthesize information from multiple written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to compile information and prepare written reports."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, and flow charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, messages, and other written information, which may contain technical material, in a logical, organized, coherent, and persuasive manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop ideas with supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proofread finished documents for errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization; use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in a manner appropriate for business; use language appropriate for the target audience; use appropriate tone and word choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight, perception, and depth in writing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribute written materials appropriately for intended audiences and purposes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using principles of mathematics such as algebra, geometry, and trigonometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number systems and relationships - whole numbers, decimals, fractions, and alternate base systems (e.g., binary, octal, and hexadecimal numbers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arithmetic - arithmetic operations on numbers, percentages, square root, exponentiation, and logarithmic functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plane and solid geometry - distance, perimeter, area and volume, spatial coordinates, visualization, spatial reasoning, and geometric modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement - measurement of length, mass, time, systems of measurement, units, and conversion between systems (e.g., from English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical notation - the language of mathematics to express mathematical ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical reasoning and problem solving - inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elementary statistics and laws of probability - mean, median, and standard deviation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Algebra and functions - equations, patterns, and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elementary trigonometry - triangles and trigonometric functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Elementary calculus - exponential, logarithmic and trigonometric functions, vectors, complex numbers, conic sections, and analytic geometry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions and fractions to decimals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert fractions to percents and percents to fractions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to percents and percents to decimals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly convert from one measurement to another (e.g., from English to metric or International System of Units [SI], or Fahrenheit to Celsius)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate mathematical formulas and techniques to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Using scientific rules and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply scientific principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific method - the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment and the formulation and testing of a hypothesis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemistry - the composition, structure, properties, and reactions of matter, especially of atomic and molecular systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physics - matter and energy and physical interactions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand overall intent and proper procedures for set up and operation of equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Listening and Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active listening skills using reflection, restatement, questioning, and clarification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider other viewpoints and alter opinion when it is appropriate to do so"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively answer questions of others or communicate an inability to do so and suggest other sources of answers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify feelings and concerns within verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicating (verbally, either directly, through assistive technology, or other accommodation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively use eye contact and non-verbal expression"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems of concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/Influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasively present thoughts and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gain commitment and ensure support for proposed ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observing carefully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to nonverbal cues and respond appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to visual sources of information (e.g., video)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ascertain relevant visual information and use appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytic Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic, reasoning, and analysis to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning and mental agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use inductive and deductive reasoning to analyze, synthesize, compare, and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the underlying relationship among facts and connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize problems into manageable parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly understand, orient to, and learn new assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigation and file management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scroll bars, a mouse, and dialog boxes to work within the computer's operating system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access and switch between applications and files of interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet and E-mail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the Internet to find information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open and configure standard browsers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use searches, hypertext references, and transfer protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Send and retrieve electronic mail (e-mail)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write e-mail with an appropriate tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Word processing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to type text and insert pictures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Format, edit, and print text"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Save and retrieve word processing documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to enter, manipulate, and format text and numerical data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert, delete, and manipulate cells, rows, and columns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and save worksheets, charts, and graphs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to create, manipulate, edit, and show virtual slide presentations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a computer application to manage large amounts of information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and edit simple databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Input data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Retrieve detailed records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create reports to communicate the information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with pictures in graphics programs or other applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and edit simple graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manipulate the appearance of graphics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insert graphics into other files/programs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social media and group applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a variety of social media in a manner appropriate for the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enjoy collaborative/groupware applications to facilitate group work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic/Business/Financial Principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Characteristics of markets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost and pricing of products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamentals of accounting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Profit and loss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply/demand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economic system as a framework for decision-making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how one’s performance can impact the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider the relative costs and benefits of potential actions to choose the most appropriate one"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business ethics - Act in the best interests of the company, your co-workers, your community, other stakeholders, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal/Financial"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with the letter and spirit of applicable laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use company property legitimately, minimizing loss and waste"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report loss, waste, or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain privacy and confidentiality of company information, as well as that of customer and co-workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with intellectual property laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect trade secrets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental/Health/Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a healthful and safe environment and report any violations/discrepancies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure proper handling and disposal of toxic or hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure equipment and systems are designed to be environmentally friendly and strive to continually minimize the resulting carbon footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice sustainability by using processes that are non-polluting, conserving of energy and natural resources, economically efficient, and safe for workers, communities, and consumers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguard the public interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for coworkers, colleagues, and customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emphasize quality, customer satisfaction, and fair pricing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with customers in good faith: no bribes, kickbacks, or excessive hospitality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of market trends, company’s position in the market place, and defined market segments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand position of product/service in relation to market demand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the company and product brand through building and maintaining customer relations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate internal and external customer demands and needs into manufacturing product and process development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the mission, structure, and functions of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grasp the potential impact of the company’s well-being on employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know who the company’s primary competitors are and stay current on organizational strategies to maintain competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize major challenges faced by the organization and industry and key strategies to address challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledging team membership and role"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in and commit to the goals of a team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify roles of team members and effectively communicate with all members of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show loyalty to the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Serve as a leader or a follower, depending on what is needed to achieve the team’s goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s own effects on team performance tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and draw upon team members’ strengths and weaknesses to achieve results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishing productive relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the goals, norms, values, and customs of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose behaviors and actions that best support the team and accomplishment of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with others to formulate team objectives and develop consensus for best outcome"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit tact and diplomacy and strive to build consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Guide others in learning new skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to express their ideas and opinions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to new ideas, new ways of doing things, and the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolving conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deliver constructive criticism and voice objections to others’ ideas and opinions in a supportive, non-accusatory manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express opinions openly and respect others’ right to do so"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring others together to reconcile differences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle conflicts maturely by exercising “give and take” to achieve positive results for all parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reach formal or informal agreements that promote mutual goals and interests, and obtain commitment to those agreements from individuals or groups"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Being open to change (positive or negative) and to considerable variety in the workplace."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is open to considering new ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seek out and carefully consider the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace new approaches when appropriate and discard approaches that are no longer working"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dealing with change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take proper and effective action when necessary without having all the necessary facts in hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Easily adapt plans, goals, actions, or priorities in response to unpredictable or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Easily shift gears and change direction when working on multiple projects or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing and Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Actively looking for ways to identify market demands and meet the customer, client, or stakeholder need."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand customer needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify internal and external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a desire to understand customer needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate the future needs of the customer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of client goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of the impact of the project’s carbon footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide personalized service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide prompt and efficient responses to meet the requirements, requests, and concerns of customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide thorough, accurate information to answer customers’ questions and to meet commitment times or performance guarantees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively look for ways to help customers by identifying and proposing appropriate solutions and/or services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish boundaries as appropriate for unreasonable customer demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act professionally"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be pleasant, courteous, and professional when dealing with internal or external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remain calm and empathetic when dealing with hostile customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the company and product brand in interactions with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep customers informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with customers during projects and following project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep clients up to date about decisions that affect them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek the comments, criticisms, and involvement of customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust services based on customer feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address customer comments, questions, concerns, and objections with direct accurate and timely responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Coordinating:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks as efficiently as possible."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tasks quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate resources needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate efforts with all affected parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop contingency plans to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arranging and informing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make arrangements (e.g., for meetings or travel) that fulfill all requirements as efficiently and economically as possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inform others of arrangements, giving them complete, accurate, and timely information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle all aspects of arrangements thoroughly and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to the schedules of others affected by arrangements, resolve schedule conflicts or travel issues, and take corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinating in distributed environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate schedules of colleagues, co-workers, and clients in regional locations (e.g., across time zones) to ensure that inconvenience is minimized, and productivity is enhanced"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leverage technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take advantage of team member availability throughout business hours in multiple time zones to enhance productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shiftwork"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively coordinate the transition of staff at the beginning and end of each work shift"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminate crucial information in an organized manner to rapidly bring staff up to speed at the start of their shifts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that staff is updated on work completed on past shifts and work that still needs to be completed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking and Problem Solving:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying creative-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and obtain all information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential causes of the problem by analyzing its component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate the problem to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeing the big picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and appreciate the consequences of actions on other parts of the system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor patterns and trends to see a bigger picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modify or design systems to improve performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate innovative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose a solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after contemplating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in highly ambiguous or ill-defined situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly choose an effective solution without assistance when appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/digital format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply systematic techniques for observing and gathering data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain appropriate information, signatures, and approvals promptly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verify that all information is present and accurate before forwarding materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detecting errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify vague or ambiguous documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Route errors to appropriate person to correct documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and complete appropriate forms quickly and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forward or process forms in a timely and accurate manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expedite forms, orders, or advances that require immediate attention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to and follow through on important items requiring action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining logs, records, and files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records) in accordance with organization’s requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update logs, records, and files, noting important changes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection and application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, select, and apply appropriate and cost-effective tools or technological solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information technology and computer applications as it supports the gathering, storage, manipulation, and transfer of data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapt quickly to changes in process or technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of new and emerging tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies, and methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance and troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop alternatives to complete a task if desired tool or technology is not available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and decide what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform work functions that require engaging in hands-on activity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Health and Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Complying with procedures for a safe and healthy work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others in accordance with established personal and jobsite safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations and company health and safety policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR, if trained, and summon assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protections from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussions of safety concerns in the workplace, making suggestions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preventive health, safety or environmental inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the elements and procedures related to inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit of records and documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation of inspection findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection of emergency response protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection of fire protection and control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability:"
+			},
+			"comment": {
+				"en-us": [
+					"Meeting the needs of the present without compromising the ability of future generations to meet their own needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimizing environmental impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment, processes, and systems that minimize waste, improve efficiency, and reduce resource use, (e.g., reuse and recycle)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate with a triple bottom line, emphasizing financial profitability, environmental integrity, and corporate social responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand life cycle analysis: the environmental and economic effects of a product at every stage of its existence, from extraction of materials through production to disposal and beyond"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Suggest and/or implement continuous improvement actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguard the public interest"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure equipment and systems are designed to minimize environmental impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek to upgrade processes beyond pollution control to pollution prevention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize advances in science and technology to upgrade levels of efficiency and environmental protection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complying with standards, laws, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local laws, regulations, and policies related to environmental impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote sustainable business practices consistent with ISO 14001 International Environmental Management Guidance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and Development Lifecycles:"
+			},
+			"comment": {
+				"en-us": [
+					"Analyze, design, and develop solutions to monitor and control the production and delivery of goods and services."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design automation-related production and production support systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and apply technology to control production and process functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop specifications for the design and development of automated control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate requirements of internal and external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret and clarify customer expectations and product specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "“Design for X” (design within constraints)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Simulation development of prototype processes and products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support systems design and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System design, development, testing, and costing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical drawings and schematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer-aided Design (CAD) drawing fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometric dimensions and tolerances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpretation of drawings and schematics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and development fundamentals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual property protection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human subject protection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market/sales/life cycle analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and design procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development Lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commissioning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field and Input/Output (IO) installation checks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calibration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Punchlist"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance Management System updates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Periodic Testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data analysis and verification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data interpretation and corrective action implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical process control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation of fault-finding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ergonomic simulation and assessment of tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing/processing concept planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mixed model line balancing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plant layout planning and analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedure analysis and verification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Configuration functionality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workloads on multiple stations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations Management:"
+			},
+			"comment": {
+				"en-us": [
+					"Design, commission, monitor, control, and improve technology that supports production and process schedules to meet customer requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop industrial production/process plans and documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the operation and control of production/process equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor industrial processes and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage continuous improvement process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage raw materials/consumables/outputs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform industrial process application and operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial production and process basics (including but not limited to a knowledge of)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial process (continuous or batch) - processing, transporting or conveying liquids, gases, or goods in pipes or on conveyers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic continuous control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic discrete, sequencing, and manufacturing control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motor and drive control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motion control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discrete manufacturing - the manufacture, assembly, or handling of individual parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production/process monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calibration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Controlling process efficiency and capacity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation and reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental parameters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance of analytical tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time, materials, and costs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-wide standards (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 5 - Documentation of Measurement and Control Instruments and Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 95 - Enterprise-Control System Integration 0156654410"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA/IEC 62443 - Security for Industrial Automation and Control Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 61511 - Safety Instrumented Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 88 - Production and Batch Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 18.2 - Alarm Management for Packaged Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management and execution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material and resource management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operator training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project team management methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project management tools and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance, Installation and Repair:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintain and optimize technology in support of process or manufacturing equipment and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support the installation, customization, or upgrading of equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize predictive maintenance techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply preventive maintenance to ensure production or industrial process runs smoothly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, diagnose, and/or repair equipment problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with others to ensure maintenance and repairs meet operational needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain hands-on knowledge of equipment operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain equipment, tools, systems, and workstations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand maintenance impact on critical operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic disassembly/assembly skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation and calibration of instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and document equipment/system/process improvements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment/system/process troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation of parts for industrial equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schematic drawings, models, and control documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of hardware and software tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance, installation, and repair skills (including but not limited to a basic knowledge of)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Networking and communications systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programmable/configurable systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical/electronic systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic/pneumatic systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical power transmission systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piping operations and equipment installation best practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability and maintainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis of failure data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Root cause analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic reliability models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigative techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alarm and event analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operational Quality Assurance:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure product and process meets quality requirements as defined by customer specifications."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply basic concepts associated with measuring quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement controls to support quality management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use quality management to ensure quality levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek new approaches and techniques to improve quality levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ audits and inspections to maintain the quality and continuous improvement process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correct the product and process to meet quality standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corrective and preventive actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Eliminating non-conformities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Improving quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem solving tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sampling and charting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical process control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meeting customer needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality management systems and tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality assurance audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISO 9000 - Quality management systems - Fundamentals and vocabulary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical process control methods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acceptance sampling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Capability analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Factor analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection/test/validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement uncertainty and dead time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process and Equipment Health, Safety, and Environment:"
+			},
+			"comment": {
+				"en-us": [
+					"Equipment, practices, and procedures which promote a healthy and safe work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that equipment is being used safely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with local, federal and company health, safety, and environmental regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify unsafe or insecure conditions and take corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct health, safety, and/or environmental incident and hazard investigations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct preventive health, safety, and/or environmental incident and hazard inspections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement continuous improvement in health, safety, and/or environmental practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous improvement in health, safety, and environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis of health/safety/environmental data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification of projects and priorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Root cause analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental protection/waste management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical hazard assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design to minimize environmental impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigations for health, safety, or environmental incidences/hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Developing corrective actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation of findings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow-up investigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Insurance (property)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Violations reports to proper authorities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workers’ compensation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Communication (HAZCOM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Handling and Disposal (HAZMAT)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Material Information System Labeling and Storage (HMIS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations governing safe use of equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Role of the Occupational Safety and Health Administration (OSHA), the Environmental Protection Administration (EPA) or other appropriate regulatory bodies in the workplace (US only)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade Compliance Center, Department of Commerce (US only)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confined spaces"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First aid or first response procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assessing material, equipment, and fixtures for hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lock/tag out practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Data Sheets (SDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe evacuation of facility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe moving of materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe, prescribed operation of equipment and tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use, maintenance, and inspection of machine safeguards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of safety equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specific Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Context of Automation:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems, processes, applications, and standards supporting the design and application of automation."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the role and impact of automation to increase process performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify major application areas for automation technology and calculate the financial implications of that automation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate automation in various manufacturing, industrial, utility, scientific, and technical applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by industry codes, standards, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and apply emerging and future automation technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automation types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discrete (e.g., automotive, heavy equipment, aircraft, aerospace, consumer goods)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process (e.g., chemicals, refining, brewing, smelting, energy, utilities, pharmaceutical manufacturing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-industrial applications (e.g., guidance systems, traffic control, test stands, and warehousing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building (e.g., commercial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automation project phases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conceptual design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Feasibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Definition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detail design and procurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commissioning/start-up"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing and validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance, troubleshooting, and repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Codes, standards, and regulatory bodies (as applicable)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "American National Standards Institute (ANSI)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Institute of Electrical and Electronics Engineers (IEEE)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Society of Automation (ISA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Electro-technical Commission (IEC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Electrical Code (NEC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Electrical Manufacturers Association (NEMA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Fire Protection Association (NFPA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Safety and Health Administration (OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Protection Agency (EPA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other industry-specific codes, standards, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other international codes, standards, and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 62381 - Factory Acceptance Test"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 62337 - Commissioning of Electrical, Instrumentation and Control Systems in the Process Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field Devices:"
+			},
+			"comment": {
+				"en-us": [
+					"The sensing, measurement, and final control elements necessary for automation."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, specify, and design the installation of devices to measure and analyze physical and chemical properties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, specify, and design the installation of devices to manipulate flows, energy, positions, speeds, and other variables"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and install wired and/or wireless systems that reliably communicate information from these devices to and from control equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calibrate, troubleshoot, test, repair, and improve sensing, measurement, and final control elements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Document measurement, final control elements, and communications from these devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas (including but not limited to):"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Device sizing and selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation point selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Signal conditioning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance (e.g., drift, linearity, offset, reliability, precision, repeatability, rangeability, dead time, and lag time)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic process instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Level"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Temperature"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "pH"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conductivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized process instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Color"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Moisture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dissolved oxygen"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical instrumentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sample conditioning systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High performance sensors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High accuracy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High speed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized technologies (e.g., focused beam reflectance and laser based)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other measurements/sensors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Auto identification (e.g., RFID, bar codes, biometrics)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Position, speed, count"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vibration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vision systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encoders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actuation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electric actuation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic actuation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pneumatic actuation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Valve types (On/Off, throttling)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Valve 86% response time, resolution and flow characteristic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motor and drive control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "AC/DC motors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power transmission (e.g. gear boxes)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Smart motors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speed and torque control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Servos and steppers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrument lists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Location plans (instrument location drawings)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piping and Instrument Diagrams (P&ID)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specification forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical installation details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical installation reliability and maintainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA-RP105.00.01-2017 - Management of Calibration Program of an Industrial and Automation Control System"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA-TR108.1-2015 Intelligent Device Management Part 1 Concepts and Terminology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 60654 - Industrial-Process Measurement and Control Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 60770 - Transmitters for Use in Industrial-Process Control System"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61069 - Industrial-Process Measurement, Control and Automation - Evaluation of System Properties for the Purpose of System Assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61298 - Process Measurement and Control Devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensuring predictable, stable, and consistent operation."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control strategy development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedure development (e.g., startup and shutdown sequences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programming/Configuration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing/Simulation/Training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process characteristics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Feedback control & tuning (e.g., PID)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic regulatory control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced regulatory control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Parameter identification and adjustment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discrete and sequencing control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discrete/sequential control concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motion control system design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance V"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Batch control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Activity management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recipe management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment hierarchy model"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Error handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inferential measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Model predictive control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building automation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building environment monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heating Ventilation Air-Conditioning (HVAC) control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building security (e.g., access control, cameras)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control systems hardware and configuration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distributed control systems (DCS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programmable logic controllers (PLC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process automation controllers (PAC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supervisory Control and Data Acquisition (SCADA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaged systems (e.g., Refrigeration, UPS, Burner Management)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control system documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Logic diagrams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loop diagrams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piping and Instrument Diagrams (P&ID)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Flow Diagram (PFD)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modeling and simulation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and final control element dynamics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loop tieback models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First principle models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Virtual plant (digital twin)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Real-time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accelerated time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Replay scenarios"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechatronics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Robotic control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Machine control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motion control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated guided vehicles (AGV)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles of UI/UX/HMI (User Interface/User Experience/Human-Machine Interface)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data structures and algorithms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Programming languages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61131-3 - Programmable controllers - Part 3"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instruction list"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ladder diagram"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Function block"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structured text"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sequential function chart"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common programming languages (e.g., C/C++, HTML, Java, Visual Basic)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Numerical Control (CNC) (e.g., G-Code)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human Machine Interface (HMI) Lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Work Processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 101 - Human Machine Interfaces"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61131 - Programmable Controllers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61158 - Digital Data Communications for Measurement and Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 88 - Batch Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61499 - Function Blocks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA-TR106 - Procedure Automation for Continuous Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 112 - SCADA Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infrastructure:"
+			},
+			"comment": {
+				"en-us": [
+					"Design and implement the operational technology infrastructure for Automation Systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, document, install, and support the integration of automation systems with other systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and operate databases for automation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Address environmental aspects of equipment installation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specify and select networking and communication hardware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize system virtualization appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network Configuration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cable (wire and fiber optic) networks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network component configuration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network diagnostics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wireless networks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mesh network"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network access points"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gateways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wireless device setup"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Digital Device Communication Protocols (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "AS-i"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethernet/IP"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "DeviceNet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Foundation fieldbus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HART"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "InterBUS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modbus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "PROFIBUS DP & PA"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "BACnet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ControlNet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "LonWorks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "PROFINET"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open Connectivity Protocols (including but not limited to)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "XML, JSON, ASN.1"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encoding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethernet-TCP/IP"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open Platform Communications (OPC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Radio communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cellular, UHF, VHF, microwave, satellite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Path study"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Noise handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System virtualization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hardware requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operating system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Server hardware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Closet layout"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation best practice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ANSI/ISA 50 Parts 2-6 - Fieldbus Standard for Use in Industrial Control Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61158 - Digital Data Communications for Measurement and Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61784 - Industrial Communication Networks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 61987 - Industrial-Process Measurement and Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System Safety and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand, design and implement safe and reliable machinery and process control and safety systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and determine the need for design changes or additional equipment to improve safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine need for Safety Instrumented Systems (SIS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the appropriate Safety Integrity Levels (SIL)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop safety requirements specification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design, document, install, validate, periodically check, and maintain the safety equipment and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply instrumentation procedures in hazardous areas safely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alarm management lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Philosophy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rationalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detailed design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitoring and assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Management of change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reliability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common cause and its impact on reliability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concepts of:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mean Time to Repair (MTTR)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mean Time to Failure (MTTF)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mean Time Between Failures (MTBF)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe and dangerous failure modes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Testing intervals and its impact on performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of redundancy and how they impact dangerous and safe failure modes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Machine and process guarding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concepts of guarding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design considerations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protection levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety lifecycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocation of safety functions to protective layers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determination of safety integrity levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety requirements specification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and engineering issues and system technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation, commissioning, and validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Purpose Programmable Logic Controllers (PLCs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety PLCs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Simplex, duplex, triplex, and quad configurations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection (logic solver, field devices, networks)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic annunciation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Probabilistic modeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe use and application of electrical apparatus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment for use where explosive concentrations of gas, vapor, or dust might be present"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment selection for hazardous areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piping and Instrument Diagrams (P&ID)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 84/IEC 61511 - Safety Instrumented Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA 18 (IEC) 62682) - Alarm Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISO 13849 - Safety of Machinery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 62061 - Functional Safety of Safety-Related Electrical, Electronic, and Programmable Electronic Control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "NFPA 497 - Recommended Practice for the Classification of Flammable Liquids, Gases, or Vapors and of Hazardous (Classified) Locations for Electrical Installations in Che3mical Process Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "NFPA 499 - Recommended Practice for the Classification of Combustible Dusts and of Hazardous (Classified) Locations for Electrical Installations in Chemical Process Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "EIC 61508 - Functional Safety of Electrical/Electronic/Programmable Electronic Safety-Related Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Automation and Control Systems (IACS) Cybersecurity:"
+			},
+			"comment": {
+				"en-us": [
+					"The knowledge, skills, and abilities needed to understand the purpose and implement the function of cybersecurity in operational technology, including tools and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between IT and OT architectures and the operation of these architectures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage Cybersecurity risk as it relates to IACS"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine and implement the appropriate tools and methods for IACS Cybersecurity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand zones and conduits identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand Security Level (SL) per zone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional development to stay current on threats and remediation methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate new and emerging cybersecurity defense technologies and trends into proposed solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reassess risk as automation systems evolve"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand policies and procedures - IT and OT"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technologies -Security Lifecycle - assess, implement and maintain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "People - training and motivation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Networks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the impact on OT systems of security hardware and software options such as encryption and intrusion detection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain guidance on separation of OT and IT system networks and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify zones and conduits and implement controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operating systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe how to manage patches to IT and OT operating systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the implications of installed patches to IT and OT systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Telecommunications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the communications protocols used in OT architectures, with their relative pros and cons"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information assurance - The standards, procedures, and applications used to protect the confidentiality, integrity and availability of information and information systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identity management and authentication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "System integrity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Restricted data flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Timely response to events"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resource availability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security Lifecycle - The overall business process for managing security of information and information systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand that security management is a continuous process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the key elements which must be present in any security lifecycle: governance, identify, protect, respond and recover"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Governance - The knowledge and skills, and abilities needed to successfully manage the process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Policies and procedures - defining what will be done and how"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversight - ensuring the process is working"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify - The knowledge and skills, and abilities needed to identify the assets to be managed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differences between OT and IT systems - recognize the specialized system requirements of OT systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asset management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk management - the systems, tools, and concepts used to minimize the risk to an organization’s cyberspace and prevent a cybersecurity incident"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer defense - describe the impact of computer defense techniques and tools (such as penetration testing and vulnerability scanning) on IT and OT systems and know when to use such techniques or tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracting and procurement - describe critical IT and OT procurement requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enterprise strategies - explain the rationale of and adhere to IT and OT supply chain security/risk management policies, requirements, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect - The knowledge and skills, and abilities needed to develop and implement the appropriate safeguards to ensure delivery of critical infrastructure services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technologies and architectures - how to make systems secure (firewalls, DMZ, zones, conduits, VPNs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access control - limiting access to systems (role-based access and account management)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Awareness and training - making users aware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data security - protecting valuable information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance - managing updates safely and securely - virus scanning, patch management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outsourcing - safely outsourcing the entire technology environment (cloud computing, etc.), taking into account the limitations of outsourcing OT systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe internet behavior - not accessing email or internet on OT system computers; not installing unauthorized software on OT system computers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote working - restrictions on accessing OT systems at home or outside the secure work areas of the business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect - The knowledge, skills, and abilities needed to identify threats or incidents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intrusion detection tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Network monitoring resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attack stages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evasion strategies and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incident classification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond - The knowledge, skills, and abilities needed to respond to and remediate an incident, as well as restore functionality to the system or infrastructure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Response/business continuity planning/resilience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analysis - investigate anomalies, perform forensics, classify the incident"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications - understand roles and order of operations; report incidents consistently within established criteria; share information in accordance with plans; coordinate with stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mitigation - contain and mitigate incidents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recover - The knowledge, skills, and abilities needed to ensure timely restoration of systems or assets affected by cybersecurity events and adoption of lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recovery planning - execute recover plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications - manage public relations; repair reputation; communicate with stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Improvements - incorporate lessons learned into plans and update response strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISO 27001 - International Information Security Management Guidance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Office of Homeland Security System and Physical Security Regulations (US only)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "ISA/IEC 62443 - Security for Industrial Automation and Control Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "NIST Cybersecurity Framework"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performance Management and Decision Support:"
+			},
+			"comment": {
+				"en-us": [
+					"The knowledge, skills, and abilities needed to understand the purpose and implement the function of Data Analytics principles in operational technology, including tools and systems. Analyze and understand the results."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and develop variables to measure for key performance indicators (KPI)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and develop variables to measure Real-time Accounting (RTA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the difference between Transactional and Real-time data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validate and assure data collection accuracy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage master data dictionaries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform data historian duties: collection, archiving, retrieval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate real-time data with enterprise systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply Manufacturing Operations Management systems (MOM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define and generate reports based upon the automation system data for the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing operations management (MOM) and business integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing Execution Systems (MES)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detailed production scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration with business planning and logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Level 3 equipment hierarchy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Level 3-4 boundary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other manufacturing activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production operations management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enterprise asset management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data contextualization (online/offline)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data modeling (UML, Entity Relation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data quality issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data storage and retrieval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database operations and maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Database structure and types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Special requirements of real-time process databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Analytics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical analysis algorithms and tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data visualization, presentation, and reporting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Optimization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheet analytics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correlation across multiple data sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dynamic compensation of continuous process inputs for synchronization with process outputs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "IEC 62264- Enterprise Control System Integration"
+			}
+		}
+	]
+}

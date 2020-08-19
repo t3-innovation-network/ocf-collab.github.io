@@ -1,0 +1,504 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-c62c336f-a76d-4d7f-a777-367e7cc72d17",
+		"name": {
+			"en-us": "Beta Connecting Credentials Framework"
+		},
+		"description": {
+			"en-us": "The Framework uses competencies -- what the learner knows and is able to do -- as common reference points to help understand and compare the levels and types of knowledge and skills that underlie degrees, certificates, industry certifications, licenses, apprenticeships, badges and other credentials. Competencies are understood both in industry and academia and can be applied in multiple contexts, making them a powerful unifying way to examine credentials. The Beta Credentials Framework has undergone extensive reviews and field testing in order to revise the framework and ensure its broad utility. An updated and full version of the framework is planned for a January 2019 release."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Knowledge"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge describes what a learner knows, understands and can demonstrate in terms of the body of facts, principles, theories and practices related to fields of application (study and work). The requirements and competencies are described in terms of: Depth, Breadth , Dimension"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skills"
+			},
+			"comment": {
+				"en-us": [
+					"Skills describe what an individual can do in applying knowledge, completing tasks, and solving problems (involving the use of logical, intuitive and creative thinking). Skills can be described in terms of types and complexity and include cognitive, technical, communication, interpersonal and practical skills (involving manual dexterity and the use of methods, materials, tools and instruments)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates general knowledge within predetermined fields of study or work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates and uses basic knowledge within a field of study or work that includes relevant principles and practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates and applies extended knowledge within a field of study or field of occupational activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes the knowledge of a limited range of technical and theoretical concepts, procedures and solutions to predictable problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates a comprehensive theoretical and technical knowledge within a field of study or an occupational field to determine solutions to unfamiliar patterns."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates integrated and specialized professional knowledge within a field of study or occupational activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes deeper theoretical and professional knowledge, including the scope, the core theories and practices and the limitations of the field of study or field of occupational activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates broad integrated knowledge concerning scientific principles and the practical application of a scientific or complex subject."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes a critical understanding of the most important theories, a range of methods as well as relevant and innovative occupational and technical developments to address complex problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates knowledge related to the further development of a scientific or complex subject, a field of occupational activity or relevant knowledge at the interface of different areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates comprehensive, detailed, specialized and state-of-the-art knowledge in a scientific subject or in a strategically oriented field of professional activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes demonstrating an extended knowledge in adjoining areas of study or work, major theories, methods and schools of practice in the field of study or profession, and their relationships to allied fields."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates comprehensive, specialized, systematic state-of-the-art knowledge in a discipline or profession and contributes to innovation or the expansion of knowledge."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes specialized knowledge at the interface of adjoining disciplines or areas of practice that may include the acquisition and application of knowledge in a new discipline or professional area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized Skills"
+			},
+			"comment": {
+				"en-us": [
+					"Specialized skills include occupational and discipline-specific skills. The requirements and competencies are described in terms of: Critical Thinking and Judgment, Integrative Application , Systems Thinking"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Skills"
+			},
+			"comment": {
+				"en-us": [
+					"Personal skills describe the competency required to act in an independent and responsible manner in various situations, to exercise judgment and demonstrate critical thinking and problem solving. The requirements and competencies are described in terms of: Autonomy, Responsibility, Self-Awareness and Reflectiveness"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Skills"
+			},
+			"comment": {
+				"en-us": [
+					"Social skills describe the individual's ability to demonstrate respect for the behavior of others and differing viewpoints, to communicate with others effectively, and to work effectively with people from diverse backgrounds and points of view. The requirements and competencies are described in terms of: Communication, Involvement, Teamwork and Leadership"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates basic cognitive and practical skills required to carry out tasks with stipulated rules."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates ability to recognize and to act on elementary relationships between assignments and tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates basic cognitive and practical skills required to carry out tasks within a field of study or work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates the results of such tasks in accordance with pre-stipulated criteria and establishes correlations among functions and tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates a broad range of cognitive and practical skills which facilitate autonomous preparation for performing tasks and problem solving, identifying and using relevant methods and skills to complete tasks and to address well defined problems having a measure of complexity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates results in accordance with criteria which are largely pre-stipulated, provides simple reporting of methods and results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates the use of a broad range of cognitive and practical skills which facilitate problem solving and the completion of complex tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plans and designs appropriate approaches and processes, evaluates work and learning results."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates ability to select alternative actions or practices based on observations of reciprocal effects on other functional areas or tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an extended, broad range of specialized cognitive and practical skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and frames complex problems in selected areas of study and work, and distinguishes among ideas, concepts, theories or practical approaches to solve those problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plans work processes across learning and work areas. Evaluates such processes, comprehensively considering alternatives and their potential impacts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates and applies a comprehensive range of methods for processing complex tasks and problems within a scientific subject, field of study or field of professional activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiates and evaluates theories and approaches to selected complex problems within the chosen field of study or professional activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops and evaluates new solutions and considers the effect on various criteria even in circumstances where requirements are subject to frequent change."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates specialized technical or conceptual skills to analyze, consolidate and synthesize knowledge in order to identify and to provide solutions to strategic problems in a scientific subject or in a field of professional activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "This includes the initiation, planning and evaluation of varied specialized technical or creative functions, the exploration of current limits of theory, knowledge and practice, and the consideration of alternatives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates high-level, independent judgments in a range of technical or management functions and articulates significant challenges involved."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates and applies skills in making high-level, independent judgments in a range of technical or management functions in varied specialized contexts. This includes the initiation, planning and evaluation of broad specialized technical and creative functions comprising cross-activity areas and the consideration of alternatives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates comprehensively developed skills for the identification and solution of novel problems set in the areas of research, development or innovation within a specialized scientific subject or in a field of professional activity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates respect for the actions of others while performing tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accepts and expresses general feedback and critique."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates ability to work within a group in familiar and stable contexts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates basic interpersonal and communication abilities required to learn and exchange knowledge with others in study and workplace contexts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates listening and following brief highly structured directions requiring limited attention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates intermediate interpersonal abilities required in learning and the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses communication abilities to transfer some knowledge and specialized skills to others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses effective listening and comprehension skills for receiving direction or information from others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates strong interpersonal abilities required in learning and in the workplace, in particular the ability to: (1) articulate processes and results, (2) share and receive specialized knowledge when required and (3) demonstrate and explain skills to others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learns and works in complex and heterogeneous groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Helps shape the work within a group in a learning or working environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presents clear, timely and relevant information on processes and results to the appropriate recipients."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates advanced interpersonal abilities required in learning and in the workplace, in particular the ability to communicate effectively about solutions to complex problems when the subject matter may be moderately sensitive, controversial or likely to be questioned or challenged."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assists in shaping the work in a group according to the learning or work environment of such a group while offering ongoing support"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plans and structures work processes in a collaborative manner, including within heterogeneous groups."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acts in an anticipatory manner while considering the interests and requirements of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates the potential consequences for work processes within teams, instructs others and provides well-founded learning guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates advanced interpersonal abilities required in learning and in the workplace, including the ability to present complex facts and circumstances and to communicate about solutions in a manner that is contextually appropriate to cross-disciplinary audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes responsibility while working in expert teams and shows responsibility in leading groups or organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instructs the professional development of others and acts in an anticipatory manner to address problems within teams."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates advanced interpersonal abilities required in learning and in the workplace, including the ability to comprehensively and clearly communicate about methods, technologies, knowledge and ideas. This includes the ability to present arguments and solutions to complex problems, even when subject matter is highly complex, unfamiliar or technical."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes responsibility for leading groups, organizations or, where relevant, for work and roles of others within the scope of complex tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promotes the professional development of others in a targeted manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates appropriate communications abilities to lead expert debates on new ideas and problems in a specific discipline and across disciplines or in a professional field and related areas."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates the ability to build consensus and apply negotiating practices in a group or interactive environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leads groups or organizations in complex or interdisciplinary tasks while activating the areas of potential within such groups or organizations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates deep levels of interpersonal abilities required in learning and the workplace. In particular, demonstrates communication abilities to transfer knowledge and specialized skills to others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leads cross-specialty debates in a targeted and sustained manner and introduces innovative contributions to specialized professional discussions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledges one's own actions while performing tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates taking responsibility for learning and the outcomes of structured activities in familiar and stable contexts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes individual responsibility for completing tasks and procedures within a limited range of contexts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exercises some autonomy subject to overall direction and guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses stipulated learning guides and requests learning guidance when needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performs tasks, employs procedures, and attains a quality of output with considerable responsibility and autonomy within contexts which are less familiar and stable, subject to overall direction or guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acknowledges different perspectives or approaches within an area of study or work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sets one's own learning and work objectives, and takes responsibility for them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates initiative in planning and designing technical, management or learning functions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sets one's own learning and work objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reflects, assesses such objectives and takes responsibility for them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates persistence and flexibility in attaining objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes responsibility for overall actions and results as well as exercises autonomy within broader parameters."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reflects understanding of different perspectives or approaches within an area of study and work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Undertakes self-directed pursuit of objectives and takes responsibility for such objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reflects and assesses one's own and externally set learning objectives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exercises broad autonomy and responsibility for planning and developing of learning and work processes that are capable of underpinning substantial changes or developments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defines, reflects and assesses autonomously and sustainably the objectives for learning and work processes and structures learning and work processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates the strengths and weaknesses of these processes, and, where applicable, describes the result."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exercises broad autonomy across a significant area of work or study and takes responsibility for planning and developing actions in learning and work that initiate complex tasks or underpin substantial changes or developments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defines objectives for new applications or research-oriented tasks reflecting on possible societal, economic and cultural implications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exercises comprehensive autonomy as a leading scholar or practitioner and takes responsibility for planning and developing actions in learning and the advancement of professional practice that have a significant impact on the field of work or knowledge, or result in substantial organizational or professional change."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Defines objectives for new complex applications or research-oriented tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selects appropriate means and develops new ideas and processes."
+			}
+		}
+	]
+}

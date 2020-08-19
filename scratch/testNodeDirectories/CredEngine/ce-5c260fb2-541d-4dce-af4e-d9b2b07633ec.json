@@ -1,0 +1,2054 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-5c260fb2-541d-4dce-af4e-d9b2b07633ec",
+		"name": {
+			"en-us": "Residential Construction Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with Homebuilders Institute (HBI), the workforce development arm of the National Association of Home Builders (NAHB), the Employment and Training Administration (ETA) has worked with industry leaders to develop a comprehensive competency model for the residential construction industry. The model is designed to evolve along with changing skill requirements. HBI has committed to working with its industry partners to keep the model current.\n\nIn 2017, the model was revised to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"residential construction",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Display skills to work with others from a range of backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact respectfully with coworkers of different cultures, genders, and backgrounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work cooperatively with others on the job and display a good-natured attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Display accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply ethical standards of the industry to workplace/jobsite conduct"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for property of customers, employer, and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintain a professional demeanor."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by keeping emotions in check"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and deal calmly with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for the workplace/jobsite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrate a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive, and effort to accomplish tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task or problem despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work independently and perform effectively even with little or no supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate the ability to change from one task to another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative to seek out new responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain challenging, but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Display responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arrive at work fit and on time each day"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Avoid absenteeism"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work accurately and quickly under pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete assignments and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with rules, policies, and procedures such as safety, personal hygiene, personal discipline, substance abuse, employee theft, and sexual harassment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Willingness to Learn:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand the importance of learning new information for both current and future problem solving and decision making."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in training opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn new skills related to the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept help from supervisors and co-workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out feedback from others to improve job performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying occupational interests, strengths, and opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify opportunities for career advancement and certification requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand technical and workplace documents such as contracts, regulations, manuals, reports, memos, forms, graphs, charts, tables, calendars, schedules, signs, and notices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand operating directions, installation instructions, and standard operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the meaning of specialized words or phrases unique to the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to follow instructions and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Use standard English to compile information and prepare written documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate ideas, information, and messages which may contain technical material, in a logical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare documents such as written estimates, work orders, memos, and technical reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fill out forms, reports, records, logs, and documents to comply with project requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use industry jargon, acronyms, and terminology appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Use principles of mathematics such as arithmetic, algebra, and geometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions; convert fractions to percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurements of structures, distances, length, width, height, perimeter, area, weight, and temperature"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and report measurements correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert common units of measurement (e.g., from English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find level, plumb, and square"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read gauges and measurement instruments accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate sizes, distances, and quantities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use dimensions, spaces, and structures calculations to estimate resources, materials, and supplies needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the right mathematical method or formula to solve a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform math operations accurately to complete jobsite/workplace tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use various formulas for calculating the amount of materials needed to complete a task"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate volumes of shapes and structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate dimensions from blueprints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Use scientific rules and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand scientific principles critical to the construction profession: physics, chemistry, geology and environmental science, hydraulics, hydrology, & engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand chemical reactions such as how mortar sets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand physical principles such as forces, friction, and energy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand weight and mass and how it relates to rigging, wind, and structure supports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and evaluate the characteristics and hazards of electricity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and understand the interactions of compatible and incompatible substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply basic scientific principles and technology to solve problems and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication—Visual and Verbal:"
+			},
+			"comment": {
+				"en-us": [
+					"Listen, speak, and signal so others can understand. Communicate in spoken English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking & Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak in English well enough to be understood by others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and succinctly to convey information correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of slang and jargon related to the different trades"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend terminology spoken on a construction site"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and respond to verbal messages and instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Visual"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use hand signals to communicate with other workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the correct location to see and be seen as the signaler"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize universal signs and symbols such as colors, flags, stakes to function safely in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Use a computer and related applications to input, store, and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic computer hardware (e.g. PCs, printers) and software (e.g. word processing software, spreadsheet software) to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand capabilities of computers and common computer terminology (e.g., program, operating system)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand computer terminology related to the construction profession (e.g., Global Positioning Systems, Geographic Information Systems, Electronic Surveying Equipment)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize, store, and retrieve files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing Documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing programs to create simple documents and business communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Electronic Mail and Internet applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Spreadsheet and Database applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enter data and type materials quickly and accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double check work to identify and correct typographical errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Work cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the roles and responsibilities of the individual as part of a team and the hierarchy of individuals on the jobsite"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform responsibly as a team member and assist other members of the work team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the group or team to achieve team goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively resolve conflicts with co-workers to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist others who have less experience or have heavy workloads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Following Directions:"
+			},
+			"comment": {
+				"en-us": [
+					"Receive, understand, and carry out assignments with minimal supervision."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions to clarify unclear directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act upon the instruction to complete an assignment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehend and follow steps used in construction work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Scheduling:"
+			},
+			"comment": {
+				"en-us": [
+					"Plan, organize, and schedule a project/job to optimize workflow sequence."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan for and implement phases of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify methods of planning that will save a contractor money, time, and materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the relationship between available resources and requirements of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research jobsite information to identify appropriate craft responsibilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate work between trades"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan work processes including matching material amounts and types of work to be done"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create work sequences for tasks and units of work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively and coordinate efforts with all affected parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate the time required to perform activities needed to accomplish a specific task"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a timeline for sequencing the activities of a project/job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish specific goals to accomplish work in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage Obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion and develop contingency plans to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate potential job disruptions into planning time lines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust plan/schedules to respond to unexpected events and conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide a project update to track changes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply critical-thinking skills to solve problems encountered on the work site."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem define critical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, obtain, and review information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to develop new ideas for and answers to work related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and Implement a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose the best solution after contemplating approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Select, use, and maintain tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and Use Tools and Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the hand and power tools appropriate to the work site and to the trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select tools, technology, machinery, and equipment appropriate for a given job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate appropriate use of tools to complete work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate hand or power tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and decide what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Enter, transcribe, record, store, or maintain information in written or electronic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine structures and systems to determine need for repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnose malfunctioning systems, apparatus, and material components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a checklist to track preventative maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete and maintain preventative maintenance records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor work and record progress of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records and files that are up-to-date and readily accessible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Craftsmanship:"
+			},
+			"comment": {
+				"en-us": [
+					"Recognize the responsibilities and personal characteristics of a professional craftsperson."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Aptitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the physical aptitudes necessary to perform critical work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate manual dexterity, balance, and eye-hand coordination"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate sufficient stamina to complete critical work functions (e.g., complete full shift, walking, carrying heavy objects for extended periods)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trade Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read trade magazines and journals, manufacturers’ catalogues, industry publications, and internet sites to keep current on industry trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay up-to-date technically and apply new knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform quality work meeting or exceeding the standards of the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building and Construction Design:"
+			},
+			"comment": {
+				"en-us": [
+					"Understand the steps involved in designing construction projects (e.g., planning, generating layouts, developing & interpreting drawings)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize basic engineering and architectural principles in structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify components of building systems needed to complete a construction project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand design techniques, tools, and principles involved in the production of precision technical plans, blueprints, drawings, and models"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret documentation, detailed instructions, drawings, or specifications about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Blueprints/Drawings/Specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw rough and detailed scale plans for foundations, buildings, and structures based on preliminary concepts, sketches, engineering calculations, specification sheets and other data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize elements and symbols of blueprints, drawings, and specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret dimensions, symbols, types of lines, views, and scales"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Visualize three-dimensional forms from two-dimensional drawings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate worksite features included on a construction plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert scaled blueprint drawing measurements to full dimensions for a given project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply surveying methods to problems of leveling, line direction, measurement of angles, measurement of distance, and transverse computations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of zoning, property lines, utilities, building line, setback, building corners, and elevation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the actual location/elevation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use lasers/levels/transits to check alignment and elevations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify specific hazards and be aware of them while performing excavation tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demolish and/or disassemble and remove structures and buildings prior to repair or new construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Resources:"
+			},
+			"comment": {
+				"en-us": [
+					"Identify, move, store, and supply construction and building materials for all types of construction activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify materials necessary to complete tasks in the trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the structure and properties of various materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate waste of resources/materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate necessity for additional/alternative resources/materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiate between compatible and incompatible substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate and select building materials and assemblies to meet project specifications (e.g., metals, woods, ceramics, concrete, rubber, plastics, polymers, composites, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand criteria used for material selection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handle, install, position, move, and store materials properly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of various material finishing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and perform material testing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand appropriate transport methods of various construction materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate combinations of building materials and components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation, Installation, and Repair:"
+			},
+			"comment": {
+				"en-us": [
+					"Build and repair structures and infrastructures such as buildings, houses, bridges, dams, tunnels, utilities, and roads."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation/Installation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate machinery that moves materials, earth, and other heavy materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install equipment, machines, and/or materials to meet specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assemble temporary facilities, rigging, formwork, scaffolding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Install, connect, test, and maintain electrical systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, cut, install, replace, and remove all types of glass"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Place and install iron or steel girders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize appropriate applications for finishing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply finishing techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rigging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use slings and common rigging hardware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform basic hitch configurations and ensure their proper connections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice basic load-handling safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate proper use of American National Standards (ANSI) hand signals to communicate with other workers:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the correct signal to direct the load"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the correct signal to direct the load"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate how to work out signal use with the equipment operator"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and occupy vantage points to see and be seen as the signaler"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance/Repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Repair machines, systems, or structures using the needed tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, diagnose, and/or repair equipment problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain and troubleshoot mechanical, electrical, and plumbing systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform preventative maintenance to service existing structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Repair and restore existing structures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations and Quality Assurance:"
+			},
+			"comment": {
+				"en-us": [
+					"Comply with regulations and building codes, and apply industry standards to ensure quality work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be aware of and comply with governmental regulations, local and state building codes, contract provisions, and construction standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information given in regulations and codes correctly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pass job inspections and comply with regulations at all times"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete construction projects according to specified standards of quality and performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate efficiency and effectiveness of a project/job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure work is done well, safely, and according to code and customer requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect job sites, equipment, structures, or materials to identify the cause of errors or other problems or defects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect structures and systems for structural quality, general safety, and conformance to specifications and codes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct tests and inspections of products or processes to evaluate quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report on issues that affect quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure contractual roles and responsibilities are fulfilled"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Impact Mitigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and abate all types of environmental hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate, maintain, and interpret data from air sampling equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and maintain decontamination systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remove, package, dispose of, and document hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to prevent/control wind or water erosion in land development and construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain relevant permits when work will impact wetlands and take steps to minimize negative impact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health and Safety:"
+			},
+			"comment": {
+				"en-us": [
+					"Recognize and mitigate safety hazards including hazardous materials, environmental hazards, and accident conditions at any type of construction site."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a Healthy and Safe Environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR if trained and summon assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select, inspect, and use personal protective equipment such as respiratory protection and fall protection equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know effects of and how to deal with temperature extremes and weather conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work safely in confined spaces or at heights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace, making suggestions, and reporting injuries, incidents, and hazards as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand shop and worksite safety, fire safety, electrical safety, and chemical safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow ladder and scaffold safety procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate knowledge of hazardous properties of materials such as radiation, toxicity, flammability, reactivity, corrosivity, and limits of fire resistance exposure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete accident reports in accordance with required standards; file reports with appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use Material Safety Data Sheets (MSDS) information to manage, use, and dispose of hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Sector Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction of Specific Home Components:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply knowledge of specific materials and methods for construction of home components including foundation, walls, roofing, staircases, and flooring (e.g., carpet, tile, stone installation, etc.)."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structure Differentiation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the distinctions between nonresidential (i.e., stores, offices, factories, etc.) and residential structures (i.e., houses, townhouses, etc.) in terms of building codes, structure formation, building design, materials, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Science"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the terms associated with building science"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit basic understanding of flows of heat, air, and moisture through the home and various methods used to control them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand what is meant by “the house as a system” as it relates to the evaluation of prospective remodeling projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Have a working knowledge of the environment’s impact on the home and its occupants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the process of “testing in/testing out” as it relates to building science and remodeling projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site Preparation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare property for residential site excavation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carry out grubbing methods (e.g., removal of trees, stumps, plants, and rocks)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform grading procedures (e.g., altering land surfaces by cutting, filling, and/or smoothing to meet a designated form and function)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Undertake soil remediation procedures (e.g., protecting and restoring the soil’s structure)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demolish existing structures if necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lay housing foundations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building and Installation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the sequencing of events for constructing residential buildings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly build or install essential home components including, but not limited to foundations, walls, roofs, staircases, flooring, carpets, fixtures, and cabinetry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialty Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"General knowledge of specialty skills directly related to residential construction and expert knowledge of specific skills in at least one area."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand roles and responsibilities of various craftspeople"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilitate smooth workflow by recognizing relationships between trades/professions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Have general knowledge of specialty skills and develop expert knowledge in at least one area:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carpentry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Masonry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Wiring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plumbing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform duties and tasks unique to chosen craft/area of expertise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Apply knowledge of business and management principles involved in residential construction."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracts and Budgets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare contracts and negotiate revisions, changes, and additions to contractual agreements with architects, consultants, clients, suppliers, and subcontractors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare cost and expenditure statements and other necessary documentation at regular intervals for the duration of the project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up cost monitoring and reporting systems and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of documents including sales slips, paid bills, invoices, receipts, deposit slips and cancelled checks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Codes and Quality Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and obtain all necessary permits and licenses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspect and review projects to monitor compliance with building and safety codes and other regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze blueprints and other documentation to prepare time, cost, materials, and labor estimates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess cost effectiveness of products, projects, or services, tracking actual costs relative to bids as the project develops"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consult with clients, vendors, personnel in other departments or construction foremen to discuss and formulate estimates and resolve issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confer with engineers, architects, owners, contractors and subcontractors on changes and adjustments to cost estimates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Liability Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize actual or potential legal problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage liabilities in residential construction by mitigating legal problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand remedies and obligations, licenses and other bonds, arbitration or dispute resolution, and contract terminology related to residential construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Service and Homeowner Relations:"
+			},
+			"comment": {
+				"en-us": [
+					"Asses and meet the needs and expectations of the customer (homeowner) while maintaining open communication with key participants in the project."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asses needs and wants of customers/homeowners (e.g., selection of option or upgrades and custom home design)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Educate the customer/homeowner regarding products and/or services through telephone, email, and/or face-to-face interactions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate frequently with customers/homeowners"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively handle difficult builder/homeowner situations (e.g., delivery/completion date negotiations)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to customer inquires and resolve customer/homeowner complaints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that appropriate actions are taken to assist customer /homeowner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Green Building Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge and application of green building practices to the construction or renovation of residential buildings."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and research green building trends in the residential construction industry including use of new materials, technologies, and processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the growth and impact of green building practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the environmental and economic benefits of green building practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate new methods and materials into design and construction of residential buildings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Meet requirements to verify that a building project meets the highest green building and performance measures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Siting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select sites well suited to take advantage of mass transit when possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect and retain existing landscaping and natural features"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select plants that have low water and pesticide needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use compost and mulches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform home energy audits to determine the energy efficiency of a structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop strategies to provide or increase natural lighting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select sustainable construction materials and products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimize wastewater by using water conserving fixtures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Waste Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow waste management plans per contract requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Minimize construction waste and demolition debris"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand waste management terminology including: construction waste, demolition debris, land clearing debris, disposal, recycling, salvage, reuse, deconstruction, commingled, source separation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reuse or recycle materials, e.g.: concrete, masonry scrap, metals, clean wood, plastics, insulation material, un-tempered glass, carpet and carpet pad, ceiling tiles, plumbing fixtures and equipment, lighting fixtures and electrical components, cardboard packaging"
+			}
+		}
+	]
+}

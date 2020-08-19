@@ -1,0 +1,574 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-61c40727-d7b0-43de-8cef-4c86b51b3d09",
+		"name": {
+			"en-us": "Certified Sous Chef"
+		},
+		"description": {
+			"en-us": "Competencies for Certified Sous Chef from the American Culinary Federation."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Cooking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product Identification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify fruits and vegetables."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify poultry and poultry cuts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify beef, veal and associated fabricated cuts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify pork and fabricated pork cuts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify lamb and fabricated lamb cuts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify game (e.g., venison, boar, pheasant)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify seafood."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify herbs and spices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify dry goods (e.g. rice types, bean types, pasta shapes, flours)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cooking Methods and Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and monitor classic and modern techniques, which maximize flavor and respect the integrity\nof the food product."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and monitor wet, dry and combination cooking methods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain product execution and workflow."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the design of all areas in the facility (dining area, kitchen, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify pots and pans for specific cooking applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate electrical and gas equipment for specific cooking applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select small wares for specific cooking applications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select knife for specific application."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select measurement devices for specific applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fabrication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine and monitor fabrication and yield testing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fabricate proteins (e.g., meat, poultry, seafood, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare fruits, vegetables and other food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify primal and subprimal cuts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finish plates or buffet presentations with sauces and/or garnishes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain standards of food quality and food presentation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recipe and Menu Implementation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze and evaluate a recipe's methodology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify necessary equipment and food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oversee recipe execution."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop specifications (e.g., quality, quantity, nutrition) for menu items to be served."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan plating or buffet presentations of menu items to be served."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create, select, test and evaluate recipes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan presentation of food."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Share product information internally."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety and Sanitation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food and Product Handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rotate food product (e.g., FIFO, LIFO, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate product quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and select food storage area."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Store cleaning chemicals according to established guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive product according to established guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use tools and/or gloves according to established procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laws and Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established temperature guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established guidelines for handling ready-to-eat foods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Label and date food products according to established guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established guidelines for cleaning and sanitizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established guidelines for storing dry goods (e.g. 6 inches off the floor, not against the\nwall)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established guidelines for storing potentially hazardous foods."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure workplace safety."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow established guidelines on workplace hazards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HACCP Compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supervise culinary team's adherence to HACCP processes and procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record time and temperature data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain HACCP documents for team accessibility."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take corrective actions according to HAACP procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Baking and Pastry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nutrition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Baking Methods and Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify techniques needed for execution of formulas in baking and pastry production"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment and Ingredients"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist with supervision of baking and pastry production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain required equipment and ingredients for baking and pastry production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Presentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Portion baked goods and pastries."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in developing standards for presentation of baked goods and pastries."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare necessary garnishes and sauces for baked goods and pastries."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulas, Weights, and Measurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure proper ingredient identification and utilization in baking and pastry production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow the established units of measurement in baking and pastry production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a scale to measure food product amounts used in baking and pastry production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify common allergens."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Label food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take safety measures to avoid contamination."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dietary Considerations and Guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate recipes and portion sizes for nutritional content."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with serving staff regarding guests' dietary choices and restrictions (e.g., high\nsodium, gluten, etc.)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in researching and monitoring adherence to current nutritional guidelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food and Labor Cost"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control food costs by minimizing food waste and monitoring portion sizes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in establishing and monitoring food and labor costs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in establishing price points for menu items"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purchasing and Receiving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requisition food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procure food and non-food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take inventory of food and non-food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Culinary Math"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert recipes for designated quantities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate product yield and portion sizes for acquisition of food products."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Team Management and Supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assign team members based on production needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate front of the house operations with back of the house operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supervise culinary team members engaged in food preparation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with culinary team members to minimize risk to personal health and safety."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Team Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Train culinary team members in culinary fundamentals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in supervising and managing the culinary team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal Employment Laws and Labor Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure compliance with laws and labor regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assist in managing the duties of the profession in a manner consistent with governing laws,\ncodes and regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethics and Professional Issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform the duties of the profession in a manner consistent with the American Culinary\nFederation Culinarians' Code."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolve guest complaints in a professional manner."
+			}
+		}
+	]
+}

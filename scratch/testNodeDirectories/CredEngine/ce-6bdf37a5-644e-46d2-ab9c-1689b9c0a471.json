@@ -1,0 +1,2793 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-6bdf37a5-644e-46d2-ab9c-1689b9c0a471",
+		"name": {
+			"en-us": "Entrepreneurship Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with the Consortium for Entrepreneurship Education (CEE), the Employment and Training Administration (ETA) has worked with education, business, and industry leaders to develop a comprehensive competency model for entrepreneurship as it relates to all careers areas. The model is designed to be adaptable along with changing skill requirements. CEE has committed to working with entrepreneurship leaders and partners to keep the model current."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"entrepreneurship"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with others from diverse backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate Insight into Behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpret accurately the verbal and nonverbal behavior of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight into the actions and motives of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when relationships with others are strained"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the abilities and personalities of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain Open Communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open lines of communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to share problems, successes, and new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish a high degree of trust and credibility with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate honesty and integrity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work with Diverse People"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Value diversity of people and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep an open mind when dealing with a wide-range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider others’ viewpoints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop effective relationships with diverse personalities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take action to learn about the climate, orientation, needs, and values of other groups, organizations, or cultures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take Initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit confidence in capabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate the expectation to succeed in future activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek opportunities to influence events and originate action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set Challenging Goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish personally challenging but attainable work goals (short-, medium-, and long-term goals)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set definite time spans for the achievement of goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Articulate a vision for achieving goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work Independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop own ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform effectively with minimal direction, support, or approval"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exert effort toward task mastery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bring issues to closure by pushing forward until a resolution is achieved"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ambition:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating desire and dedication to achieve goals."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motivation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Endeavor to succeed and excel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess a desire for change, improvement, and personal accomplishment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persistence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with passion, energy, drive, and a strong accomplishment orientation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accomplish tasks even when conditions are difficult or deadlines are tight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task or problem despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perseverance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show patience, tenacity, and determination to achieve goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Undertake long-term commitments to new projects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cope with stress and ambiguity, especially in times of uncertainty"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weather the highs and lows of business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability & Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying the capability to adapt to new, different, or changing requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ Unique Analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate innovative ideas in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain New Ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider new ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embrace new approaches when appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discard approaches that are no longer working"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be willing to change as the organization evolves"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with Ambiguity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show tolerance for ambiguous, unstructured situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take effective action even without all the necessary facts in hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change plans, goals, actions, or priorities to deal with unpredictable or unexpected events, pressures, situations and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Willingness to Take Risks:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to accept risks associated with entrepreneurial activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate Risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the risk associated with a particular action or decision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare the risk of one decision/action with that of alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the “worst case scenario”"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weigh costs and benefits to assess whether a risk is worth assuming"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate the risks and possible rewards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assume Risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take calculated risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop back-up and alternative plans to minimize potential risk factors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat failures, should they occur, as valuable learning experiences"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Willingness to Learn:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an Interest in Learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be curious and attentive to identify business opportunities (the environment in which businesses operate is constantly changing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate changes in work demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Search for and participate in assignments or training that address changing demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learning Strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set lifelong learning goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify when it is necessary to acquire new knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue opportunities to develop new knowledge, skills, and expertise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify Career Interests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying interests, strengths, options, and new business opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make insightful career planning decisions based on consideration of others’ feedback and available opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate written information in prose and in documents such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, and directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attain meaning and core ideas in written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attention to Detail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify main ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Note details and facts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect inconsistencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify implied meaning and details, missing information, and trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze information in written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Synthesize information from various written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate what is learned from written materials with prior knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply what is learned from written material to follow instructions and complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to compile information and convey ideas."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare accurate, clear, error-free written communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as letters, directions, manuals, reports, graphs, and flow charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate ideas and information, which may contain technical material, in a logical, organized, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convey ideas that are well developed with supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tone"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write in a manner appropriate for business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use language appropriate for the target audience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate tone and word choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to express ideas and solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quantification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and write numbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Count and place numbers in sequence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize whether one number is larger than another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform basic math computations accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate mathematical formulas and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Graph and chart data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate percentages, averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert decimals to fractions and fractions to percents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial Literacy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply personal money-management principles and strategies to personal finances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the functions and services of financial institutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science & Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying scientific principles and using technology to solve problems or develop solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension & Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain basic scientific principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use commonly available technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consider carefully which tools or technological solutions are appropriate for a given job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose consistently the best tool or technological solution for the problem at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate innovative thinking by using new and existing technology in new ways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication- Listening & Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking & Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present information in a logically organized manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Articulate clearly passion, vision, venture, and commitment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use eye contact and non-verbal expression effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Track audience responses and react appropriately to those responses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuasion/Influence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Influence others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present thoughts and ideas in a persuasive manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gain commitment and support for proposed ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Help others overcome resistance to change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Woo venture capitalists and other contacts to seek financial support for new ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persuade key decision makers to invest resources to transform ideas into reality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Active Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Appreciate feelings and concerns of verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attend to nonverbal cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to verbal and nonverbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions to clarify issues or unclear messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical & Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic and reasoning to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental Agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn new enterprises quickly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shift gears and change direction when working on multiple projects or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyzing Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze points of view"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Categorize and classify data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare and contrast information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess sufficient inductive and deductive reasoning ability to perform job successfully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically review, analyze, synthesize, compare and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant and/or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply knowledge of the relationships among facts when solving problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand principles of cause and effect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating innovative and creative solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Innovative Solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities others may miss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information, knowledge, and beliefs to generate original, innovative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take advantage of difficult or unusual situations to develop unique approaches and useful solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Search for new ways of improving efficiency of existing processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify what is missing from current product stream"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Search for new ideas for product improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply innovative new ideas that satisfy the needs of a clearly defined market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate new ways of thinking, not merely about what is, but of what might be"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct brainstorming sessions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit capacity for imagination, creativity, and empathy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "See the Big Picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Possess broad knowledge and perspective"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Piece together seemingly unrelated data to identify patterns and trends to see a bigger picture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think expansively by combining ideas in unique ways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make connections between disparate things to see what others may have missed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the pieces of a system as a whole and the consequences of actions on parts of the system"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Networking:"
+			},
+			"comment": {
+				"en-us": [
+					"Establishing professional relationships and partnerships."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek opportunities to make contacts through organizational events, social events, external organizations, and professional activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify partners/employees/consultants who complement one’s own strengths and weaknesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit trustworthy behavior to build successful business relationships"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Partnering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish strong and lasting partnerships with business contacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek ways of increasing business opportunities with contacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Negotiate with partners to create opportunities that increase the competitive position of both parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Propose innovative business deals to customers, suppliers, and business partners"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leveraging Contacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leverage contacts to obtain information relevant to the health and continued growth of the organization, including feedback on organizational performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access outside consultants who can provide market projections and advice"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaboration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate among partners to ensure buy-in and follow through on strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify mutually beneficial goals and work cooperatively with partners to achieve them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate in virtual teams via conference calls, web casts, and net meetings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop business plans to map out approaches to new ventures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Schedule tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform tasks quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing or planning work to accomplish work more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocating Resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate resources needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocate time and resources effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipating Obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop contingency plans to address obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take necessary corrective action when projects go off-track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving & Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate concerns before they arise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deal with problems and challenges in order or priority"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem by analyzing its component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recall previously learned information that is relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, Gathering, and Organizing Relevant Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use all available reference systems to locate information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collect and analyze data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examine information obtained to gain a better understanding of the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes steps to obtain information to eliminate gaps"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing and Implementing a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate numerous potential solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make difficult decisions even in the absence of solid data or in ambiguous situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe the outcomes of implementing the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess the need for alternative approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing Forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complete appropriate forms quickly and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expedite forms, orders, or advances that require immediate attention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record Keeping"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep logs, records and files that are up-to-date and readily accessible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Update logs, files, and records, noting important changes in status"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain record of daily financial transactions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain personnel records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain customer records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying knowledge of basic business principles, trends, and economics to work activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for colleagues, coworkers, and customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize relevant, ethical issues in business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Market Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain market trends in the industry and the company’s position in the market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify who the company’s primary competitors are"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay current on organizational strategies to maintain competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business and Economic Principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the economic principles and concepts fundamental to entrepreneurship/small-business ownership"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business cycles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Competition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International trade"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Private enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply and demand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine factors affecting a business’s profit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the impact of business cycles on business activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess impact of government actions on business ventures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Applications:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehending the Basics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic computer hardware (e.g. PCs, printers) and software (e.g. word processing software, spreadsheet software) to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use common computer terminology (e.g., program, operating system)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve routine hardware and software problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing Documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing programs to create, edit, and retrieve document files"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key materials quickly and accurately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Check work carefully"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify and correct keying errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use basic reference materials and tools (e.g., spell check) to ensure accuracy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct style and format, consulting style manuals as necessary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use the internet and web-based tools to manage basic workplace tasks (e.g., timekeeping, maintaining employee records, conducting information searches)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform internet functions requiring the use of log-in and password information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "E-mailing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compose professional e-mails to communicate business-related information to coworkers, colleagues, and customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the e-mail system and its basic functions (e.g., replying to/forwarding messages, using electronic address books, attaching files)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that key stakeholders are kept informed of communications by copying (i.e., “CCing”) them on important e-mails when appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet software to enter, manipulate, edit, and format text and numerical data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and save worksheets, charts, and graphs that are well organized, attractive, and useful"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurship Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Principles of Entrepreneurship:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of processes and characteristics that are central to entrepreneurial activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurial Process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement processes associated with successful entrepreneurial performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Discovery - stage in which the entrepreneur generates ideas, recognizes opportunities, and determines the feasibility of ideas, markets, ventures, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concept Development - stage in which the entrepreneur plans the venture, identifies needed resources using a business plan, identifies strategies to protect intellectual property, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resourcing - stage in which the entrepreneur identifies and acquires the financial, human, and capital resources needed for the venture startup, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actualization - stage in which the entrepreneur operates the venture and utilizes resources to achieve its goals/objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Harvesting - stage in which the entrepreneur decides on the venture’s future (growth, development, demise)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leadership & Team Building"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibit passion for goal attainment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for the enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lead others using positive statements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage creative thinking and innovation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine the roles and responsibilities that leaders and members bring to an organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enlist others in working toward a shared vision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate characteristics of effective team players and effective teams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build a team to compliment one’s own skills and talents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select people who are committed, interested, and capable of undertaking the task at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize others’ efforts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Managing Growth"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a replicable process to create enterprises that are sustainable"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the implementation and execution of the business plan to grow the enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when to seek outside help and use available resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow advice from trusted sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize when the enterprise has reached its potential"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a continuation plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pass over leadership to others when the organization needs change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innovation & Invention:"
+			},
+			"comment": {
+				"en-us": [
+					"Formulating new ideas for and applications of processes and products."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Opportunity Orientation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify changes in tastes, preferences, and trends as they are evolving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify needs, wants, and problems as they are changing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify smaller niche markets within larger markets"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to develop and offer new products and services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve, streamline, reinvent work processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain fit between business concept and opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and undertake new business ventures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the failure of other projects as research for a possible new venture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct research and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct experiment and application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice invention and innovation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify design trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Incorporate human, environmental, and technological factors in the design process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design a system, product, or service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology Transfer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify scientific research which has potential commercial value"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze the consequences of societal or technological change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop practical applications for the results of scientific research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply newly created technology to new, innovative, productive uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning:"
+			},
+			"comment": {
+				"en-us": [
+					"Determining the direction of an organization/enterprise and identifying a strategy to achieve that direction."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Venture Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine feasibility of ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess start-up requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assess risks associated with venture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine break-even point in venture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine potential for profit or loss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate costs and potential revenues for planning purposes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stages of Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Visionary Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify a clear entrepreneurial opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate research to support the viability of the idea"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a rudimentary cash-flow projection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe personnel requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Concept Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe and explain the market opportunity the venture will address"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain how the product or service will work and how it is innovative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify competition and describe strategy for meeting or beating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare a concise summary of the venture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review the plan and evaluate its effectiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Detailed Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a detailed description of the venture and of market opportunity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare complete plans: financial plan, accounting plan, legal plan, management plan, production plan, and operational plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Strategic Plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide the vision and key strategic elements of the plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide continuing guidance at a strategic level"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep the strategy focused"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sell others on completed plans and on the process of continuous strategic planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and executing a strategy to promote and sell products, services, and ideas."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing Analysis and Strategy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct an environmental scan to obtain marketing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify a customer base"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Define a target market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct market analysis and customer profiling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine unique selling proposition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate breakeven point"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forecast sales"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan strategies for meeting sales quotas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyze sales reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor internal records for marketing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a marketing plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine image business is to project (positioning)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product/Service Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement various methods to generate a product/service idea"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan product/service mix"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose product/service name"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build brand/image"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate customer experience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pricing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish pricing objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select pricing strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set prices and adjust as necessary to maximize profitability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish relationship with the client/customer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine customer/client needs and motives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recommend specific product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Convert customer/client objections into selling points"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Close the sale"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage online sales process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promotion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain the role of promotion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare a promotional budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a promotional plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write a news release"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain publicity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select sales-promotion options such as coupons, display, email"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compare types of advertising media"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conceptualize and design advertisements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate effectiveness of advertising"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial Management:"
+			},
+			"comment": {
+				"en-us": [
+					"Managing and controlling money and assets to successfully carry out entrepreneurial activities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine financing needed to start a business"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine risks associated with obtaining business credit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of financial assistance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish relationships with financial institutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explore opportunities to secure venture capital"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accounting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement regular accounting procedures and financial reports"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare estimated/projected income statement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate cash-flow needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare estimated/projected balance sheet"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine and deposit payroll taxes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "File tax returns"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Money Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish financial goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and monitor budget"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage cash flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record deposits and withdrawals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement procedures for managing debt"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Operations:"
+			},
+			"comment": {
+				"en-us": [
+					"Carrying out ongoing activities involved in the running of a business."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan business layout"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine equipment needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select business location and distribution channels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage computer-based operating systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish company buying/purchasing policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose vendors and negotiate contracts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carry out daily operations: schedule staff, maintain inventory, organize shipping/receiving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Human Resource Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a personnel organizational plan"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine hiring needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recruit new employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interview job applicants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select new employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Orient new employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Delegate responsibility for job tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage team building"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Build organizational culture"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop compensation and benefits plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conduct performance evaluations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dismiss/fire employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Assessment and Management:"
+			},
+			"comment": {
+				"en-us": [
+					"Developing a structured approach to managing uncertainty and evaluating, assuming, and mitigating risks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal Considerations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protect intellectual property rights"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select form of business ownership (e.g., sole proprietorship, partnership, corporation)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain legal documents for business operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain businesses’ reporting requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to personnel regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implement workplace regulations (e.g., OSHA, ADA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify resources to keep current on business related laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain types of business risk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate potential risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine ways that small businesses protect themselves against loss"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine business’s liabilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtain insurance coverage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop safety and security policies and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish parameters for staff responsibility/authority"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurial Focus Areas (TBD)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "It is beyond the scope of this project to develop competencies around Tier 5 Entrepreneurial Focus Areas.  The inclusion of focus areas in the model is intended to illustrate that the Entrepreneurship Competency Model serves a resource that underlies entrepreneurial activities at various levels of enterprise.  The focus areas may be built out by interest groups or communities of practice."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Youth Entrepreneurship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "K-12 education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Community-based entrepreneurship education providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Foster innovation and entrepreneurial thinking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Micro-Enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cottage industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quick startup"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Low capital investment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Low income"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Small Business Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Startup capital required"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Franchise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Revenue - over $25,000 but less than $100,000"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Entrepreneurship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Enterprise"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurs who start their own businesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "“Sector-bending” - blurring lines between business and social sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social value creation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Innovation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurs as innovators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New ways to address social problems or meet social needs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Large scale, lasting, and systemic change"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High-Growth, High-Value Entrepreneurship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Venture capital"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Angel investors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Requires money management/marketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innovation - research ideas to market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creates wealth"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employs others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Revenue - over $250,000"
+			}
+		}
+	]
+}

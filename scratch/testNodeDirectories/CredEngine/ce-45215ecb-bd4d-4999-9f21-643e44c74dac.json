@@ -1,0 +1,2090 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-45215ecb-bd4d-4999-9f21-643e44c74dac",
+		"name": {
+			"en-us": "Bioscience Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "In collaboration with the Bioscience Community of Practice, the Employment and Training Administration (ETA) has worked with education, business, and industry leaders to develop a comprehensive competency model for bioscience. The model is designed to evolve along with changing skill requirements. The community of practice members have committed to working with industry partners to keep the model current.\n\nThe study \"Technology, Talent and Capital: State Bioscience Initiatives 2008\" defines the biosciences as a diverse group of industries and activities with a common link—they apply knowledge of the way in which plants, animals, and humans function. The sector spans different markets and includes manufacturing, services, and research activities. By definition, the biosciences are a unique industry cluster and are constantly changing to incorporate the latest research and scientific discoveries."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"bioscience",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with others from diverse backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively in a multicultural, global environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respect the opinions, perspectives, customs, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interact appropriately and respectfully with supervisors and coworkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate strategies and solutions for dealing with conflicts and differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize emotional intelligence to identify, understand, and manage emotions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with ethical standards for your field"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept responsibility for one’s decisions and actions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and dealing calmly with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept criticism and attempt to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dress appropriately for occupation and maintain appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursue work with energy, drive, and effort to accomplish tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persist at a task despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take initiative in seeking out new responsibilities and work challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish and maintain personally challenging, but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strive to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave consistently, predictably, and reliably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations, complete assignments, and meet deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying a willingness to learn and apply new knowledge and skills."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in personal and professional lifelong learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat unexpected circumstances as opportunities to learn and adopt new techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek feedback, and modify behavior for improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Broaden knowledge and skills through reading publications, job shadowing, and continuing education"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take charge of personal career development by identifying personal interests and career pathways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, understand, and interpret written technical and non-technical information in documents such as manuals, reports, memos, graphs, charts, tables, schedules, and signs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify relevant details, facts, specifications, and main ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the essential message and purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infer or locate meaning of unknown or technical vocabulary"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to compile information and prepare written reports."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create and edit documents such as protocols, directions, manuals, reports, graphs, and summaries"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use correct English spelling, grammar, and punctuation to produce logical and accurate written correspondence, instructions, and documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, information, and messages, which may contain technical material, in a logical, organized, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write words, numbers, sentences, reports, and data using technical terminology and notations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using principles of mathematics such as algebra, geometry, and trigonometry to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply mathematical principles:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Systems and Relationships - whole numbers, decimals, fractions, and percentages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Number Operations, Computation, Estimation, and Rounding - addition, subtraction, multiplication, and division"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Measurement and Estimation - measurement of time, temperature, distances, length, width, height, perimeter, area, volume, weight, velocity, and speed; unit conversions (e.g., English to metric)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematical Reasoning and Problem Solving - inductive and deductive reasoning, conjectures, arguments, strategies, and interpretation of results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistics and Data Analysis - collection, reporting, and analysis of data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Algebra and Functions - equations, patterns, and functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometry - shapes and using geometric principles to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trigonometry - triangles and trigonometric functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing and applying scientific principles and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and apply scientific principles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Method - the systematic pursuit of knowledge involving the recognition and formulation of a problem, the collection of data through observation and experiment, and the formulation and testing of a hypothesis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory Equipment and Procedures - using a scientific laboratory and its equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biology - cellular structure, living organisms, structure, function, and interdependence of organisms; heredity, and evolution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biochemistry - the chemical substances and vital processes occurring in living organisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetics - the mechanisms of hereditary transmission and the variation of inherited characteristics among similar or related organisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Immunology - all aspects of the immune system including its structure and function, disorders of the immune system, blood banking, immunization, and organ transplantation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Microbiology - microorganisms and their effects on other living organisms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Molecular Biology - biology on a molecular level including the structure, function, and makeup of biologically important molecules such as DNA, RNA, and proteins"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemistry - the composition, structure, properties, and reactions of matter, especially of atomic and molecular systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analytical Chemistry - quantitative and qualitative identification of substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organic Chemistry - the chemistry of carbon compounds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physics - matter and energy and physical interactions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Listening & Speaking:"
+			},
+			"comment": {
+				"en-us": [
+					"Giving full attention to what others are saying and speaking in English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active listening skills using reflection, restatement, questioning, and clarification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking/Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas in a persuasive manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical & Analytic Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logic and reasoning to address problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use interdisciplinary skills to integrate knowledge of various academic disciplines to solve problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use inductive and deductive reasoning to analyze, synthesize, compare, and interpret information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the underlying relationship among facts and connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize problems into manageable parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer and related applications to input and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic computer hardware (e.g. PCs, printers) and software (e.g. word processing software, spreadsheet software) to perform tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer terminology (e.g., program, operating system)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamental capabilities of computers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer and information security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Word Processing - to compose, organize, and edit simple documents and other business communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet and E-mail - to search for information and communicate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spreadsheet, database, and presentation software - to store, retrieve, and present data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data entry and file storage and management - to store, retrieve, and sort detailed records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in and identify with the goals of a team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with multi-disciplinary teams"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify roles of team members and effectively communicate with all members of the team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Collaborate with others to formulate team objectives and develop consensus for best outcome"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use teamwork skills to achieve goals, solve problems, and manage conflict"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Give and receive feedback constructively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be open to considering new ways of doing things and the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning & Organizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approach tasks in a methodical and systematic manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply effective organizational skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop and implement a plan for a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing or planning work to accomplish tasks more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability/Flexibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Change gears in response to unpredictable or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively change plans, goals, actions, or priorities to deal with changing situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Time Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop a timeline for sequencing the activities of a project"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establish specific goals to accomplish work in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that others receive needed materials in time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay on schedule"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Innovative Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Generating inventive solutions"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employ unique analyses and generate new, innovative ideas in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reframe problems in a different light to find fresh approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertain wide-ranging possibilities to develop unique approaches and useful solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the pieces of a system as a whole and possess a big picture view of the situation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate innovative thinking by using new and existing technology in new ways"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate new ways of thinking, not merely about what is, but of what might be"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving & Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical-thinking skills to solve problems by generating, evaluating, and implementing solutions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the nature of the problem by analyzing its component parts and defining critical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate, obtain, and review information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generate a variety of approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Think creatively to develop new ideas for and answers to work related problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply concepts of probability to help make decisions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choose and Implement a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after contemplating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use strategies, tools, resources, and equipment to implement the solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selection & Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify, select, and apply tools or technological solutions appropriate to the task at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify potential hazards related to the use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operate tools and equipment in accordance with established operating procedures and safety standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information technology and computer applications as it supports the gathering, storage, manipulation, and transfer of data and information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify sources of information concerning state-of-the-art tools, equipment, materials, technologies, and methodologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine causes of operating errors and decide what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoot maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, & Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use observational techniques for gathering and checking data and controlling processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure accuracy of work by checking that all details have been considered"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Record data with the correct number of significant figures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of basic business principles, trends, and economics."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational Awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand trends in the industry and the company’s position in the market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one’s role in the functioning of the company"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the potential impact one’s own performance can have on the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stay current on organizational strategies to maintain competitiveness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entrepreneurship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop new ideas for and applications of processes and products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out and act on opportunities for innovation and invention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, maintain, and abide by project timelines and resource plans and work directly with other team members to ensure deliverables meet target due dates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate and track projects, train project teams, and report performance metrics to supervisors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand customer needs and goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide personalized service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act professionally with internal or external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep customers informed about decisions that affect them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and report loss, waste, or theft of company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure equipment and systems are designed to be environmentally friendly and strive to continually minimize the resulting carbon footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practice sustainability by using processes that are non-polluting, conserving of energy and natural resources, economically efficient, and safe for workers, communities, and consumers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bioscience Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"The bioscience industry and its interactions with society."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the major application areas of bioscience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe the major technologies and historical development of bioscience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explain legal and ethical issues affecting the application of bioscience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research emerging and future applications of bioscience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the social impact of bioscience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in bioscience industry and professional organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Application Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agricultural Feedstock and Chemicals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drugs and Pharmaceuticals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical Devices and Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research, Testing, and Medical Laboratories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bioprocessing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetic Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bioinformatics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Legal Issues and Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual Property"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Patents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Genetics Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scientific Accountability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research & Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Investments toward the creation or discovery of new bioscience processes, methods, products, and services."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Set up and conduct tests/assays: chemical, biological, clinical, environmental, robotic, or mechanical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate, document, and report results of experiments and tests"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prepare documents including experimental protocols, technical reports, and numerical analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the role of pre-clinical and clinical trials in bioscience product development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Isolate, identify, and prepare specimens for examination"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clean, sterilize, troubleshoot, calibrate, operate, and maintain lab instruments and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the care, use, and inventory of research plants and animals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and utilize good control and inventory standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lab Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Experiments, Tests, and Analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Separation Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Microbiology Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cell Biology Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nucleic Acid Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protein Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory Notebooks and Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard Labeling Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Care For and Use of Plants and Animals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory Safety Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturing & Production:"
+			},
+			"comment": {
+				"en-us": [
+					"Processes for the manufacture of bioscience products."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand upstream and downstream processes and the life cycle of a product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Perform and monitor the process to make the product or provide the service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor gauges and recording instruments to ensure that specified conditions are maintained"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in the installation, modification, and upgrade of equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate with co-workers and/or customers to ensure production or service requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinate inventory"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain the production equipment and control systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep records on process and product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard Operating Procedures (SOP) and Batch Records"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Good Manufacturing Practices (GMP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aseptic Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Production Process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtaining, weighing, measuring, and checking raw materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Setting up equipment for the production process"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cleaning (manual and Clean in Place (CIP)) and sterilization (autoclave and Sterilize in Place (SIP))"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preparing buffers and solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspecting materials at all stages of process to determine quality or condition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operating reactors and recovering products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Purification techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Formulating, filling, and Inspecting product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labeling, packaging, and distributing final product"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Control & Assurance:"
+			},
+			"comment": {
+				"en-us": [
+					"Practicing quality control and assurance, and operating under governmental regulations."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor, inspect, and verify quality of the product, procedure, or specimen to ensure compliance with standards and specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop, install, and revise validation procedures and protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control and maintain documentation about qualification and validation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calibrate and validate equipment systems and assess equipment performance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Revise and update standard operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take and document corrective and preventive action according to Standard Operating Procedures or as directed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know and comply with current federal, state, local, and industry regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in compliance training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Control/Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuous Improvement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Validation Testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product Specifications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Statistical and Data Analysis"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test Standards and Controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance Logs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard Operating Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Proficiency Testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plant or Material Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulatory Compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Good Laboratory Practices (GLP) and Good Manufacturing Practices (GMP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal Regulatory Agencies (including but not limited to):"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "U.S. Food and Drug Administration (FDA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "U.S. Department of Agriculture (USDA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Institutes of Health (NIH)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Research Council (NRC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Department of Transportation (DOT)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Center for Disease Control and Prevention (CDC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nuclear Regulatory Commission (NRC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clinical Laboratory Improvement Amendments (CLIA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State and Local Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry and Professional Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, & Security:"
+			},
+			"comment": {
+				"en-us": [
+					"Equipment, practices, and procedures which promote a healthy, safe, and secure work environment."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite (e.g., laboratory) safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR, if trained, and summon assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle, store, and dispose of hazardous materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training and security training and emergency drills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools safely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify worker's rights under law including obtaining safety training in a language you understand, being protected from toxic chemicals, and being provided required safety gear"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace, making suggestions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laboratory and Industrial Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe Use of Laboratory Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common Lab or Plant Hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aseptic and Sterilizing Techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Symbols and Signs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Procedures and Protocols"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical and Physical Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safe Handling and Disposal of Chemical, Biological, and Radioactive Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Safety Data Sheets (MSDS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Hygiene Plans"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Universal Precautions for Biological Pathogens"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bioscience Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Secure Use and Handling of Biological Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infectious Diseases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Food Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security Agencies and Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health and Safety Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupational Safety and Health Administration (OSHA) and Other Applicable Health and Safety Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Protection Agency (EPA) and Other Applicable Environmental Protection Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Worker Protection Standards (WPS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Sectors (TBD)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agricultural Feedstock & Chemicals:"
+			},
+			"comment": {
+				"en-us": [
+					"Applies life sciences knowledge, biochemistry, and biotechnologies to the processing of agricultural goods and production of organic and agricultural chemicals. The subsector also includes the emerging activity around the production of biofuels."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examples of Products:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fertilizers, pesticides, herbicides, and fungicides"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ethanol and biodiesel fuels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biodegradable materials synthesized from plant-based feedstock"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable industrial oils and lubricants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biocatalysts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Feed additives and ingredients"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corn and soybean oil"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drugs & Pharmaceuticals:"
+			},
+			"comment": {
+				"en-us": [
+					"Produces commercially available medicinal and diagnostic substances. The subsector is generally characterized by large multinational firms heavily engaged in research and development activities to bring drugs to market."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examples of Products:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vaccines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oncology, neurology, immunology, and cardiology treatments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tissue and cell culture media"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dermatological/topical treatments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic substances"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Animal therapeutics and vaccines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical Devices and Equipment:"
+			},
+			"comment": {
+				"en-us": [
+					"Produces a variety of biomedical instruments and other health care products and supplies for diagnostics, surgery, patient care, and laboratories. The subsector is continually advancing the application of electronics and information technologies to improve and automate testing and patient care capabilities."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examples of Products:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bio-imaging equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Surgical supplies and instruments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Orthopedic and prosthetic implants and devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laser eye surgery instruments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated external defibrillators (AEDs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vascular stents and other implantable devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dental instruments and orthodontics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Walkers, wheelchairs, and beds"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research, Testing, & Medical Laboratories:"
+			},
+			"comment": {
+				"en-us": [
+					"Includes a range of activities; from highly research-oriented companies working to develop and commercialize new drug discovery/delivery systems, and gene and cell therapies, to more service-oriented firms engaged in medical and other life sciences testing services."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examples of Products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Functional genomics and drug discovery techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diagnostic testing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Preclinical drug development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stem cell/regenerative research"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biomarkers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Nanoscale drug delivery systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Research models and laboratory support services"
+			}
+		}
+	]
+}

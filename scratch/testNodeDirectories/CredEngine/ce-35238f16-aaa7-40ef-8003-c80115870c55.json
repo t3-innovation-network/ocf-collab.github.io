@@ -1,0 +1,424 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-35238f16-aaa7-40ef-8003-c80115870c55",
+		"name": {
+			"en-us": "CCO Mobile Crane Operator Written Specialty Exams"
+		},
+		"description": {
+			"en-us": "Competencies for the Specialty Examinations of the Commission for the Certification of Crane Operators' for the certification program tests knowledge areas relating to the operation of specific types of cranes: (1) Site, (2) Operations, (3) Technical Knowledge, and (4) Manufacturer's Load Charts."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerNodeAgent": "5530075c-63d5-4afd-aa3b-dcf495f3a9f8",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2"
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Know the proper use of mats, blocking, or cribbing and outriggers or crawlers as they affect the suitability of supporting surfaces to handle the expected loads of the operation."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the limitations of machine clearances, extension of crawlers or outriggers/stabilizers, and counterweights."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to inspect the crane for unsafe conditions, complete required records, and communicate unsafe conditions to the proper authority."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to pick, carry, swing, and place the load smoothly and safely on rubber tires and on outriggers/stabilizers or crawlers (where applicable)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know proper boom assembly and disassembly techniques for:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lattice booms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Extension and retraction of power pinned and/or manual boom extensions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Erection and dismantling of lattice extension or jibs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to react to changes in conditions that affect the safe operation of the crane."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to shut down and secure the crane properly when leaving it unattended."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to prepare the crane for transportation by loading or unloading on trailers, and be familiar with the differences between rail and barge loading."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to move the crane (no load) safely under its own power:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Between job sites"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Within job sites"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loading onto and unloading off of trailers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the manufacturer's specifications for operating  in various weather conditions and understand how environmental conditions affect the safe operation of the crane."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to level the crane properly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to perform daily maintenance and inspections."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to use the following operator aids:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind indicator"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anti-two block device"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Boom angle indicator"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Boom angle device"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Boom length indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the proper procedures for operating safely under the following conditions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traveling with suspended loads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approaching two blocking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operating near electric power lines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using suspended personnel platforms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using other than full outrigger/crawler extensions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifting loads from beneath the surface of the water"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using various approved counterweight configurations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handling loads out of the operator's vision (\"operating in the blind\")"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Using electronic communication techniques such as radios"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know emergency response procedures for:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electric power line contact"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Loss of stability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control malfunction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Two blocking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Overload"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carrier or travel malfunction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the functions and limitations of the crane and attachments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know basic crane terms."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the basics of machine power flow systems:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pneumatic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Combination"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how the boom hoist and load hoist(s) are driven and engaged to the power source."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the requirements of standard and optional controls."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the requirements of pre-operation inspection and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to use operational assist devices, including:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anti-two block devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Load moment indicators and rated load indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Outrigger position indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical levels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Boom angle indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Load indicating devices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Boom stops and boom hoist disconnect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Radius indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drum rotation indicators and boom length indicators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to use manufacturer-approved attachments and their effects on the crane."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the function and safe use of crawler position (extended or retracted), outriggers, and/or stabilizers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to assemble and disassemble boom sections, extensions, and jib."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know the terminology necessary to use load charts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to use load charts; for example:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The operational limitations of load charts and footnotes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "How to relate the chart to the configuration of the crane--crawlers or outriggers extended or retracted, jib erected or offset, and various counterweight configurations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The difference between structural capacity and capacity limited by stability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "What is included in load chart capacity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The range diagram and its relationship to the load chart"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The work area chart and its relationship to the load chart"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Where to find and how to use parts-of-line information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Know how to calculate net capacity for allowable configurations of the crane using the manufacturer's load chart."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Knowledge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturers' Load Charts"
+			}
+		}
+	]
+}

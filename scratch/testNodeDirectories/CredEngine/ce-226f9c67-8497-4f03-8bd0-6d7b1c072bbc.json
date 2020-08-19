@@ -1,0 +1,2719 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-226f9c67-8497-4f03-8bd0-6d7b1c072bbc",
+		"name": {
+			"en-us": "Renewable Energy Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The Employment and Training Administration (ETA) worked with technical and subject matter experts from the Department of Energy, Office of Energy Efficiency and Renewable Energy (EERE), the National Renewable Energy Laboratories (NREL), and several industry associations to develop a competency model for renewable energy. The model supports workforce preparation for jobs in energy technologies that strengthen the economy, protect the environment, and diversify the U.S. energy system. The model is designed to evolve along with changing skill requirements.\n\nIn 2017, the model was revised to incorporate foundational workplace health and safety skills from the National Institute for Occupational Safety and Health's (NIOSH) Safe • Skilled • Ready Workforce Program designed to help protect America's workforce and create safe, healthy, and productive workplaces."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"renewable energy",
+				"Competency Model Clearinghouse"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with people."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Work effectively with people who have diverse personalities and backgrounds."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show understanding of others’ behavior by demonstrating appropriate responses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate respect for the opinions, perspectives, customs, and individual differences of others by including others in problem solving and decision-making."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain open communication with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize and accurately interpret the verbal and nonverbal behaviors of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate flexibility and open mindedness when dealing with a wide range of people."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listen to and consider others’ viewpoints and alter own opinion when it is appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treat all in a fair and equitable manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behave ethically through responsible use of company time and property."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report unethical behavior demonstrated by others to supervision."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional presence and adhering to ethical standards."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate self-control by maintaining composure and keeping emotions in check even in difficult situations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a professional appearance by dressing appropriately for the job and maintaining personal hygiene."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use professional language when speaking with supervisors, co-workers, and customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrain from substance abuse."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a positive attitude."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take pride in one’s work and the work of the organization."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain appropriate certifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to effective job performance."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensure that job is done safely, accurately, and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify new and better processes or procedures."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow instructions and direction from supervisor and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take responsibility for completing one's own work assignments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Come to work when scheduled and on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with company policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Do not attend to personal business while on the job."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage stressful situations effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfill obligations of the job."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a commitment to self development and improvement."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify goals and career interests."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek opportunities to learn new skills and tasks."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participate in training to learn new skills and to refine current skills."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapt quickly to changes in process or technology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept help from supervisors and co-workers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowing and applying scientific principles and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Unifying concepts and processes: an understanding of systems, order, and organization; evidence, models, and explanation; change, constancy, and measurement."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science as inquiry: the ability to think and act in ways associated with inquiry, including asking questions, using appropriate tools and techniques to gather data, thinking critically and logically about relationships between evidence and explanations, constructing and analyzing alternative explanations, and communicating scientific arguments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical, Life, and Earth Science:"
+			},
+			"comment": {
+				"en-us": [
+					"An understanding of the properties and changes of properties in matter: motions and forces; transfer of energy; structure of atoms; structure and properties of matter; chemical reactions; conservation of energy and increase in disorder; interactions of energy and matter."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science and engineering concepts:"
+			},
+			"comment": {
+				"en-us": [
+					"Familiarity with how to use scientific and engineering principles and methods to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Basic Computer Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Using information technology and related applications to convey and retrieve information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigation and File Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand common computer terminology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scroll bars, a mouse, and dialog boxes to work within the computer's operating system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Access and switch between applications and files of interest."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to standard conventions for safeguarding privacy and security."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internet and E-mail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Navigate the Internet to find information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Open and configure standard browsers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use searches, hypertext references, and transfer protocols."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Send and retrieve electronic mail (e-mail)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write e-mail with an appropriate tone."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Productivity Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use word processing programs to compose, organize, and edit simple documents and other business communications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use spreadsheet, database, and presentation software."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mathematics:"
+			},
+			"comment": {
+				"en-us": [
+					"Using mathematics to solve problems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Add, subtract, multiply, and divide with whole numbers, fractions, decimals, and percents; calculates averages, ratios, proportions, and rates."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take measurement of time, temperature, volume, force, mass, distance, length, width, height, and perimeter."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly convert from one measurement to another."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translate practical problems into useful mathematical expressions and use appropriate mathematical formulas and techniques."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solve simple algebraic equations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine slope, midpoint, and distance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculate perimeters, areas, and volumes of basic shapes and solids."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read, track, and calculate gauge measurements."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences and paragraphs in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and understand work-related instructions and policies, memos, bulletins, notices, letters, policy manuals, and governmental regulations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read documents ranging from simple and straightforward to more complex and detailed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Read and interpret technical manuals and equipment specifications."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard business English to write messages to co-workers and reports to managers and associates."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Create documents such as work orders or memos."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use standard syntax and sentence structure, correct spelling, punctuation and capitalization, and appropriate grammar."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write clearly and concisely in a professional and courteous manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Write effectively for a variety of audiences."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicate thoughts, ideas, and information which may contain technical material in a logical, organized, and coherent manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Clearly develop ideas and elaborate on them with relevant supporting examples and specific details."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show insight, perception, and depth in writing."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication:"
+			},
+			"comment": {
+				"en-us": [
+					"Listening and Speaking:"
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receive, attend to, interpret, understand, and respond to verbal messages and other cues."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply active listening skills using reflection, restatement, questioning, and clarification."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick out important information in verbal messages."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand complex instructions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking and Presenting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speak clearly and confidently using common English conventions including proper grammar, tone, and pace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Express information to individuals or groups taking into account the audience and the nature of the information (e.g., explain technical concepts to non-technical audiences)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Present ideas in a persuasive manner."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ask questions or report problems or concerns to people in authority when information or procedures are unclear or need improvement, or when feeling unsafe or threatened in the workplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Using logical thought processes to analyze information and draw conclusions."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify inconsistent or missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically review, analyze, synthesize, compare, and interpret information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draw conclusions from relevant and/or missing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test possible hypotheses to ensure the problem is correctly diagnosed and the best solution is found."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Literacy:"
+			},
+			"comment": {
+				"en-us": [
+					"Functional and critical thinking skills related to information, media, and technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and Evaluate Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate information efficiently (time) and effectively (sources)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate information critically and competently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Review information obtained for relevance and completeness."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize important gaps in existing information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to eliminate those gaps."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and Manage Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use information accurately and creatively for the issue or problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manage the flow of information from a wide variety of sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize/reorganize information as appropriate to get a better understanding of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of business and management principles. The knowledge and skills that enable individuals to understand the relationship between own job and goals and operations of company and industry."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Articulate the organization's mission and functions and its position in the marketplace."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize one's role in the functioning of the company."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply interpersonal skills to work environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with applicable laws and rules governing work and reports loss, waste, or theft of company property to appropriate personnel."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Act in the best interest of the company, community, and environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uphold the company and product brand in interactions with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Developed capacities used to work with others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accept membership in the team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify with the goals, norms, values, and customers of the team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use a group approach to identify problems and develop solutions based on group consensus."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicate with all members of the team to achieve goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develop constructive and cooperative working relationships with others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Show sensitivity to the thoughts and opinions of others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond appropriately to positive and negative feedback."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Encourage others to express their ideas and opinions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learn from other team members."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply interpersonal skills to help team achieve goals."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Give full attention to what others are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep all parties informed of progress and all relevant changes to project timelines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate loyalty to the team."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Adjusting to changing work requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjust to changing priorities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify logical stopping points in work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refocus attention to new assignment quickly."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly learn new assignments."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shift gears and change direction when working on multiple projects."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and accept changes in work."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing and Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Actively looking for ways to identify market demands and meet the customer, client, or stakeholder need."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and anticipate customer needs and future needs."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provide personalized service by providing prompt and efficient responses to meet the requirements, requests, and concerns of customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively look for ways to help customers by identifying and proposing appropriate solutions and/or services."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Be pleasant, courteous, and professional when dealing with internal or external customers."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow up with customers during projects and following project completion."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning, Organizing, and Scheduling:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating the ability to work within a schedule using prescribed procedures."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritize various competing tasks and perform them quickly and efficiently according to their urgency."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Find new ways of organizing work area or planning work to accomplish work more efficiently."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimate resources needed for project completion and allocate time and resources effectively."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate obstacles to project completion and develop contingency plans to address them; take necessary corrective action when projects go off-track."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plan and schedule tasks so that work is completed on time."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Make arrangements that fulfill all requirements as efficiently and economically as possible."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Respond to the schedules of others affected by arrangements; inform others of arrangements, giving them complete, accurate, and timely information."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keep track of details to ensure work is performed accurately and completely."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take steps to verify all arrangements; recognize problems, generate effective alternatives, and take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision-Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying problem-solving and critical-thinking skills to help grow the business and/or to resolve workplace conflict."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate or recognize the existence of a problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify the true nature of the problem by analyzing its component parts."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively use both internal and external resources to locate and gather information; examine information obtained for relevance and completeness; recognize important gaps in existing information and take steps to eliminate those gaps; recall previously learned information that is relevant to the problem; organize information as appropriate to gain a better understanding of the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrate previously learned and externally obtained information to generate a variety of high quality alternative approaches to the problem."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Skillfully use logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short and long-term consequences of different approaches."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively choose the best solution after contemplating available approaches to the problem; make difficult decisions even in highly ambiguous or ill-defined situations; quickly choose an effective solution without assistance when appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commit to a solution in a timely manner and develop a realistic approach for implementing the chosen solution; observe and evaluate the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use scientific rules and methods to solve problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Having capability to operate and troubleshoot electric, electronic, and mechanical equipment and products, as appropriate."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Select and apply appropriate tools or technological solutions to frequently encountered problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carefully consider which tools or technological solutions are appropriate for a given job and consistently choose the best tool or technological solution for the problem at hand."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use tools and equipment in compliance with user manuals and training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an interest in learning about new and emerging tools and technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compile, code, categorize, calculate, inspect, or verify information or data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Apply systematic techniques for observing and gathering data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detect and correct errors or inconsistencies, even under time pressure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organize records and files to maintain data."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainable Practices:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the concept of meeting the needs of the present without compromising the ability of future generations to meet their own needs."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how the concepts of sustainability provide the basis for the consideration of renewable energy systems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use processes that are environmentally friendly or use fewer natural resources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and systems as designed to minimize environmental impact."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seek to upgrade processes beyond pollution control to pollution prevention."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilize advances in science and technology to upgrade levels of efficiency and environmental protection."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abide by applicable federal, state, and local regulations and policies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use sustainable business practices consistent with ISO 14001 International Environmental Management Guidance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fundamentals of Energy and Power:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the basic and emerging principles and concepts that impact the generation, transport, installation, operation, and maintenance of technologies and related equipment used to produce energy."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basic principles of power generation, including use of different fuel types."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the flow of energy from generation through distribution to the customer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basics of energy consumption."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the fundamentals of electric power operations, including generation, transmission, distribution, and typical electrical service supplies to buildings and facilities."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the components and workings of the electric transmission and distribution network."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the basics of electricity and heat, and how conventional energy generation (natural gas, oil, nuclear energy) and renewable energy contribute to energy supplies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and use basic terminology."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the concepts of traditional and renewable energy production."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the concepts of electrical measurement and control on AC and DC current."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Efficiency:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the basic and emerging principles and concepts that promote energy conservation and efficiency while reducing the dependency on fossil fuels."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how energy efficiency is connected to the production of energy (supply), and how to make the case for energy efficiency use to reduce demand for energy vs. employing renewable energy as a source of energy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describe return on investment - (the concept of “payback” from using energy efficiency and renewable technologies)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the impact of environmental and geographic factors on the effective implementation of renewable energy technologies."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate an understanding of the advantages and disadvantages of energy sources."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the fundamentals of how electricity rates work, and related energy markets (ex. renewable electricity certificates; electricity capacity markets; net metering; real-time pricing)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand concepts such as supply and demand side efficiency and Smart Grid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Net Present Value"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internal Rate of Return"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cost of Energy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Payback Period"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Analysis Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Net metering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Baseload/peak electricity periods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Renewable Energy:"
+			},
+			"comment": {
+				"en-us": [
+					"Producing sustainable, clean energy from sources such as the sun, earth’s heat, wind, plants, and water."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biomass:"
+			},
+			"comment": {
+				"en-us": [
+					"Generation of power for heat or electricity from organic, nonfood, and renewable resources."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems that utilize solar energy or convert it into other usable forms, such as electricity and heat."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind:"
+			},
+			"comment": {
+				"en-us": [
+					"Conversion of wind’s kinetic energy to mechanical or electrical energy."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal:"
+			},
+			"comment": {
+				"en-us": [
+					"Using thermal energy contained in the earth to supply heat directly or converting it to mechanical or electrical energy."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water:"
+			},
+			"comment": {
+				"en-us": [
+					"Utilization of power derived from the energy of moving water."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel Cells and Hydrogen Energy:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems that produce power from a fuel through an electrochemical process."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance and Continuous Improvement:"
+			},
+			"comment": {
+				"en-us": [
+					"Ensure product and process meets quality system requirements as defined by customer and product specifications."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand and apply basic concepts associated with measuring quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand how changes in conditions, operations, or the environment will affect quality."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adhere to controls that support quality standards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitor/assess performance of self, other individuals, or organizations to make improvements or take corrective action."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determine how a system should work and how changes in conditions, operations, and the environment will affect outcomes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Policies, Laws, and Regulations:"
+			},
+			"comment": {
+				"en-us": [
+					"Compliance with applicable local, state, and federal laws and regulations that impact the energy industry."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate awareness of the policies, standards, equipment, and work practices that mitigate the environmental impacts of human activity, including energy use."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrate professional responsibility for maintaining all policies and standards for health, safety, and the environment."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with all relevant environmental laws issued by federal agencies, including Environmental Protection Agency (EPA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow energy standards produced by industry organizations, such as the American National Standards Institute (ANSI), American Petroleum Institute (API), National Association of Corrosion Engineers (NACE), American Society for Testing and Materials (ASTM), International Electrotechnical Commission (IEC), and the National Fire Protection Association (NFPA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identify appropriate jurisdiction for local, state, and federal regulatory agencies as they pertain to the energy industry."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain current knowledge of regulatory procedures governing operations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, and Security:"
+			},
+			"comment": {
+				"en-us": [
+					"Compliance with the procedures necessary to ensure a safe and healthy work environment, as appropriate."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a healthy and safe environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Take actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipate and prevent work-related injuries and illnesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comply with federal, state, and local regulations, and company health and safety policies (including OSHA)."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluate changes in the environment with respect to their impact on safety of self and others."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Promote effective local, state, or national security operations for the protection of people, data, property, and institutions."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follow organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintain a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administer first aid or CPR if trained and summon assistance as needed."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly handle and dispose of hazardous materials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding one’s person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engage in safety training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use equipment and tools in compliance with user manuals and training."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand potential threats created by deviation from safety procedures and improper use of tools and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use appropriate personal protective equipment (e.g., safety glasses, work boots, and hard hats) and keep equipment in good working order."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognize how workplace risks can affect one’s life and one’s family."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understand the legal rights of workers regarding workplace safety and protection from hazards."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Report injuries, incidents, and workplace hazards to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contribute to discussion of safety concerns in the workplace, making suggestions as appropriate."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Renewable Energy Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biomass:"
+			},
+			"comment": {
+				"en-us": [
+					"Generation of power for heat or electricity from organic, nonfood, and renewable resources."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sources of Fuel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wood"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Waste"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Alcohol fuels"
+			},
+			"comment": {
+				"en-us": [
+					"Fuels used for transportation, such as ethanol and biodiesel, are not included in this model."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Crops"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Landfill Gases and Digesters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chain of Production"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Harvesting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Storage and Delivery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conversion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses of Biomass"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biofuels"
+			},
+			"comment": {
+				"en-us": [
+					"Biofuels used for transportation, such as ethanol and biodiesel, are not included in this model."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biopower"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bioproducts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Space Heating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Process Heat (Steam)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "CHP (Combined Heat and Power)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Agricultural Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biochemical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biochemists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biofuels Processing Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biofuels Production Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biofuels/Biodiesel Technology and Product Development Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biomass Plant Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Biomass Power Plant Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Application Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Engineers (Agricultural Chemicals)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Production Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Code and Standard Developers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electricians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment Production Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geneticists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Harvesting Equipment Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrumentation Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical and Electrical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Microbiologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipefitters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plant Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulation Compliance Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Storage Facility Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Welders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems that utilize solar energy or convert it into other usable forms, such as electricity and heat."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Photovoltaic Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conversion of solar energy into electricity using photovoltaic technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems and Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Markets and Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Heating and Cooling Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Conversion of solar energy into thermal energy for use in heating and cooling applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems and Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Markets and Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Concentrating Solar Power (CSP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use of concentrated solar energy to produce steam and electricity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plants and Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Markets and Applications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Manufacturing Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Code Officials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance or Regulatory Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Numerical Control (CNC) Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrument and Electronics Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Assemblers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipefitters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plumbers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Systems Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Control Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Roofers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Energy Installation Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Energy Systems Designers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Energy Systems Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Installation Helpers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Marketing Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Photovoltaic Installers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Photovoltaic Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Photovoltaic System Designers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Project Developers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Sales Representatives and Assessors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Site Assessors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Thermal Installers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Thermal Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solar Utility Procurement Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Steam Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structural Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility Interconnection Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind:"
+			},
+			"comment": {
+				"en-us": [
+					"Conversion of wind’s kinetic energy to mechanical or electrical energy."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility Scale"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Costs and benefits and the economic and environmental impact wind energy."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major phases of a wind power project: manufacturing, project development, installation, and operation and maintenance."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transmission infrastructure and wind integration."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Small Wind"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Small wind turbines are electric generators that utilize wind energy to produce clean, emissions-free power for individual homes, farms, and small businesses."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Includes wind energy turbines with power ratings up to 100,000 watts (or 100 kilowatts (kw))."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Small wind energy systems can be used in connection with an electricity transmission and distribution system (called grid-connected systems), or in stand-alone applications that are not connected to the utility grid."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assemblers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asset Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Atmospheric Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Controlled Machine Tool Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Equipment Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction Laborers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Crane Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electricians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineers (Aerospace, Civil, Computer, Electrical, Environmental, Health and Safety, Industrial, Materials, Mechanical)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Production Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Land Acquisition Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Logisticians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality-Control Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Welders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wildlife Biologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Energy Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Energy Operations Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Energy Project Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Installers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Technicians/Windsmiths"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Wind Turbine Service Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal:"
+			},
+			"comment": {
+				"en-us": [
+					"Using thermal energy contained in the earth to supply heat directly or convert it to mechanical or electrical energy."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal Power Plants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses hot fluids produced from wells drilled into geothermal reservoirs to generate electricity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Three generation technologies are used to generate electricity: steam, flashed steam, and binary cycle."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major phases of a project:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exploration using exploration techniques similar to those of the mining and petroleum industries to determine if further detailed exploration is warranted."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Field development accomplished through drilling wells into the geothermal reservoir using oil and gas drilling rigs modified for the hot, hard -rocks of the geothermal system."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction of power plant and transmission lines."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation and maintenance of the power plant and the geothermal field including drilling of additional wells."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal Direct Uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilizes a natural resource, flow of geothermal fluid at elevated temperatures, which is capable of providing heat and cooling to buildings, greenhouses, aquaculture ponds, and industrial processes."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal Heat Pump Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transfers heat stored in the earth or in ground water into a building during the winter, and transfers it out of the building and back into the ground during the summer."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aquaculture & Horticulture Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Architects and Designers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction & Drilling Equipment Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drilling Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electricians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineers (Electrical, Mechanical, Chemical, Civil, and Structural)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geochemists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geophysicists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal Production Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geothermal Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydrologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Machinists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipe Fitters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plant Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Dispatcher"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Plant Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Plant System Manufacturers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulatory & Environmental Consultants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reservoir Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Surveyors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Welders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water:"
+			},
+			"comment": {
+				"en-us": [
+					"Utilization of power derived from the energy of moving water."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydropower"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Water is captured using man-made dams and diversions and utilizes “head” (potential energy created by elevation difference) to generate electricity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Includes large, small, and micro."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pumped Storage:"
+			},
+			"comment": {
+				"en-us": [
+					"A configuration of hydropower that allows for the storage of energy by pumping water from a lower reservoir to an upper reservoir, and then using the water to generate electricity when it is needed, utilizing conventional hydropower technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marine and Hydrokinetic"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utilizes only the kinetic energy of moving water to generate electricity."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Includes wave, tidal, ocean and river currents."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Civil Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Divers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Biologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydraulic Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydroelectric Plant Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydroelectric Production Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydrologists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hydropower Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Technology Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marine Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Oceanographers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Distributors and Dispatchers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Plant Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Plant Superintendents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Welders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel Cells and Hydrogen Energy:"
+			},
+			"comment": {
+				"en-us": [
+					"Systems that produce power from a fuel through an electrochemical process."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel Production, Delivery, and Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Produced from Diverse and Domestic Resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuels include Hydrogen (from renewable and non-renewable sources), Biomass, and Fossil Fuels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Central, Semi-Central, and Distributed Production"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compressed gas, Cryogenic Liquid, and Materials-Based Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel Cells"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Efficiently converts fuel to electrical or thermal power, resulting in lower emissions and less fuel use per unit of energy output than alternatives."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applications of Fuel Cells"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stationary Power - produce electrical power and high quality heat, and can also produce Hydrogen for other uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Backup Power - produce electrical power on demand for grid-connected and remote uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Portable Devices - direct power or battery charging, generally at 1-250 W"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Auxiliary power - power for heavy duty trucks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Occupations in the Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Manufacturing Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Building Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Code Officials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Numerical Control (CNC) Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electrical Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel Cell Systems Designers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HVAC Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Installation Helpers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Instrument and Electronics Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marketing Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Scientists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Assemblers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanical Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Power Systems Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Process Control Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Developers/Sales Representatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Residential Fuel Cell System Designers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Site Assessors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Structural Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Utility Interconnection Engineers"
+			}
+		}
+	]
+}

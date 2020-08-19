@@ -1,0 +1,4725 @@
+{
+	"directory": {
+		"directoryID": "786643e3-3fe2-4988-aa64-26a3f07f2e04",
+		"name": "Credential Engine Competency Registry",
+		"dateCreated": "2020-08-18"
+	},
+	"framework": {
+		"frameworkURL": "https://credentialengineregistry.org/resources/ce-2d6925c7-e3bc-4ffb-a35f-bab30d8764d1",
+		"name": {
+			"en-us": "Transportation, Distribution, and Logistics Competency Model: U.S. Department of Labor (DOL)"
+		},
+		"description": {
+			"en-us": "The competency model framework for the transportation, distribution and logistics industry was developed through a collaborative effort involving the Employment and Training Administration (ETA), the U.S. Department of Transportation (DOT), and leading industry and labor organizations."
+		},
+		"attributionName": "Credential Engine",
+		"attributionURL": "https://credentialengine.org",
+		"providerMetaModel": "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
+		"beneficiaryRights": "https://credentialengine.org/terms/",
+		"registryRights": "https://ocf-collab.org/rights/29905411-553e-4872-9baf-e401dac157d2",
+		"conceptKeyword": {
+			"en-us": [
+				"transportation",
+				"distribution",
+				"logistics"
+			]
+		}
+	},
+	"competencies": [
+		{
+			"competencyText": {
+				"en-us": "Personal Effectiveness Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interpersonal Skills:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying skills to work with others from a range of backgrounds."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining Open Communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains open lines of communication with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes and accurately interprets the verbal and nonverbal behavior of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishes a high degree of trust and credibility with others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Diverse People"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is flexible and open-minded when dealing with a wide range of people"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listens to and consider others’ viewpoints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Works well and develops effective relationships with diverse personalities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates respect for the opinions, perspectives, and individual differences of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Values diversity of people and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrity:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying accepted social and work behaviors."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaving Ethically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Abides by a strict code of ethics and behavior"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chooses an ethical course of action and does the right thing, even in the face of opposition"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Differentiates between legal and ethical issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performs work-related duties according to laws, regulations, contract provisions, and policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting Fairly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treats others with honesty, fairness, and respect"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Makes decisions that are objective and reflect the just treatment of others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is willing to have tough conversations when others need to be corrected"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking Responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes responsibility for accomplishing work goals within accepted timeframes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accepts responsibility for one’s actions and for those of one’s group, team, or department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Makes an effort to learn from mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes personal responsibility and accountability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionalism:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining a professional demeanor."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating Self-Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates self-control by maintaining composure and keeping emotions in check even in difficult situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deals calmly and effectively with stressful situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates emotional intelligence"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining Professional Demeanor"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Projects a professional image of oneself and the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dresses appropriately for the occupation and its requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains appropriate personal hygiene"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes pride in one’s work and the work of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates a positive attitude towards work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Social Responsibility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remains free from substance abuse"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a healthy lifestyle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Self-Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes charge of personal career development by identifying occupational interests, strengths, options, and opportunities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Makes insightful career planning decisions based on integration and consideration of others’ feedback, and seeks out additional training to pursue career goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Initiative:"
+			},
+			"comment": {
+				"en-us": [
+					"Demonstrating a willingness to work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Showing Commitment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pursues work with energy, drive, and a strong accomplishment orientation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expends extra effort to accomplish tasks even when conditions are difficult or deadlines are tight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Persists at a task or problem despite interruptions, obstacles, or setbacks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exerts effort toward task mastery"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taking Initiative"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes initiative in seeking out new work challenges and increasing the variety and scope of one’s job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Establishes personally challenging but realistic work goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Goes beyond the routine demands of the job"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeks opportunities to influence events and originate action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working Independently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Works effectively and efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is solutions-oriented"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to perform effectively even with minimal direction, support, or approval and without direct supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating Motivation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is intrinsically driven to succeed and excel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Strives to exceed standards and expectations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates confidence in one’s capabilities and an expectation to succeed in future activities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dependability and Reliability:"
+			},
+			"comment": {
+				"en-us": [
+					"Displaying responsible behaviors at work."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fulfilling Obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Behaves maturely, consistently, and predictably"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is reliable, responsible, and dependable in fulfilling obligations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently follows through on commitments and consistently meets deadlines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates regular and punctual attendance; rarely is late for meetings or appointments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows written and verbal directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with organizational rules, policies, and procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attending to Details"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Diligently checks work to ensure that all essential details have been considered"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notices errors or inconsistencies that others have missed, and takes prompt, thorough action to correct errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adaptability and Flexibility:"
+			},
+			"comment": {
+				"en-us": [
+					"Being open to change and to considerable variety in the workplace."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Entertaining New Ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is open to considering new ways of doing things"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively seeks out and carefully considers the merits of new approaches to work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Embraces new approaches when appropriate and discards approaches that are no longer working"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dealing with Ambiguity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes proper and effective action when necessary without having to have all the necessary facts in hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Easily changes gears in response to unpredictable or unexpected events, pressures, situations, and job demands"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively changes plans, goals, actions, or priorities to deal with changing situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Lifelong Learning:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding the importance of learning new information for both current and future problem solving and decision making."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrating an Interest in Learning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an interest in personal learning and development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeks feedback from multiple sources about how to improve and develop, and modifies behavior based on feedback or self-analysis of past mistakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Treats unexpected circumstances as opportunities to learn"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participating in Training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies when it is necessary to acquire new knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes steps to develop and maintain knowledge, skills, and expertise necessary to achieve positive results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Participates fully in relevant training programs and actively pursues other opportunities to develop knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration and Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates newly learned knowledge and skills with existing knowledge and skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses newly learned knowledge and skills to complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies newly learned knowledge and skills in new or unfamiliar situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Academic Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communication - Visual and Verbal:"
+			},
+			"comment": {
+				"en-us": [
+					"Listening, speaking, and signaling so others can understand. Communicate in spoken English well enough to be understood by others."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expresses information to individuals or groups taking into account the audience and the nature of the information (e.g., technical or controversial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaks clearly and confidently in a logical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Speaks using common English conventions including proper grammar, tone, and pace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively uses eye contact and non-verbal expression"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Listening and Following Directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Receives, attends to, interprets, understands, and responds to verbal or signaled messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes important information in verbal or signaled messages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and acts upon instructions to complete assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicating Effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distinguishes when to use personal vs. business, private vs. public communication styles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses communication tools, such as texting and e-mail, appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains awareness of the impact of communication"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reading:"
+			},
+			"comment": {
+				"en-us": [
+					"Understanding written sentences, paragraphs, and figures in work-related documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehension"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the purpose of written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Comprehends meaning and core ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integration and Application"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critically evaluates and analyzes information in written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates and synthesizes information from multiple written materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies what is learned from written material to follow instructions and complete specific tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies what is learned from written material to future situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating and Using Information:"
+			},
+			"comment": {
+				"en-us": [
+					"Functional and critical thinking skills related to information, media, and technology."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locate and Evaluate Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locates, understands, and interprets written information such as manuals, reports, memos, letters, forms, graphs, charts, tables, calendars, schedules, signs, notices, applications, and directions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locates information efficiently (time) and effectively (sources)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Evaluates information critically and competently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reviews information obtained for relevance and completeness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes important gaps in existing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes steps to eliminate those gaps"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Use and Manage Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses information accurately and creatively for the issue or problem at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manages the flow of information from a wide variety of sources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organizes/reorganizes information as appropriate to get a better understanding of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writing:"
+			},
+			"comment": {
+				"en-us": [
+					"Using standard English to compile information and prepare written documents."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Organization and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Creates and formats documents such as letters, directions, manuals, reports, graphs, and flow charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communicates thoughts, ideas, information, messages, and other written information, which may contain technical terms and concepts, in a logical, organized, and coherent manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops ideas using supporting information and examples"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Writes in a manner appropriate for business and with language appropriate for the target audience"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses appropriate tone and word choice (e.g., writing is professional and courteous)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses standard syntax and sentence structure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses correct spelling, punctuation, and capitalization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses appropriate grammar (e.g., correct tense, subject-verb agreement, no missing words)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Science, Technology, Engineering, and Math (STEM):"
+			},
+			"comment": {
+				"en-us": [
+					"Applying basic scientific, technological, engineering, and mathematical principles to complete tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "STEM"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands basic scientific concepts and principles and how to use commonly available technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the scientific method (i.e., identifies problems, collects information, forms opinions, and draws conclusions)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Has knowledge of the practical application of science, technology, and engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies the appropriate technical solution to complete tasks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solves problems where a variety of mechanical faults could be the cause"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Translates practical problems into useful mathematical expressions and uses appropriate mathematical formulas and techniques"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adds, subtracts, multiplies, and divides with whole numbers, fractions, decimals, and percentages"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes and interprets the value of numbers and what they mean to the operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Calculates averages, ratios, proportions, and rates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes measurement of weight, time, temperature, distance, length, width, height, etc."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Correctly converts from one measurement to another"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Solves simple algebraic equations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reads, tracks, and calculates gauge measurements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses elementary statistics and laws of probability - mean, median, and mode"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical and Analytical Thinking:"
+			},
+			"comment": {
+				"en-us": [
+					"Possessing sufficient inductive and deductive reasoning ability to perform job successfully."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reasoning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reviews, analyzes, synthesizes, compares and interprets information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Draws conclusions from relevant and/or missing information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies critical thinking skills to formulate solutions to problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mental Agility"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies connections between issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands, orients to, and learns new assignments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates the ability to multi-task and adjust to changes when working on multiple projects or issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employing Unique Analyses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Employs unique analyses and generates new, innovative ideas in complex areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates seemingly unrelated information to develop creative solutions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops innovative methods of obtaining or using resources when insufficient resources are available"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Information Technology Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Using a computer, communication devices, and related applications to input, retrieve, and communicate information."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Computer, Software, Information and Communication Technology Knowledge and Skills"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates familiarity with the fundamental capabilities of computers, software, information systems, and communications systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands terminology and function of common computer, software, information and communication technology devices, components, and concepts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands common terminology related to the use of technology by people with disabilities and/or sensory and functional limitations, including accessible IT, assistive technology, and universal design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and uses common computer hardware (e.g., desktops, laptops, tablets, PC components, cabling), software (e.g., operating systems; applications; communication, collaboration, and productivity software) and communication devices (e.g., telephony, wireless devices, network and wireless systems) to perform tasks and communicate effectively"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and uses appropriate computer etiquette"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and uses common communications media, including wired and wireless telephones, audio conferences, videoconferences, and online collaboration tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses a computer to search for online information and interact with Web sites and Web applications (e.g., enterprise solutions, online stores, blogs, social networks, wikis)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands how to critically evaluate online information and be aware of relevant copyright and data protection issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hardware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates a working knowledge of the following computer terms:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Central processing unit (CPU)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Memory - random-access memory (RAM) and read-only memory (ROM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Storage media (e.g., internal hard disk, external hard disk, network drive, CD, DVD, USB, flash drive, memory card)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Input/output ports, (e.g., USB, serial, parallel, network port, FireWire)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Input devices (e.g., mouse, keyboard, trackball, scanner, touchpad, stylus, joystick, Web camera, digital camera, microphone, voice recognition, remote control, and head, mouth, and eye operated controllers)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Output devices (e.g., screens/monitors, printers, speakers, headphones)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assistive technology devices (e.g., voice recognition software, screen reader, screen magnifier, on-screen keyboard, closed captioning, text-to-speech)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Common IT Applications Use"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses word processing applications to compose, organize, and edit simple documents and other business communications, and produce accurate outputs to print or share electronically"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses standard formulas and functions, format and modify content, and demonstrates competence in creating and formatting spreadsheets, graphs, or charts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses and manages electronic mail to communicate with appropriate etiquette"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses Internet applications to search for information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses presentation software to effectively share information and ideas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and is able to use simple databases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses spreadsheet, database, and presentation software both independently and in an integrated fashion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manages file storage: uses functions to store, retrieve, and sort documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands social media and their appropriate workplace uses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Double-checks work carefully to identify and correct typographical, grammatical, and other errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cyber Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the importance of privacy and potential abuses of private information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is able to stay safe in an online, networked environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the importance of updating and using the most recent security software, Web browser, and operating system to protect against malware, and other online threats"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes and responds appropriately to suspicious vulnerabilities and threats:"
+			},
+			"comment": {
+				"en-us": [
+					"Web sites, Web links, emails, posts, online advertisements, phishing, virus infections, etc."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes secure Web addresses, (e.g., “https://” or “shttp://”)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protects and manages personally identifiable information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and uses privacy and security settings on social networking applications to share only appropriate personal information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reviews the privacy policy and understands what data (location, access to social networks) an application can access prior to downloading and installing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the risk of connecting to an unsecured or unprotected network"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses strong passwords, passphrases, and basic encryption"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Teamwork:"
+			},
+			"comment": {
+				"en-us": [
+					"Working cooperatively with others to complete work assignments."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates the ability to work responsibly on a team"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes the importance of teamwork and its contribution to success"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assists others who have less experience or have heavy workloads"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies and draws upon team members’ individual strengths to achieve results"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learns from other team members"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines when to be a leader and when to be a follower depending on what is needed to achieve the team’s goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses a group approach to identify problems and develop solutions based on group consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively communicates with all members of the group or team to achieve team goals and objectives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Resolving Conflicts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Delivers constructive criticism and voices objections to others’ ideas and opinions in a constructive, supportive, and non-accusatory manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handles conflicts maturely by exercising “give and take” to achieve positive results for all parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Exhibits tact and diplomacy and strives to build consensus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Brings others together to reconcile differences to maintain a smooth workflow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reaches formal or informal agreements that promote mutual goals and interests, and obtains commitment to those agreements from individuals or groups"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Focus:"
+			},
+			"comment": {
+				"en-us": [
+					"Efficiently and effectively addressing the needs of clients/customers."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Providing Personalized Service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively listens to customers to understand customer needs and goals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides prompt, efficient, and personalized assistance to meet the requirements, requests, and concerns of customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides thorough, accurate information to answer customers’ questions and informs them of commitment times or performance guarantees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Actively looks for ways to help customers by identifying and proposing appropriate solutions and/or services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acting Professionally"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is pleasant, courteous, and professional when dealing with internal or external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops constructive and cooperative working relationships with customers, and displays a good-natured, cooperative attitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Is calm and empathetic when dealing with difficult customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Customers Informed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows up with both internal and external customers during projects and following project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps clients up to date about decisions that affect them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeks the comments, criticisms, and involvement of customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjusts services based on customer feedback"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning and Organizing:"
+			},
+			"comment": {
+				"en-us": [
+					"Planning and prioritizing work to manage time effectively and accomplish assigned tasks."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Planning"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Approaches work in a methodical manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plans and schedules tasks so that work is completed on time"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps track of details to ensure work is performed accurately and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Prioritizes various competing tasks and performs them quickly and efficiently according to their urgency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Finds new ways of organizing work area or planning work to accomplish work more efficiently"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocating Resources"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Estimates resources needed for project completion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shows proper technique for forecasting accurately, both short term and long term"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Allocates time and resources effectively and coordinates efforts with all affected parties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps all parties informed of progress and all relevant changes to project timelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipating Obstacles"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates obstacles to project completion and develops contingency plans to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes necessary corrective action when projects go off-track"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Problem Solving and Decision Making:"
+			},
+			"comment": {
+				"en-us": [
+					"Applying critical thinking skills to solve problems encountered on the work site."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifying the Problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates or recognizes the existence of a problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies the true nature of the problem by analyzing its component parts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recalls previously learned information that is relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locating, Gathering, and Organizing Relevant Information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively uses both internal resources (e.g., internal computer networks, company filing systems) and external resources (e.g., internet search engines) to locate and gather information relevant to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examines information obtained for relevance and completeness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes important gaps in existing information and takes steps to eliminate those gaps"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Generating Alternatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Integrates previously learned and externally obtained information to generate a variety of high-quality alternative approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses logic and analysis to identify the strengths and weaknesses, the costs and benefits, and the short- and long-term consequences of different approaches"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Choosing a Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Decisively chooses the best solution after contemplating and evaluating available approaches to the problem"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Makes difficult decisions even in highly ambiguous or ill-defined situations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quickly chooses an effective solution without assistance when appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implementing the Solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commits to a solution in a timely manner, and develops a realistic approach for implementing the chosen solution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Observes and evaluates the outcomes of implementing the solution to assess the need for alternative approaches and to identify lessons learned"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Working with Tools and Technology:"
+			},
+			"comment": {
+				"en-us": [
+					"Selecting, using, and maintaining tools and technology to facilitate work activity."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selecting and Using Tools"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies, selects, and applies appropriate tools or technological solutions to frequently encountered problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carefully considers which tools or technological solutions are appropriate for a given job, and consistently chooses the best tool or technological solution for the problem at hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates appropriate use of tools and technology to complete work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses tool, equipment, and machinery safely and appropriately"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeping Current"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates an interest in learning about new and emerging tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Seeks out opportunities to improve knowledge of tools and technologies that may assist in streamlining work and improving productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adapts quickly to changes in process or technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Accepts help from others"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshooting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Learns how to maintain and troubleshoot tools and technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Performs routine maintenance on tools, technology, and equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines causes of operating errors and decides what to do about it"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Troubleshoots maintenance problems in accordance with established procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops alternatives to complete a task if desired tool/technology is unavailable"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Coordinating:"
+			},
+			"comment": {
+				"en-us": [
+					"Making arrangements that fulfill all requirements as efficiently and economically as possible."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Arranging and Informing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handles all aspects of arrangements thoroughly and completely with little or no supervision"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Informs others of arrangements, giving them complete, accurate, and timely information"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responds to the schedules of others affected by arrangements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes steps to verify all arrangements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes problems, generates effective alternatives, and takes corrective action"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinating in Distributed Environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coordinates schedules of colleagues, co-workers, and clients in regional locations (i.e., across time zones) to ensure that inconvenience is minimized and productivity is enhanced"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Leverages technology (e.g., internet, teleconference) to facilitate information sharing in distributed work environments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes advantage of team member availability throughout business hours in multiple time zones to enhance productivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shift Work"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Effectively coordinates the transition of employees at the beginning and end of each work shift"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Disseminates crucial information in an organized manner to rapidly bring employees up to speed at the start of their shifts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures employees are updated on work completed on past shifts and work that still needs to be completed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates willingness to work various shifts and schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Checking, Examining, and Recording:"
+			},
+			"comment": {
+				"en-us": [
+					"Entering, transcribing, recording, storing, or maintaining information in written or electronic format."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Completing Forms"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Selects and completes appropriate forms quickly and completely"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Attends to and follows through on important information in paperwork"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forwards or processes forms in a timely and accurate manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expedites forms, orders, or advances that require immediate attention"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Obtains appropriate information, signatures, and approvals promptly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining Logs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Keeps logs, records, and files that are up-to-date and readily accessible (e.g., driver logs, flight records, repair records)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Updates logs, files, and records, noting important changes in status"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detecting Errors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Verifies that all information is present and accurate before forwarding materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Detects and corrects errors, even under time pressure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Notices errors or inconsistencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Application of basic business and management principles to connect industry trends with services the company sells and provides to the customer."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Situational Awareness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the mission, structure, and functions of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the impact of economic, social, and technological changes on the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes one’s role in the functioning of the company and understands the potential impact one’s own performance can have on the success of the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Grasps the potential impact of the company’s well-being on employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the culture of safety and practices safe work habits."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Physical Aptitude"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes the physical aptitudes necessary to perform critical work functions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates sufficient stamina to complete critical work functions (e.g., complete full shift, walking, carrying heavy objects for extended periods)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Ethics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates respect for coworkers, colleagues, and customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Acts in the best interest of the company, the community, and the environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with applicable laws and rules governing work and reports loss, waste, or theft or company property to appropriate personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Knowledge Private Sector"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the industry, industry market trends, and the company’s position in the market"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knows who the company’s primary competitors are, their products/services, strengths/weaknesses, and, to the extent possible, organizational strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the company’s priorities, workforce capabilities, strategic plan, business plan, critical customers, suppliers, and stakeholders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands major competitive challenges faced by the organization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Knowledge Public Sector"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the industry and the organization’s mission in support of industry success"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Knows the agency’s key stakeholder roles and priorities, and stays current on key organizational strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands major challenges faced by the organization and industry, and key strategies to address challenges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry-Wide Technical Competencies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industry Fundamentals:"
+			},
+			"comment": {
+				"en-us": [
+					"Knowledge of the fundamentals of the transportation, distribution, and logistics industry, including transportation modes and the industry’s key components."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the nature and scope of transportation, distribution, and logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Describes the various modes of transportation and their inter-connectivity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Explains the role and impact of the transportation of passengers and freight on the economy"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the public and private organizations, systems, and infrastructure supporting the transportation, distribution, and logistics industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modes of Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maritime"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Highway"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipeline"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public Transit and Ground Transportation Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intermodal and Multimodal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scenic and Sightseeing Transportation (NAICS 487), the Postal Service (NAICS 491), and Couriers and Messengers (NAICS 492)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support Providers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehousing Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infrastructure Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-Asset Based Third Party Suppliers for activities such as:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Auditing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Service Issue Resolution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Freight Quoting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Financial Settlement and Invoicing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaging and Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tracking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and Development:"
+			},
+			"comment": {
+				"en-us": [
+					"Activities related to the research, design, and development of transportation systems capable of moving materials, products, and people to meet customer’s requirements."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Develops plans including routes and schedules for transporting people and goods to meet customer requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Analyzes performance of transportation operations in order to improve quality and service levels and increase efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies systems analysis to the elements, relationships, and functions in the supply chain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Determines customer needs and requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures that passengers or cargo arrive at the right location, on time, and in the safest and most efficient and economical manner within regulatory guidelines"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains information on the movement of people and goods according to planned routes and schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Assesses infrastructure conditions and develops plans to maintain and improve transportation infrastructure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design and Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Asset Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geometric Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intelligent Transportation Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pavements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Roads and Bridges"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traffic Operations and Capacity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traffic Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Planning Development"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "User Behavior/Human Factors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Business Cycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contracting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Forecasting"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling and Monitoring"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Impacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customs and Export Control (Legal Aspects)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Supply Chain Logistics Life Cycle"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intellectual Property"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Political Climates"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taxes and Duties"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipping, Receiving, and Freight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations and Management:"
+			},
+			"comment": {
+				"en-us": [
+					"Activities related to the implementation, management, and control of transportation systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Drives or operates transportation equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implements transportation plans and schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Adjusts transportation and distribution processes in response to changing conditions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Demonstrates knowledge of roadway planning, design, and construction, and vehicle dispatching, routing, and tracking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies strategies for managing traffic flow at transportation hubs, facilities, and staging areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies industry standards to ensure quality service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains logs and other required documents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monitors processes to ensure they are appropriate and effective"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ensures equipment is operating to prescribed standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Raises and reports quality issues in a timely manner"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Suggests and/or implements continuous improvement actions such as business process reengineering and performance improvement strategies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Provides ongoing customer service to both internal and external customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Responds to customer problems, complaints, and questions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dispatch"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intermodal Transfers/Synchronization"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Impact of Intermodal Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operations Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Signaling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tracking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Traffic Flow"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle Operation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Relationship Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internal and External Customers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Company Policies and Procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Confidentiality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Handling Questions, Problems, Complaints"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Educating the Customer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Satisfaction and Commitment to Product or Service"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Routes and Schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Long-Distance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Special Handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Quality Assurance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Total Quality Management (TQM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enterprise Lean"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Six Sigma Methodology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance and Repair:"
+			},
+			"comment": {
+				"en-us": [
+					"Activities related to the maintenance and repair of transportation facilities, equipment, infrastructure, and systems."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Examines or inspects facilities, equipment, infrastructure, and systems to detect malfunctions, damage, or maintenance needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains and repairs transportation facilities, equipment, infrastructure, and systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Updates maintenance records and logs according to company policies and procedures and government regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment Operation and Repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment/Machinery Maintenance Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance Schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance Logs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Software and Hardware"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Repair Schedules"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle Diagnostic Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle Monitoring Systems (VMS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology Applications:"
+			},
+			"comment": {
+				"en-us": [
+					"Maintaining an awareness of technological advances and applying appropriate technology to transportation, distribution, and logistics processes."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Applies new and emerging advanced techniques to provide solutions for transportation, distribution, and logistics problems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stays informed of technological advances and the benefits of applying appropriate technology to transportation, distribution, and logistics processes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Components and Systems such as vehicular global positioning systems, or vehicle navigation systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Services Equipment such as integrated maintenance information systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Communications Devices and Accessories such as mobile phones, or two-way radios"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Equipment and Accessories such as notebook computers, personal digital assistants (PDAs) or organizers, thin-client computers, desktop computers, personal computers, wearable computing devices, bar code reader equipment, radio frequency identification devices, scanners, touchpads, portable data input terminals"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Data Voice or Multimedia Network Equipment or Platforms and Accessories such as automatic call distributor (ACD), interactive voice recognition equipment, intercom systems, radio frequency data communication equipment, telegraph sounders, instant messaging platform, location based messaging service platforms, paging controllers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Robotics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public Safety and Control Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fire Protection such as fire suppression systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Consumer Electronics such as global positioning system receivers, radio frequency scanners, radio frequency transmitters or receivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems and Software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Traveler Information Systems (ATIS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Compliance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Relationship Management (CRM)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electronic Data Interchange (EDI)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Electronic Logging Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Enterprise Resource Planning (ERP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Expert Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilities Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Geographic Information Systems (GIS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Global Logistics Systems (GLS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intelligent Transportation Systems (ITS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials Requirements Planning Logistics and Supply Chain"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mobile Location-based Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Procurement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Project Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Route Navigation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Management Systems (TMS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety and Security Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Video Monitoring Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulations:"
+			},
+			"comment": {
+				"en-us": [
+					"Compliance with relevant local, state, federal, and international laws and regulations that impact the transportation, distribution, and logistics industry."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the roles and functions of government agencies (e.g., Federal Aviation Administration) in regulating and supporting transportation, distribution, and logistics organizations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with local, state, federal, and international laws and regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands transportation systems’ political, regulatory, and legal issues"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Identifies governmental policies and procedures for transportation, distribution and logistics facilities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standards and Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "International Organization for Standardization (ISO) Standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tariff and Trade Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labeling Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Regulations, Including Occupational Safety and Health Administration (OSHA)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Local, State, Federal, and International Laws"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety and Security:"
+			},
+			"comment": {
+				"en-us": [
+					"Assessing and managing risks associated with safety and security."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Critical Work Functions:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintaining a Healthy and Safe Environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Takes actions to ensure the safety of self and others, in accordance with established personal and jobsite safety practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Anticipates and prevents work-related injuries and illnesses"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Complies with federal, state, and local regulations, and company health and safety policies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes common hazards and unsafe conditions that occur at work, their risks, and appropriate controls to address them"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows organizational procedures and protocols for workplace emergencies, including safe evacuation, and emergency response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains a sanitary and clutter-free work environment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administers first aid or CPR if trained and summons assistance as needed"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Properly identifies, handles, and disposes of hazardous materials in accordance with government regulations and health standards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes universal signs and symbols, such as colors, flags, and stakes, to function safely in the workplace"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Implements security measures to minimize loss and disruption"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Practices sustainability by using processes that are non-polluting, conserving of energy and natural resources, economically efficient, and safe for workers, communities, and consumers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stays up to date on environmentally-friendly trends in the industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Follows organizational procedures to reduce emissions, increase energy efficiency, and reduce the organization’s carbon footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintains documentation of compliance with health, safety, security, and environmental management systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safeguarding One’s Person"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses equipment and tools safely. Completes safety training on pertinent equipment and applies safe operating procedures"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Uses appropriate Personal Protective Equipment (PPE)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Recognizes how workplace risks can affect one’s life and one’s family"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands and follows the safety and security rules and procedures particular to employee’s mode and occupation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Understands the legal rights of workers regarding workplace safety and protection from hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reports injuries, incidents, workplace hazards, and safety and security concerns to a supervisor as soon as safely possible"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Contributes to discussion of safety concerns in the workplace, making suggestions as appropriate"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technical Content Areas:"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rules and Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety, Health, Environmental, and Operational Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "HAZMAT Regulations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personal Protective Equipment (PPE)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Health, Safety, and Environmental Risks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Protective Gear"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety Practices"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workplace Hazards"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Preparedness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Investigations and Audits"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Continuity of Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cybersecurity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Emergency Preparedness"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infrastructure and Physical Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Internal Controls"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Risk Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vulnerability Assessment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Environmental"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Green Issues Impacting Transportation, Distribution, and Logistics Industry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Greenhouse Gas Emissions"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Energy Efficiency"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Carbon Footprint"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Fuel-saving Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air/Water Quality"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Sectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of Civil Aviation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduled Air Transport (all passenger and cargo flights operating on regularly scheduled routes)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Aviation (GA) (all other civil flights, private or commercial)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air Traffic Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft Design, Development, and Production"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airport Operations and Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airworthiness Certification"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aviation System Planning and Engineering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Economics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Flight Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manufacturers and Suppliers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Medical"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Personnel Licensing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regulation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Repair and Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety, Security, and Environmental Impacts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Training"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Workforce Categories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airline Employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airport Employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Federal Aviation Administration (FAA) Employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "State and Local Government Aviation Employees"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airport Support Employees (not at airports, but aligned with the U.S. aviation industry)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Job Types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pilots"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other Flight Personnel"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Passenger Handling and Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air Traffic Handling and Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cargo Handling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professional and Other Transport Related"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commercial Space Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Next Generation Air Transportation System (NextGen)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Unmanned Aerial Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerospace Engineering and Operations Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Air Traffic Controllers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft Cargo Handling Supervisors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft Mechanics and Service Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airfield Operations Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Airline Pilots, Copilots, and Flight Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aviation Inspectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Avionics Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Baggage Porters and Bellhops"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cargo and Freight Agents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commercial Pilots"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customer Service Representatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Flight Attendants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers and Freight, Stock, and Material Movers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reservation and Transportation Ticket Agents and Travel Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rail Transportation:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required to provide rail transportation of passengers and/or cargo using railroad rolling stock."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types of Rail -- Passenger and Freight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Class I"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Regional"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Short Line"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intercity Passenger Rail and Commuter Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Components"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rolling Stock (the Locomotives, Passenger Coaches, Freight Cars, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Infrastructure (the Roadbed, Tracks, Switches, Stations, Freight Facilities, Viaducts, Tunnels, etc.)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Passenger and Freight Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Signaling and Communications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inspection"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Advanced Train Control Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Major Workforce Categories"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Executives, Officials, and Staff Assistants - Positions for the executive and senior management of the firm. Corporate Officers, and other appointed or elected corporate officials."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Professionals and Administrative - Positions ranging anywhere from an internal auditor, attorney or secretary, to information technology specialist."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance-of-Way and Structures - Provide quality maintenance to the track, train control (signals and communication) systems, bridges, and buildings."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance of Equipment and Stores - Provide a number of support jobs throughout the railroad with different titles, working in different departments. May work in the yard office, towers, mechanical shops, and other various office locations."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation, Train and Engine - Responsible for the safe and efficient operation of trains and the movement of customer freight from one destination to another."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation, Other Than Train and Engine - Inspects, repairs, and maintains freight cars and locomotives. This function is also responsible for clearing derailments involving railroad equipment. Mechanical experience, additional training is often required on-the-job."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Key Trends"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "High-Speed Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Positive Train Control (PTC)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Green Rail Initiatives"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Locomotive Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rail Car and Locomotive Repairers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rail Transportation Workers, All Other"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Rail Yard Engineers and Hostlers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Railroad Traffic Control Dispatchers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Railroad Conductors and Yardmasters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Railroad Track/Bridge/Building Maintenance, Inspection, Construction, and Repair Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Signals and Electronics Installation, Inspection, Testing, and Repair Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transit and Railroad Police"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maritime Transportation:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required to provide for the water transportation of passengers and cargo using watercraft such as ships, barges, and boats. Includes both deep sea and inland waterway."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation - Freight and Passenger"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deep Sea"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coastal and Great Lakes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inland"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship Departments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Deck Department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Engineering Department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Steward's Department"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other Departments"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support and Infrastructure"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Port Management and Logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cargo Loading and Unloading"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Passenger Loading and Unloading"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribution of Cargo (Arrival and Departure from Port)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marine Logistics (Cargo Distribution)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Spill Response"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipbuilding and Repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "New Vessel Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship Repair"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship Engineering and Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bridge and Lock Tenders"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commercial Divers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marine Architects"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Marine Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mates - Ship, Boat, and Barge"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motorboat Mechanics and Service Technicians"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motorboat Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pilots, Ship"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reservation and Transportation Ticket Agents and Travel Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sailors and Marine Oilers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship and Boat Captains"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ship Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Highway Transportation:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required to provide over-the-road transportation of cargo using motor vehicles such as trucks and tractor-trailers. Includes both generalized and special freight trucking."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Freight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Load Carried"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Terminal Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Networking Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Mode of Commodities"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Palletized"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Container"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Intermodal"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Van Trailer"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Specialized Freight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Size"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Weight"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shape"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Hazardous Materials"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Support Activities for Road Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motor Vehicle Towing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Freight Transportation Arrangement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packing and Crating"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Performance Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "National Highway Performance Program (NHPP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Highway Safety Improvement Program (HSIP)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Congestion Mitigation and Air Quality Improvement Program (CMAQ)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Freight Movement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Traction Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operator Monitoring Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus and Truck Mechanics and Diesel Engine Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dispatchers, Except Police, Fire, and Ambulance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy and Tractor-Trailer Truck Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Truck and Tractor Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers and Freight, Stock, and Material Movers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Light Truck or Delivery Services Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation, Storage, and Distribution Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Public Transit and Ground Transportation:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required to provide passenger transportation through a variety of means such as urban transit systems; chartered bus, school bus, and interurban bus transportation; and taxis."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Urban Transit Systems (NAICS 4851)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Interurban and Rural Bus Transportation (NAICS 4852)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taxi and Limousine Service (NAICS 4853)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "School and Employee Bus Transportation (NAICS 4854)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Charter Bus Industry (NAICS 4855)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Other Transit and Ground Passenger Transportation (NAICS 4859)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Modes"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Aerial Tramway"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Guideway Transit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cable Car"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Commuter Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Ferry Boat"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inclined Plane"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Light Rail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Monorail"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Paratransit"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Trolleybus"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vanpool"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Workforce Functional Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Vehicle Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Facilities, Track, and Road Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Administration, Planning, and Scheduling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Focus Areas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Safety"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sustainability"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus and Truck Mechanics and Diesel Engine Specialists"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus Drivers, School or Special Client"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus Drivers, Transit and Intercity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cleaners of Vehicles and Equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dispatchers, Except Police, Fire, and Ambulance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Office Clerks, General"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reservation and Transportation Ticket Agents and Travel Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Subway and Streetcar Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Taxi Drivers and Chauffeurs"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Attendants, Except Flight Attendants"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehousing:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required for the operation of warehousing and storage facilities for general merchandise, refrigerated goods, and other warehouse products."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Storage of Goods"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General Warehousing and Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refrigerated Warehousing and Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Farm Product Warehousing and Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Automated Warehousing and Storage"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Logistics Services"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Labeling"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Breaking Bulk"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Control and Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Light Assembly"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Order Entry and Fulfillment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pick and Pack"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Price Marking and Ticketing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Arrangement"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehouse Operations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bar-coding, Racking, Labeling, and Cross-docking"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribution and Information Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Manual and Automated Material Handling Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packaging"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Product Stacking Requirements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "RFID and Other Product Identification Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Security and Loss Prevention Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipping and Receiving"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehouse Records and Documentation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain Logistics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Customs and Export Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Logistics Outsourcing"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Supply Chain Elements"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Radio Frequency Identification (RFID)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "AutoID Technologies"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials Handling Technologies (e.g., Voice-directed Order Picking Technology)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Software"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Inventory Management"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bar Coding"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Label Making"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Warehouse Management Systems (WMS)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Driver/Sales Workers and Truck Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General and Operations Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy and Tractor-Trailer Truck Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Truck and Tractor Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers and Freight, Stock, and Material Movers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Light Truck or Delivery Services Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance and Repair Workers, General"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Packers and Packagers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipping, Receiving, and Traffic Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Stock Clerks and Order Fillers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation, Storage, and Distribution Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Pipeline:"
+			},
+			"comment": {
+				"en-us": [
+					"The activities required to construct, operate, and maintain transmission pipelines to transport products such as crude oil, natural gas, refined petroleum products, and slurry."
+				]
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Types"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gathering"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Distribution"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Phases"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Right of Way"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Construction"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Maintenance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Post Construction Restoration"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Transported"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Crude Oil"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Natural Gas"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Refined Petroleum Products"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Slurry"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Non-hazardous Fluids"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Materials Selection and Design"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Standard Practices (SPs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Material Requirements (MRs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Test Methods (TMs)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Corrosion"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cathodic Protections"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Chemical Inhibitors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Coatings"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Technology"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Telecommunications"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Computer Systems"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Remote Control"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Civil Engineers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Control and Valve Installers and Repairers, Except Mechanical Door"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-Line Supervisors of Production and Operating Workers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gas Compressor and Gas Pumping Station Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Gas Plant Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "General and Operations Managers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy and Tractor-Trailer Truck Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Industrial Machinery Mechanics"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Operating Engineers and Other Construction Equipment Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Plumbers, Pipefitters, and Steamfitters"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Scenic and Sightseeing Transportation (NAICS 487), the Postal Service (NAICS 491), and Couriers and Messengers (NAICS 492)"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Subsectors"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Scenic and Sightseeing Transportation subsector utilizes transportation equipment to provide recreation and entertainment. These activities have a production process distinct from passenger transportation carried out for the purpose of other types of for-hire transportation. This process does not emphasize efficient transportation; in fact, such activities often use obsolete vehicles, such as steam trains, to provide some extra ambience. The activity is local in nature, usually involving a same-day return to the point of departure."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Postal Service subsector includes the activities of the United States Postal Service and its subcontractors operating under a universal service obligation to provide mail services, and using the infrastructure required to fulfill that obligation. These services include delivering letters and small parcels."
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "The Couriers and Messengers subsector provides intercity, local, and/or international delivery of parcels and documents (including express delivery services) without operating under a universal service obligation. These articles can be described as those that may be handled by one person without using special equipment"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Occupations"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Bus Drivers, Transit and Intercity"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Captains, Mates, and Pilots of Water Vessels"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Cargo and Freight Agents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Couriers and Messengers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Dispatchers, Except Police, Fire, and Ambulance"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Heavy and Tractor-Trailer Truck Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Laborers and Freight, Stock, and Material Movers, Hand"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Light Truck or Delivery Services Drivers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Motorboat Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Postal Service Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Postal Service Mail Carriers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Postmasters and Mail Superintendents"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Reservation and Transportation Ticket Agents and Travel Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Sailors and Marine Oilers"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Shipping, Receiving, and Traffic Clerks"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Tour Guides and Escorts"
+			}
+		},
+		{
+			"competencyText": {
+				"en-us": "Transportation Attendants, Except Flight Attendants"
+			}
+		}
+	]
+}
