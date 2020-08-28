@@ -25,7 +25,13 @@
   skos:inScheme <https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e> .
   
 <https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5> a skos:Concept ;
-  skos:prefLabel "CASE 1.0"@en-us ;
-  skos:definition "IMS Global Case specification version 1.0"@en-us ;
+  skos:prefLabel "CASE 1.0 (JSON)"@en-us ;
+  skos:definition "IMS Global Case specification version 1.0 (JSON)"@en-us ;
+  dct:modified "2020-01-30"^^xsd:date ;
+  skos:inScheme <https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e> .
+  
+<https://ocf-collab.org/concepts/3aae2415-aefc-45f3-b3b8-563c30cd257c> a skos:Concept ;
+  skos:prefLabel "CASE 1.0 (JSON-LD)"@en-us ;
+  skos:definition "IMS Global Case specification version 1.0 (JSON-LD)"@en-us ;
   dct:modified "2020-01-30"^^xsd:date ;
   skos:inScheme <https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e> .
