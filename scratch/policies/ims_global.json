@@ -1,0 +1,71 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/odrl.jsonld",
+        { "dc": "http://purl.org/dc/terms/" }
+    ],
+    "@type": "Policy",
+    "uid": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138",
+    "profile": "https://ocf-collab.org/rights/d724c6b2-16e6-4cc2-9f19-0524d102474f",
+    "dc:creator": "IMS Global Case Registry",
+    "dc:description": "This policy covers all Network node actions on competency frameworks in the IMS Global CASE Network collaction.",
+    "dc:issued": "2020-02-20T08:15:30-05:00",
+    "assigner": "https://ocf-collab.org/rights/agents/2fa27e88-a7e3-46f8-9a8a-9ba9e4fdbcf3",
+    "assignee": {
+        "@type": "PartyCollection",
+        "uid":  "https://ocf-colleb.org/agents/12c906b1-8243-4bac-a5d8-b044ffdfc893",
+        "vcard:org": "T3 Network Trust Node Membership"
+    },
+    "permission": [ 
+        {
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/90fa276a-dadc-44e7-a28f-ad184dcc7b2f" 
+            },
+            "action": "index"
+        },
+        {
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/90fa276a-dadc-44e7-a28f-ad184dcc7b2f" },
+            "action": "display",
+            "constraint": [
+                {
+                    "@type": "odrl:Constraint", 
+                    "leftOperand": "elapsedTime",
+                    "operator": "lt",
+                    "rightOperand":  { "@value": "P48H", "@type": "xsd:date" }
+                }
+            ]
+        },
+        {
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/90fa276a-dadc-44e7-a28f-ad184dcc7b2f" 
+            },
+            "action": "transform"
+        },
+        {
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/01bca768-c435-4237-9e42-a3df0965334e" 
+            },
+            "action": "derive"
+        }
+     ],
+     "prohibition": [
+        {
+            "@type": "odrl:Prohibition",
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/90fa276a-dadc-44e7-a28f-ad184dcc7b2f" },
+            "action": "archive"
+        },
+        {
+            "@type": "odrl:Prohibition",
+            "target": {
+                "@type": "AssetCollection",
+                "uid":  "https://ocf-collab.org/Collection/90fa276a-dadc-44e7-a28f-ad184dcc7b2f" },
+            "action": "distribute"
+        }
+     ]
+}
