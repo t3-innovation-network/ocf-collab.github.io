@@ -32,6 +32,14 @@
       "rdfs:label": "Asset Envelope"
     },
     {
+      "@id": "schema:ContactType",
+      "@type": "rdfs:Class",
+      "dcterms:identifier": "schema:ContactType",
+      "rdfs:comment": "A contact point—for example, a Customer Complaints department.",
+      "rdfs:isDefinedBy": "schema:",
+      "rdfs:label": "Contact Type"
+    },
+    {
       "@id": "schema:DefinedTerm",
       "@type": "rdfs:Class",
       "dcterms:identifier": "schema:DefinedTerm",
@@ -170,6 +178,15 @@
       "schema:rangeIncludes": "rdf:langString"
     },
     {
+      "@id": "schema:contactType",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:contactType",
+      "rdfs:comment": "A person or organization can have different contact points, for different purposes.",
+      "rdfs:label": "Contact Type",
+      "schema:domainIncludes": "schema:ContactPoint",
+      "schema:rangeIncludes": "xsd:string"
+    },
+    {
       "@id": "schema:dateCreated",
       "@type": "rdf:Property",
       "dcterms:identifier": "schema:dateCreated",
@@ -218,6 +235,15 @@
       "rdfs:label": "Description",
       "schema:domainIncludes": "skos:ConceptScheme",
       "schema:rangeIncludes": "rdf:langString"
+    },
+    {
+      "@id": "schema:email",
+      "@type": "rdfs:Property",
+      "dcterms:identifier": "schema:email",
+      "rdfs:comment": "Email address.",
+      "rdfs:label": "Email",
+      "schema:domainIncludes": "skos:ConceptPoint",
+      "schema:rangeIncludes": "xsd:string"
     },
     {
       "@id": "ocfc:errorCode",
