@@ -2,7 +2,7 @@
   "@context": "https://ocf-collab.org.org/ns/context.json",
   "@graph": [
     {
-      "@id": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7",
+      "@id": "https://ocf-collab.org/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7",
       "@type": "RegistryDirectory",
       "dateCreated": "2020-01-01",
       "dateModified": "2020-08-29",
@@ -31,10 +31,19 @@
             "contactType": "Associate Solutions Architect"
         }
       ],
+      "registryLogo": "https://ocf-collab.github.io/scratch/registryLogos/CredEngine/logo@2x.png",
+      "s3Production": {
+         "bucketName": "credential-engine-registry",
+         "arn": "arn:aws:s3:::credential-engine-registry",
+         "bucketURL": "http://s3.amazonaws.com/credential-engine-registry/"
+      },
+      "s3Test": {
+         "bucketName": "test-credential-engine-registry",
+         "arn": "arn:aws:s3:::test-credential-engine-registry",
+         "bucketURL": "http://s3.amazonaws.com/test-credential-engine-registry/"
+      },
       "requesterNodeAgent": "[Some identifier string]",
       "providerNodeAgent": "[Some identifier string]",
-      "nativeProtocol": null,
-      "nativeAccessControl": null,
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     },
     {
@@ -56,10 +65,19 @@
             "contactType": "Technical Program Manager"
         }
       ],
+      "registryLogo": "https://ocf-collab.github.io/scratch/registryLogos/CredEngine/imslogo.png",
+      "s3Production": {
+         "bucketName": "ims-global",
+         "arn": "arn:aws:s3:::ims-global",
+         "bucketURL": "http://s3.amazonaws.com/ims-global/"
+      },
+      "s3Test": {
+         "bucketName": "test-ims-global",
+         "arn": "arn:aws:s3:::test-ims-global",
+         "bucketURL": "http://s3.amazonaws.com/test-ims-global/"
+      },
       "requesterNodeAgent": "[Some identifier string]",
       "providerNodeAgent": "[Some identifier string]",
-      "nativeProtocol": null,
-      "nativeAccessControl": null,
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     },
     {
@@ -81,10 +99,19 @@
             "contactType": "[TBD]"
         }
       ],
+      "registryLogo": "https://ocf-collab.github.io/scratch/registryLogos/CredEngine/d2l-logo-full-2x.png",
+      "s3Production": {
+         "bucketName": "desire2learn",
+         "arn": "arn:aws:s3:::desire2learn",
+         "bucketURL": "http://s3.amazonaws.com/desire2learn/"
+      },
+      "s3Test": {
+         "bucketName": "test-desire2learn",
+         "arn": "arn:aws:s3:::test-desire2learn",
+         "bucketURL": "http://s3.amazonaws.com/test-desire2learn/"
+      },
       "requesterNodeAgent": "[Some identifier string]",
       "providerNodeAgent": "[Some identifier string]",
-      "nativeProtocol": null,
-      "nativeAccessControl": null,
       "isPartOf": "https://example.org/ocfc/registryDirectory/a211fb8b-9203-48be-b3ce-21868099bae7"
     }
   ]
