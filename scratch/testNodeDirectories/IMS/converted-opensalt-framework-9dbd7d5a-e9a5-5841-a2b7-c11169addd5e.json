@@ -1,0 +1,1495 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"es-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/9dbd7d5a-e9a5-5841-a2b7-c11169addd5e",
+        "name": {"es-us": "Capítulo 111. Conocimientos y destrezas esenciales de Texas para matemáticas"},
+        "description": {"es-us": "Capítulo 111. Conocimientos y destrezas esenciales de Texas para matemáticas"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"es-us": "Subcapítulo A. Primaria"}
+        },
+        {
+            "competencyText": {"es-us": "Kindergarten, adoptado en el 2012."},
+            "comment": {
+                "es-us": ["Fuente: las estipulaciones de esta sección §111.2 adoptadas para entrar en vigor el 1o de septiembre de 2012, 37 TexReg 7109"]
+            }
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas,tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en Kindergarten realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas principales de enfoque en Kindergarten son la comprensión del conteo y del reconocimiento de los números cardinales; la comprensión de que en la suma se une y en la resta se separa; y la comparación de objetos de acuerdo con sus atributos medibles."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes desarrollan un sentido numérico y las operaciones a través de varios conceptos fundamentales. Los estudiantes saben los nombres de los números y la secuencia en el conteo. El conteo y el reconocimiento de números establecen bases sólidas para el sentido numérico. Los estudiantes aplican los principios de conteo para hacer conexiones entre números y cantidades."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes utilizan el significado de los números para crear estrategias al resolver problemas y al responder a situaciones prácticas que involucran suma y resta."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes identifican las características de los objetos que se pueden medir y comparan directamente los objetos de acuerdo con estos atributos medibles."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, laformulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para comprender cómo se representan y comparan números enteros, la posición relativa y la magnitud de los números enteros y las relaciones dentro del sistema de numeración. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "cuente hacia adelante y hacia atrás por lo menos hasta el número 20 con y sin objetos;"}
+        },
+        {
+            "competencyText": {"es-us": "lea, escriba y represente números enteros del 0 hasta por lo menos el 20 con y sin objetos o ilustraciones;"}
+        },
+        {
+            "competencyText": {"es-us": "cuente un conjunto de por lo menos 20 objetos y demuestre que el último número que cuente indica el número de objetos en el conjunto sin importar cómo están acomodados o el orden;"}
+        },
+        {
+            "competencyText": {"es-us": "reconozca inmediatamente la cantidad de un grupo pequeño de objetos acomodados en forma organizada y al azar;"}
+        },
+        {
+            "competencyText": {"es-us": "genere un conjunto utilizando modelos concretos y pictóricos que representen un número que es mayor que, menor que e igual a un número dado por lo menos hasta el 20;"}
+        },
+        {
+            "competencyText": {"es-us": "genere un número que es uno más o uno menos que otro número por lo menos hasta el 20;"}
+        },
+        {
+            "competencyText": {"es-us": "compare conjuntos de por lo menos 20 objetos en cada uno utilizando lenguaje comparativo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice lenguaje comparativo para describir dos números que se presentan como numerales escritos hasta el 20; y"}
+        },
+        {
+            "competencyText": {"es-us": "componga y descomponga números hasta el 10 usando objetos e ilustraciones."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar comprensión de situaciones en las que se necesita sumar y restar que le permita resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "elabore modelos que muestren la acción de juntar para representar la suma y la acción de separar para representar la resta;"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas escritos utilizando objetos e ilustraciones para encontrar las sumas hasta el 10 y las diferencias hasta el 10; y"}
+        },
+        {
+            "competencyText": {"es-us": "explique las estrategias utilizadas para resolver problemas que involucren sumar y restar hasta el 10 usando lenguaje verbal, modelos concretos y pictóricos, así como oraciones numéricas."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para identificar monedas y reconocer la necesidad de transacciones monetarias. Se espera que el estudiante identifique monedas estadounidenses por su nombre, incluyendo monedas de un centavo (pennies), cinco centavos (nickels), diez centavos (dimes) y veinticinco centavos (quarters)."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para identificar el patrón que existe en una lista de números escritos. Se espera que el estudiante cuente en voz alta los números por lo menos hasta el 100 de uno en uno y de diez en diez comenzando con cualquier número dado."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para analizar los atributos de figuras de dos dimensiones y sólidos de tres dimensiones que le permita hacer generalizaciones acerca de sus propiedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique figuras de dos dimensiones, incluyendo círculos, triángulos, rectángulos y cuadrados, que son considerados rectángulos especiales;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique en el mundo real sólidos de tres dimensiones, incluyendo cilindros, conos, esferas y cubos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique componentes de dos dimensiones en objetos de tres dimensiones;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique atributos de figuras de dos dimensiones utilizando lenguaje geométrico informal y formal de manera intercambiable;"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique y agrupe una variedad de figuras de dos y tres dimensiones regulares e irregulares sin importar la orientación o el tamaño; y"}
+        },
+        {
+            "competencyText": {"es-us": "haga figuras de dos dimensiones utilizando una variedad de materiales e ilustraciones."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para comparar directamente atributos medibles. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "dé un ejemplo de un atributo medible de un objeto dado, incluyendo longitud, capacidad y peso; y"}
+        },
+        {
+            "competencyText": {"es-us": "compare dos objetos con un atributo medible común para ver cuál objeto tiene más del atributo y menos del atributo, y describa la diferencia."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para reunir y organizar datos que le permitan utilizarlos al interpretar información. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "reúna, ordene y organice datos en dos o tres categorías;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice datos para crear gráficas con objetos reales y con ilustraciones; y"}
+        },
+        {
+            "competencyText": {"es-us": "saque conclusiones de gráficas que usan objetos reales y gráficas que usan ilustraciones."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique formas de obtener ingresos;"}
+        },
+        {
+            "competencyText": {"es-us": "diferencie entre dinero recibido como ingreso y dinero recibido como regalo;"}
+        },
+        {
+            "competencyText": {"es-us": "haga una lista de las destrezas simples que son necesarias en los trabajos; y"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre lo que se desea y lo que se necesita, e identifique los ingresos como un recurso para obtener lo que se desea y lo que se necesita."}
+        },
+        {
+            "competencyText": {"es-us": "Primer grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas, tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en primer grado realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas principales de enfoque en primer grado son la comprensión y aplicación del valor de posición, la resolución de problemas que involucren sumar y restar, y la composición y descomposición de figuras de dos dimensiones y de sólidos de tres dimensiones."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes utilizan relaciones del sistema de numeración para comprender el orden secuencial al contar números y su magnitud relativa."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes expanden su uso de la suma y la resta más allá de las acciones de juntar y separar en el que incluyen comparar y combinar. Los estudiantes utilizan las propiedades de las operaciones y la relación entre la suma y la resta para resolver problemas. Al comparar una variedad de estrategias de solución, los estudiantes utilizan métodos eficientes, precisos y generalizables para hacer operaciones."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes utilizan figuras simples y razonamiento espacial para representar objetos que hay en su medio ambiente y construir figuras más complejas. Los estudiantes pueden identificar, nombrar y describir figuras simples de dos dimensiones y figuras sólidas de tres dimensiones."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, laformulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar y comparar números enteros, la posición relativa y la magnitud de los números enteros y las relaciones dentro del sistema de numeración en cuanto al valor de posición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "reconozca inmediatamente la cantidad de objetos en arreglos estructurados;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice modelos concretos y pictóricos para componer y descomponer números hasta el 120 en más de una forma, como al decir que un número está compuesto de tantas centenas, tantas decenas y tantas unidades;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice objetos, ilustraciones y formas estandarizadas y desarrolladas para representar números hasta el 120;"}
+        },
+        {
+            "competencyText": {"es-us": "genere un número que es mayor que o menor que un número entero dado hasta el 120;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice el valor de posición para comparar números enteros hasta el 120 utilizando lenguaje comparativo;"}
+        },
+        {
+            "competencyText": {"es-us": "Ordene números enteros hasta el 120 utilizando el valor de posición y las rectas numéricas abiertas; y"}
+        },
+        {
+            "competencyText": {"es-us": "represente la comparación de dos números hasta el 100 utilizando los símbolos >, < o =."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar y utilizar estrategias al hacer operaciones de suma y resta con números enteros que le permitan resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "utilice modelos concretos y pictóricos para determinar la suma de un múltiplo de 10 y un número de un dígito en problemas que van hasta el 99;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice objetos y modelos pictóricos para resolver problemas escritos que involucran juntar, separar y comparar conjuntos hasta el 20 y encontrar números desconocidos en cualquiera de los términos de un problema, tal es como 2+4=[];  3+[]=7; y 5=[]\u20133;"}
+        },
+        {
+            "competencyText": {"es-us": "componga el número 10 utilizando dos o más sumandos con y sin objetos concretos;"}
+        },
+        {
+            "competencyText": {"es-us": "aplique estrategias de relaciones básicas al sumar y restar hasta el 20, como al formar el número 10 y al descomponer un número para que forme el 10;"}
+        },
+        {
+            "competencyText": {"es-us": "explique las estrategias utilizadas para resolver problemas de suma y resta hasta el 20 usando lenguaje verbal, objetos, modelos pictóricos y oraciones numéricas; y"}
+        },
+        {
+            "competencyText": {"es-us": "genere y resuelva problemas de matemáticas en los que se le da una oración numérica que involucra suma o resta de números hasta el 20."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para identificar monedas, sus valores y las relaciones entre ellas que le permitan reconocer la necesidad de transacciones monetarias. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique monedas estadounidenses por su valor, incluyendo monedas de un centavo (pennies), cinco centavos (nickels), diez centavos (dimes) y veinticinco centavos (quarters), y describa las relaciones entre ellas;"}
+        },
+        {
+            "competencyText": {"es-us": "escriba un número con el símbolo de centavos para describir el valor de una moneda; y"}
+        },
+        {
+            "competencyText": {"es-us": "utilice relaciones para contar de dos en dos, de cinco en cinco y de diez en diez para determinar el valor de una colección de monedas de un centavo, cinco centavos y/o diez centavos."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para identificar y aplicar patrones numéricos dentro de las propiedades de los números y las operaciones que le permitan describir relaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "cuente en voz alta los números hacia adelante y hacia atrás a partir de cualquier número dado que esté entre el uno y el 120;"}
+        },
+        {
+            "competencyText": {"es-us": "cuente de dos en dos, de cinco en cinco y de diez en diez para determinar el número total de objetos en un conjunto hasta el 120;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice relaciones para determinar un número que es 10 más y 10 menos de un número dado hasta el 120;"}
+        },
+        {
+            "competencyText": {"es-us": "represente problemas escritos que involucran suma y resta de números enteros hasta el 20 utilizando modelos concretos, pictóricos y oraciones numéricas;"}
+        },
+        {
+            "competencyText": {"es-us": "entienda que el símbolo igual representa una relación donde las expresiones que están a cada lado del símbolo representan el mismo valor;"}
+        },
+        {
+            "competencyText": {"es-us": "Determine el número entero desconocido en una ecuación de suma o resta cuando el número desconocido sea cualquiera de los tres o cuatro términos de la ecuación; y"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las propiedades de las operaciones para sumar y restar dos o tres números."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para analizar los atributos de figuras de dos dimensiones y sólidos de tres dimensiones que le permita hacer generalizaciones acerca de sus propiedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique y ordene figuras de dos dimensiones regulares e irregulares a partir de sus atributos utilizando lenguaje geométrico informal;"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre los atributos que definen una figura de dos dimensiones o una de tres dimensiones y los atributos que no definen la figura;"}
+        },
+        {
+            "competencyText": {"es-us": "haga figuras de dos dimensiones, incluyendo círculos, triángulos, rectángulos y cuadrados, que son considerados rectángulos especiales, así como de rombos y hexágonos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique figuras de dos dimensiones, incluyendo círculos, triángulos, rectángulos y cuadrados, que son considerados rectángulos especiales, así como de rombos y hexágonos, y describa sus atributos utilizando lenguaje geométrico formal;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique sólidos de tres dimensiones, incluyendo esferas, conos, cilindros, prismas rectangulares (incluyendo cubos) y prismas triangulares, y describa sus atributos utilizando lenguaje geométrico formal;"}
+        },
+        {
+            "competencyText": {"es-us": "componga figuras de dos dimensiones uniendo dos, tres o cuatro figuras para producir la figura deseada en más de una manera si es posible;"}
+        },
+        {
+            "competencyText": {"es-us": "separe figuras de dos dimensiones en dos y cuatro partes iguales, y describa las partes utilizando palabras; e"}
+        },
+        {
+            "competencyText": {"es-us": "identifique ejemplos y contraejemplos de mitades y cuartos."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para seleccionar y utilizar unidades que le permitan describir la longitud y el tiempo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "utilice herramientas de medición para medir la longitud de objetos que le permita reforzar el carácter continuo de la medición lineal;"}
+        },
+        {
+            "competencyText": {"es-us": "muestre que la longitud de un objeto es igual al total de unidades de una misma longitud que, al ponerse de un extremo a otro sin separaciones y sin encimarse, abarcan la longitud del objeto;"}
+        },
+        {
+            "competencyText": {"es-us": "mida el mismo objeto o la misma distancia con unidades de dos longitudes distintas y describa cómo y por qué las medidas son diferentes;"}
+        },
+        {
+            "competencyText": {"es-us": "describa una longitud a la unidad entera más cercana utilizando un número y una unidad; y"}
+        },
+        {
+            "competencyText": {"es-us": "lea la hora y las medias horas utilizando relojes análogos y digitales."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para organizar datos que le permitan utilizarlos al interpretar información y resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "reúna, ordene y organice datos en un máximo de tres categorías utilizando modelos o representaciones, tales como marcas de conteo o tablas T;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice datos para crear pictografías y gráficas de barras; y"}
+        },
+        {
+            "competencyText": {"es-us": "saque conclusiones, y genere y conteste preguntas utilizando información que aparece en pictografías y gráficas de barras."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales.El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "defina el dinero ganado como ingresos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique los ingresos como una manera de obtener bienes y servicios, muchas veces teniendo que elegir entre lo que se desea y lo que se necesita;"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre gastar y ahorrar; y"}
+        },
+        {
+            "competencyText": {"es-us": "considere donaciones para obras caritativas."}
+        },
+        {
+            "competencyText": {"es-us": "Segundo grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas, tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en segundo grado realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas principales de enfoque en segundo grado incluyen hacer comparaciones dentro del sistema de numeración de base 10 o sistema decimal, resolver problemas de suma y resta hasta el 1,000, y establecer las bases de la multiplicación."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes desarrollan la comprensión del sistema de numeración de base 10 y los conceptos del valor de posición. La comprensión de los estudiantes del valor de posición en el sistema de base 10 debe incluir ideas del conteo en unidades y múltiplos de millares, centenas, decenas y unidades, y la comprensión de las relaciones entre los números, los cuales los estudiantes demostrarán de varias maneras."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes identifican situaciones en las cuales la suma y la resta son útiles para resolver problemas. Los estudiantes desarrollan una variedad de estrategias para utilizar métodos eficientes, precisos y generalizables que les permitan sumar y restar números enteros de múltiples dígitos."}
+        },
+        {
+            "competencyText": {"es-us": "Los estudiantes utilizan la relación entre el conteo saltándose números y los grupos iguales de objetos para representar la suma y la resta de conjuntos equivalentes, los cuales establecen bases sólidas para la multiplicación y la división."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, laformulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para comprender cómo representar y comparar números enteros, la posición relativa y la magnitud de los números enteros y las relaciones dentro del sistema de numeración en cuanto al valor de posición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "utilice modelos concretos y pictóricos para componer y descomponer números hasta el 1,200 en más de una manera como la suma de tantos millares, tantas centenas, tantas decenas y tantas unidades;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice formas escritas, estandarizadas y desarrolladas para representar números hasta el 1,200;"}
+        },
+        {
+            "competencyText": {"es-us": "genere un número que es mayor que o menor que un número entero dado hasta el 1,200;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice el valor de posición para comparar y ordenar números enteros hasta el 1,200 utilizando lenguaje comparativo, números y símbolos (>, < o =);"}
+        },
+        {
+            "competencyText": {"es-us": "localice la posición de un número entero dado en una recta numérica abierta; y"}
+        },
+        {
+            "competencyText": {"es-us": "nombre el número entero que corresponde a un punto específico en una recta numérica."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para reconocer y representar unidades fraccionarias, y comunica cómo éstas se utilizan para nombrar las partes de un entero. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "separe objetos en partes iguales y nombre las partes, incluyendo mitades, cuartos y octavos;"}
+        },
+        {
+            "competencyText": {"es-us": "explique que entre más partes fraccionarias se utilizan para hacer un entero, más pequeñas serán las partes; y entre menos partes fraccionarias se utilizan, más grandes serán las partes;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice modelos concretos para contar partes fraccionarias más allá de un entero utilizando palabras y reconozca cuántas partes se necesitan para igualar un entero; e"}
+        },
+        {
+            "competencyText": {"es-us": "identifique ejemplos y contraejemplos de mitades, cuartos y octavos."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar y utilizar estrategias y métodos para hacer cálculos con números enteros que le permitan resolver problemas de suma y resta con eficiencia y precisión. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "recuerde relaciones básicas al sumar y restar hasta el 20 en forma automática;"}
+        },
+        {
+            "competencyText": {"es-us": "sume hasta cuatro números de dos dígitos y reste números de dos dígitos utilizando estrategias mentales y algoritmos basados en el conocimiento del valor de posición y en las propiedades de las operaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas escritos de un paso y de múltiples pasos que involucran la suma y la resta hasta el 1,000 utilizando una variedad de estrategias que se basan en el valor de posición, incluyendo algoritmos; y"}
+        },
+        {
+            "competencyText": {"es-us": "genere y resuelva problemas de matemáticas en los que se le da una oración numérica que involucra suma y resta de números hasta el 1,000."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para determinar el valor de las monedas que le permita resolver transacciones monetarias. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "determine el valor de una colección de monedas hasta un dólar; y"}
+        },
+        {
+            "competencyText": {"es-us": "utilice los símbolos para los centavos, los dólares y el punto decimal para nombrar el valor de una colección de monedas."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para conectar sumas y restas repetidas con situaciones de multiplicación y división que involucran grupos y partes iguales. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente, haga y describa situaciones de multiplicación dentro de un contexto en las cuales se unen conjuntos equivalentes de objetos concretos; y"}
+        },
+        {
+            "competencyText": {"es-us": "represente, haga y describa situaciones de división dentro de un contexto en las cuales se separa un conjunto de objetos concretos en conjuntos equivalentes."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para identificar y aplicar patrones numéricos dentro de las propiedades de los números y operaciones que le permitan describir relaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "determine si un número hasta el 40 es par o impar utilizando pares de objetos para representar el número;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice la comprensión del valor de posición para determinar si un número es 10 ó 100 más o menos que un número dado hasta el 1,200; y"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva problemas escritos de suma y resta en donde cualquiera de los términos en el problema puede ser desconocido."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para analizar atributos de figuras de dos dimensiones y sólidos de tres dimensiones que le permita desarrollar generalizaciones acerca de sus propiedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "haga figuras de dos dimensiones con base en atributos dados, incluyendo el número de lados y vértices;"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique y ordene sólidos de tres dimensiones, incluyendo esferas, conos, cilindros, prismas rectangulares (incluyendo cubos, que son considerados prismas rectangulares especiales) y prismas triangulares, con base en sus atributos utilizando lenguaje geométrico formal;"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique y ordene polígonos de 12 lados o menos según sus atributos, incluyendo la identificación del número de lados y el número de vértices que tienen;"}
+        },
+        {
+            "competencyText": {"es-us": "componga figuras de dos dimensiones y sólidos de tres dimensiones con propiedades o atributos dados; y"}
+        },
+        {
+            "competencyText": {"es-us": "descomponga figuras de dos dimensiones, como al cortar un cuadrado de un rectángulo, al dividir una figura por la mitad o al dividir un rectángulo en triángulos idénticos, e identifique las partes geométricas que resultan."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para seleccionar y utilizar unidades que le permitan describir la longitud, el área y el tiempo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "determine la longitud de objetos utilizando modelos concretos para unidades estandarizadas de longitud;"}
+        },
+        {
+            "competencyText": {"es-us": "describa la relación inversa entre el tamaño de la unidad y el número de unidades que se necesitan para igualar la longitud de un objeto;"}
+        },
+        {
+            "competencyText": {"es-us": "represente cómo los números enteros pueden representar distancias en cualquier posición dada sobre una recta numérica;"}
+        },
+        {
+            "competencyText": {"es-us": "determine la longitud de un objeto a la unidad más cercana marcada utilizando reglas, reglas de una yarda, metros o cintas de medición;"}
+        },
+        {
+            "competencyText": {"es-us": "determine la solución de un problema que involucra la longitud, incluyendo la estimación de las longitudes;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice modelos concretos de unidades cuadradas para determinar el área de un rectángulo al cubrirlo con estas unidades sin separaciones y sin encimarse, contarlas para encontrar el total de unidades cuadradas y describir esta medición utilizando un número y la unidad; y"}
+        },
+        {
+            "competencyText": {"es-us": "lea y escriba la hora al minuto más cercano utilizando relojes análogos y digitales, y distinga entre a. m. y p. m."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para organizar datos que le permitan utilizarlos al interpretar información y al resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "explique que la longitud de una barra en una gráfica de barras o que el número de ilustraciones en una pictografía representan el número de datos de una categoría dada;"}
+        },
+        {
+            "competencyText": {"es-us": "organice un conjunto de datos hasta cuatro categorías utilizando pictografías y gráficas de barras con intervalos de uno o más de uno;"}
+        },
+        {
+            "competencyText": {"es-us": "escriba y resuelva problemas escritos de un paso que involucran la suma y la resta utilizando datos representados en pictografías y en gráficas de barras con intervalos de uno; y"}
+        },
+        {
+            "competencyText": {"es-us": "saque conclusiones y haga predicciones usando la información contenida en una gráfica."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "calcule cómo el dinero ahorrado se puede convertir en una cantidad más grande al pasar el tiempo;"}
+        },
+        {
+            "competencyText": {"es-us": "explique que en lugar de gastar se puede ahorrar;"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre el depósito y el retiro de fondos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique ejemplos de préstamos y distinga entre ser responsable e irresponsable al pedir un préstamo;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique ejemplos de préstamos y utilice conceptos de beneficios y costos al evaluar decisiones que implican hacer préstamos; y"}
+        },
+        {
+            "competencyText": {"es-us": "diferencie entre productores y consumidores, y calcule el costo de producir un artículo sencillo."}
+        },
+        {
+            "competencyText": {"es-us": "Tercer grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativaes la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas, tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en tercer grado realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas de enfoque principal en tercer grado incluyen valor deposición, operaciones con números enteros y comprensión de unidades fraccionarias. Estas áreas de enfoque están apoyadas en las áreas de las matemáticas de números y operaciones, razonamiento algebraico, geometría y medición, y análisis de datos. En los grados de tercero a quinto, el conjunto de números se limita a números racionales positivos. En números y operaciones, los estudiantes se enfocarán en aplicar el valor de posición, en comparar y ordenar números enteros, conectar la multiplicación y la división, y en comprender y representar fracciones como números y fracciones equivalentes. En razonamiento algebraico, los estudiantes utilizarán múltiples representaciones de problemas de matemáticas, determinarán valores desconocidos en oraciones numéricas y representarán relaciones de la vida diaria utilizando pares de números en una tabla y en descripciones verbales. En geometría y medición, los estudiantes identificarán y clasificarán figuras de dos dimensiones según sus atributos comunes, descompondrán figuras compuestas formadas por rectángulos para determinar el área, determinarán el perímetro de polígonos, resolverán problemas relacionados con el tiempo y medirán el volumen líquido (la capacidad) o peso. En análisis de datos, los estudiantes representarán e interpretarán datos."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar y comparar números enteros, así como para comprender las relaciones en cuanto al valor de posición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "componga y descomponga números hasta el 100,000 como la suma de tantas decenas de millar, tantos millares, tantas centenas, tantas decenas y tantas unidades utilizando objetos, modelos pictóricos y números, incluyendo la notación desarrollada según sea apropiado;"}
+        },
+        {
+            "competencyText": {"es-us": "describa relaciones matemáticas encontradas en el sistema de numeración de base 10 o sistema decimal hasta la posición de las centenas de millar;"}
+        },
+        {
+            "competencyText": {"es-us": "represente un número en una recta numérica cuando está entre dos múltiplos consecutivos de 10, 100, 1,000 ó 10,000, y utilice palabras para describir el tamaño relativo de números al redondear números enteros; y"}
+        },
+        {
+            "competencyText": {"es-us": "compare y ordene números enteros hasta el 100,000 y represente comparaciones utilizando los símbolos >, < o =."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar y explicar unidades fraccionarias. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente fracciones mayores que cero y menores que o iguales a uno con denominadores de 2, 3, 4, 6 y 8 utilizando objetos concretos y modelos pictóricos, incluyendo diagramas de tiras y rectas numéricas;"}
+        },
+        {
+            "competencyText": {"es-us": "determine la fracción correspondiente mayor que cero y menor que o igual a uno con denominadores de 2, 3, 4, 6 y 8 cuando se da un punto específico en una recta numérica;"}
+        },
+        {
+            "competencyLabel": {"es-us": "explique que la unidad fraccionaria 1/b representa la cantid"},
+            "competencyText": {"es-us": "explique que la unidad fraccionaria $1/b$ representa la cantidad formada por una parte de un entero que ha sido dividido en $b$ partes iguales donde $b$ es un número entero diferente de cero;"}
+        },
+        {
+            "competencyLabel": {"es-us": "componga y descomponga una fracción a/b con un numerador may"},
+            "competencyText": {"es-us": "componga y descomponga una fracción $a/b$ con un numerador mayor que cero y menor que o igual a $b$ como la suma de las partes $1/b$;"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas que involucran la división de un objeto o un conjunto de objetos entre dos o más individuos utilizando ilustraciones de fracciones con denominadores de 2, 3, 4, 6 y 8;"}
+        },
+        {
+            "competencyText": {"es-us": "represente fracciones equivalentes con denominadores de 2, 3, 4, 6 y 8 utilizando una variedad de objetos y modelos pictóricos, incluyendo rectas numéricas;"}
+        },
+        {
+            "competencyText": {"es-us": "explique que dos fracciones son equivalentes si y sólo si ambas fracciones son representadas por el mismo punto en una recta numérica o representan la misma porción de un entero del mismo tamaño usando un modelo de área; y"}
+        },
+        {
+            "competencyText": {"es-us": "compare dos fracciones con el mismo numerador o denominador en problemas al razonar acerca de sus tamaños y al justificar la conclusión por medio de símbolos, palabras, objetos y modelos pictóricos."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar y utilizar estrategias y métodos para hacer cálculos con números enteros que le permitan resolver problemas con eficiencia y precisión. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva con facilidad problemas de un paso y de dos pasos utilizando la suma y la resta hasta el 1,000 por medio de estrategias basadas en el valor de posición, en las propiedades de las operaciones y en la relación entre la suma y la resta;"}
+        },
+        {
+            "competencyText": {"es-us": "redondee a la decena ó a la centena más cercana, o utilice números compatibles para estimar soluciones de problemas de suma y resta;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el valor de una colección de monedas y billetes;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el número total de objetos cuando grupos de objetos del mismo tamaño se combinan o se ponen en matrices o arreglos hasta de 10 por 10;"}
+        },
+        {
+            "competencyText": {"es-us": "represente las tablas de multiplicación utilizando diferentes métodos, como la suma repetida, grupos del mismo tamaño, matrices o arreglos, modelos de área, saltos iguales en una recta numérica y el conteo saltándose números;"}
+        },
+        {
+            "competencyText": {"es-us": "recuerde las tablas de multiplicar hasta 10 por 10 de forma automática y recuerde las relaciones correspondientes en la división;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice estrategias y algoritmos, incluyendo el algoritmo normal, para multiplicar un número de dos dígitos por un número de un dígito. Las estrategias pueden incluir el cálculo mental, los productos parciales y las propiedades conmutativa, asociativa y distributiva;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el número de objetos en cada grupo cuando un conjunto de objetos se divide en partes iguales o un conjunto de objetos se comparte equitativamente;"}
+        },
+        {
+            "competencyText": {"es-us": "determine si un número es par o impar utilizando las reglas de divisibilidad;"}
+        },
+        {
+            "competencyText": {"es-us": "determine un cociente utilizando la relación entre la multiplicación y la división; y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas de un paso y de dos pasos que involucran multiplicación y división hasta el 100 utilizando estrategias basadas en objetos, en modelos pictóricos, incluyendo matrices o modelos rectangulares, modelos de área y grupos iguales, en las propiedades de las operaciones o al recordar las tablas de multiplicación."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para analizar y crear patrones y relaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente problemas de un paso y de dos pasos que involucran suma y resta de números enteros hasta el 1,000 utilizando modelos pictóricos, rectas numéricas y ecuaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva problemas de un paso y de dos pasos de multiplicación y división hasta el 100 utilizando matrices o arreglos, diagramas de tiras y ecuaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "describa una expresión de multiplicación como una comparación, tal como 3 x 24 representa lo mismo que 3 veces 24;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el número entero desconocido en una ecuación de multiplicación o división que relaciona tres números enteros cuando el número desconocido es el factor o el producto; y"}
+        },
+        {
+            "competencyText": {"es-us": "represente relaciones de la vida diaria utilizando pares de números en una tabla y descripciones verbales."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para analizar atributos de figuras de dos dimensiones que le permitan desarrollar generalizaciones acerca de sus propiedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique y ordene figuras de dos dimensiones y sólidos de tres dimensiones, incluyendo conos, cilindros, esferas, prismas rectangulares y prismas triangulares, y cubos basados en sus atributos utilizando lenguaje geométrico formal;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice atributos para reconocer rombos, paralelogramos, trapecios, rectángulos y cuadrados como ejemplos de cuadriláteros, y dibuje ejemplos de cuadriláteros que no pertenecen a ninguna de estas subcategorías;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el área de rectángulos en problemas en los cuales la longitud de los lados son números enteros utilizando la multiplicación en relación al número de filas por el número de unidades cuadradas en cada fila;"}
+        },
+        {
+            "competencyText": {"es-us": "descomponga figuras compuestas formadas por rectángulos en rectángulos que no se enciman para determinar el área de la figura original utilizando la propiedad aditiva del área; y"}
+        },
+        {
+            "competencyText": {"es-us": "descomponga dos figuras congruentes de dos dimensiones en partes con áreas iguales y exprese el área de cada parte como una unidad fraccionaria del entero, y reconozca que las porciones iguales de enteros idénticos no tienen que ser de la misma forma."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para seleccionar unidades apropiadas, estrategias y herramientas que le permitan resolver problemas que involucran medición usando el sistema inglés (usual) y el métrico. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente fracciones de mitades, cuartos y octavos como distancias a partir de cero en una recta numérica;"}
+        },
+        {
+            "competencyText": {"es-us": "determine en problemas el perímetro de un polígono o de una longitud desconocida cuando se da el perímetro y las longitudes de los lados restantes;"}
+        },
+        {
+            "competencyText": {"es-us": "determine soluciones a problemas que involucran la suma y la resta de intervalos de tiempo en minutos utilizando modelos pictóricos u otras herramientas, tal como al calcular que un evento de 15 minutos más un evento de 30 minutos es igual a 45 minutos;"}
+        },
+        {
+            "competencyText": {"es-us": "determine cuándo es apropiado utilizar medición de volumen líquido (capacidad) o de peso; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine el volumen líquido (capacidad) o el peso utilizando unidades y herramientas apropiadas."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para resolver problemas al recopilar, organizar, presentar e interpretar datos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "resuma un conjunto de datos con múltiples categorías utilizando una tabla de frecuencia, un diagrama de puntos, una pictografía o una gráfica de barras con una escala en intervalos; y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas de un paso y de dos pasos utilizando datos categóricos representados en una tabla de frecuencia, un diagrama de puntos, una pictografía o una gráfica de barras con una escala en intervalos."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "explique la conexión entre el capital humano/fuerza laboral y los ingresos;"}
+        },
+        {
+            "competencyText": {"es-us": "describa la relación entre disponibilidad o escasez de recursos, y cómo eso impacta los costos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique costos y beneficios sobre los gastos planificados y los no planificados;"}
+        },
+        {
+            "competencyText": {"es-us": "explique que el crédito se utiliza cuando lo que se quiere o se necesita sobrepasa la capacidad de pagar, y que es la responsabilidad del deudor pagar lo que se debe al prestamista, casi siempre con intereses;"}
+        },
+        {
+            "competencyText": {"es-us": "escriba una lista de las razones para ahorrar y explique los beneficios de un plan de ahorros, incluyendo ahorros para la universidad; e"}
+        },
+        {
+            "competencyText": {"es-us": "identifique decisiones que involucran ingresos, gastos, ahorros, crédito y donaciones para obras caritativas."}
+        },
+        {
+            "competencyText": {"es-us": "Cuarto grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas, tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en cuarto grado realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas de enfoque principal en cuarto grado incluyen operaciones, fracciones y decimales, así como describir y analizar la geometría y la medición. Estas áreas de enfoque están apoyadas en las áreas de las matemáticas de números y operaciones, razonamiento algebraico, geometría y medición, así como en el análisis de datos. En los grados de tercero a quinto, el conjunto de números se limita a números racionales positivos. En números y operaciones, los estudiantes aplicarán el valor de posición y representarán puntos en una recta numérica que corresponden a una fracción dada o a un decimal finito dado. En razonamiento algebraico, los estudiantes representarán y resolverán problemas de múltiples pasos que involucran las cuatro operaciones básicas con números enteros en expresiones y ecuaciones, y generarán y analizarán patrones. En geometría y medición, los estudiantes clasificarán figuras de dos dimensiones, medirán ángulos y convertirán unidades de medición. En análisis de datos, los estudiantes representarán e interpretarán datos."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar, comparar y ordenar números enteros y decimales, así como para comprender las relaciones acerca del valor de posición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "interprete el valor de cada valor de posición como 10 veces la posición a la derecha y como un décimo la posición del valor a la izquierda;"}
+        },
+        {
+            "competencyText": {"es-us": "represente el valor de un dígito en números enteros hasta el 1,000,000,000 y el valor de decimales a los centésimos utilizando la notación desarrollada y numerales;"}
+        },
+        {
+            "competencyText": {"es-us": "compare y ordene números enteros hasta el 1,000,000,000 y represente comparaciones utilizando los símbolos >, < o =;"}
+        },
+        {
+            "competencyText": {"es-us": "redondee números enteros a un valor de posición dado hasta la posición de las centenas de millar;"}
+        },
+        {
+            "competencyText": {"es-us": "represente decimales, incluyendo décimos y centésimos, utilizando modelos concretos y visuales, así como dinero;"}
+        },
+        {
+            "competencyText": {"es-us": "compare y ordene decimales utilizando modelos concretos y visuales hasta los centésimos;"}
+        },
+        {
+            "competencyText": {"es-us": "relacione los decimales a las fracciones que nombran décimos y centésimos; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine el decimal correspondiente al lugar de los décimos o centésimos a partir de un punto específico dado en una recta numérica."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar y generar fracciones que le permitan resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente una fracción a/b como la suma de fracciones 1/b, donde a y b son números enteros y b > 0, incluyendo cuando a > b;"}
+        },
+        {
+            "competencyText": {"es-us": "descomponga de varias maneras una fracción en una suma de fracciones que tienen el mismo denominador utilizando modelos concretos y pictóricos, y escribiendo los resultados con representaciones simbólicas;"}
+        },
+        {
+            "competencyText": {"es-us": "determine si dos fracciones dadas son equivalentes utilizando una variedad de métodos;"}
+        },
+        {
+            "competencyText": {"es-us": "compare dos fracciones con diferentes numeradores y diferentes denominadores, y represente la comparación utilizando los símbolos >, = o <;"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva la suma y la resta de fracciones con denominadores iguales utilizando objetos y modelos pictóricos que se conectan con la recta numérica, así como las propiedades de las operaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "Evalúe lo razonable de sumas y diferencias de fracciones utilizando las fracciones de referencia 0, 1/4, 1/2, 3/4 y 1, relacionadas al mismo entero; y"}
+        },
+        {
+            "competencyText": {"es-us": "represente fracciones y decimales a los décimos o a los centésimos como distancias a partir de cero en una recta numérica."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar y utilizar estrategias y métodos para hacer cálculos con números enteros, sumas y diferencias de decimales que le permitan resolver problemas con eficiencia y precisión. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "sume y reste números enteros y decimales hasta la posición de los centésimos utilizando el algoritmo normal;"}
+        },
+        {
+            "competencyText": {"es-us": "determine el producto de un número y de 10 ó 100 utilizando la comprensión de las propiedades de las operaciones y del valor de posición;"}
+        },
+        {
+            "competencyText": {"es-us": "represente el producto de 2 números de dos dígitos utilizando matrices o arreglos, modelos de área o ecuaciones, incluyendo cuadrados perfectos hasta el 15 por 15;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice estrategias y algoritmos, incluyendo el algoritmo normal, para multiplicar hasta un número de cuatro dígitos por un número de un dígito y multiplicar un número de dos dígitos por un número de dos dígitos. Las estrategias pueden incluir el cálculo mental, los productos parciales y las propiedades conmutativa, asociativa y distributiva;"}
+        },
+        {
+            "competencyText": {"es-us": "represente el cociente de un número entero de hasta cuatro dígitos dividido por un número entero de un dígito utilizando matrices o arreglos, modelos de área o ecuaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice estrategias y algoritmos, incluyendo el algoritmo normal, para dividir un dividendo de hasta cuatro dígitos por un divisor de un dígito;"}
+        },
+        {
+            "competencyText": {"es-us": "redondee a la decena, centena o unidad de millar más cercana o utilice números compatibles para estimar soluciones que involucran números enteros; y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva con facilidad problemas de un paso o de dos pasos que involucran multiplicación y división, incluyendo la interpretación de residuos."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para desarrollar conceptos de expresiones y ecuaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente problemas de múltiples pasos que involucran las cuatro operaciones básicas con números enteros utilizando diagramas de tiras y ecuaciones que tienen una letra que representa una cantidad desconocida;"}
+        },
+        {
+            "competencyText": {"es-us": "represente problemas utilizando una tabla de entrada-salida y expresiones numéricas para generar un patrón numérico que sigue una regla dada, la cual representa la relación de valores en la secuencia resultante y sus posiciones en la secuencia;"}
+        },
+        {
+            "competencyLabel": {"es-us": "utilice modelos para determinar las fórmulas para el perímet"},
+            "competencyText": {"es-us": "utilice modelos para determinar las fórmulas para el perímetro del rectángulo ($l + a + l + a$, o bien $2l + 2a$) incluyendo la forma especial para el perímetro de un cuadrado ($4l$) y el área del rectángulo ($l \\times a$); y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas relacionados con el perímetro y el área de rectángulos cuyas dimensiones son números enteros."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para analizar atributos geométricos que le permitan desarrollar generalizaciones de sus propiedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique puntos, líneas, segmentos de recta, rayos, ángulos y líneas perpendiculares y paralelas;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique y dibuje uno o más ejes de simetría, si los hubiera, en una figura de dos dimensiones;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice el conocimiento de ángulos rectos para identificar triángulos agudos, rectos y obtusos; y"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique figuras de dos dimensiones basadas en la presencia o ausencia de líneas paralelas o perpendiculares, o en la presencia o ausencia de ángulos de un tamaño específico."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para resolver problemas que involucran ángulos menores que o iguales a 180 grados. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "muestre la medida de un ángulo como la parte de un círculo cuyo centro está en el vértice del ángulo \u201ccortado\u201d por los rayos del ángulo. Las medidas de los ángulos se limitan a números enteros;"}
+        },
+        {
+            "competencyLabel": {"es-us": "muestre que los grados son las unidades que se utilizan para"},
+            "competencyText": {"es-us": "muestre que los grados son las unidades que se utilizan para medir un ángulo, donde $1/360$ de cualquier círculo es un grado y que, además, cualquier ángulo que \u201ccorta\u201d $n/360$ en cualquier círculo cuyo centro es el vértice del ángulo tiene una medida de $n$ grados. Las medidas de los ángulos se limitan a números enteros;"}
+        },
+        {
+            "competencyText": {"es-us": "determine las medidas aproximadas de ángulos en grados al número entero más cercano utilizando un transportador;"}
+        },
+        {
+            "competencyText": {"es-us": "dibuje un ángulo con una medida dada; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine la medida de un ángulo desconocido formado por dos ángulos adyacentes que no se enciman y donde se dan una o dos de las medidas de los ángulos."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para seleccionar apropiadamente unidades del sistema inglés (usuales) y métricas, estrategias y herramientas que le permitan resolver problemas de medición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique los tamaños relativos de unidades de medición dentro de los sistemas inglés (usual) y métrico;"}
+        },
+        {
+            "competencyText": {"es-us": "convierta mediciones dentro del mismo sistema de medición, inglés (usual) o métrico, de una unidad más pequeña a una unidad más grande o de una unidad más grande a una unidad más pequeña cuando se dan otras medidas equivalentes representadas en una tabla; y"}
+        },
+        {
+            "competencyText": {"es-us": "Resuelva problemas sobre medidas de longitud, intervalos de tiempo, volumen líquido, masa y dinero utilizando la suma, la resta, la multiplicación o la división según sea apropiado."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para resolver problemas recopilando, organizando, presentando e interpretando datos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente datos en una tabla de frecuencia, un diagrama de puntos, o bien en un diagrama de tallo y hojas que estén marcados con números enteros y fracciones; y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas de un paso y de dos pasos utilizando datos con números enteros, decimales y fracciones en una tabla de frecuencia, un diagrama de puntos, o bien en un diagrama de tallo y hojas."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre gastos fijos y variables;"}
+        },
+        {
+            "competencyText": {"es-us": "calcule las ganancias en una situación dada;"}
+        },
+        {
+            "competencyText": {"es-us": "compare las ventajas y las desventajas de varios planes de ahorro;"}
+        },
+        {
+            "competencyText": {"es-us": "describa cómo asignar fondos semanales para gastar, para ahorrar, incluyendo ahorros para la universidad, y para compartir; y"}
+        },
+        {
+            "competencyText": {"es-us": "describa el propósito básico de las instituciones financieras, incluyendo el mantenimiento seguro del dinero, así como la solicitud y aprobación de préstamos."}
+        },
+        {
+            "competencyText": {"es-us": "Quinto grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Para que los estudiantes lleguen a dominar las matemáticas, tendrán que desarrollar un sólido sentido numérico. El reporte del National Research Council, \u201cAdding It Up,\u201d define el dominio de los procedimientos como \u201cla destreza de poder realizar procedimientos de manera flexible, precisa, eficiente y apropiada\u201d. Mientras los estudiantes desarrollan el dominio de los procedimientos, también tienen que reconocer que la verdadera resolución de problemas puede tomar tiempo, esfuerzo y perseverancia. Se espera que los estudiantes en quinto grado realicen su trabajo sin el uso de calculadoras."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas de enfoque principal en quinto grado incluyen resolver problemas que involucran las cuatro operaciones básicas con números racionales positivos, determinar y generar fórmulas y soluciones a expresiones, así como extender la medición al área y al volumen. Estas áreas de enfoque están apoyadas en las áreas de las matemáticas de números y operaciones, razonamiento algebraico, geometría y medición, así como en el análisis de datos. En los grados de tercero a quinto, el conjunto de números se limita a números racionales positivos. En números y operaciones, los estudiantes aplicarán el valor de posición e identificarán las relaciones de las partes respecto al entero y su equivalencia. En razonamiento algebraico, los estudiantes representarán y resolverán problemas con expresiones y ecuaciones, establecerán las bases de las funciones utilizando patrones, identificarán números primos y compuestos, y usarán el orden de las operaciones. En geometría y medición, los estudiantes clasificarán figuras de dos dimensiones, conectarán atributos geométricos a las medidas de figuras de tres dimensiones, utilizarán unidades de medición y representarán ubicaciones utilizando un plano de coordenadas. En análisis de datos, los estudiantes representarán e interpretarán datos."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan\u201d se refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar, comparar y ordenar números racionales positivos, así como para comprender las relaciones acerca del valor de posición. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente el valor de un dígito en decimales hasta los milésimos utilizando la notación desarrollada y numerales;"}
+        },
+        {
+            "competencyText": {"es-us": "compare y ordene dos decimales hasta los milésimos y represente comparaciones utilizando los símbolos >, < o =; y"}
+        },
+        {
+            "competencyText": {"es-us": "redondee decimales a los décimos o a los centésimos."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar y utilizar estrategias y métodos al calcular números racionales positivos que le permitan resolver problemas con eficiencia y precisión. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "estime para determinar soluciones a problemas matemáticos y a problemas del mundo real que involucran suma, resta, multiplicación y división;"}
+        },
+        {
+            "competencyText": {"es-us": "multiplique con facilidad un número de tres dígitos por un número de dos dígitos utilizando el algoritmo normal;"}
+        },
+        {
+            "competencyText": {"es-us": "encuentre con habilidad el cociente de un dividendo de hasta cuatro dígitos entre un divisor de dos dígitos utilizando estrategias y el algoritmo normal;"}
+        },
+        {
+            "competencyText": {"es-us": "represente la multiplicación de decimales con productos hasta los centésimos utilizando objetos y modelos pictóricos, incluyendo modelos de área;"}
+        },
+        {
+            "competencyText": {"es-us": "encuentre productos de decimales hasta los centésimos, incluyendo situaciones que involucran dinero, utilizando estrategias basadas en la comprensión del valor de posición, en las propiedades de las operaciones y en la relación de la multiplicación de números enteros;"}
+        },
+        {
+            "competencyText": {"es-us": "represente los cocientes de decimales hasta los centésimos con dividendos de hasta cuatro dígitos y divisores de números enteros de dos dígitos utilizando objetos y modelos pictóricos, incluyendo modelos de área;"}
+        },
+        {
+            "competencyText": {"es-us": "encuentre cocientes con decimales hasta los centésimos, con dividendos hasta de cuatro dígitos y con divisores de números enteros de dos dígitos utilizando estrategias y algoritmos, incluyendo el algoritmo normal;"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva la suma y la resta de fracciones con denominadores distintos relacionados al mismo entero utilizando objetos y modelos pictóricos, así como las propiedades de las operaciones;"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva la multiplicación de un número entero y de una fracción que se relaciona al mismo entero utilizando objetos y modelos pictóricos, incluyendo modelos de área;"}
+        },
+        {
+            "competencyLabel": {"es-us": "represente la división de una fracción unitaria por un númer"},
+            "competencyText": {"es-us": "represente la división de una fracción unitaria por un número entero y la división de un número entero por una fracción unitaria, tal como $1/3 ÷ 7$ y $7 ÷ 1/3$, utilizando objetos y modelos pictóricos, incluyendo modelos de área;"}
+        },
+        {
+            "competencyText": {"es-us": "sume y reste números racionales positivos con facilidad; y"}
+        },
+        {
+            "competencyText": {"es-us": "divida números enteros entre fracciones unitarias y fracciones unitarias entre números enteros."}
+        },
+        {
+            "competencyText": {"es-us": "Razonamiento algebraico. El estudiante aplica los estándares de procesos matemáticos para desarrollar conceptos de expresiones y ecuaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique números primos y compuestos;"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva problemas de múltiples pasos que involucran las cuatro operaciones básicas con números enteros utilizando ecuaciones que tienen una letra que representa una cantidad desconocida;"}
+        },
+        {
+            "competencyLabel": {"es-us": "genere un patrón numérico cuando se da una regla con la form"},
+            "competencyText": {"es-us": "genere un patrón numérico cuando se da una regla con la forma $y = ax$, o bien$ y = x + a$, y haga una representación gráfica;"}
+        },
+        {
+            "competencyText": {"es-us": "reconozca la diferencia entre patrones numéricos de suma y de multiplicación dados en una tabla o una gráfica;"}
+        },
+        {
+            "competencyText": {"es-us": "describa el significado de paréntesis y corchetes en una expresión numérica;"}
+        },
+        {
+            "competencyText": {"es-us": "simplifique expresiones numéricas que no involucran exponentes, incluyendo hasta dos niveles de agrupación;"}
+        },
+        {
+            "competencyLabel": {"es-us": "utilice objetos concretos y modelos pictóricos para desarrol"},
+            "competencyText": {"es-us": "utilice objetos concretos y modelos pictóricos para desarrollar las fórmulas para el volumen de un prisma rectangular, incluyendo la fórmula especial para un cubo ($V = l \\times a \\times h$, $V = l \\times l \\times l$, o bien $V = Bh$); y"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva problemas relacionados con el perímetro y/o el área, así como con el volumen."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para clasificar figuras de dos dimensiones por atributos y propiedades. Se espera que el estudiante clasifique figuras de dos dimensiones en una jerarquía de conjuntos y subconjuntos utilizando organizadores gráficos basados en sus atributos y propiedades."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para comprender, reconocer y cuantificar el volumen. Se espera que el estudiante:"}
+        },
+        {
+            "competencyLabel": {"es-us": "reconozca un cubo que tenga lados que midan una unidad de lo"},
+            "competencyText": {"es-us": "reconozca un cubo que tenga lados que midan una unidad de longitud como un cubo unitario que tiene una unidad cúbica de volumen, así como el volumen de una figura de tres dimensiones como el número de cubos unitarios ($n$ unidades cúbicas) que se necesita para llenarla sin tener separaciones o sin que sus lados se encimen, si es posible; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine el volumen de un prisma rectangular que tenga las longitudes de los lados en números enteros en problemas relacionados con el número de niveles multiplicado por el número de cubos unitarios en el área de la base."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para seleccionar unidades, estrategias y herramientas apropiadas que le permitan resolver problemas de medición. Se espera que el estudiante resuelva problemas que implican el cálculo de conversiones dentro de un sistema de medición, el inglés (usual) o el métrico."}
+        },
+        {
+            "competencyText": {"es-us": "Geometría y medición. El estudiante aplica los estándares de procesos matemáticos para identificar ubicaciones en un plano de coordenadas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyLabel": {"es-us": "describa los atributos principales de un plano de coordenada"},
+            "competencyText": {"es-us": "describa los atributos principales de un plano de coordenadas, incluyendo las rectas numéricas perpendiculares (ejes), donde la intersección (el origen) de dos rectas coincide con cero en cada recta numérica y el punto dado (0, 0); la coordenada-$x$, el primer número en un par ordenado, indica movimiento paralelo al eje $x$ empezando en el origen; y la coordenada-$y$, el segundo número, indica movimiento paralelo al eje $y$ empezando en el origen;"}
+        },
+        {
+            "competencyText": {"es-us": "describa el proceso para representar en una gráfica pares ordenados de números en el primer cuadrante del plano de coordenadas; y"}
+        },
+        {
+            "competencyText": {"es-us": "Represente en el primer cuadrante del plano de coordenadas pares ordenados de números que surgen de problemas matemáticos y problemas del mundo real, incluyendo los que se generan de patrones numéricos o los que se encuentran en una tabla de entrada-salida."}
+        },
+        {
+            "competencyText": {"es-us": "Análisis de datos. El estudiante aplica los estándares de procesos matemáticos para resolver problemas recopilando, organizando, presentando e interpretando datos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente datos categóricos mediante gráficas de barras o tablas de frecuencia, así como datos numéricos, incluyendo conjuntos de datos de medición en fracciones o decimales, con diagramas de puntos o con diagramas de tallo y hojas;"}
+        },
+        {
+            "competencyText": {"es-us": "represente en un diagrama de dispersión datos discretos en pares; y"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas de un paso y de dos pasos utilizando datos de una tabla de frecuencia, un diagrama de puntos, una gráfica de barras, un diagrama de tallo y hojas o de un diagrama de dispersión."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para manejar eficazmente sus propios recursos financieros para lograr una seguridad financiera de por vida. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "defina los impuestos a los ingresos anuales, los impuestos a la nómina, los impuestos a las ventas y los impuestos a las propiedades;"}
+        },
+        {
+            "competencyText": {"es-us": "explique la diferencia entre ingresos brutos e ingresos netos;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique las ventajas y desventajas de los diferentes métodos de pago, incluyendo el uso de cheques, tarjetas de crédito, tarjetas de débito y los pagos electrónicos;"}
+        },
+        {
+            "competencyText": {"es-us": "desarrolle un sistema para llevar y utilizar registros financieros;"}
+        },
+        {
+            "competencyText": {"es-us": "describa las acciones que se podrían tomar para balancear un presupuesto cuando los gastos superan los ingresos;"}
+        },
+        {
+            "competencyText": {"es-us": "Haga el balance de un presupuesto sencillo."}
+        },
+        {
+            "competencyText": {"es-us": "Subcapítulo B. Escuela intermedia"}
+        },
+        {
+            "competencyText": {"es-us": "Sexto grado, adoptado en el 2012."}
+        },
+        {
+            "competencyText": {"es-us": "Introducción"}
+        },
+        {
+            "competencyText": {"es-us": "El deseo de alcanzar una excelencia educativa es la fuerza que impulsa al currículo Conocimientos y Destrezas Esenciales de Texas para matemáticas, el cual está guiado por los estándares de preparación para la universidad o para una carrera técnica o vocacional. A través de la inclusión de la estadística, la probabilidad y las finanzas, y enfocándose al mismo tiempo en el pensamiento computacional, en el dominio matemático y en una sólida comprensión, Texas será el líder en la educación de las matemáticas y preparará a todos sus estudiantes para los retos que enfrentarán en el siglo XXI."}
+        },
+        {
+            "competencyText": {"es-us": "Los estándares de procesos describen los métodos en los cuales se espera que los estudiantes hagan conexiones con el contenido. La ubicación de los estándares de procesos al principio de los conocimientos y destrezas de cada grado y curso es intencional. Los estándares de procesos entrelazan los otros conocimientos y destrezas para que los estudiantes puedan tener éxito al resolver problemas y puedan utilizar las matemáticas eficiente y eficazmente en la vida diaria. Los estándares de procesos están integrados en cada grado y en cada curso. Cuando sea posible, los estudiantes aplicarán las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo. Los estudiantes utilizarán un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución. Los estudiantes seleccionarán herramientas apropiadas, tales como objetos reales, manipulativos, algoritmos, papel y lápiz, además de tecnología y técnicas, tales como el cálculo mental, la estimación, el sentido numérico y la generalización y abstracción, para resolver problemas. Los estudiantes comunicarán eficazmente ideas matemáticas y su razonamiento, además de las implicaciones de éstos utilizando múltiples representaciones, tales como símbolos, diagramas, gráficas, programas de computadora y el lenguaje común. Los estudiantes utilizarán relaciones matemáticas para generar soluciones y hacer conexiones, así como predicciones. Los estudiantes analizarán relaciones matemáticas para conectar y comunicar ideas matemáticas. Los estudiantes mostrarán, explicarán o justificarán ideas y razonamientos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Las áreas de enfoque principal en sexto grado incluyen números y operaciones; proporcionalidad; expresiones, ecuaciones y relaciones; así como medición y datos. Los estudiantes utilizan conceptos, algoritmos y las propiedades de los números racionales para explorar relaciones matemáticas y para describir situaciones cada vez más complejas. Los estudiantes utilizan conceptos de proporcionalidad para explorar, desarrollar y comunicar relaciones matemáticas. Los estudiantes utilizan el razonamiento algebraico para describir cómo un cambio en una cantidad que forma parte de una relación tiene como resultado un cambio en la otra cantidad. Los estudiantes conectan representaciones de relaciones verbales, numéricas, gráficas y simbólicas, incluyendo ecuaciones y desigualdades. Los estudiantes utilizan las propiedades y las relaciones geométricas, así como el razonamiento espacial, para modelar y analizar situaciones, y resolver problemas. Los estudiantes comunican información acerca de figuras geométricas o situaciones al cuantificar atributos, generalizar procedimientos de experiencias de medición y al utilizar los procedimientos para resolver problemas. Los estudiantes utilizan estadísticas apropiadas, representaciones de datos y el razonamiento para sacar conclusiones, evaluar argumentos y hacer recomendaciones. Sin dejar de reconocer que el uso de todo tipo de tecnología es importante, el énfasis en una buena preparación de las destrezas algebraicas requiere la implementación de la tecnología aplicada a gráficas."}
+        },
+        {
+            "competencyText": {"es-us": "Los enunciados que contienen las palabras \u201cincluyendo\u201d o \u201cque incluyan \u201dse refieren a destrezas que deben dominarse, mientras que los que contienen las frases \u201ccomo\u201d, \u201ctal(es) como\u201d o \u201cpor ejemplo\u201d se presentan como opciones posibles."}
+        },
+        {
+            "competencyText": {"es-us": "Conocimientos y destrezas"}
+        },
+        {
+            "competencyText": {"es-us": "Estándares de procesos matemáticos. El estudiante utiliza procesos matemáticos para adquirir y demostrar comprensión matemática. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "aplique las matemáticas a los problemas que surgen en la vida diaria, la sociedad y el trabajo;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice un modelo de resolución de problemas que incorpora el análisis de información dada, la formulación de un plan o estrategia, la determinación de una solución, la justificación de la solución y la evaluación del proceso de resolución de problemas, así como lo razonable de la solución;"}
+        },
+        {
+            "competencyText": {"es-us": "seleccione herramientas cuando sean apropiadas, incluyendo objetos reales, manipulativos, papel y lápiz, y tecnología, además de técnicas cuando sean apropiadas, incluyendo el cálculo mental, la estimación y el sentido numérico, para resolver problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "comunique ideas matemáticas, su razonamiento y sus implicaciones utilizando múltiples representaciones cuando sean apropiadas, incluyendo símbolos, diagramas, gráficas y el lenguaje común;"}
+        },
+        {
+            "competencyText": {"es-us": "genere y utilice representaciones para organizar, anotar y comunicar ideas matemáticas;"}
+        },
+        {
+            "competencyText": {"es-us": "analice relaciones matemáticas para conectar y comunicar ideas matemáticas; y"}
+        },
+        {
+            "competencyText": {"es-us": "muestre, explique y justifique ideas y argumentos matemáticos utilizando lenguaje matemático preciso en forma verbal o escrita."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar y utilizar números racionales en una variedad de formas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "clasifique números enteros y números racionales utilizando una representación visual, como un diagrama de Venn, para describir relaciones entre conjuntos de números;"}
+        },
+        {
+            "competencyText": {"es-us": "identifique un número, su opuesto y su valor absoluto;"}
+        },
+        {
+            "competencyText": {"es-us": "localice, compare y ordene enteros y números racionales utilizando una recta numérica;"}
+        },
+        {
+            "competencyText": {"es-us": "ordene un conjunto de números racionales que surgen de contextos matemáticos y del mundo real; y"}
+        },
+        {
+            "competencyLabel": {"es-us": "amplíe representaciones de división que incluyan notación fr"},
+            "competencyText": {"es-us": "amplíe representaciones de división que incluyan notación fraccionaria, tal como $a/b$ representa el mismo número que $a ÷ b$, donde $b \\not = 0$."}
+        },
+        {
+            "competencyText": {"es-us": "Números y operaciones. El estudiante aplica los estándares de procesos matemáticos para representar la suma, la resta, la multiplicación y la división al resolver problemas y justificar soluciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "reconozca que dividir entre un número racional y multiplicar por su recíproco resulta en valores equivalentes;"}
+        },
+        {
+            "competencyText": {"es-us": "determine, haciendo cálculos o sin hacerlos, si una cantidad aumenta o disminuye cuando se multiplica por una fracción, incluyendo valores mayores o menores que uno;"}
+        },
+        {
+            "competencyText": {"es-us": "represente operaciones de enteros con modelos concretos y conecte las acciones con los modelos de algoritmos normales;"}
+        },
+        {
+            "competencyText": {"es-us": "sume, reste, multiplique y divida enteros con facilidad; y"}
+        },
+        {
+            "competencyText": {"es-us": "multiplique y divida números racionales positivos con facilidad."}
+        },
+        {
+            "competencyText": {"es-us": "Proporcionalidad. El estudiante aplica los estándares de procesos matemáticos para desarrollar comprensión de las relaciones proporcionales al resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyLabel": {"es-us": "compare dos reglas de manera verbal, numérica, gráfica y sim"},
+            "competencyText": {"es-us": "compare dos reglas de manera verbal, numérica, gráfica y simbólica en la forma de $y = ax$, o bien $y = x + a$ para distinguir entre relaciones de suma y de multiplicación;"}
+        },
+        {
+            "competencyText": {"es-us": "aplique razonamiento cualitativo y cuantitativo para resolver problemas de predicción y comparación sobre temas del mundo real que involucran razones y tasas;"}
+        },
+        {
+            "competencyText": {"es-us": "dé ejemplos de razones como las comparaciones multiplicativas de dos cantidades que describen el mismo atributo;"}
+        },
+        {
+            "competencyText": {"es-us": "dé ejemplos de tasas como la comparación de una división de dos cantidades que tienen atributos diferentes, incluyendo tasas como cocientes;"}
+        },
+        {
+            "competencyText": {"es-us": "represente razones y porcentajes con modelos concretos, fracciones y decimales;"}
+        },
+        {
+            "competencyText": {"es-us": "represente fracciones de referencia y porcentajes, como 1%, 10%, 25%, 33 1/3 % y múltiplos de estos valores utilizando cuadrículas de 10 por 10, diagramas de tira, rectas numéricas y números;"}
+        },
+        {
+            "competencyText": {"es-us": "genere formas equivalentes de fracciones, decimales y porcentajes utilizando problemas del mundo real, incluyendo problemas que involucran dinero; y"}
+        },
+        {
+            "competencyText": {"es-us": "convierta unidades dentro de un sistema de medición, incluyendo el uso de razones y tasas unitarias."}
+        },
+        {
+            "competencyText": {"es-us": "Proporcionalidad. El estudiante aplica los estándares de procesos matemáticos para resolver problemas que involucran relaciones proporcionales. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente problemas matemáticos y del mundo real que involucran razones y tasas utilizando factores de escala, tablas, gráficas y proporciones;"}
+        },
+        {
+            "competencyText": {"es-us": "resuelva problemas del mundo real para encontrar el entero cuando se da una parte y el porcentaje, para encontrar la parte cuando se da el entero y el porcentaje, y para encontrar el porcentaje cuando se da la parte y el entero, incluyendo el uso de modelos concretos y pictóricos; y"}
+        },
+        {
+            "competencyText": {"es-us": "utilice fracciones, decimales y porcentajes equivalentes para mostrar partes iguales del mismo entero."}
+        },
+        {
+            "competencyText": {"es-us": "Expresiones, ecuaciones y relaciones. El estudiante aplica los estándares de procesos matemáticos para utilizar múltiples representaciones que le permitan describir relaciones algebraicas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "identifique cantidades independientes y dependientes en tablas y gráficas;"}
+        },
+        {
+            "competencyText": {"es-us": "escriba una ecuación que representa la relación entre cantidades independientes y dependientes en una tabla; y"}
+        },
+        {
+            "competencyLabel": {"es-us": "represente una situación dada utilizando descripciones verba"},
+            "competencyText": {"es-us": "represente una situación dada utilizando descripciones verbales, tablas, gráficas y ecuaciones en la forma $y = kx$, o bien $y = x + b$."}
+        },
+        {
+            "competencyText": {"es-us": "Expresiones, ecuaciones y relaciones. El estudiante aplica los estándares de procesos matemáticos para desarrollar conceptos de expresiones y ecuaciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "Genere expresiones numéricas equivalentes utilizando el ordendelas operaciones, incluyendo exponentes que sean enteros y la factorización prima;"}
+        },
+        {
+            "competencyText": {"es-us": "Distinga entre expresiones y ecuaciones de manera verbal, numérica y algebraica;"}
+        },
+        {
+            "competencyText": {"es-us": "determine si dos expresiones son equivalentes utilizando modelos concretos, modelos pictóricos y representaciones algebraicas; y"}
+        },
+        {
+            "competencyText": {"es-us": "genere expresiones equivalentes utilizando las propiedades de las operaciones: inversa, de identidad, conmutativa, asociativa y distributiva."}
+        },
+        {
+            "competencyText": {"es-us": "Expresiones, ecuaciones y relaciones. El estudiante aplica los estándares de procesos matemáticos para utilizar la geometría que le permita representar relaciones y resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "amplíe su conocimiento previo de los triángulos y sus propiedades para incluir la suma de los ángulos de un triángulo, la relación entre las longitudes de los lados y las medidas de los ángulos en un triángulo; además, que determine cuándo tres longitudes forman un triángulo;"}
+        },
+        {
+            "competencyText": {"es-us": "represente fórmulas de área para paralelogramos, trapecios y triángulos mediante modelos al descomponer y reorganizar las partes de estas figuras;"}
+        },
+        {
+            "competencyText": {"es-us": "Escriba ecuaciones que representan problemas relacionados con el área de rectángulos, paralelogramos, trapecios y triángulos, así como con el volumen de prismas rectangulares rectos donde las dimensiones son números racionales positivos; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine soluciones para problemas que involucran el área de rectángulos, paralelogramos, trapecios y triángulos, así como el volumen de prismas rectangulares rectos donde las dimensiones son números racionales positivos."}
+        },
+        {
+            "competencyText": {"es-us": "Expresiones, ecuaciones y relaciones. El estudiante aplica los estándares de procesos matemáticos para utilizar ecuaciones y desigualdades que le permitan representar situaciones de la vida real. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "escriba ecuaciones y desigualdades de un paso y una variable para representar límites o condiciones dentro de los problemas;"}
+        },
+        {
+            "competencyText": {"es-us": "represente soluciones de ecuaciones y desigualdades de un paso y una variable en rectas numéricas; y"}
+        },
+        {
+            "competencyText": {"es-us": "escriba problemas del mundo real que corresponden con ecuaciones o desigualdades de un paso y una variable dada."}
+        },
+        {
+            "competencyText": {"es-us": "Expresiones, ecuaciones y relaciones. El estudiante aplica los estándares de procesos matemáticos para utilizar ecuaciones y desigualdades que le permitan resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente y resuelva mediante modelos ecuaciones y desigualdades de un paso y una variable que representan problemas, incluyendo problemas de conceptos geométricos; y"}
+        },
+        {
+            "competencyText": {"es-us": "determine si un(os) valor(es) dado(s) hace(n) verdadera(s) las ecuaciones o las desigualdades de un paso y una variable."}
+        },
+        {
+            "competencyText": {"es-us": "Medición y datos. El estudiante aplica los estándares de procesos matemáticos para utilizar geometría de coordenadas que le permita identificar ubicaciones en un plano. Se espera que el estudiante pueda graficar puntos en los cuatro cuadrantes utilizando pares ordenados de números racionales."}
+        },
+        {
+            "competencyText": {"es-us": "Medición y datos. El estudiante aplica los estándares de procesos matemáticos para utilizar representaciones numéricas o gráficas que le permitan analizar problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "represente datos numéricos gráficamente, incluyendo diagramas de puntos, diagramas de tallo y hojas, histogramas y diagramas de caja;"}
+        },
+        {
+            "competencyText": {"es-us": "utilice la representación gráfica de datos numéricos para describir centralización, dispersión y la forma de la distribución de datos;"}
+        },
+        {
+            "competencyText": {"es-us": "resuma datos numéricos con resúmenes numéricos, incluyendo media y mediana (medidas de centralización), así como rango y rango intercuartílico (RIC) (medidas de dispersión) y utilice los resúmenes para describir centralización, dispersión y la forma de la distribución de datos;"}
+        },
+        {
+            "competencyText": {"es-us": "resuma datos categóricos con resúmenes numéricos y gráficos, incluyendo la moda, porcentaje de valores en cada categoría (tabla de frecuencia relativa) y gráfica de barras de porcentaje, y utilice estos resúmenes para describir la distribución de datos."}
+        },
+        {
+            "competencyText": {"es-us": "Medición y datos. El estudiante aplica los estándares de procesos matemáticos para utilizar representaciones numéricas o gráficas que le permitan resolver problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "interprete datos numéricos resumidos en diagramas de puntos, diagramas de tallo y hojas, histogramas y diagramas de caja; y"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre situaciones que producen datos con y sin variabilidad."}
+        },
+        {
+            "competencyText": {"es-us": "Comprensión de finanzas personales. El estudiante aplica los estándares de procesos matemáticos para desarrollar una mentalidad financiera que favorezca la solución de problemas y que sea útil en su vida para que lo guíe como consumidor e inversionista bien informado. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"es-us": "compare las características y los costos de una cuenta de cheques y una tarjeta de débito que son ofrecidas por instituciones financieras locales;"}
+        },
+        {
+            "competencyText": {"es-us": "distinga entre tarjetas de débito y tarjetas de crédito;"}
+        },
+        {
+            "competencyText": {"es-us": "haga el balance de un registro de cheques que incluye depósitos, retiros y transferencias;"}
+        },
+        {
+            "competencyText": {"es-us": "explique por qué es importante establecer un historial de crédito positivo;"}
+        },
+        {
+            "competencyText": {"es-us": "describa la información en un reporte de crédito y por cuánto tiempo se conserva;"}
+        },
+        {
+            "competencyText": {"es-us": "describa el valor de los reportes de crédito para los deudores y prestamistas;"}
+        },
+        {
+            "competencyText": {"es-us": "explique varias maneras de cubrir los gastos universitarios, incluyendo ahorros, diferentes tipos de becas, préstamos estudiantiles y los programas de trabajo que ofrece la escuela; y"}
+        },
+        {
+            "competencyText": {"es-us": "compare los salarios anuales de varias profesiones que requieren distintos niveles de estudios universitarios o entrenamiento vocacional, y calcule los efectos de los diferentes salarios anuales en los ingresos de por vida."}
+        },
+        {
+            "competencyText": {"es-us": "Implementación de los Conocimientos y Destrezas Esenciales de Texas para matemáticas, nivel primaria,adoptados en el 2012."},
+            "comment": {
+                "es-us": ["Fuente: Las estipulaciones de esta sección §111.1 adoptadas para entrar en vigor el 10 de septiembre del 2012, 37 TexReg 7109."]
+            }
+        },
+        {
+            "competencyText": {"es-us": "Las estipulaciones incluidas en la  sección §§111.2-111.7 de este subcapítulo deberán ser implementadas porlos distritos escolares."}
+        },
+        {
+            "competencyText": {"es-us": "Antes del 31 de agosto del 2013, el comisionado de educación determinará si los fondos para los materialesde instrucción que abarcan los Conocimientos y    Destrezas Esenciales de Texas para matemáticas adoptados en la  sección §§111.2-111.7 de este subcapítulo están disponibles."}
+        },
+        {
+            "competencyText": {"es-us": "Si el comisionado determina que los fondos para los materiales de instrucción están disponibles bajo la subsección (b) de esta sección, entonces las estipulaciones incluidas en la sección §§111.2-111.7 de este subcapítulo deberán implementarse a principios del año escolar 2014-2015 y se aplicarán ese año y los años escolares subsecuentes."}
+        },
+        {
+            "competencyText": {"es-us": "Si el comisionado determina que los fondos para los materiales de instrucción no están disponibles según la  subsección (b) de esta sección, entonces el comisionado determinará antes del 31 de agosto de cada año escolar subsecuente si los fondos para los materiales de instrucción están disponibles. Si el comisionado determina que los fondos para los materiales de instrucción están disponibles, el comisionado notificará al Consejo de Educación Estatal y a los distritos escolares que las estipulaciones incluidas en la sección §§111.2-111.7 de este subcapítulo deberán ser implementadas el próximo año escolar."}
+        },
+        {
+            "competencyText": {"es-us": "Las secciones 111.11-111.17 de este subcapítulo serán reemplazadas con la implementación de las secciones§§111.1-111.7 bajo este apartado."}
+        }
+    ]
+}

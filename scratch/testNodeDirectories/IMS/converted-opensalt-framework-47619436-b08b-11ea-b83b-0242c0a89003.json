@@ -1,0 +1,822 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/47619436-b08b-11ea-b83b-0242c0a89003",
+        "name": {"en-us": "Kentucky Academic Standards: Computer Science"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grades K-5"}
+        },
+        {
+            "competencyText": {"en-us": "Networks & the Internet"}
+        },
+        {
+            "competencyText": {"en-us": "Network Communication & Organization"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the basic components of how networks operate to protect physical and digital information."},
+            "comment": {
+                "en-us": [
+                    "Students should be able to articulate that usernames and passwords are used to verify the identity of a person using a computing device or system. Students should use usernames and passwords regularly",
+                    " be able to show that strong passwords are more secure than weak passwords and longer passwords are stronger than short passwords",
+                    " indicate that passwords can be made even stronger when numbers and symbols are used as well as letters",
+                    " and be introduced to the term \"complex\" as a synonym for \"strong.\"\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity"}
+        },
+        {
+            "competencyText": {"en-us": "Model how information is broken down into smaller pieces (data packets), transmitted over various paths (physical and/or wireless), and reassembled at the destination."},
+            "comment": {
+                "en-us": ["Computers break down information into smaller pieces called packets, which are sent independently and reassembled at the destination. Students should demonstrate their understanding of this flow of information by: drawing a model of the way packets are transmitted, programming an animation to show how packets are transmitted, or demonstrating this through an analog, non-digital activity which has them act it out in some way (this can also be referred to as an \u201cunplugged activity\u201d).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Data & Analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Appropriately store and modify digital files."},
+            "comment": {
+                "en-us": ["All information stored and processed by a computing device is referred to as data. Data can be images, text documents, audio files, software programs or apps, video files, etc. As students use software to complete tasks on a computing device, they should demonstrate their understand that they are manipulating data.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Storage"}
+        },
+        {
+            "competencyText": {"en-us": "Collect and visually display data using appropriate applications."},
+            "comment": {
+                "en-us": ["The collection and use of data about the world around them is a routine part of life and influences how people live. Students should collect data that they experience in the world around them, then organize the data into two or more visualizations. Data collection and analysis should be cross-curricular and occur throughout the year.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Collection, Visualization & Transformation"}
+        },
+        {
+            "competencyText": {"en-us": "Inference & Models"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze data for trends and relationships"},
+            "comment": {
+                "en-us": ["Raw data has little meaning on its own. Students should be able to demonstrate sorting or grouping of data to provide additional clarity and meaning. Organizing data can make interpreting and communicating data to others easier. Data points can be clustered by a number of commonalities. Students should demonstrate understanding that the same data could be manipulated in different ways to emphasize particular aspects or parts of the data set. Raw data should be used to highlight relationships, and to determine different cause and effect relationships. Students can also demonstrate that data can be used to predict things that would happen in the future.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Algorithms & Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Create, follow, compare and refine algorithms for a task."},
+            "comment": {
+                "en-us": ["Algorithms (step-by-step instructions) are common in many primary classrooms. Just as people use algorithms to complete daily routines, they can program computers to use algorithms to complete different tasks. Algorithms are commonly implemented using a precise language that computers can interpret. Different algorithms can be used to perform the same task. While the end results may be similar, the paths may be different. Students should be able to look at different ways to solve the same task and decide which would be the best solution. Algorithms can be expressed in non- computer languages, including natural language, flowcharts, and pseudocode.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Algorithms"}
+        },
+        {
+            "competencyText": {"en-us": "Explore and use variables in a program."},
+            "comment": {
+                "en-us": [
+                    "Information in the real world can be represented in computer programs. Additionally, different actions are available for different kinds of information. Students should demonstrate the understanding that variables are not just used for numbers",
+                    " they can also hold text, including whole sentences (strings) or logical values (true or false). Students should also demonstrate that a variable has a data type and is associated with a data storage location.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Variables"}
+        },
+        {
+            "competencyText": {"en-us": "Routinely create programs using a variety of tools to express ideas, address a problem or create an artifact, individually and collaboratively."},
+            "comment": {
+                "en-us": ["Programming is used as a tool to create products that reflect a wide range of interests, including to solve a problem, express and idea or create an artifact. People work together to plan, create and test programs within a context that is relevant to the programmer and those who will use the program. When creating programs, students need to have opportunities to work both individually and with peers. For young learners, collaboration through programming should be encouraged. Student should begin exploring the use of simple sequences and simple loops in Kindergarten and progress to using more complex sequences, loops, events, variables and conditionals by 5th grade.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Control"}
+        },
+        {
+            "competencyText": {"en-us": "Modularity"}
+        },
+        {
+            "competencyText": {"en-us": "Decompose precise steps needed to solve a problem."},
+            "comment": {
+                "en-us": ["Decomposition is the act of breaking down tasks into smaller tasks. Smaller tasks or sub parts (steps that can be broken down into smaller steps) may be broken down even further. The process of decomposition assists in areas of program development by enabling different people to work on different parts at the same time. Students should demonstrate the process of decomposition by enabling different people to work on different parts of program development at the same time.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Program Development"}
+        },
+        {
+            "competencyText": {"en-us": "Modify, remix or reuse part of an existing program to create a new program, giving attribution to others."},
+            "comment": {
+                "en-us": ["The design of a new program often involves existing code or remixing other programs within a community (a group of people who share and provide feedback on another's creations). Students should credit the original creator when remixing a program or when ideas are borrowed and iterated upon. Students should also consider common licenses that place limitations or restrictions on the use of computational artifacts such as images and music downloaded from the Internet. At this stage, attribution should be written in the format required by the teacher and should always be included on any programs shared online.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use a process when creating programs or computational artifacts."},
+            "comment": {
+                "en-us": [
+                    "Students demonstrate the use of formal and informal processes for creating computational artifacts or programs include processes to: ask, imagine, plan, create, test and improve, share",
+                    " or a creative thinking spiral (i.e. imagine, create, play, share, reflect)",
+                    " and design thinking (empathize, define, ideate, prototype, test). Students demonstrate understanding that these processes are iterative: designed for students to cycle through more than once in order to improve or modify the design and reach the best possible result.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Document, share and reflect when creating programs using correct terminology."},
+            "comment": {
+                "en-us": ["Documentation of the design process allows students and others to better understand a program. In addition, students need to have opportunities to discuss, share and receive feedback from peers and adults when creating and refining projects. Students should be using correct, age-appropriate terminology when sharing their ideas both verbally and written.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify and correct errors in an algorithm."},
+            "comment": {
+                "en-us": ["Debugging is the process of isolating and correcting \"bugs\" in a program. As part of the debugging process, students demonstrate the importance of determining if the program is fixable (What happened? What was supposed to happen? What does this tell you? Is it fixable?). Students demonstrate use of an iterative process (repeating steps to improve desired result) when programming aids in the detection and isolation of programming errors.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Impacts of Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the relevance and appropriateness of electronic information sources and digital media."},
+            "comment": {
+                "en-us": ["Students should consider who owns digital sources they wish to use. Students should develop an understanding that while technology makes it easy to share digital media and electronic information sources, it is important to follow the rules of using other people's work and give attribution. Knowledge of specific copyright laws are not expected at this level.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Safety, Law & Ethics"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of proper use of data and information in a computing society."},
+            "comment": {
+                "en-us": [
+                    "Online communication facilitates positive and negative interactions",
+                    " consequently, it is important to protect our data, devices and the information stored on them. Students demonstrate the importance of using data properly including what, how, when, and with whom to share.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss how computing has impacted society."},
+            "comment": {
+                "en-us": ["Students demonstrate an understanding that computing technology has positively and negatively changed the way people live and work.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Discover how computing devices have affected the way people communicate."},
+            "comment": {
+                "en-us": ["Computing provides the possibility for constantly connected communications. Students demonstrate an understanding of communications when connected and disconnected. Students also demonstrate collaboration and the sharing of ideas to allow the benefit of diverse perspectives while also demonstrating collaboration using technology can be synchronous (occurring at the same time) or asynchronous (not occurring at the same time).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Social Interactions"}
+        },
+        {
+            "competencyText": {"en-us": "Computing Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Select and operate appropriate software and hardware to perform a variety of tasks and recognize that users have different needs and preferences for the technology they use."},
+            "comment": {
+                "en-us": ["People use computing devices to perform a variety of tasks accurately and quickly. Students should be able to use the appropriate app/program/software for tasks they are required to complete. Students should be able to successfully use designated hardware device(s) for appropriate programs.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Devices"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the function of common physical components of computing systems (hardware) using appropriate terminology."},
+            "comment": {
+                "en-us": ["A computing system is composed of hardware and software. Hardware consists of physical components. While software consists of programs and other operating information used by the computing system or computer. Students should be able to identify and describe the function of external hardware.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Hardware & Software"}
+        },
+        {
+            "competencyText": {"en-us": "Troubleshooting"}
+        },
+        {
+            "competencyText": {"en-us": "Describe basic hardware and software problems using accurate terminology."},
+            "comment": {
+                "en-us": ["Problems with computing systems have different causes. Students should demonstrate the ability to communicate a computing system problem with accurate terminology and begin to form an understanding of possible causes.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Grades 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Model how different sets of rules (protocols) are used to transmit different types of data across networks and the Internet."},
+            "comment": {
+                "en-us": ["Different protocols, such as TCP/IP, HTTP, FTP, SMTP are used for different types of data. Web traffic uses one protocol (HTTP), while email traffic uses another (SMTP). At this level, the mechanism of how the protocols work is not important. Modeling different protocols could be accomplished using diagrams, analogies, etc.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Network Communication & Organization"}
+        },
+        {
+            "competencyText": {"en-us": "Networks & the Internet"}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity"}
+        },
+        {
+            "competencyText": {"en-us": "Model how information is disguised using different methods of encryption to secure it during transmission from one point to another."},
+            "comment": {
+                "en-us": ["Encryption helps to secure data so that only the intended recipients can read it. Types of encryption include symmetric and asymmetric encryption which take advantage of keys. Encoding and decoding messages can be modeled through the use of simple letter substitution or through more complicated methods, such as public key encryption.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Store data using multiple encoding methods."},
+            "comment": {
+                "en-us": ["Data can be stored in multiple formats, from the selection of software packages for text (e.g. txt, rtf, log, docx, etc.), to image representation (jpeg, tiff, gif, png, etc.), to video and sound information (mp3, mpeg-4, mov, etc), and to storage of data into organized formats (e.g., tables). Choosing the most appropriate data storage format for a specific scenario is key to ensuring optimal data accessibility and use.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Storage"}
+        },
+        {
+            "competencyText": {"en-us": "Data & Analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Collection, Visualization & Transformation"}
+        },
+        {
+            "competencyText": {"en-us": "Collect data using computational tools and transform the data to make it more useful and reliable."},
+            "comment": {
+                "en-us": ["Computational tools are used to collect, visualize, and transform data. Appropriate transformation of data helps to remove errors, highlight or expose relationships, and/or make it easier for computers to process. The cleaning of data is an important transformation for ensuring consistent format and reducing noise and errors (e.g., removing irrelevant responses in a survey).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Inference & Models"}
+        },
+        {
+            "competencyText": {"en-us": "Refine computational models based on the data they have generated."},
+            "comment": {
+                "en-us": ["A model may be a programmed simulation of events or a representation of how various data is related. Refining a model involves choosing relevant data points, analyzing how data points relate to each other, and evaluating the accuracy of the data.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create flowcharts and/or pseudocode to address complex problems as algorithms."},
+            "comment": {
+                "en-us": ["A flowchart visually represents an algorithm used to solve a problem. Pseudocode uses a written language. Both are means of logically thinking through a problem before actual programming begins and identify the steps needed to process input(s) to produce the desired output(s).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Algorithms"}
+        },
+        {
+            "competencyText": {"en-us": "Algorithms & Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Variables"}
+        },
+        {
+            "competencyText": {"en-us": "Create clearly named variables that represent different data types and perform operations on their values."},
+            "comment": {
+                "en-us": ["A variable is like a container with a name, in which the contents may change, but the name (identifier) does not. When planning and developing programs decide when and how to declare and name new variables. Determine the appropriate type and size of variable to use. Use naming conventions to improve program readability.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Control"}
+        },
+        {
+            "competencyText": {"en-us": "Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."},
+            "comment": {
+                "en-us": ["Control structures can be combined in many ways. Nested loops are loops placed within other loops. Compound conditional statements use two or more conditions (e.g., AND, OR, and NOT) in a logical relationship. Nesting conditionals within one another allows the result of one conditional to lead to another.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Modularity"}
+        },
+        {
+            "competencyText": {"en-us": "Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs."},
+            "comment": {
+                "en-us": ["Decompose (break down) problems into smaller, more manageable, individual steps. Stepping through the execution of a program is a common practice when debugging and ensuring the accuracy of the program.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create procedures with parameters to organize code and make it easier to reuse."},
+            "comment": {
+                "en-us": ["Create procedures and/or functions that are used multiple times within a program to repeat groups of instructions. Define parameters within the procedure that allow for varying input.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Program Development"}
+        },
+        {
+            "competencyText": {"en-us": "Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts."},
+            "comment": {
+                "en-us": ["Collaboration is a common and crucial practice in programming development. Program developers often take on varying roles during the design, implementation and review stages of program development, including but not limited to graphic design and code writing.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop a process creating a computational artifact that leads to a minimum viable product followed by reflection, analysis, and iteration."},
+            "comment": {
+                "en-us": [
+                    "Complex programs are designed as systems of interacting modules, each with a specific role, coordinating for a common overall purpose. These modules can be procedures within a program",
+                    " combinations of data and procedures",
+                    " or independent, but interrelated, programs. The development of complex programs is aided by resources such as libraries and tools to edit and manage parts of the program.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Seek and incorporate feedback from team members and users to refine a solution that meets user needs."},
+            "comment": {
+                "en-us": ["Solicit diverse perspectives throughout the design process to improve artifacts. Considerations of the end-user may include usability, accessibility, age-appropriate content, respectful language, user perspective, pronoun use, color contrast, and ease of use.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss the benefits and consequences of making information either public or private."},
+            "comment": {
+                "en-us": ["How we choose to share information in the digital age has far-reaching implications for the lives of students and the schools they attend. Discussions should take place on what information can and should be shared and how to keep private information private or not accessible online at all.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Safety, Law & Ethics"}
+        },
+        {
+            "competencyText": {"en-us": "Impacts of Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss issues of bias and accessibility in existing technologies."},
+            "comment": {
+                "en-us": ["Every device has inherent issues that influence usage and adoption across all users. Issues of pricing, production, user access and interface design, reliability, sustainability, and exclusivity all influence existing technologies and how they are used by different populations.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Social Interactions"}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others using appropriate tools at the local, national, and/or international levels."},
+            "comment": {
+                "en-us": ["Promoting positive experiences in shared work environments is a key component of digital citizenship. Learning to respect the opinions of others and use collaborative spaces to work toward common goals is important to participate effectively in a growing global community. Opportunities for collaboration should be made available to students using different tools and different platforms.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recommend improvements to the design of computing devices based on an analysis of how users interact with the devices."},
+            "comment": {
+                "en-us": ["The study of human\u2013computer interaction (HCI) can improve the design of devices, addressing both hardware and software. Suggest improvements to existing devices. Design alternative components or interfaces (controllers, graphical interfaces, peripherals, etc.). Evaluate usability based on various metrics, including accessibility, ergonomics, learnability.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Devices"}
+        },
+        {
+            "competencyText": {"en-us": "Computing Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Hardware & Software"}
+        },
+        {
+            "competencyText": {"en-us": "Design projects that combine hardware and software components to collect and exchange data."},
+            "comment": {
+                "en-us": ["Collecting and exchanging data involves input, output, storage, and processing. Select appropriate hardware and software components for project designs by considering factors such as functionality, cost, size, mobility, speed, accessibility, and aesthetics.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Troubleshooting"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and fix problems with computing devices and their components systematically."},
+            "comment": {
+                "en-us": ["Since a computing device may interact with other interconnected devices within a system, problems may be due to either the specific computing device itself or to devices connected to it. Create and follow detailed, structured processes for troubleshooting problems within computing systems and ensuring that potential solutions are not overlooked. Develop flow diagrams, modify software to test hardware, check connections and settings, and swap in working components.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how physical and digital security practices and measures proactively address the threat of breaches to personal and private data."},
+            "comment": {
+                "en-us": ["Information that is stored online is vulnerable to unwanted access. Examples of physical security measures to protect data include keeping passwords hidden, locking doors, making backup copies on external storage devices, and erasing a storage device before it is reused. Examples of digital security measures include secure router admin passwords, firewalls that limit access to private networks, and the use of a protocol such as HTTPS to ensure secure data transmission.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Incorporate existing code, media, and libraries into original programs, and give attribution."},
+            "comment": {
+                "en-us": ["Insert portions of digital media in their own programs and websites. May also import libraries and connect to web application program interfaces (APIs).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Systematically test and refine programs using a range of test cases."},
+            "comment": {
+                "en-us": ["Evaluate whether programs function as intended. Testing should be a deliberate process that is more iterative, systematic, and proactive than at lower levels. Test programs for potential errors.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Document programs in order to make them easier to follow, test, and debug."},
+            "comment": {
+                "en-us": ["Provide documentation for end users that explains their artifacts and how they function. Proper documentation aids in debugging and future program modification.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries."},
+            "comment": {
+                "en-us": ["Consider licensing implications for their own work, especially when incorporating libraries and other resources. When considering two software libraries that address a similar need, a choice could be justified based on the library that has the least restrictive license.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare the positive & negative effects of computing technologies on society."},
+            "comment": {
+                "en-us": ["The use of technology has reshaped our society in ways not imagined a few short decades ago. Social media, online video, apps, and cloud services have changed the way we interact and those changes should be actively investigated and explored to see the full effects.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Grades 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, end devices, topology, and addressing."},
+            "comment": {
+                "en-us": ["A computer network consists of a set of computational devices that are interconnected by wired or wireless network mediums to allow for sharing resources and enabling convenient communication. Networks environments are created by switches and communicate to other networks through routers. Devices are assigned unique addresses to identify devices in the network. Students should be able to describe different types of networks, network topologies, networking devices, and how they facilitate or limit the network growth (scalability).\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Network Communication & Organization"}
+        },
+        {
+            "competencyText": {"en-us": "Networks & the Internet"}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity"}
+        },
+        {
+            "competencyText": {"en-us": "Give examples to illustrate how sensitive data can be affected by viruses, malware and other attacks."},
+            "comment": {
+                "en-us": [
+                    "Network security depends on a combination of hardware, software, and practices that control access to data and systems. Students should be able to discuss potential network attacks such as denial of service attacks, ransomware, viruses, worms, spyware, phishing, and how these attacks present threats to sensitive data",
+                    " to discuss real-life examples of such threats",
+                    " and to understand the safety precautions and good practices to protect privacy when using public and private networks.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recommend security measures to address various scenarios based on factors such as usability, efficiency, feasibility, and ethical impacts."},
+            "comment": {
+                "en-us": ["Security measures have been developed for the protection of data and network operation. Security measures involve tradeoffs between the usability and security of the system. Students should be able to determine the appropriate level of implemented security, based on the evaluation of the users' needs regarding the usability, proper operation of the network, and sensitivity of data.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the tradeoffs in how data elements are organized and where data is stored."},
+            "comment": {
+                "en-us": ["Students should be able to evaluate the organization and storage of data depending on the type of data (e.g., text, video, audio, image, number, etc.), the storage medium, and the data retrieval needs.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Storage"}
+        },
+        {
+            "competencyText": {"en-us": "Data & Analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Collection, Visualization & Transformation"}
+        },
+        {
+            "competencyText": {"en-us": "Collect data using appropriate data collection tools and techniques to support a claim or to communicate information."},
+            "comment": {
+                "en-us": ["Data can be collected using a variety of technological and non-technological tools and resources. A claim or information should be supported with appropriate data. The techniques for collecting the data depend on the tool used and the purpose of the data. Students should be able to evaluate, recommend and use data collection tools in order to support a claim or provide information to an appropriate population.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Inference & Models"}
+        },
+        {
+            "competencyText": {"en-us": "Use data analysis tools and techniques to identify patterns and analyze data represented in complex systems."},
+            "comment": {
+                "en-us": ["Students should be able to use data analysis tools to allow for the extraction of information thus enabling opportunity to identify trends, make discoveries and connections.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests."},
+            "comment": {
+                "en-us": ["A prototype is a computational artifact that demonstrates the core functionality of a product or process. Prototypes are useful for getting early feedback in the design process, and can yield insight into the feasibility of a product. The process of developing computational artifacts embraces both creative expression and the exploration of ideas to create prototypes and solve computational problems. Students create artifacts that are personally relevant or beneficial to their community and beyond. Students should develop artifacts in response to a task or a computational problem that demonstrate the performance, re- usability, and ease of implementation of an algorithm.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Algorithms"}
+        },
+        {
+            "competencyText": {"en-us": "Algorithms & Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Variables"}
+        },
+        {
+            "competencyText": {"en-us": "Use functions, data structures or objects to simplify solutions, generalizing computational problems instead of repeated use of simple variables."},
+            "comment": {
+                "en-us": ["Students should be able to identify common features in multiple segments of code and substitute a single segment/abstraction (function, data structure or object) to account for the differences.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Control"}
+        },
+        {
+            "competencyText": {"en-us": "Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance and explain the benefits and drawbacks of choices made."},
+            "comment": {
+                "en-us": [
+                    "Implementation includes the choice of programming language, which affects the time and effort required to create a program. Readability refers to how clear the program is to other programmers and can be improved through documentation. The discussion of performance is limited to a theoretical understanding of execution time and storage requirements",
+                    " a quantitative analysis is not expected. Control structures should include conditional statements, loops, and event handlers.\r\n\r\n**HS Challenge Standard**: No"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Modularity"}
+        },
+        {
+            "competencyText": {"en-us": "Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects."},
+            "comment": {
+                "en-us": ["Students should be able to decompose complex problems into manageable sub problems that could potentially be solved with programs or procedures that already exist.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution."},
+            "comment": {
+                "en-us": ["As students encounter complex, real-world problems that span multiple disciplines or social systems, they should decompose complex problems into manageable sub problems that could potentially be solved with programs or procedures that already exist.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Program Development"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries."},
+            "comment": {
+                "en-us": ["At previous levels, students adhered to licensing schemes. At this level, students should consider and be able to explain licensing implications for their own work, especially when incorporating libraries and other resources.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use a development process in creating a computational artifact that leads to a minimum viable product followed by reflection, analysis, and iteration."},
+            "comment": {
+                "en-us": ["At previous levels students have developed artifacts in ad-hoc way. By high school, students should be introduced to the discipline of software development. In particular, we focus on analysis, reflection and iteration. When given a problem students should be able to fully explain the problem, consider possible ways to solve it and then apply one of the possible ways. Consideration of possible ways to solve a software problem is termed 'Software Design' and/or 'Analysis'. Once the solution has been implemented and tested, students should reflect on what worked and didn't work during that process. Students will then apply this process again to update the artifact (iteration), continuing to refine the artifact itself while also continuing to improve the process.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Design and iteratively develop event-driven computational artifacts for practical intent, personal expression, or to address a societal issue."},
+            "comment": {
+                "en-us": ["Relevant computational artifacts include programs, mobile apps, or web apps. Events can be user-initiated, such as a button press, or system-initiated, such as a timer firing. At previous levels, students have learned to create and call procedures. Students should be able to design and implement procedures that are called by events.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs."},
+            "comment": {
+                "en-us": ["Computational artifacts can be created by combining and modifying existing artifacts or by developing new artifacts. Examples of computational artifacts include programs, simulations, visualizations, digital animations, robotic systems, and apps. Complex programs are designed as systems of interacting modules, each with a specific role, coordinating for a common overall purpose. Modules allow for better management of complex tasks. The focus at this level is understanding a program as a system with relationships between modules. The choice of implementation, such as programming language or paradigm, may vary. Students could incorporate computer vision libraries to increase the capabilities of a robot or leverage open-source JavaScript libraries to expand the functionality of a web application.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and refine computational artifacts to make them more usable and accessible using systematic testing and debugging."},
+            "comment": {
+                "en-us": ["Testing and refinement is the deliberate and iterative process of improving a computational artifact. This process includes debugging (identifying and fixing errors) and comparing actual outcomes to intended outcomes. Students should respond to the changing needs and expectations of end users and improve the performance, reliability, usability, and accessibility of artifacts.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Systematically design and develop programs for broad audiences by incorporating feedback from users."},
+            "comment": {
+                "en-us": ["Students at lower levels collect feedback and revise programs. At this level, students should do iterations through a systematic process that includes feedback from broad audiences. It is important for students to be able to gather feedback from the audience including peers, teachers and family members to make design decisions based on the feedback.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Design and develop computational artifacts working in team roles using collaborative tools"},
+            "comment": {
+                "en-us": [
+                    "As programs grow more complex, the choice of resources that aid program development becomes increasingly important and should be made by the students. Students might work as a team to develop a mobile application that addresses a problem relevant to the school or community, selecting appropriate tools to establish and manage the project timeline",
+                    " design, share, and revise graphical user interface elements",
+                    " and track planned, in- progress, and completed components.\r\n\r\n**HS Challenge Standard**: Yes"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Reduce bias and equity deficits through the design of accessible computational artifacts."},
+            "comment": {
+                "en-us": ["Within the context of computing, one must account for the factors of equity, ethics, access and training in the design of computational artifacts for diverse populations. The ability identify potential bias in one's own work and apply professional practices associated with increasing accessibility in the design of one's own artifacts is a crucial skill in computational development.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Impacts of Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Social Interactions"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and assess how computing impacts personal, ethical, social, economic, and cultural practices."},
+            "comment": {
+                "en-us": ["Within the context of computing, one must account for the factors of equity, ethics, access and training when developing products for a variety of end users. Computer science requires practitioners to evaluate the accessibility of a product to a global society and assess the implications on that society.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Safety, Law & Ethics"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the beneficial and harmful effects that laws governing data (intellectual property, privacy etc.) can have on innovation."},
+            "comment": {
+                "en-us": ["International differences in laws and ethics have implications for computing in a global society (i.e. privacy, data, property, information, and identity). Students should be aware of intellectual property laws and be able to explain how they are used to protect the interests of innovators or abused for financial gain.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Research how computational innovations that have revolutionized aspects of our culture might have evolved from a need to solve a problem."},
+            "comment": {
+                "en-us": ["Computational design can share features across disciplines (i.e. art, music etc.) by translating human intention into an artifact through algorithmic development and the need to solve a problem. Students should conduct research relating to the evolution of a computing innovation from the need to address a perceived need or solve a problem in any discipline or career field.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects."},
+            "comment": {
+                "en-us": ["Computing devices are often integrated with other systems (biological, mechanical, and H-CS-01 social etc.). Students should be able to select an embedded device, identify the types of data and procedures it includes, and explain how the implementation details are hidden from the user.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Devices"}
+        },
+        {
+            "competencyText": {"en-us": "Computing Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Hardware & Software"}
+        },
+        {
+            "competencyText": {"en-us": "Compare levels of abstraction and interactions between application software, system software and hardware layers."},
+            "comment": {
+                "en-us": ["At its most basic level, computers and computing system are composed of physical hardware with the ability to store, interpret and send bits. Some complex solutions use a multiple layer model where layers of software are built upon the hardware and interact only with the layers above and below them to separate functions and responsibilities in order to reduce system complexity. Students should be able to understand the abstraction in the layer model, and its benefits\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Troubleshooting"}
+        },
+        {
+            "competencyText": {"en-us": "Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors."},
+            "comment": {
+                "en-us": ["Troubleshooting complex problems involves the use of multiple sources when researching, evaluating, and implementing potential solutions. Troubleshooting also relies on experience, such as when people recognize that a problem is similar to one they have seen before or adapt solutions that have worked in the past. Students should be able to develop versions of troubleshooting guidelines based upon test cases of their choosing.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the issues that impact network functionality (e.g., bandwidth, load, delay, topology)."},
+            "comment": {
+                "en-us": ["The structure and makeup of networks, and network properties affect networks functionality. Students should be able to describe the significant features of networks, network topologies, the speed and capacity of a network. (bandwidth vs. latency), network protocols, and use simulators to experiment with network topologies, functionality, and reliability.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare ways software developers protect devices and information from unauthorized access."},
+            "comment": {
+                "en-us": ["Because most devices are not secure, choosing to implement security measures involves trade-offs between the usability and security of the system as well as the individual needs of the user. Students should be able to discuss the difference between symmetric and asymmetric encryption and should be able to describe encryption algorithms, hashing and various message authentication methods.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Understand and design database structures to optimize search and retrieval."},
+            "comment": {
+                "en-us": ["Students should be able to design and explain how data can be organized in a database by using data structures (e.g., fields, records, rows, tables, relationships, etc.) to facilitate search and retrieval and to reduce file sizes. Students should know about different database models (e.g., relational, object oriented, distributed, online, etc.).\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the privacy concerns related to the collection and generation of data."},
+            "comment": {
+                "en-us": ["Privacy concerns exist wherever personally identifiable information or other sensitive information is collected, stored, used, and finally destroyed or deleted \u2013 in digital form or otherwise. Information and privacy can be exploited if privacy and other protections are ignored (selling of identifiable information to third parties, background tracking of internet searches). Students should be able to explain that technology allows the collection, use, generation, and possible exploitation of data by private, commercial, and government entities.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use data analysis tools (e.g. formulas and other software data / statistical tools) to process and transform the data to make it more useful and reliable."},
+            "comment": {
+                "en-us": ["Students should be able to take data and make it meaningful using data analysis tools. Data analysis tools contain advanced features, including formulas and statistical functions, that facilitate proper inference process.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create interactive data visualizations using software tools to help others better understand real-world phenomena."},
+            "comment": {
+                "en-us": ["Students should be able to use interactive software tools that allow for effective discovery through visualizations by communicating understanding and knowledge from digitally represented sources.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create computational models that represent the relationships among different elements of data."},
+            "comment": {
+                "en-us": ["Students should be able to create computational models that represent the structure and inter-dependencies in data, in order to facilitate processing of information, and to identify patterns within data sets.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the ability of models and simulations to test and support the refinement of hypotheses."},
+            "comment": {
+                "en-us": ["Students should be able to support and refine hypotheses using computational models. Computational models may differ in functionality and relevance based upon how data is recognized and utilized.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use and adapt classic algorithms to solve computational problems"},
+            "comment": {
+                "en-us": ["Students should be able to identify and use well-known algorithms in sorting (e.g., bubble sort, quicksort, merge sort, insertion sort), searching (e.g., linear search, binary search), and shortest-path (e.g., Dijkstra's algorithm) problems. Students will also be able to adapt and combine such well-known algorithms to add features that address more complex computational tasks.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate algorithms in terms of their efficiency, correctness, and clarity."},
+            "comment": {
+                "en-us": ["Students should be able to calculate the total number times a loop will be executed given a code snippet, will be able to state whether an algorithm is correct for solving a given problem, and compare/contrast algorithms for clarity and the number of executed operations.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Illustrate the flow of execution of a recursive algorithm."},
+            "comment": {
+                "en-us": ["A recursive algorithm is a procedure or function which when implemented in a programming language calls itself. The algorithm solves a smaller problem with each call. Students should be able to identify the termination case and recursive call case in a recursive algorithm and describe the state of the problem space during each call.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast fundamental data structures and their uses."},
+            "comment": {
+                "en-us": ["Students should be able to name the fundamental data structures (array, list, stack, queue and tree) and defend the use of a data structure's use to solve different problems in sorting and searching.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project"},
+            "comment": {
+                "en-us": ["Students need to learn the major tools and skills of software development including version control systems to keep track of all releases (and to back out changes), IDEs to simplify writing and testing of code, documentation of code for code maintenance. Students should be able to explain how these tools are critical to team-developed projects. Group software projects can be assigned or student-selected.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how artificial intelligence drives many software and physical systems."},
+            "comment": {
+                "en-us": ["Artificial Intelligence, unlike algorithms, is a mechanism where programs make decisions on what to execute based on its environment similar to how humans make decisions. In the era of big data, artificial intelligence is becoming pervasive and students should be able to describe how AI is used in everyday software systems.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Construct solutions to problems using student-created components, such as procedures, modules and/or objects."},
+            "comment": {
+                "en-us": ["At this level, students should be regularly implementing programming solutions using some form of structured design with multiple functions/procedures/modules in different files. Object-oriented programming is optional at this level. Problems can be assigned or student-selected.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Select and employ an appropriate component or library to facilitate programming solutions."},
+            "comment": {
+                "en-us": ["Students should be able to use (or, actually reuse) existing code when quality code already exists to accomplish the needed task. Libraries and APIs can be student-created, part of the software development platform or external libraries or APIs selected for their features.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop programs for multiple computing platforms."},
+            "comment": {
+                "en-us": ["Students need to understand the pervasiveness of computing and that computers exist in many different forms. Students should be able to develop software programs that run on a desktop/laptop as well as other IOT and/or mobile devices.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., introducing errors)."},
+            "comment": {
+                "en-us": ["Students should be able to understand and provide examples highlighting that adding functionality to software can introduce new errors, reduce functionality or add an unintended feature.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare multiple programming languages and discuss how their features make them suitable for solving different types of problems."},
+            "comment": {
+                "en-us": ["Students should be able to explain the difference between a compiled and scripted programming language, defend a choice of a programming language for a certain computing device and defend a choice of a language (3rd generation versus 4th generation) for solving different types of problems.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of the digital divide (i.e. inequity of computing access, education and influence) on the development of local communities and society."},
+            "comment": {
+                "en-us": ["Within the context of computing, one must account for the factors of equity, ethics, access and training when developing products for a variety of end users. Students should be able to evaluate the effect the digital divide has and can have on development, innovation and the culture of society.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways computational design (i.e. algorithms, abstractions and analysis) can apply to problems across disciplines."},
+            "comment": {
+                "en-us": ["Computational design can share features across disciplines (i.e. art, music etc.) by translating human intention into an artifact through algorithmic development and the need to solve a problem. Students should be able to demonstrate how these features are shared across disciplines and how real-world problems can be solved using computational methods.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and design computational artifacts to maximize their benefit to society."},
+            "comment": {
+                "en-us": ["Within the context of computing, one must account for the factors of equity, security, ethics, access and privacy in the design of computational artifacts for diverse populations. Students should be able to identify potential bias in the work of others and make suggestions in order to make them more beneficial in a diverse society as well as decrease security deficits that could result in harms to culture, society or the economy.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Debate laws and regulations that impact the development and use of software and the protection of privacy."},
+            "comment": {
+                "en-us": ["International differences in laws and ethics have implications for computing in a global society (i.e. privacy, data, property, information, and identity). Students should evaluate case studies or current events which present an ethical dilemma contrasting an individual's right to privacy and the safety, security, or well-being of a community.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Categorize the roles of operating system software."},
+            "comment": {
+                "en-us": ["Students should be able to define an operating system and identify its different roles and characteristics.\r\n\r\n**HS Challenge Standard**: No"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Illustrate ways computing systems implement logic, input, and output through hardware components."},
+            "comment": {
+                "en-us": ["Students should be able to describe, via pictures or prose, the basic von Neumann architecture, CPU and I/O processing and the fetch, decode and execute cycle.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate key qualities (including correctness, usability, readability, and efficiency) of a program."},
+            "comment": {
+                "en-us": ["Given a software program, students should be able to evaluate it in terms of software quality using standard software metrics including readability, usability and efficiency.\r\n\r\n**HS Challenge Standard**: Yes"]
+            }
+        }
+    ]
+}

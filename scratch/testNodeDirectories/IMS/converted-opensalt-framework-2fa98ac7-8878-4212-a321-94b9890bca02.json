@@ -1,0 +1,1264 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/2fa98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Health Education"},
+        "description": {"en-us": "Health Education Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the physical dimensions of health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize ways to prevent common communicable diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize ways to prevent childhood injuries in the home, school, and community settings."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize there are body parts inside and outside of the body."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors.             "}
+        },
+        {
+            "competencyText": {"en-us": "Name healthy behaviors that family members should practice."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the characteristics of a friend."}
+        },
+        {
+            "competencyText": {"en-us": "Identify members of the school and community who support personal-health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of rules to maintain health."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize warning labels and signs on hazardous products and places."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize school and community health helpers."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize healthy ways to express needs, wants, and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate listening skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the appropriate responses to unwanted and threatening situations."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Name situations when a health-related decision can be made individually or when assistance is needed."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the consequences of not following rules/practices when making healthy and safe decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy practices and behaviors to maintain or improve personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Help others to make positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the physical and social dimensions of health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent common communicable diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to prevent childhood injuries in the home, school, and community settings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the correct names of human body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health-care providers."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how children learn health behaviors from family and friends."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the ways that a friend would act in a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify what the school and community do to support personal-health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize health consequences for not following rules."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health.             "}
+        },
+        {
+            "competencyText": {"en-us": "Determine the meaning of warning labels and signs on hazardous products and places"}
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults and professionals who can help promote health."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy ways to express needs, wants, and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe good listening skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to respond when in an unwanted, threatening, or dangerous situation."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe situations when a health-related decision can be made individually or when assistance is needed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the consequences of not following rules/practices when making healthy and safe decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Tell about behaviors that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Encourage others to make positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify that healthy behaviors affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the physical, mental/emotional and social dimensions of health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways a safe, healthy home environment can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent childhood injuries in the home, school, and community settings."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the locations and functions of major human organs."}
+        },
+        {
+            "competencyText": {"en-us": "Determine when it is important to seek health care."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how family rules and practices influence health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how friends' health practices influence health behaviors of others."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the school and community influence health behaviors of children."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the ways that rules make the classroom, school, and community safer."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the meaning of warning labels and signs on hazardous products."}
+        },
+        {
+            "competencyText": {"en-us": "Select trusted adults and professionals who can help promote health."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy ways to express needs, wants, feelings, and listening skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways to respond to unwanted, threatening, or dangerous situations."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between situations when a health-related decision can be made individually or when assistance is needed."}
+        },
+        {
+            "competencyText": {"en-us": "Name healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the consequences of not following rules/practices when making healthy and safe decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Establish a short-term personal health goal as a class and take action toward achieving the goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate health behaviors to maintain or improve personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Support peers when making positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe healthy behaviors that affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways a safe, healthy classroom can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize common childhood health conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that body parts and organs work together to form human body systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe why it is important to seek health care."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how family and friend's traditions and customs may influence health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how the traditions and customs of the school and community influence health behavior of children."}
+        },
+        {
+            "competencyText": {"en-us": "Identify classroom and school rules that promote health and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the positive and negative impacts media may have on health."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the positive and negative impacts technology may have on health."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Locate resources from home, school, and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe criteria for selecting health information, resources, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the media influences the selection of health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify effective verbal and nonverbal communication skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate refusal skills that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate nonviolent strategies to manage or resolve conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways to ask for assistance to enhance personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize circumstances that can help or hinder healthy decision making."}
+        },
+        {
+            "competencyText": {"en-us": "List healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the potential short-term personal impact of each option when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Find a healthy option when making a decision for yourself."}
+        },
+        {
+            "competencyText": {"en-us": "Explain when assistance is needed when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Select a personal health goal and track progress toward achievement."}
+        },
+        {
+            "competencyText": {"en-us": "Examine resources that could assist in achieving a small group personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Practice responsible personal health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate a variety of behaviors that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Promote positive behaviors to others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the relationship between healthy behaviors and personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify examples of mental/emotional, physical, and social health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways a safe, healthy school environment can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent common childhood injuries and health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the human body parts and organs that work together to form healthy body systems."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish differences among various healthcare providers, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of family on health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the important role that friends/peers may play in health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the important roles that school and community play in health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize types of school rules and community laws that promote health and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how media influences personal thoughts, feelings, and health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology influences personal thoughts, feelings, and health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health.             "}
+        },
+        {
+            "competencyText": {"en-us": "Describe characteristics of valid health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Construct criteria for selecting health resources, products, services, and reputable technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Examine resources from home, school and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Explain effective verbal and nonverbal communication skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify refusal skills and negotiation skills that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss nonviolent strategies to manage or resolve conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways to ask for assistance to enhance personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify circumstances that can help or hinder healthy decision making."}
+        },
+        {
+            "competencyText": {"en-us": "Itemize healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Predict the potential short-term impact of each option on self and others when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Choose a healthy option when making decisions for yourself and/or others."}
+        },
+        {
+            "competencyText": {"en-us": "Examine when assistance is needed to make a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Create a personal health goal and track progress toward achievement."}
+        },
+        {
+            "competencyText": {"en-us": "Categorize resources that could assist in achieving a small group personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss a variety of healthy practices and behaviors to maintain or improve personal health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Assist others to make positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between healthy behaviors and personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the physical, mental/emotional, social, and intellectual dimensions of health."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways a safe, healthy home and school environment promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Compare ways to prevent common childhood injuries and health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how human body parts and organs work together in healthy body systems, including the endocrine and reproductive systems."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize how appropriate health care can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence- Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Predict how families may influence various health practices of children."}
+        },
+        {
+            "competencyText": {"en-us": "Predict how friends/peers may influence various health practices of children."}
+        },
+        {
+            "competencyText": {"en-us": "Predict how the school and community influence various health practices of children."}
+        },
+        {
+            "competencyText": {"en-us": "Give examples of school and public health policies that influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how media influences family health behaviors and the selection of health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways that technology can influence family health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how various cultures can influence personal health beliefs."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate influences that change health beliefs and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health.             "}
+        },
+        {
+            "competencyText": {"en-us": "Discuss characteristics of valid health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate criteria for selecting health resources, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Compile resources from home, school, and community, technologies that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate techniques of effective verbal and nonverbal communication skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss refusal skills and negotiation skills that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate effective conflict resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Determine ways to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe circumstances that can help or hinder healthy decision making."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize healthy options to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the potential short-term impact of each option on self and others when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Select a healthy option when making decisions for yourself and/or others."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze when assistance is needed when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Specify a personal health goal and track progress toward achievement."}
+        },
+        {
+            "competencyText": {"en-us": "Select reliable resources that would assist in achieving a small group personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Model responsible personal health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate a variety of healthy practices and behaviors to maintain or improve personal health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Persuade others to make positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the physical, mental/emotional, social, and intellectual dimensions of health are interrelated."}
+        },
+        {
+            "competencyText": {"en-us": "Identify environmental factors that affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health problems and concerns common to adolescents including reproductive development."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how body systems are impacted by hereditary factors and infectious agents."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how appropriate health care can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize how heredity can affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the likelihood of injury or illness if engaging in unhealthy/risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how family influences the health of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how peers influence the health of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the impact of health information conveyed to students by the school and community."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate school and public health policies that influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how media influences peer and community health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Propose ways that technology can influence peer and community health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate cultural changes related to health beliefs and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how social norms may impact healthy and unhealthy behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the influence of personal values, attitudes, and beliefs about individual health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the validity of health information, and determine the cost of health products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate a variety of technologies to gather health information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe situations when professional health services may be required."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Determine strategies to improve effective verbal- and nonverbal-communication skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Practice refusal skills and negotiation skills to reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective conflict-management and/or resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Compile ways to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate health-related situations that require the application of a thoughtful decision-making process."}
+        },
+        {
+            "competencyText": {"en-us": "Choose healthy alternatives over unhealthy alternatives when making a decision."}
+        },
+        {
+            "competencyText": {"en-us": "Specify the potential outcomes of each option when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between the need for individual or collaborative decision-making."}
+        },
+        {
+            "competencyText": {"en-us": "Predict the potential outcomes of a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Use various methods to measure personal health status."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an individual goal to adopt, maintain, or improve a personal health practice."}
+        },
+        {
+            "competencyText": {"en-us": "Determine strategies and skills needed to attain a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Monitor progress toward attaining a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of assuming responsibility for personal-health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Write about healthy practices and behaviors that will maintain or improve personal health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Practice how to influence and support others when making positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "State a health-enhancing position on a topic and support it with accurate information."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively to advocate for healthy individuals, families, and schools."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways health messages and communication techniques can be targeted for different audiences."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the effects of healthy and unhealthy behaviors on personal health, including reproductive health."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how physical, mental/emotional, social, and intellectual dimensions of health are interrelated."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how environmental factors affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to reduce or prevent injuries and adolescent health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Classify infectious agents and their modes of transmission to the human body."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how appropriate health care can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how heredity can affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the likelihood of injury or illness if engaging in unhealthy/risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors.                           "}
+        },
+        {
+            "competencyText": {"en-us": "Examine how family health behaviors influence health of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how peers may influence the health behaviors of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how the school and community may influence the health behaviors of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how messages from media influence health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the influence of technology in locating valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how cultural changes related to health beliefs and behaviors impact personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how changes in social norms impact healthy and unhealthy behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the influence of personal values, attitudes, and beliefs about individual health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health.             "}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the validity of health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a variety of technologies to gather health information."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among professional health services that may be required."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Apply effective communication skills when interacting with others to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate refusal, negotiation, and collaboration skills to enhance health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate the possible causes of conflict among youth in schools and communities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Predict when health-related situations require the application of a thoughtful decision-making process."}
+        },
+        {
+            "competencyText": {"en-us": "Select healthy alternatives over unhealthy alternatives when making a decision."}
+        },
+        {
+            "competencyText": {"en-us": "Determine when individual or collaborative decision-making is appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Predict the short and long-term consequences of engaging in health-risk behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze personal beliefs as they relate to health practices."}
+        },
+        {
+            "competencyText": {"en-us": "Devise an individual goal (short or long term) to adopt, maintain, or improve a personal health practice."}
+        },
+        {
+            "competencyText": {"en-us": "Explain strategies and skills needed to assess progress and maintenance of a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the importance of assuming responsibility for personal-health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Experiment with behaviors that will maintain or improve personal health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the influence of others to promote positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate a position on a health-related issue and support it with accurate health information."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively to advocate for healthy individuals, peers, and families."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze ways health messages can target different audiences."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the interrelationship between healthy/unhealthy behaviors and the dimensions of health: physical, mental/emotional, social, and intellectual."}
+        },
+        {
+            "competencyText": {"en-us": "Predict how environmental factors affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate strategies to reduce or prevent injuries and other adolescent health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify major chronic diseases that impact human body systems."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how appropriate health care can promote personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how heredity and family history can affect personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Anticipate the likelihood of injury or illness if engaging in unhealthy/risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. "}
+        },
+        {
+            "competencyText": {"en-us": "Assess the role of family health beliefs on the health of adolescents."}
+        },
+        {
+            "competencyText": {"en-us": "Assess how the health beliefs of peers may influence adolescent health."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the school and community may influence adolescent health."}
+        },
+        {
+            "competencyText": {"en-us": "Critique school and public health policies that influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Research marketing strategies behind health-related media messages."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of technology on personal and family health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of culture on health beliefs, practices, and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the perceptions of norms influence healthy and unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of personal values, attitudes, and beliefs about individual health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health.             "}
+        },
+        {
+            "competencyText": {"en-us": "Analyze valid and reliable health services and the cost of products."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the accessibility, validity, and reliability of products and services that enhance home, school, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Recommend a variety of technologies to gather health information."}
+        },
+        {
+            "competencyText": {"en-us": "Determine situations when specific professional health services or providers may be required."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks"}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate skills necessary for effective communication with family, peers, and others to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the possible causes of conflict among youth in schools and communities."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast ways to ask for and offer assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Determine when health-related situations require the application of a thoughtful prepared plan of action."}
+        },
+        {
+            "competencyText": {"en-us": "Categorize healthy and unhealthy alternatives to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Compile the potential outcomes of each option when making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish when individual or collaborative decision-making is appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the outcomes of a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Assess personal health practices."}
+        },
+        {
+            "competencyText": {"en-us": "Design an individual goal to adopt, maintain, or improve a personal health practice."}
+        },
+        {
+            "competencyText": {"en-us": "Apply strategies and skills needed to attain a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how personal health goals can vary with changing abilities, priorities, and responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the importance of assuming responsibility for personal-health behaviors, including sexual behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Apply healthy practices and behaviors that will maintain or improve personal health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Promote positive health choices with the influence and support of others."}
+        },
+        {
+            "competencyText": {"en-us": "Justify a health-enhancing position on a topic and support it with accurate information."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively to advocate for healthy individuals, peers, families, and schools."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate ways health messages and communication techniques can be targeted for different audiences."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Core Concepts - Comprehend concepts related to health promotion and disease prevention to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Predict how healthy behaviors can affect health status."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the significance of interrelationships in mental/emotional, physical, and social health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how environment and personal health are interrelated."}
+        },
+        {
+            "competencyText": {"en-us": "Propose strategies to reduce or prevent injuries and health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze strategies for prevention, detection, and treatment of communicable and chronic diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the relationship between access to health care and health status."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how heredity and family history can impact personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the degree of susceptibility to injury, illness, or death if engaging in unhealthy/risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Internal and External Influence - Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the family influences the health of individuals."}
+        },
+        {
+            "competencyText": {"en-us": "Compare how peers influence healthy and unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Assess how the school and community can affect personal health practice and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how public health policies and government regulations can influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effect of media on personal and family health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of technology on personal, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how culture supports and challenges health beliefs, practices, and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the perceptions of norms influence healthy and unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the influence of personal values, attitudes, and beliefs about individual health practices and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Responsible Behavior"}
+        },
+        {
+            "competencyText": {"en-us": "Accessing Information - Demonstrate the ability to access valid health information, products, and services to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Verify the validity of health information, products, and services."}
+        },
+        {
+            "competencyText": {"en-us": "Compile data reflecting the accessibility of resources from home, school, and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Justify the validity of a variety of technologies to gather health information."}
+        },
+        {
+            "competencyText": {"en-us": "Justify when professional health services or providers may be required."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication - Demonstrate the ability to use interpersonal-communication skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills needed to communicate effectively with family, peers, and others to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Assess refusal, negotiation, and collaboration skills to enhance health and avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate strategies to prevent, manage, or resolve interpersonal conflicts without harming self or others."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the validity of ways to ask for and offer assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making - Demonstrate the ability to use decision-making skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the value of applying a thoughtful decision-making process in health-related situations."}
+        },
+        {
+            "competencyText": {"en-us": "Generate alternatives to health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Appraise the potential short-term and long-term outcomes of each alternative on self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Assess whether individual or collaborative decision making is needed to make a healthy decision."}
+        },
+        {
+            "competencyText": {"en-us": "Examine barriers that can hinder healthy decision making."}
+        },
+        {
+            "competencyText": {"en-us": "Goal Setting - Demonstrate the ability to use goal-setting skills to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate personal health practices and overall health status to include all dimensions of health."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate a plan to attain a personal health goal that addresses strengths, needs, and risks."}
+        },
+        {
+            "competencyText": {"en-us": "Implement strategies and monitor progress in achieving a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate an effective long-term personal health plan."}
+        },
+        {
+            "competencyText": {"en-us": "Health Literacy Promotion"}
+        },
+        {
+            "competencyText": {"en-us": "Self Management - Demonstrate the ability to practice advocacy, health-enhancing behaviors, and avoidance or reduction of health risks for oneself."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the role of individual responsibility in enhancing health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate healthy practices and behaviors that will maintain or improve health and reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocacy - Demonstrate the ability to advocate for individual, peer, school, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to influence and support others in making positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize current, accurate data/information to formulate a health-enhancing message."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively as an advocate for improving personal, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt health messages and communication techniques to a specific target audience."}
+        }
+    ]
+}

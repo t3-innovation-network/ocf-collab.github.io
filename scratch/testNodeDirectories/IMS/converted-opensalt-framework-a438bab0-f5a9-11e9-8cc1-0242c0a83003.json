@@ -1,0 +1,375 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/a438bab0-f5a9-11e9-8cc1-0242c0a83003",
+        "name": {"en-us": "Montana World Languages Content Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFLicenses/9b516ff5-1cd2-41aa-8618-f20eee60b06d",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 1\r\n(1) To satisfy the requirements of world languages content standard 1, a student must engage in conversation, provide and obtain information, express feelings and emotions, and exchange opinions."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 1 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 1 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) express feelings, likes, and dislikes;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) respond in one-on-one interactions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) create simple descriptions of people and things within a context;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) express agreement and disagreement; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) express basic needs."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 1 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 1 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) qualify feelings, likes, and dislikes;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) exchange information using appropriate gestures;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) create detailed descriptions within a context;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe a problem and suggest and recommend solutions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) elaborate on needs and interact in basic survival situations."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 1 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 1 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) exchange personal ideas and support them;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) initiate, sustain, and conclude conversations appropriate to the setting on a variety of topics;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) create more elaborate descriptions and add opinions;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) collaborate and compromise to develop, propose, and negotiate solutions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) manage unforeseen situations."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 2\r\n(1) To satisfy the requirements of world languages content standard 2, a student must understand and interpret spoken and/or written language on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 2 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 2 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify people and objects using aural, visual, and contextual cues;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) comprehend and respond appropriately to simple oral and written communications; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) read and respond to developmentally appropriate material and identify the main idea."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 2 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 2 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) respond appropriately to complex aural, visual, written, or contextual cues;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) comprehend and respond appropriately to complex oral and written communications; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interpret the main idea and significant details from authentic materials and literary samples."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 2 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 2 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze information based on complex aural, visual, written, or contextual cues;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) comprehend and respond appropriately to oral and written communications intended for native speakers; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interpret and analyze relationships, sequences, mood, cause and effect, and applied meaning in authentic materials and literary samples."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 3\r\n(1) To satisfy the requirements of world languages content standard 3, a student must convey information, concepts, and ideas to listeners and/or readers for a variety of purposes."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 3 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 3 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) give directions, commands, and instructions;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) give a description orally and/or in writing using simple phrases;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) write a personal communication (e.g., note, letter, invitation); and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) summarize main idea of selected authentic and/or contextualized material."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 3 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 3 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explain a process based on prior knowledge and/or experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) give a description orally and/or in writing using complex sentences;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) produce formal and informal written and/or oral communication; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) interpret information from authentic material for an audience."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 3 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 3 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explain a complex process incorporating detailed instructions;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) give a description orally and in writing using complex, detailed paragraphs;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) produce a written sample to convey a mood, implied meaning, or abstract idea; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) create an analysis of authentic media or literary samples and present it to an audience."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 4\r\n(1) To satisfy the requirements of world languages content standard 4, a student must demonstrate an understanding of the relationship between the perspectives, practices, and products/contributions of cultures studied, and use this knowledge to interact effectively in cultural contexts."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 4 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 4 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify significant cultural perspectives and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) recognize and interpret language and behaviors that reflect the culture;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify objects, images, symbols, products, and other contributions of the culture; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify the expressive forms of the culture (e.g., art, architecture, music, dance)."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 4 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 4 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) describe cultural characteristics and behaviors of everyday life (e.g., social and geographic factors);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) produce language and behaviors appropriate to the culture;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) explain objects, images, symbols, products, and other contributions of the culture; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe and discuss the expressive forms of the culture (e.g., art, architecture, music, dance)."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 4 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 4 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze the development of different cultural practices (e.g., social and geographic factors);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply language and behaviors that reflect the culture in an authentic situation;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze and evaluate the cultural significance of objects, images, symbols, products, and other contributions of the culture; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze and evaluate the expressive forms of the culture (e.g., art, architecture, music, dance)."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 5\r\n(1) To satisfy the requirements of world languages content standard 5, a student must reinforce and increase his/her knowledge of other disciplines through world languages."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 5 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 5 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify and apply, within a familiar context, information and skills shared by the language classroom and other disciplines; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify, through world language resources, information for use in other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 5 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 5 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) transfer and apply, within a designated context, information and skills common to the language classroom and other disciplines; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze information gathered through world language resources for use in other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 5 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 5 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply, within an unfamiliar context, information and skills common to the language classroom and other disciplines; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) locate authentic language resources and synthesize information for use in other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 6\r\n(1) To satisfy the requirements of world languages content standard 6, a student must acquire information and perspectives through authentic materials in the world languages and within the cultures."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 6 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 6 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) gather information from sources intended for native speakers of the language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use authentic sources to identify perspectives of world cultures."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 6 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 6 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze and apply information from sources intended for native speakers of the language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use authentic sources to analyze perspectives of world cultures."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 6 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 6 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) acquire and synthesize information from sources intended for native speakers of the language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use authentic sources to synthesize perspectives of world cultures."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 7\r\n(1) To satisfy the requirements of world languages content standard 7, a student must recognize that different languages use different patterns and apply this knowledge to his/her own language."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 7 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 7 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify sound patterns of the target language and compare them to the student's own language;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify structural patterns of the target language;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify idiomatic expressions of the target language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify connections among languages."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 7 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 7 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply, within limited contexts, sound patterns of the target language;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply, within limited contexts, structural patterns of the target language;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) compare and contrast idiomatic expressions of the target language and the student's own language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explain the changing nature of languages."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 7 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 7 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply, in a variety of contexts, sound patterns of the target language;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use knowledge of structural patterns in both the target language and the student's own language to communicate effectively;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use idiomatic expressions of the target language in the correct context; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe how languages influence each other."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 8\r\n(1) To satisfy the requirements of world languages content standard 8, a student must demonstrate understanding of the concept of culture through comparisons of the cultures studied and his/her own."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 8 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 8 for a student at the end of benchmark 1 is the ability to recognize similarities and differences, including behavior patterns, among target cultures and the student's own culture using evidence from authentic sources."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 8 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 8 for a student at the end of benchmark 2 is the ability to analyze similarities and differences, including behavior patterns, among target cultures and the student's own culture using evidence from authentic sources."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 8 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 8 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze and explain significance of similarities and differences among target cultures and the student's own culture using evidence from authentic sources; and"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use knowledge of similar and different behavioral patterns to interact effectively in a variety of social contexts in target cultures and the student's own culture."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES CONTENT STANDARD 9\r\n(1) To satisfy the requirements of world languages content standard 9, a student must apply language skills and cultural knowledge in daily life."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 9 FOR END OF BENCHMARK 1\r\n(1) The benchmark for world languages content standard 9 for a student at the end of benchmark 1 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify the target language in the student's daily life and share that knowledge with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) locate connections with the target culture through the use of technology, media, and authentic sources; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) locate resources in the community to learn about the target culture."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 9 FOR END OF BENCHMARK 2\r\n(1) The benchmark for world languages content standard 9 for a student at the end of benchmark 2 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) respond to the target language encountered in the student's daily life;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) establish connections with the target culture through the use of technology, media, and authentic sources; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interact with members of the community to research the target culture."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR WORLD LANGUAGES CONTENT STANDARD 9 FOR END OF BENCHMARK 3\r\n(1) The benchmark for world languages content standard 9 for a student at the end of benchmark 3 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) interact appropriately in the target language in real-life situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) maintain connections with the target culture through the use of technology, media, and authentic sources; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) collaborate and use resources in the community to research the target culture."}
+        }
+    ]
+}

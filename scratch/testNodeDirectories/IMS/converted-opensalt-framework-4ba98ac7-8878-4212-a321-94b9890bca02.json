@@ -1,0 +1,1750 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/4ba98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Engineering and Technology Education"},
+        "description": {"en-us": "CTE-Engineering and Technology Education Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Aerospace Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss educational and training requirements as they relate to various aerospace careers."}
+        },
+        {
+            "competencyText": {"en-us": "Research and identify various aerospace career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss individual interests related to a career."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in aerospace technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupational training programs and academic programs at the secondary and postsecondary levels in aerospace technology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use aerospace technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe subsystems of aerospace vehicles, such as structural, propulsion, suspension, guidance, control, and support that must function together for a system to work effectively."}
+        },
+        {
+            "competencyText": {"en-us": "Employ processes, such as receiving, holding, storing, loading, moving, unloading, delivering, evaluating, marketing, managing, communicating, and using conventions that are necessary for the entire transportation system to operate efficiently."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of the basic principles of aerostatics and aerodynamics."}
+        },
+        {
+            "competencyText": {"en-us": "Define terminology associated with aerostatics and aerodynamics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how buoyancy principles affect an object in a fluid."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how Bernoulli's Principle applies to an object in flight."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe basic forces acting on an object in flight."}
+        },
+        {
+            "competencyText": {"en-us": "Build an aerostatic vehicle."}
+        },
+        {
+            "competencyText": {"en-us": "Build an aerodynamic vehicle."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate knowledge of both liquid and solid propellant rocket propulsion systems."}
+        },
+        {
+            "competencyText": {"en-us": "Define technical terminology associated with propulsion systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify parts of a solid-propellant rocket engine."}
+        },
+        {
+            "competencyText": {"en-us": "Identify parts of a liquid-propellant rocket engine."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the principles of rocket propulsion."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a solid- or liquid- propellant model rocket."}
+        },
+        {
+            "competencyText": {"en-us": "Define and describe the stages and forms of interference in basic satellite systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic functions and advantages of a communications satellite."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic functions and advantages of a weather satellite."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic functions and advantages of a navigation satellite."}
+        },
+        {
+            "competencyText": {"en-us": "Become familiar with the basic information provided by a sectional chart."}
+        },
+        {
+            "competencyText": {"en-us": "Extract and utilize information from an aeronautical chart legend."}
+        },
+        {
+            "competencyText": {"en-us": "Identify locations on an aeronautical chart using latitude and longitude."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between statute and nautical miles."}
+        },
+        {
+            "competencyText": {"en-us": "Determine a course and distance between two points on an aeronautical chart using a navigational plotter."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and define different categories of aviation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe military aviation and be able to identify military aircraft types and missions."}
+        },
+        {
+            "competencyText": {"en-us": "Define general aviation (including business and executive) and be able identify general aviation aircraft types."}
+        },
+        {
+            "competencyText": {"en-us": "Define air carrier and be able identify air carrier aircraft types."}
+        },
+        {
+            "competencyText": {"en-us": "Agricultural and Biomedical"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use medical technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how advances and innovations in medical technologies are used to improve healthcare."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the vaccines developed for use in immunization require specialized technologies to support environments in which a sufficient amount of vaccines are produced."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how advances and innovations in medical technologies are used to improve healthcare."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how sanitation processes used in the disposal of medical products help to protect people from harmful organisms and disease, and shape the ethics of medical safety."}
+        },
+        {
+            "competencyText": {"en-us": "Describe genetic engineering involving modifying the structure of DNA to produce novel genetic make-ups."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use agricultural and related biotechnologies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technological advances in agriculture directly affecting the time and number of people required to produce food for a large population."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how biotechnology applies the principles of biology to create commercial products or processes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technological advances in agriculture directly affecting the time and number of people required to produce food for a large population."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how a wide range of specialized equipment and practices is used to improve the production of food, fiber, fuel, and other useful products and in the care of animals."}
+        },
+        {
+            "competencyText": {"en-us": "Create artificial ecosystems that are human-made complexes that replicate some aspects of natural environments."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the development of refrigeration, freezing, dehydration, preservation, and irradiation provide long-term storage of food and reduce the health risks caused by tainted food."}
+        },
+        {
+            "competencyText": {"en-us": "Communications Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use information and communication technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify information and communication systems that allow information to be transferred from human to human, human to machine, machine to machine, and machine to human."}
+        },
+        {
+            "competencyText": {"en-us": "Create information and communication systems that allow information to be transferred from human to human, human to machine, machine to machine, and machine to human."}
+        },
+        {
+            "competencyText": {"en-us": "Define communication systems made up of a source, encoder, transmitter, receiver, decoder, and destination."}
+        },
+        {
+            "competencyText": {"en-us": "Describe communication systems made up of a source, encoder, transmitter, receiver, decoder, and destination (e.g. phonetic alphabet)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe communication systems made up of a source, encoder, transmitter, receiver, decoder, and destination."}
+        },
+        {
+            "competencyText": {"en-us": "Consider factors that influence the design of a message, such as the intended audience, medium, purpose, and nature of the message."}
+        },
+        {
+            "competencyText": {"en-us": "Use symbols, measurements, and drawings to promote clear communication by providing a common language to express ideas (e.g. airport symbols and signs)."}
+        },
+        {
+            "competencyText": {"en-us": "Use symbols, measurements, and drawings to promote clear communication by providing a common language to express ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an application of basic digital publishing techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize digital publishing to combine input, editing, and output into a finished product."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the components of layouts including type, typography and illustration to digitally manipulate the elements of a published product."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a web page using appropriate digital software."}
+        },
+        {
+            "competencyText": {"en-us": "Create a document on a digital publishing system by inputting existing digitized graphics or by digitizing original art or photographs on a digitizing scanner."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the major types of printing techniques used in print production."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain standard printing processes including but not limited to: relief, gravure, screen process, and lithographic printing."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize common design principles to create camera ready art."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a printed product using a current printing method."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize appropriate finishing techniques on a printed project."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate the role of electronic communication."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to create code, transmit, and receive messages using electronic devices."}
+        },
+        {
+            "competencyText": {"en-us": "List and explain the common communication categories."}
+        },
+        {
+            "competencyText": {"en-us": "Define and explain the use of telecommunications in everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize a telecommunications device to transmit and receive an electronic message."}
+        },
+        {
+            "competencyText": {"en-us": "Produce an audio and/or visual product using electronic communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate the role of optical technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the purposes and property of light as used in communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how light signals are transmitted and received via different optical devices to include but not limited to: fiber optics, satellite communication, bandwidth, laser, and photography."}
+        },
+        {
+            "competencyText": {"en-us": "Generate a product using optical technology."}
+        },
+        {
+            "competencyText": {"en-us": "Construction Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use construction technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors such as style, convenience, cost, climate, and function in the selection of designs for structures."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that structures rest on a foundation."}
+        },
+        {
+            "competencyText": {"en-us": "Classify structures as temporary or permanent."}
+        },
+        {
+            "competencyText": {"en-us": "Research building laws and codes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe subsystems of a building."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the built environment."}
+        },
+        {
+            "competencyText": {"en-us": "Research the development of construction technology, its impact on the built environment, and the impact of growth on the construction industry."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and compare the relationship between the built environment and the natural environment."}
+        },
+        {
+            "competencyText": {"en-us": "Compare architectural designs and/or models to understand how technical and functional components impact aesthetic qualities."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze changes in architectural styles and construction practices over time."}
+        },
+        {
+            "competencyText": {"en-us": "Research innovative historical architectural and/or engineering works and examine the significance of their legacy for the future."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the green environment."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and analyze the development of the built environment and its impacts on the natural environment such as pollution, deforestation, climate change, health and disease."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and give examples of how a green built environment creates growth for the construction industry, and the economy such as health and safety, transportation and natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and compare the relationship between a green built environment and the natural environment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the purposes of the United States Green Building Council (USGBC), the Green Building Certification Institute (GBCI) and the Leadership for Energy and Environmental Design (LEED) and how they create growth for the construction industry and the economy."}
+        },
+        {
+            "competencyText": {"en-us": "Research sustainable building design and its relationship between health, energy efficiency, and money savings for government, businesses, and individuals."}
+        },
+        {
+            "competencyText": {"en-us": "Research the effects of building science on construction and energy efficiency."}
+        },
+        {
+            "competencyText": {"en-us": "Research renewable fuels and energy."}
+        },
+        {
+            "competencyText": {"en-us": "Use building laws and codes, style, convenience, cost, climate, and function to select building designs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the function and types of building foundations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the subsystems contained in buildings."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize energy efficient building materials and processes. "}
+        },
+        {
+            "competencyText": {"en-us": "Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a systematic process to determine and meet the criteria and constraints of the problem."}
+        },
+        {
+            "competencyText": {"en-us": "Make two-dimensional and three-dimensional representations of the designed solution."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a design process to solve problems in or beyond the laboratory and/or classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize energy efficient building materials and processes."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the human impact on the environment and identify ways to minimize environmental impacts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects."}
+        },
+        {
+            "competencyText": {"en-us": "Construct an argument supported by evidence for how increases in human population and per capita consumption of natural resources impact Earth's systems."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze recycling opportunities for building construction and materials."}
+        },
+        {
+            "competencyText": {"en-us": "Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century."}
+        },
+        {
+            "competencyText": {"en-us": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions and accurately measure drawing dimensions."}
+        },
+        {
+            "competencyText": {"en-us": "Construct geometric figures including but not limited to triangles, squares, rectangles, and circles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world and mathematical problems involving area, volume, perimeter, and surface area of two- and three-dimensional objects composed of geometric figures including but not limited to triangles, quadrilaterals, polygons, cubes, and right prisms. Identify the subsystems contained in buildings."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world and mathematical problems involving area, volume, perimeter, and surface area of two- and three-dimensional objects composed of geometric figures including but not limited to triangles, quadrilaterals, polygons, cubes, and right prisms."}
+        },
+        {
+            "competencyText": {"en-us": "Use a ruler and an architectural scale to measure and create drawings and produce scale drawings a building."}
+        },
+        {
+            "competencyText": {"en-us": "Electronics Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the nature of electricity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify parts of an atom."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the interaction of charged particles in the atom creates electron flow."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate whether a material is a conductor, insulator, or semiconductor based upon its number of valance electrons and its position on the periodic table."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between current, voltage and resistance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the properties of a magnet including polarity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the primary parts of a DC motor and demonstrate how it functions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the primary parts of a generator and demonstrate how it functions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the characteristics of a basic motor and generator."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the composition of elements, mixtures, and compounds according to the electron theory."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram and show the relationship between electrons, protons, and neutrons."}
+        },
+        {
+            "competencyText": {"en-us": "State the law of electrical charges."}
+        },
+        {
+            "competencyText": {"en-us": "Define electrical quantities (voltage, current, resistance, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Define units of measure including milli, micro, mega, and kilo."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the basics of electric circuits."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the characteristics of series, parallel, and combination electrical circuits."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch circuit diagrams using standardized schematic symbols."}
+        },
+        {
+            "competencyText": {"en-us": "Construct physical electrical circuits based upon circuit diagrams."}
+        },
+        {
+            "competencyText": {"en-us": "Measure voltage, current, and resistance using a multimeter."}
+        },
+        {
+            "competencyText": {"en-us": "Mathematically calculate voltage, current, and resistance using Ohm\u2019s law."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate DC sources, lamps, switches, diodes, light emitting diodes, resistors, and capacitors into electrical circuits to achieve specific functions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the value of a fixed resistor based upon the color codes on those resistors."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate digital signals and basic digital components."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the relationship between the binary number system and the decimal number system and convert binary numbers to decimal."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the functions of NOT, AND, OR, NAND, NOR, and XOR gates."}
+        },
+        {
+            "competencyText": {"en-us": "Create truth tables for logic scenarios and match those gates to truth tables."}
+        },
+        {
+            "competencyText": {"en-us": "Create a digital wave form and graph it for a binary sequence."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the logic, sensors, gates, outputs, and other components needed to emulate existing electronic devices that utilize logic."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate and apply proper use of electronic equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Use a digital or analog volt-ohm meter (VOM) to obtain accurate measurements."}
+        },
+        {
+            "competencyText": {"en-us": "Apply safety rules in the use of electronic instruments and demonstrate proper care and maintenance for the equipment during storage and use."}
+        },
+        {
+            "competencyText": {"en-us": "Use voltmeters, ammeters, and ohmmeters to obtain accurate measurements."}
+        },
+        {
+            "competencyText": {"en-us": "Set up and use an oscilloscope to observe waveforms and to determine the voltage of the signal presented."}
+        },
+        {
+            "competencyText": {"en-us": "Use signal generators to produce waveforms of selected frequencies and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Use testers to determine the condition of electronic components."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper electronic assembly methods."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit safe soldering techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Identify proper soldering practices."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper soldering applications."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common electrical and electronics hand tools."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate electronic component assembly."}
+        },
+        {
+            "competencyText": {"en-us": "Apply electrical tape to a spliced and soldered wire connection."}
+        },
+        {
+            "competencyText": {"en-us": "Solder and de-solder components and wires."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the two methods of making a printed circuit board."}
+        },
+        {
+            "competencyText": {"en-us": "Engineering Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate skill in technical sketching and drawing as it relates to engineering design."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the concepts of technical sketching and drawing."}
+        },
+        {
+            "competencyText": {"en-us": "Create an orthographic sketch or drawing with appropriate layout and dimensions."}
+        },
+        {
+            "competencyText": {"en-us": "Create an isometric sketch or drawing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate foundational knowledge and skills associated with the design of engineering systems (e.g. mechanical, fluid, electrical systems)."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and calculate dimensions of parts using metric and customary systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify simple machines."}
+        },
+        {
+            "competencyText": {"en-us": "Explain mechanical advantage."}
+        },
+        {
+            "competencyText": {"en-us": "Define scientific quantities that are used in engineering designs (e.g. mass, weight, force, voltage, current, resistance)."}
+        },
+        {
+            "competencyText": {"en-us": "Read and use system schematics (e.g. electrical and hydraulic circuits)."}
+        },
+        {
+            "competencyText": {"en-us": "Assemble, operate, and identify the parts of mechanical and electrical systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding and use of measurement tools and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Take and record both U.S customary and SI systems of measurement."}
+        },
+        {
+            "competencyText": {"en-us": "Convert measurements using both U.S customary and SI systems of measurement."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the engineering process."}
+        },
+        {
+            "competencyText": {"en-us": "Define terminology associated with engineering products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the experimental method as it is applied to design."}
+        },
+        {
+            "competencyText": {"en-us": "Create a model of a design solution to an engineering problem."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch a graphical or visual solution to an engineering problem."}
+        },
+        {
+            "competencyText": {"en-us": "Present a report on an engineering design problem, concept or issue."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate foundational knowledge and skills associated with common computer peripherals and computer functions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the various internal and external components of a computer and their functions (e.g. power supply, hard drive, RAM, mother board, I/O cards and ports, cabling, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe various computer input devices (e.g. USB, firewall, parallel and serial, Ethernet, printers, camera)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop fundamental business productivity software skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate functions in a word processing program (e.g. format text, insert tables, create bulleted lists)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a spreadsheet and the ways in which it may be used."}
+        },
+        {
+            "competencyText": {"en-us": "Describe presentation software, the ways it may be used, and appropriate presentation delivery skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate functions in a presentation software program (e.g. insert images, duplicate slides, format text)."}
+        },
+        {
+            "competencyText": {"en-us": "Successfully work as a member of a team."}
+        },
+        {
+            "competencyText": {"en-us": "Accept responsibility for specific tasks in a given situation."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a positive relationship with other team members."}
+        },
+        {
+            "competencyText": {"en-us": "Document progress, and provide feedback on work accomplished in a timely manner."}
+        },
+        {
+            "competencyText": {"en-us": "Complete assigned tasks in a timely and professional manner."}
+        },
+        {
+            "competencyText": {"en-us": "Engineering and Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in Engineering and Technology Education and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Engineering and Technology Education."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper and safe procedures while working with technological tools, apparatus, equipment, systems, and materials."}
+        },
+        {
+            "competencyText": {"en-us": "Follow classroom and laboratory safety rules and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Follow laboratory safety rules and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate good housekeeping at workstations within a classroom and laboratory."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate good housekeeping at workstations within a total laboratory."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct classroom and laboratory activities and equipment operations in a safe manner."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct laboratory activities and equipment operations in a safe manner."}
+        },
+        {
+            "competencyText": {"en-us": "Exercise care and respect for all tools, equipment, and materials."}
+        },
+        {
+            "competencyText": {"en-us": "Identify tools, machines, materials and equipment and describe their functions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify color-coding safety standards."}
+        },
+        {
+            "competencyText": {"en-us": "Select appropriate tools, machines, and equipment to accomplish a given task."}
+        },
+        {
+            "competencyText": {"en-us": "Safely use hand tools and power equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safe and correct use of tools, machines, and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain fire prevention and safety precautions and practices for extinguishing fires."}
+        },
+        {
+            "competencyText": {"en-us": "Identify harmful effects and potential dangers of familiar hazardous substances and devices to people and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the factors that determine the severity of electrical shock."}
+        },
+        {
+            "competencyText": {"en-us": "Identify lifesaving safety equipment such as ground fault circuit interrupters (GFCI), proper grounding."}
+        },
+        {
+            "competencyText": {"en-us": "Identify protective equipment such as circuit breakers, fuses, surge protection, and uninterruptable power supplies."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the characteristics and applications of different types of batteries (e.g. Lithium, NiCad, Alkaline, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways in which batteries are rated and texted."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the characteristics and scope of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Develop new products and systems to solve problems or to help do things that could not be done without the help of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the development of technology as a human activity that is the result of individual or collective needs and the ability to be creative."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology is closely linked with creativity, which has resulted in innovation."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how corporations can often create demand for a product by bringing it onto the market and advertising it."}
+        },
+        {
+            "competencyText": {"en-us": "Explain or demonstrate how corporations can often create demand for a product by bringing it onto the market and advertising it."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the core concepts of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technological systems including input, processes, output, and, at times, feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Define systems thinking, involving considering how every part relates to others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify control systems having no feedback path and requiring human intervention, and control systems using feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how technological systems can be connected to one another."}
+        },
+        {
+            "competencyText": {"en-us": "Diagnose malfunctions of any part of a system that may affect the function and quality of the system."}
+        },
+        {
+            "competencyText": {"en-us": "Identify requirements or parameters placed on the development of a product or system."}
+        },
+        {
+            "competencyText": {"en-us": "Identify trade-offs as a decision process recognizing the need for careful compromises among competing factors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technological systems including input, processes, output, and, at times, feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Apply systems thinking, involving considering how every part relates to others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technological systems can be connected to one another."}
+        },
+        {
+            "competencyText": {"en-us": "Repair malfunctions of any part of a system that may affect the function and quality of the system."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast requirements or parameters placed on the development of a product or system."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast trade-offs as a decision process recognizing the need for careful compromises among competing factors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe different technologies that involve different sets of processes."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic maintenance as the process of inspecting and servicing a product or system on a regular basis in order for it to continue functioning properly, to extend its life, or to upgrade its capability."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize controls and mechanisms or particular steps that people perform using information about the system that causes systems to change."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the relationships among technologies and the connection between technology and other fields of study."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technological systems interact with one another."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how knowledge gained from other fields of study has a direct effect on the development of technological products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Modify the way technological systems interact with one another."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a product, system, or environment developed for one setting in another setting."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the cultural, social, economic, and political effects of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ethical issues associated with the development and use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the economic, political, and cultural issues that are influenced by the development and use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the ways that use of technology affects humans, including their safety, comfort, choices, and attitudes about technology\u2019s development and use."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that technology, by itself, is neither good nor bad, but decisions about the use of products and systems can result in desirable or undesirable consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ethical issues associated with the development and use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the economic, political, and cultural issues that are influenced by the development and use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the ways that the use of communication technologies affects humans, including their safety, comfort, choices, and attitudes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that communication technology, by itself, is neither good nor bad, but decisions about the use of products and systems can result in desirable or undesirable consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ethical issues associated with the development and use of communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the economic, political, and cultural issues that are influenced by the development and use of communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the effects of technology on the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the management of waste produced by technological systems as an important societal issue."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how technologies can be used to repair damage caused by natural disasters and to break down waste from the use of various products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how technologies can be used to repair damage caused by natural disasters and to break down waste from the use of various products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Make decisions about the development and use of technologies that put environmental and economic concerns in direct competition with one another."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the management of waste produced by communication technological systems as an important societal issue."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how communication technologies can be affected by natural disaster."}
+        },
+        {
+            "competencyText": {"en-us": "Make decisions about the development and use of communication technologies that put environmental and economic concerns in direct competition with one another."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how technologies can be used to repair damage and to break down waste from the use of various products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the role of society in the development and use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify changes in society and the creation of new needs and wants caused by the use of inventions and innovations."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how social and cultural priorities and values are reflected in technological devices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe changes in society and the creation of new needs and wants caused by the use of inventions and innovations."}
+        },
+        {
+            "competencyText": {"en-us": "Understand social and cultural priorities and values that are reflected in technological devices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe social and cultural priorities and values that are reflected in technological devices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the development of technologies that has resulted from the demands, values, and interests of individuals, businesses, industries, and societies."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how meeting societal expectations is the driving force behind the acceptance and use of products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the influence of technology on history."}
+        },
+        {
+            "competencyText": {"en-us": "Identify inventions and innovations that have evolved by using slow and methodical processes of tests and refinements."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the specialization of function has been at the heart of many technological improvements."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how the design and construction of structures for service or convenience evolving from the development of techniques for measurement, controlling systems, and the understanding of spatial relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how, that in the past, an invention or innovation was not usually developed with the knowledge of science."}
+        },
+        {
+            "competencyText": {"en-us": "Describe inventions and innovations that have evolved by using slow and methodical processes of tests and refinements."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that in the past, an invention or innovation was not usually developed with the knowledge of science."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the design and construction of structures for service or convenience evolving from the development of techniques for measurement, controlling systems, and the understanding of spatial relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the attributes of design."}
+        },
+        {
+            "competencyText": {"en-us": "Use design as a creative planning process that leads to useful products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why there is no perfect design."}
+        },
+        {
+            "competencyText": {"en-us": "Identify criteria and constraints that are requirements for a design."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to properly identify different resources used in projects."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate criteria and constraints that are requirements for a design."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of engineering design."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the design process involving a set of steps, which can be performed in different sequences and repeated as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Define brainstorming as a group problem-solving design process in which each person in the group presents his or her ideas in an open forum."}
+        },
+        {
+            "competencyText": {"en-us": "Model, test, evaluate and modify designs to transform ideas into practical solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the design process involving a set of steps, which can be performed in different sequences and repeated as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Employ brainstorming as a group problem-solving design process in which each person in the group presents his or her ideas in an open forum."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the role of troubleshooting, research and development, invention and innovation, and experimentation in problem solving."}
+        },
+        {
+            "competencyText": {"en-us": "Use troubleshooting as a problem-solving method used to identify the cause of a malfunction in a technological system."}
+        },
+        {
+            "competencyText": {"en-us": "Define invention as a process of turning ideas and imagination into devices and systems and innovation as the process of modifying an existing product or system to improve it."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technological problems that are best solved through experimentation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe invention as a process of turning ideas and imagination into devices and systems and innovation as the process of modifying an existing product or system to improve it."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the abilities to apply the design process."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a design process to solve problems in and beyond the laboratory-classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Specify criteria and constraints for the design."}
+        },
+        {
+            "competencyText": {"en-us": "Test and evaluate the design in relation to pre-established requirements, such as criteria and constraints, and refine as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Make a product or system and document the solution."}
+        },
+        {
+            "competencyText": {"en-us": "Make two-dimensional and three-dimensional representations of the designed solution."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the abilities to use and maintain technological products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Use information provided in manuals, protocols, or by experienced people to see and understand how things work."}
+        },
+        {
+            "competencyText": {"en-us": "Use tools, materials, and machines safely to diagnose, adjust, and repair systems."}
+        },
+        {
+            "competencyText": {"en-us": "Use computers and calculators in various applications."}
+        },
+        {
+            "competencyText": {"en-us": "Operate and maintain systems in order to achieve a given purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the abilities to assess the impact of products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Use data collected to analyze and interpret trends in order to identify the positive or negative effects of a technology."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and evaluate the accuracy of the information obtained and determine if it is useful."}
+        },
+        {
+            "competencyText": {"en-us": "Design and use instruments to gather data."}
+        },
+        {
+            "competencyText": {"en-us": "Identify trends and monitor potential consequences of technological development."}
+        },
+        {
+            "competencyText": {"en-us": "Logistics and Supply Chain Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of global logistics and supply chain."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the history, career fields, and benefits of the global supply chain industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe principal elements of the logistics environment and logistics systems."}
+        },
+        {
+            "competencyText": {"en-us": "Explore career pathways within global logistics and supply chain."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways in which handling of product throughout supply chain logistics affects company\u2019s viability and profitability."}
+        },
+        {
+            "competencyText": {"en-us": "Define basic principles of just-in-time purchasing and inventory control."}
+        },
+        {
+            "competencyText": {"en-us": "Identify major security requirements applicable to the logistics environment."}
+        },
+        {
+            "competencyText": {"en-us": "Cite examples of environmental and financial impacts of logistics activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of transportation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various transportation modes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and contrast the different modes of transportation and their advantages and disadvantages."}
+        },
+        {
+            "competencyText": {"en-us": "List the main considerations in determining the best mode."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and assess global freight transportation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate professional communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify effective communications to both internal and external customers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to elicit clear statements of customer requirements and specifications."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of teamwork and good professional workplace behavior to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "List characteristics of an effective team member."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways to set team goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify use of a team environment to solve problems and resolve conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Describe typical requirements for good workplace conduct."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate customer service skills."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit acceptable workplace dress or attire."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit punctuality, initiative, courtesy, loyalty, and honesty."}
+        },
+        {
+            "competencyText": {"en-us": "Use a personality inventory for personal improvement."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit the ability to get along with others."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of human relations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and demonstrate the unique human relations skills needed for successful entry and progress in the customer service occupations or marketing occupations selected as a career objective."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between an acceptable and an unacceptable code of business ethical conduct."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of warehouse operations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and discuss the characteristics, purpose, and importance of warehouse operations and supply chain management."}
+        },
+        {
+            "competencyText": {"en-us": "Define material handling logistics as it applies to the warehousing function."}
+        },
+        {
+            "competencyText": {"en-us": "Define logical in terms of the term logistics."}
+        },
+        {
+            "competencyText": {"en-us": "Define movement in a warehouse and identify the various locations within the warehouse where planned efficient movement of materials takes place."}
+        },
+        {
+            "competencyText": {"en-us": "Explain channels of distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss safety regulatory requirements and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various types of equipment available to enhance the efficient movement of materials within a warehouse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the various types of loading docks and cross docking."}
+        },
+        {
+            "competencyText": {"en-us": "Define the term peaks and valleys as it applies to warehouse activity."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of staging and just-in-time."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the primary types of hand-operated pieces of warehouse equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the concept of balancing as it applies to counterbalanced lift trucks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify warehouse documents (e.g. pick tickets, special orders, inventory forms)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of storage and control operations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the concepts involved in determining the best method for storage and the equipment needed to facilitate a cost effective and efficient warehouse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the factors that are involved with the calculating and estimating of the storage area needed for retention of materials in a warehouse."}
+        },
+        {
+            "competencyText": {"en-us": "Define the following storage related terms: size, volume, density, pallet, and case."}
+        },
+        {
+            "competencyText": {"en-us": "Define the terms packaging, SKU, stacking frame, term Logistics Execution Systems (LES), signage and signposting, real time and barcoding."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the volume of materials, space usage, and control affect the design of storage space in a warehouse design."}
+        },
+        {
+            "competencyText": {"en-us": "Explain inventories and their importance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and analyze various warehouse storage systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic configuration for a pallet rack."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the various types of technologies developed over the years to keep track of goods within the warehouse."}
+        },
+        {
+            "competencyText": {"en-us": "Define the components of a Logistics Execution System (LES)."}
+        },
+        {
+            "competencyText": {"en-us": "Define radio frequency identification (RFID)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of automation in warehousing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the value of emerging technologies related to warehouse operations."}
+        },
+        {
+            "competencyText": {"en-us": "Manufacturing Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use manufacturing technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Define manufacturing systems using mechanical processes that change the form of materials through processes of separating, forming, combining, and conditioning them."}
+        },
+        {
+            "competencyText": {"en-us": "Classify manufactured goods as durable and non-durable."}
+        },
+        {
+            "competencyText": {"en-us": "Define manufacturing technologies that are used to modify or alter manufactured products."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that materials must first be located before they can be extracted from the earth through processes such as harvesting, drilling, and mining."}
+        },
+        {
+            "competencyText": {"en-us": "Describe manufacturing systems using mechanical processes that change the form of materials through processes of separating, forming, combining, and conditioning them."}
+        },
+        {
+            "competencyText": {"en-us": "Describe manufacturing technologies that are used to modify or alter manufactured products."}
+        },
+        {
+            "competencyText": {"en-us": "Employ the manufacturing process including the designing, development, making, and servicing of products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify evolving technologies of production systems."}
+        },
+        {
+            "competencyText": {"en-us": "List evolving technologies of manufacturing and construction industries."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the evolution of technologies related to manufacturing systems and construction processes."}
+        },
+        {
+            "competencyText": {"en-us": "Brainstorm futuristic production systems."}
+        },
+        {
+            "competencyText": {"en-us": "Perform special skills unique to manufacturing technology."}
+        },
+        {
+            "competencyText": {"en-us": "Design a product for custom or mass production manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Plan a mass production system for manufacturing a product."}
+        },
+        {
+            "competencyText": {"en-us": "Perform materials forming practices such as casting or molding, and compressing or stretching."}
+        },
+        {
+            "competencyText": {"en-us": "Perform materials separating practices such as shearing, chip removing, and other separating processes."}
+        },
+        {
+            "competencyText": {"en-us": "Perform materials conditioning practices such as heat treating, physical conditioning, or through chemical reactions."}
+        },
+        {
+            "competencyText": {"en-us": "Combine components through mixing, coating, bonding, and mechanical fastening."}
+        },
+        {
+            "competencyText": {"en-us": "Assemble a product or a subassembly of a product."}
+        },
+        {
+            "competencyText": {"en-us": "Express knowledge of factors that impact manufacturing technology and practices."}
+        },
+        {
+            "competencyText": {"en-us": "Explain economic factors that impact on manufacturing technology."}
+        },
+        {
+            "competencyText": {"en-us": "Research and identify consumer demands for a manufactured product."}
+        },
+        {
+            "competencyText": {"en-us": "Identify sources of raw materials and/or standard stock materials needed for a manufactured product."}
+        },
+        {
+            "competencyText": {"en-us": "Interview, hire, train, or promote an applicant or employee for a simulated mass production manufacturing activity."}
+        },
+        {
+            "competencyText": {"en-us": "Define the terms \"organized labor\" and \"collective bargaining.\""}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a plan for marketing and distributing a manufactured product."}
+        },
+        {
+            "competencyText": {"en-us": "Maritime Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge relating to the historical origins of the maritime industry from vessel development, cultural, and trade perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "Identify different types of ships and their origins."}
+        },
+        {
+            "competencyText": {"en-us": "Create a timeline showing significant milestones in maritime history."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the significance of the Phoenicians, Vikings, and Asians on maritime cultures and traditions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify changes in sea going trade over the centuries."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the effect of trade on colonialism and the developing world."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in understanding the various career paths in the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify important factors to choosing a career."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of planning for a career."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of education on long term career success."}
+        },
+        {
+            "competencyText": {"en-us": "Research and investigate career paths in the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the skills and personal qualities needed for maritime careers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the everyday life of people working in maritime careers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the future growth trends of maritime careers."}
+        },
+        {
+            "competencyText": {"en-us": "Create a personal maritime career path based on interest."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of required skills sets by mariners including, safety training, regulations, and leadership."}
+        },
+        {
+            "competencyText": {"en-us": "Create a timeline explaining the evolution of the U.S. Coast Guard."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the main functions of the U.S. Coast Guard."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the U.S. Coast Guard and its place in the U.S. military."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the organization and leadership hierarchy on a vessel."}
+        },
+        {
+            "competencyText": {"en-us": "Explain Master\u2019s Level of Authority."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of leadership and chain-of-command on a vessel."}
+        },
+        {
+            "competencyText": {"en-us": "Use seamanship skills to tie knots, identify equipment, and practice safe work methods."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the process of watch keeping, navigation, boat handling, anchoring, and mooring."}
+        },
+        {
+            "competencyText": {"en-us": "Use seamanship terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using engineering methods for ship construction and design."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe various types of marine engines."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the phenomenon of wind generation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how wind has been used to propel ships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the process and instrumentation for measuring and calculating wind power."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the principles of buoyancy."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between weight, volume, and density."}
+        },
+        {
+            "competencyText": {"en-us": "Explain Archimedes Principal."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how a ship made of steel is able to float."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a model vessel from material with a density greater than 1 and ensure it floats."}
+        },
+        {
+            "competencyText": {"en-us": "Use the engineering process to create solutions for a maritime related problem."}
+        },
+        {
+            "competencyText": {"en-us": "Work in teams to using the engineering process to create solutions for a maritime problem."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain various vessels and their use."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various types of ships."}
+        },
+        {
+            "competencyText": {"en-us": "Explain specific reasons for different types of ships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe different types of cargo vessels and cargo types."}
+        },
+        {
+            "competencyText": {"en-us": "Describe different types of passenger vessels and their purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the environmental impact of the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of maritime in protection of the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the environmental regulations on the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the potential and use of marine resources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various energy sources related to the marine environment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how solar energy can be used to provide power for ships."}
+        },
+        {
+            "competencyText": {"en-us": "Provide three examples of solar power use in the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how power could be generated from currents."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how energy can be created from tidal movements and what technology is used to perform this function."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of oceanography concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain oceanography\u2019s role as a marine science discipline and its areas of investigation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how ocean currents form and their role in distribution of heat."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the various types of tides and why they are monitored throughout the maritime industry."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the difference between tides, currents, and waves."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the El Nino and La Nina events and their impact on weather."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various ways wave energy is created and how it moves through the ocean."}
+        },
+        {
+            "competencyText": {"en-us": "Apply mathematics to waves to solve for wave height and wave length."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the Coriolis Effect."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the theory of global warming and how humans have contributed to associated maritime events."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the fundamentals of marine biology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how freshwater collects on the earth\u2019s surface and its relation to the oceans."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the ecological importance of mangroves in water filtration and runoff."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of mangroves in high energy events and environmental concerns for their removal."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the importance of estuaries."}
+        },
+        {
+            "competencyText": {"en-us": "Power and Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use energy and power technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Define energy as the capacity to do work."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how energy can be used to do work, using many processes."}
+        },
+        {
+            "competencyText": {"en-us": "Define power systems used to drive and provide propulsion to other technological products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Define power as the rate at which energy is converted from one form to another or transferred from one place to another, or the rate at which work is done."}
+        },
+        {
+            "competencyText": {"en-us": "Describe power systems used to drive and provide propulsion to other technological products and systems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how much of the energy used in our environment is not used efficiently."}
+        },
+        {
+            "competencyText": {"en-us": "Perform special skills unique to power and energy technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on a human-powered device."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on a pneumatic or hydraulic device."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on an internal combustion engine."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on an electrical motor, generator, or alternator."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a water-powered, wind-powered, steam-powered, thermal-powered, or solar-powered device."}
+        },
+        {
+            "competencyText": {"en-us": "Express knowledge of the industries that deal with power and energy technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the technologies that supply or control energy sources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technologies that produce power systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe power and energy applications in everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "List energy systems produced or used by industries."}
+        },
+        {
+            "competencyText": {"en-us": "Robotics Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of robotics, its history, applications, and evolution."}
+        },
+        {
+            "competencyText": {"en-us": "Explore robotics history through research of the industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe various applications of automation and robotics."}
+        },
+        {
+            "competencyText": {"en-us": "Describe emerging technologies and their implications on the field of robotics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of basic programming concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the engineering design process to the creation of a program."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the use of algorithms."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the use of flowcharting in documenting an algorithm."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the use of pseudocode in documenting an algorithm."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the function of conditional execution (e.g. if, if/else) and their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Explain iterative programming structures (e.g. while, do/while) and their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the use of testing and debugging in the problem solving process."}
+        },
+        {
+            "competencyText": {"en-us": "Create functional program that satisfies prescribed criteria."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic subsystems on a robotic system."}
+        },
+        {
+            "competencyText": {"en-us": "Define drivetrain, manipulator, and chassis."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the difference between Ackermann and skid steering."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the difference between Motors and servos."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate simple gear ratios and their relationship with torque versus speed."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the advantages and disadvantages of wheels versus tank treads."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the characteristics of a sound chassis design."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of sensors in the field of robotics."}
+        },
+        {
+            "competencyText": {"en-us": "Define sensor."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic operation common to all sensors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of sensors and ways in which they can be categorized."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the types of manipulators used in a robotic system."}
+        },
+        {
+            "competencyText": {"en-us": "Build, program, and configure a robot to perform predefined tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Design a robot."}
+        },
+        {
+            "competencyText": {"en-us": "Create programs as required using robotic software that will allow the robot to perform a set of tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Create a flow chart that visually describes a basic robotic task."}
+        },
+        {
+            "competencyText": {"en-us": "Configure subsystems to operate the robot."}
+        },
+        {
+            "competencyText": {"en-us": "Create a portfolio including drawings and specifications, describing the robot, the tasks and rationale, and the results."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems using critical thinking skills, creativity and innovation."}
+        },
+        {
+            "competencyText": {"en-us": "Employ critical thinking skills independently and in teams to solve problems and make decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Employ critical thinking and interpersonal skills to resolve conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and document workplace performance goals and monitor progress toward those goals."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct technical research to gather information necessary for decision-making."}
+        },
+        {
+            "competencyText": {"en-us": "Technical Design Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate technical skills and applications common to all types of drafting."}
+        },
+        {
+            "competencyText": {"en-us": "Apply lettering techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Make freehand sketches."}
+        },
+        {
+            "competencyText": {"en-us": "Use drafting symbols and alphabet of lines in accordance with technical standards and practices."}
+        },
+        {
+            "competencyText": {"en-us": "Apply measuring techniques using decimals and fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply industry standard dimensioning techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Apply geometric construction techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret information from drawings, prints, and sketches."}
+        },
+        {
+            "competencyText": {"en-us": "Apply coordinate systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate technical knowledge and skills for making basic orthographic drawings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe orthographic projection."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the six principal views of an object."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a three-view orthographic drawing using traditional drafting methods."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate technical knowledge and skills for making pictorial drawings."}
+        },
+        {
+            "competencyText": {"en-us": "Explain methods of pictorial drawing."}
+        },
+        {
+            "competencyText": {"en-us": "Produce an isometric drawing using traditional drafting methods."}
+        },
+        {
+            "competencyText": {"en-us": "Produce an oblique drawing using traditional drafting methods."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a perspective drawing using traditional drafting methods."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate technical knowledge and skills for making a three-dimensional study model."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a conceptual sketch."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a three-dimensioned model."}
+        },
+        {
+            "competencyText": {"en-us": "Transportation Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of and be able to select and use transportation technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how transporting people and goods involve a combination of individuals and vehicles."}
+        },
+        {
+            "competencyText": {"en-us": "Identify subsystems of transportation vehicles, such as structural, propulsion, suspension, guidance, control, and support that must function together for a system to work effectively."}
+        },
+        {
+            "competencyText": {"en-us": "Describe subsystems of transportation vehicles, such as structural, propulsion, suspension, guidance, control, and support that must function together for a system to work effectively."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize processes, such as receiving, holding, storing, loading, moving, unloading, delivering, evaluating, marketing, managing, communicating, and using conventions are necessary for the entire transportation system to operate efficiently."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how governmental regulations often influence the design and operation of transportation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify governmental regulations that influence the design and operation of transportation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Employ processes, such as receiving, holding, storing, loading, moving, unloading, delivering, evaluating, marketing, managing, communicating, and using conventions that are necessary for the entire transportation system to operate efficiently."}
+        },
+        {
+            "competencyText": {"en-us": "Perform special skills unique to transportation technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on a muscle-powered bicycle."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on a pneumatic or hydraulic device."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on an internal combustion engine."}
+        },
+        {
+            "competencyText": {"en-us": "Disassemble and reassemble or perform maintenance on an electrical motor, generator, or alternator."}
+        },
+        {
+            "competencyText": {"en-us": "Construct, maintain, or repair a land, water, or air and space vehicle."}
+        },
+        {
+            "competencyText": {"en-us": "Express knowledge of the industries that deal with transportation technology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe power and energy applications in transportation technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify transportation products that have been developed by industries."}
+        },
+        {
+            "competencyText": {"en-us": "List and describe transportation systems produced or used by industries."}
+        }
+    ]
+}

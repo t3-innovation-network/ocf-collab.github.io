@@ -1,0 +1,958 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/30a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Gifted"},
+        "description": {"en-us": "Gifted Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade K-12"}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 1: By graduation, the student identified as gifted will be able to critically examine the complexity of knowledge: the location, definition, and organization of a variety of fields of knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "The student will locate, define, and organize a field of study as it relates to the broad spectrum of knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Nature of Knowledge - Accomplish:<\/b> Construct own meaning within a chosen field and offer new contributions to this respective field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<strong>Nature of Knowledge - Know:<\/strong> Locate and list the general divisions of knowledge, i.e., art, science, humanities, etc., and recognize integrated fields and disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Nature of Knowledge - Understand:<\/b> Identify and define a field of interest and analyze how the field is organized by explaining what criteria define the discipline and how those criteria are organized and divided."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Nature of Knowledge - Perform:<\/b> Differentiate fact, concept, theory, and principle and employ each in developing meaning and knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Basic Research - Accomplish:<\/b> Use a variety of professional journals, professional databases, and college textbooks to make connections between and/or among fields of discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Basic Research - Know:<\/b> Identify and locate basic reference sources that support general research in several disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Basic Research - Understand:<\/b> Analyze the relevance and usefulness of primary and secondary references while identifying how fields are organized and subdivided."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Basic Research - Perform:<\/b> Use multiple primary and secondary sources to analyze, synthesize, and evaluate relevant persons, places, events, or beliefs that are dominant in a field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Manipulation of Data - Accomplish:<\/b> Develop themes and connections across historical events, periods, and fields."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Manipulation of Data - Know:<\/b> Manipulate data in order to determine contributions of the discipline to the community and world."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Manipulation of Data - Understand:<\/b> Seek and identify connections between fields to make sense of patterns and trends."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Manipulation of Data - Perform:<\/b> Construct research questions that help interpret the effects of major trends and issues over time."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Organization of Data - Accomplish:<\/b> Challenge (and defend or justify the challenge) accepted bodies of knowledge and organizational methodologies."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Organization of Data - Know:<\/b> Create or select an existing system for organizing data in a sequence."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Organization of Data - Understand:<\/b> Construct an organizational system (i.e., knowledge tree, graphic organizer, or diagram) that represents and illustrates the organization in a field of study and the subdivisions within that field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Organization of Data - Perform:<\/b> Identify and illustrate themes, patterns, and structures that define an area of study."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify and illustrate basic principles and the foundational concepts that are central to understanding the essence of a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Accomplish:<\/b> Analyze data and research methods used and developed by scholars within a field; internalize conceptual themes of that (those) discipline(s)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Know:<\/b> Identify established rules or laws (principles) of nature which impact daily life and draw conclusions regarding their role in the world of work."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Understand:<\/b> Differentiate similarities and differences between functional concepts and principles within a field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Perform:<\/b> Assimilate the often conflicting nature of knowledge generated within integrated disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Accomplish:<\/b> Critique accepted conventions and rules and identify ambiguity."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Know:<\/b> Formulate questions to determine the relevance of the skills and knowledge required of a discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Understand:<\/b> Demonstrate understanding of conceptual themes and their organizational opportunities within a body of knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Frameworks - Perform:<\/b> Create graphic organizers that organize the logical sequences of key conceptual themes in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Components and Methodologies - Accomplish:<\/b> Experiment with a variety of methods to analyze data to develop greater understanding."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Components and Methodologies - Know:<\/b> Identify and use terminology authentic to a chosen discipline of knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Components and Methodologies - Understand:<\/b> Create a list of the methodological skills and processes (general and specific) used by practicing professionals in a field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Components and Methodologies - Perform:<\/b> Demonstrate an understanding of and delineate the diversity of language, tools, and methodologies between and among disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Connections - Accomplish:<\/b> Apply and transfer understanding to other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Connections - Know:<\/b> Identify essential principles that govern and drive a series of key concepts in a chosen field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Connections - Understand:<\/b> Demonstrate foundational knowledge of various fields and disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conceptual Connections - Perform:<\/b> Analyze and synthesize concepts and principles within a discipline in order to isolate essential concepts and identify macroconcepts."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify and apply investigative methodologies that are followed in a selected field of knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Skill Development - Accomplish:<\/b> Seek an understanding of the ethical issues and standards that frame a discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Skill Development - Know:<\/b> Locate relevant information about varied professionals and identify personal strengths that may contribute to the field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Skill Development - Understand:<\/b> Compare and contrast job descriptions, methods of working, and challenges faced by various practicing professionals to determine relevance to personal needs and goals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Skill Development - Perform:<\/b> Use and refine the skills and methods of a professional in a discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Management of Data for Research - Accomplish:<\/b> Apply the scientific method naturally, i.e., identify\r\nroutine problem areas, focus the problem, state hypotheses, locate resources, classify and organize data, draw conclusions, and report findings."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Management of Data for Research - Know:<\/b> Identify a list of methods manuals, &ldquo;How To&rdquo; books, and other resources to research methodologies used by practitioners."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Management of Data for Research - Understand:<\/b> Compare and contrast general and specific methods of research used by practitioners to seek answers to viable professional questions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Management of Data for Research - Perform:<\/b> Use appropriate data gathering instruments needed for a research study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Investigative Methodologies - Accomplish:<\/b> Challenge existing theories, principles, and rules through research and experimentation."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Investigative Methodologies - Know:<\/b> Identify content area specialists to establish a sense of cause and effect within a field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Investigative Methodologies - Understand:<\/b> Understand, identify, and analyze relationships among variables, constants, and controls in research."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Investigative Methodologies - Perform:<\/b> Apply the indicators that reflect quality in a field and understand how the field measures success."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Support Structures - Accomplish:<\/b> Collaborate with professionals, experts, and others in the field to advance research, development, and understanding in the field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Support Structures - Know:<\/b> Recognize and identify the need for support structures found within a designated field of study and establish the nature of specific supports."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Support Structures - Understand:<\/b> Recognize the values and perspectives of those who hold opposing views within the discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Support Structures - Perform:<\/b> Interview content area specialists to verify the application of methodologies incorporated in a study."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 2: By graduation, the student identified as gifted will be able to create, adapt, and assess multifaceted questions in a variety of fields/disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify significant questions within and across disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Nature of Questions - Accomplish:<\/b> Seek and use questions that connect divergent disciplines in order to expand understanding."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Nature of Questions - Know:<\/b> Identify questions as seeking basic information and facts in singular disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Nature of Questions - Understand:<\/b> See potential for questions to explore broader aspects of knowledge, moving toward speculative and evaluative aspects."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Nature of Questions - Perform:<\/b> Recognize that questions connect disciplines and build better frameworks for thinking."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Importance of Questions - Accomplish:<\/b> Use questions that frame inquiry within divergent disciplines in order to understand the links between and/or among the disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Importance of Questions - Know:<\/b> Identify and situate questions within a singular discipline&rsquo;s method of inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Importance of Questions - Understand:<\/b> Analyze and synthesize questions that connect methods of inquiry in different disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Importance of Questions - Perform:<\/b> Order/categorize questions that link divergent disciplines and frame different inquiry methods."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Power of Questions - Accomplish:<\/b> Manifest an understanding of the integrative nature and function of questions that drive inquiry in multiple disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Power of Questions - Know:<\/b> Explain the function of questions within singular disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Power of Questions - Understand:<\/b> Understand the function of questions to connect multiple disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>The Power of Questions - Perform:<\/b> Demonstrate an initial use of questions to drive critical thought within a discipline."}
+        },
+        {
+            "competencyText": {"en-us": "The student will generate significant questions within and across disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Question Creation - Accomplish:<\/b> Use questions that link divergent disciplines to develop personal understandings of experiences."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Question Creation - Know:<\/b> Create questions that drive factual exploration within singular disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Question Creation - Understand:<\/b> Unite questions that drive broader exploration within disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Question Creation - Perform:<\/b> Manipulate ideas to create and organize questions that drive inquiry and connect divergent disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions and Inquiry - Accomplish:<\/b> Use questions to situate personal interest and background within the inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions and Inquiry - Know:<\/b> Explain the kind of information questions seek."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions and Inquiry - Understand:<\/b> Explain how the questions limit and/or expand the nature of the exploration."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions and Inquiry - Perform:<\/b> Use questions to refocus the nature of the inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "The student will evaluate and refine significant questions within and across disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Scrutinized - Accomplish:<\/b> Explore the nature of questioning, always aware that better questions deliver the potential for more complete information."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Scrutinized - Know:<\/b> Recognize the quality of questions (both identified and created) that frame singular disciplinary inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Scrutinized - Understand:<\/b> Explain the quality of questions (both identified and created) that work to expand inquiry into integrated disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Scrutinized - Perform:<\/b> Evaluate questions (both identified and created) as a regular component of personal research and exploration."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Revised - Accomplish:<\/b> Refine questions as a general practice or characteristic of intellectual pursuit."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Revised - Know:<\/b> Refine questions as directed so they explore a clearer line of inquiry within a single discipline."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Revised - Understand:<\/b> Synthesize questions as directed so they explore a clearer line of inquiry and integrate disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Questions Revised - Perform:<\/b> Develop questions spontaneously and independently while conducting personal research and exploration."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 3: By graduation, the student identified as gifted will be able to conduct thoughtful research/exploration in multiple fields."}
+        },
+        {
+            "competencyText": {"en-us": "The student will use a variety of research tools and methodologies."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Research - Accomplish:<\/b> Integrate a variety of appropriate components uncovered from cooperative research within a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Research - Know:<\/b> Participate in a cooperative group to solve problems and/or complete a research project."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Research - Understand:<\/b> Demonstrate ethical leadership and/or teamwork within a research workgroup."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Research - Perform:<\/b> Work cooperatively with peers from a variety of perspectives and abilities while obtaining valid research and/or products from research."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Scientific Method - Accomplish:<\/b> Use scientific method to produce products or solutions to problems in a research setting and in a non-research setting."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Scientific Method -  Know:<\/b> Demonstrate the ability to gather and document data relevant to scientific investigations using the scientific method."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Scientific Method - Understand:<\/b> Analyze the impact or effect of chosen alternatives (variables) within the scientific method."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Scientific Method - Perform:<\/b> Construct scientific research using proper protocol for scientific study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Research Tools - Accomplish:<\/b> Create unique tools that incorporate a variety of methods of communication/ organization for the clarification of others about a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Research Tools - Know:<\/b> Recognize organizational tools used for research in a variety of fields."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Research Tools - Understand:<\/b> Use organizational strategies to generate ideas for research and/or creative products."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Research Tools - Perform:<\/b> Communicate results of research using the established organizational tools within a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "The student will use and manipulate information sources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Accomplish:<\/b> Assemble ideas, objects, and/or events from a variety of sources (primary and secondary) to conduct research in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Know:<\/b> Use a systematic approach to locate information from a variety of reference materials, including the use of parts of a book,(e.g., table of contents, index, appendices, glossary, index, title page)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Understand:<\/b> Use appropriate accurate information for research and experimentation to create an original work."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Perform:<\/b> Use multiple secondary and primary sources to analyze, synthesize, and evaluate relevant details and facts to examine relationships, infer meanings, define relationships, and predict outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Accomplish:<\/b> Analyze and synthesize information and concepts contained in multiple sources and communicates results in a unique way, i.e., designing a better model or creating a simulation."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Know:<\/b> Identify and locate information available in a multitude of places, including newspapers, magazines, catalogues, Internet directories, time schedules, and media, all of which include local, state, national, and/or international sources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Understand:<\/b> Analyze the relevance and usefulness of information for the completion of a specific task."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Information in Multiple Contexts - Perform:<\/b> Generate, classify, and evaluate ideas, objects, and/or events in a unique way to construct original projects that illustrate solutions to real-world problems and concerns."}
+        },
+        {
+            "competencyText": {"en-us": "The student will detect bias in the process of research."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Accomplish:<\/b> Implement deductive and/or inductive reasoning within discussion and/or product development in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Know:<\/b> Define deductive and inductive reasoning and distinguish the different thought processes each uses."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Understand:<\/b> Explain whether an argument depends on ambiguity, a shift in the line of reasoning, or whether the alleged authority is reliable."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Perform:<\/b> Evaluate judgments made within the context of an argument."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Accomplish:<\/b> Bring consistent use of different reasoning types to active study and research in a field."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Know:<\/b> Demonstrate the ability to retrieve information from a reliable data base."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Understand:<\/b> Describe the nature of an argument, the degree of ambiguity, and the source (deductive/inductive) of the argument&rsquo;s authority."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Deductive and Inductive Reasoning - Perform:<\/b> Critique and defend statements of deductive and inductive reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Fact versus Opinion - Accomplish:<\/b> Create, defend, and adapt opinions developed after the analysis of data within a variety of fields."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Fact versus Opinion - Know:<\/b> Identify fact and opinion and recognizes the important implications for each."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Fact versus Opinion - Understand:<\/b> Juxtapose opinions and facts from multiple sources to support or validate conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Fact versus Opinion - Perform:<\/b> Analyze opinions and facts of experts within a research field."}
+        },
+        {
+            "competencyText": {"en-us": "The student will apply ethical standards to research and analyses."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Accomplish:<\/b> Analyze the use of ethical protocol as it pertains to real- world problems and concerns."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Know:<\/b> Identify ethical concerns related to the use of knowledge (copyright, security, integrity, piracy, privacy, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Understand:<\/b> Explain ethical standards in regard to intellectual effects on research outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Perform:<\/b> Clarify and develop a personal ethic regarding critical research."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 4: By graduation, the student identified as gifted will be able to think creatively and critically to identify and solve real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify and investigate a problem and generate supportive arguments from multiple perspectives of a complex issue."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Investigation - Accomplish:<\/b> Propose new avenues for research of existing and future related problems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Investigation - Know:<\/b> Recognize multiple problems within a complex issue; poses research questions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Investigation - Understand:<\/b> Categorize and prioritize identified problems within a complex issue; generate hypotheses."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Investigation - Perform:<\/b> Use established criteria to focus the problem statement and generate solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Multiple Perspectives - Accomplish:<\/b> Restructure the problem statement to reflect new perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Multiple Perspectives - Know:<\/b> Acknowledge diverse viewpoints of a problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Multiple Perspectives - Understand:<\/b> Compare and contrast multiple perspectives of a problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Multiple Perspectives - Perform:<\/b> Integrate multiple points of view into a problem statement."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Supportive Constructs - Accomplish:<\/b> Defend, challenge, and articulate points of view using available resources; develop effective rebuttals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Supportive Constructs - Know:<\/b> Generate an effective argument on each side of a problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Supportive Constructs - Understand:<\/b> Develop multiple supporting statements from different perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Supportive Constructs - Perform:<\/b> Communicate supportive evidence convincingly in multiple formats."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Solution Finding - Accomplish:<\/b> Extend solutions to aid in solving future problems; seek alternative innovative outcomes or solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Solution Finding - Know:<\/b> Propose multiple solutions to a problem within varied categories (i.e., social, technological, educational, environmental, political)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Solution Finding - Understand:<\/b> Establish and apply criteria for evaluation of solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Solution Finding - Perform:<\/b> Create original solutions and products based on evaluated criteria; analyze possible consequences and impacts; test conclusions to improve ideas."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Thinking - Accomplish:<\/b> Evaluate and modify ideas and products to improve usefulness."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Thinking - Know:<\/b> Generate numerous and varied ideas to solve a real- world problem (fluency and flexibility)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Thinking - Understand:<\/b> Synthesize unique alternatives to solve a problem (originality)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Thinking - Perform:<\/b> Elaborate ideas through collaborative processes with colleagues."}
+        },
+        {
+            "competencyText": {"en-us": "The student will analyze the relevance, reliability, and usefulness of data to draw conclusions and forecast effective solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Data Analysis - Accomplish:<\/b> Perform data analysis using tools of practicing professionals for a specific intent."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Data Analysis - Know:<\/b> Locate information and data sources relative to a complex, real-world problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Data Analysis - Understand:<\/b> Make decisions about the usefulness of data to filter out extraneous information."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Data Analysis - Perform:<\/b> Use a variety of tools and techniques to organize data to draw conclusive statements."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Forecasting Solutions - Accomplish:<\/b> Anticipate and plan for possible, probable, and preferable future outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Forecasting Solutions - Know:<\/b> Identify patterns within related facts and information."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Forecasting Solutions - Understand:<\/b> Organize facts and information using various methods to predict potential outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Forecasting Solutions - Perform:<\/b> Use forecasting tools to evaluate possible solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Thinking - Accomplish:<\/b> Analyze, interpret, and synthesize details and facts to examine relationships, infer meanings, and predict outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Thinking - Know:<\/b> Distinguish between fact and opinion in a variety of sources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Thinking - Understand:<\/b> Recognize bias and value statements in a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Thinking - Perform:<\/b> Use inductive and deductive thinking processes to draw conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Accomplish:<\/b> Promote humane and respectful solutions to complex problems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Know:<\/b> Recognize the role of values in the development of attitudes about a complex problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Understand:<\/b> Use knowledge of recognized ethical standards of various stakeholders to formulate problem statements and solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Ethics - Perfom:<\/b> Use the value system most common to a field of study to evaluate solutions and products."}
+        },
+        {
+            "competencyText": {"en-us": "The student will use and evaluate various problem-solving methods to determine effectiveness in solving real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Accomplish:<\/b> Use multiple sources to affect change in generally accepted knowledge and attitudes."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Know:<\/b> Recognize existing knowledge and attitudes about a complex problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Understand:<\/b> Analyze the impacts of existing knowledge and attitudes; identify personal assumptions and blind spots in approaching the problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Perform:<\/b> Identify knowledge gaps and inconsistencies to challenge existing attitudes and beliefs."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Accomplish:<\/b> Design original problem solving models for use in specific situations."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Know:<\/b> Identify a variety of problem solving methods."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Understand:<\/b> Differentiate the effectiveness of problem solving methods in a variety of settings."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Perform:<\/b> Apply appropriate methodologies for problem solving based on their usefulness."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Accomplish:<\/b> Reflect on adequacy of inventive processes and problem solving in various disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Know:<\/b> Recognize contributions of inventors and innovators in multiple fields of accomplishment."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Understand:<\/b> Analyze and/or replicate methods used by creators and problem solvers in multiple fields."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Creative Methodology - Perform:<\/b> Create original products using various inventive strategies."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Accomplish:<\/b> Advocate convincingly to diverse audiences using sophisticated techniques (oral, written, technological) appropriate to the field and audience."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Know:<\/b> Identify stakeholders within a complex problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Understand:<\/b> Use multiple tools and techniques to target identified audiences; use precise language to explain positions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Perform:<\/b> Use information about the stakeholders to develop convincing arguments to support solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 5: By graduation, the student identified as gifted will be able to assume leadership and participatory roles in both gifted and heterogeneous group learning situations."}
+        },
+        {
+            "competencyText": {"en-us": "The student will accept divergent views to positively effect change."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Consensus Building - Accomplish<\/b>: Defend the results and gain support for a plan of action to address issues or problems within a diverse population."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Consensus Building - Know<\/b>: Recognize the essential need to respect the ideas, feelings, and abilities of others."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Consensus Building - Understand<\/b>: Demonstrate a greater awareness of others through participation in programs and projects that emphasize service to others."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Consensus Building - Perform<\/b>: Use diverse individual beliefs and values of the group to design plans of action that address issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Accomplish<\/b>: Analyze positive and negative aspects of leadership that drive the beliefs and values of a diverse group."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Know<\/b>: Identify personal abilities, talents, strengths and weaknesses for certain tasks, recognizing the power to influence one&rsquo;s own destiny."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Understand<\/b>: Compare and contrast the personal and academic goals of self and others in order to build cohesion."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Perform<\/b>: Demonstrate the ability to state personal preferences and support a personal point of view when contrary to the accepted view of others."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Accomplish<\/b>: Design, plan, and evaluate a plan of action to address an issue or problem of personal interest."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Know<\/b>: Identify personal strengths and weaknesses that influence positive group dynamics."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Understand<\/b>: Recognize leadership patterns and behaviors that positively affect change in a group."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Personal Qualities - Perform<\/b>: Improve group performances through individual strengths and collaborative rules of courtesy and order."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conflict Resolution - Accomplish<\/b>: Reflect upon the effectiveness of conflict management and resolution techniques used to develop strategies for future group problem solving."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conflict Resolution - Know<\/b>: Verbalize an awareness of the cause/effect relationship of his/her behavior within a group setting."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conflict Resolution - Understand<\/b>: Generate a list of solutions to a group conflict, predicting possible concomitant results that might impact the group."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Conflict Resolution - Perform<\/b>: Implement conflict management and resolution techniques to bring about positive change."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify leadership traits and qualities as they appear in different individuals and situations."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Accomplish<\/b>: Analyze the productivity of the group&rsquo;s response to the problem following the conclusion of a creative problem solving experience."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Know<\/b>: Identify characteristics that empower an individual to be a proficient, creative problem solver."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Understand<\/b>: Recognize and emulate effective implementation of creative problem solving skills."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Perform<\/b>: Simulate a creative problem solving encounter with a diverse group of individuals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Diversity - Accomplish<\/b>: Analyze diverse leadership styles of outstanding leaders and evaluate the impact to one&rsquo;s own personal leadership skills."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Diversity - Know<\/b>: Identify in individuals the qualities of empathy and sensitivity to the ideas of others."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Diversity - Understand<\/b>: Promote diversity in talents and intellectual abilities of each member of the group."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Diversity - Perform<\/b>: Display flexibility when incorporating individual beliefs and values toward goal attainment."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-awareness - Accomplish<\/b>: Celebrate self-advocacy as a personal strength; accept weaknesses as an opportunity for change."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-awareness - Know<\/b>: Identify personal attributes as areas of strength or weakness."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-awareness - Understand<\/b>: Differentiate between individual strengths and weaknesses as motivators and/or limiters."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-awareness - Perform<\/b>: Demonstrate an understanding of positive self-worth and recognize limits in the emotional capacity of individuals."}
+        },
+        {
+            "competencyText": {"en-us": "The student will manifest significant leadership skills and organize group(s) to achieve project goals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Group Dynamics - Accomplish<\/b>: Direct the group through an analysis and synthesis of the final solution to the achievement of a project goal."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Group Dynamics - Know<\/b>: Adhere to the established rules of interaction in accepting and respecting consensus."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Group Dynamics - Understand<\/b>: Demonstrate the ability to convey to group members good decision making skills."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Group Dynamics - Perform<\/b>: Stimulate group discussion and decision making by asking appropriate questions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Accomplish<\/b>: Analyze and synthesize the presentation skills necessary to communicate ideas, information, concerns, and solutions to a project goal."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Know<\/b>: Convey information, concepts, and ideas using appropriate and advanced techniques."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Understand<\/b>: Show an awareness of the experiences, needs, and concerns of others in the communication process."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Perform<\/b>: Solidify group cohesion toward an assigned task using both verbal and non-verbal skills."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Technology - Accomplish<\/b>: Use information systems to identify and analyze trends and events in order to forecast future implications."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Technology - Know<\/b>: Identify appropriate technology to achieve a project goal."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Technology - Understand<\/b>: Demonstrate the ability to propose new uses for current technology."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Technology - Perform<\/b>: Integrate information systems in the problem solving process."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Learning - Accomplish<\/b>: Display flexibility in the incorporation of individual beliefs and values in the completion of a goal while recognizing the diversity of group members."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Learning - Know<\/b>: Recognize positive interdependence as a basic tenet."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Learning - Understand<\/b>: Convey an understanding of the importance of group cohesiveness and pride."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Cooperative Learning - Perform<\/b>: Demonstrate the ability to work with peers from a variety of cultures and ability levels respecting individual strengths, talents, and learning styles."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 6: By graduation, the student identified as gifted will be able to set and achieve personal, academic, and career goals."}
+        },
+        {
+            "competencyText": {"en-us": "The student will identify personal strengths and weaknesses and accept challenges in both areas to maximize learning."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metacognition - Accomplish<\/b>: Evaluate and refocus goals and the path to accomplishment through self- reflection and evaluation."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metacognition - Know<\/b>: Identify and use numerous tools to recognize personal strengths/weaknesses, learning styles/preferences."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metacognition - Understand<\/b>: Interpret assessments and identify skills/abilities necessary for professional performance in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metacognition - Perform<\/b>: Recognize challenges and create goals for developing expertise in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Learning Profile - Accomplish<\/b>: Use learning/work preferences to develop products in one or more disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Learning Profile - Know<\/b>: Recognize the components of personal learning preferences."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Learning Profile - Understand<\/b>: Reflect on learning/work preferences to identify themes and changes over time."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Learning Profile - Perform<\/b>: Compare how components of learning preferences align with professionals in a field of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Acceptance of Challenge - Accomplish<\/b>: Seek opportunities to try new experiences in areas of strengths and weaknesses."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Acceptance of Challenge - Know<\/b>: Recognize the need to accomplish tasks in areas of both strength and weakness."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Acceptance of Challenge - Understand<\/b>: Identify strategies and resources to overcome obstacles."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Acceptance of Challenge - Perform<\/b>: Return to a task that was not successful; evaluate alternatives and seek support from outside resources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Accomplish<\/b>: Solicit feedback from professionals related to projects and synthesize critiques into personal growth."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Know<\/b>: Use evaluation of previous tasks to improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Understand<\/b>: Review progress toward accepting challenges in various areas."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Evaluation - Perform<\/b>: Reflect on failures and successes through self evaluation; acknowledge constructive criticism."}
+        },
+        {
+            "competencyText": {"en-us": "The student will assume primary responsibility for learning, including identifying needs and setting goals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Independence - Accomplish<\/b>: Incorporate a system of goal-setting as a lifelong learner."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Independence - Know<\/b>: Recognize the need to set goals for assigned tasks."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Independence - Understand<\/b>: Systematically approach setting and modifying goals with support from teachers and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Independence - Perform<\/b>: Document failures as a learning tool and alter plans when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-Motivation - Accomplish<\/b>: Strive for professional quality in self-selected projects and performances."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-Motivation - Know<\/b>: Follow directions to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-Motivation - Understand<\/b>: Take initiative to complete tasks."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Self-Motivation - Perform<\/b>: Demonstrate persistence in returning to tasks and overcoming obstacles; adhere to timelines and other benchmarks."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Priority - Accomplish<\/b>: Exercise visionary thinking and focus on the future to adjust and readjust goals."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Priority - Know<\/b>: Identify a number of long and short-term goals and distinguishes between them."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Priority - Understand<\/b>: Prioritize goals by importance, time, resources, and sustainability."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Priority - Perform<\/b>: Evaluate and anticipate how controllable and non- controllable events and behavior affect goal achievement."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Reflection - Accomplish<\/b>: Question patterns of action to establish truth or viability of a proposition or action."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Reflection - Know<\/b>: Identify assumptions, beliefs, values, cultural practices, and social structures to assess impact."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Reflection - Understand<\/b>: Analyze assumptions in relation to specific historical and cultural context."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Critical Reflection - Perform<\/b>: Propose alternative ways of thinking to challenge prevailing ways of knowing and acting."}
+        },
+        {
+            "competencyText": {"en-us": "The student will design plans of action to address benefits and obstacles in achieving goals of personal interest."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Accomplish<\/b>: Reflect on appropriateness  of designed goal-setting plans; alter plans when appropriate; make future plans for goal achievement based on successes/failures."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Know<\/b>: Communicate recognition of personal growth in areas of weakness and areas of strength."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Understand<\/b>: Use appropriate and field- specific language to describe challenges in a variety of areas; goals are well-defined and specific."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Perform<\/b>: Design oral and written plans to set goals and identify steps toward goal achievement and use those plans in work."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Talent Development - Accomplish<\/b>: Develop products and performances of professional quality through individual strengths in relationship to fields of study."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Talent Development - Know<\/b>: Identify stages of talent development within a body of content."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Talent Development - Understand<\/b>: Evaluate personal levels of achievement and align them with levels of talent development."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Talent Development - Perform<\/b>: Produce high-quality products and performances that advance through a field&rsquo;s level of talent development."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Action Plan Components - Accomplish<\/b>: Action plan include components of evaluation, multiplicity of solutions to overcome obstacles, and recruitment of supporters and resources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Action Plan Components - Know<\/b>: Demonstrate knowledge of steps toward goal achievement."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Action Plan Components - Understand<\/b>: Develop goals and objectives that are realistic and systematic."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Action Plan Components - Perform<\/b>: Action plans include appropriate allocation of time, money, materials, and other resources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Social Context - Accomplish<\/b>: Incorporate multiple points of view to develop long-term personal and collective\r\ngoals in various contexts\r\n(educational, social, political, career)."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Social Context - Know<\/b>: Recognize how goals of self and others interconnect."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Social Context - Understand<\/b>: Establish goals for self that acknowledge goals of peers and others."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Social Context - Perform<\/b>: Assume responsibility for developing and managing goals that contribute to personal and group attainment."}
+        },
+        {
+            "competencyText": {"en-us": "Student Outcomes Program Goal 7: By graduation the student identified as gifted will be able to develop and deliver a variety of authentic products/performances that demonstrate understanding in multiple fields/disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "The  student  will  develop  products  that  communicate  expertise  in  multiple  fields  and disciplines to a variety of authentic audiences."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Audience Recognition - Accomplish<\/b>: Communicate intentional reaction to subtle and overt feedback from audience."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Audience Recognition - Know<\/b>: Identify an authentic audience based on set criteria related to a specific topic."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Audience Recognition - Understand<\/b>: Communicate recognition of audience members&rsquo; strengths and needs."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Audience Recognition - Perform<\/b>: React and refine performance based on audiences&rsquo; strengths and needs."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Accomplish<\/b>: Demonstrate evidence of refining a performance to communicate personal style."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Know<\/b>: Prepare and execute practiced performance to communicate ideas."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Understand<\/b>: Integrate ideas with visual supports to emphasize key point(s) in a performance."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Communication - Perform<\/b>: Identify personal presentation style and adapt that style to different purposes, moods, tones."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Advanced Presentation - Accomplish<\/b>: Based on evaluation, revise and adapt presentation, language, and symbol systems for specific and various audiences."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Advanced Presentation - Know<\/b>: Use advanced language and symbol systems to communicate ideas."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Advanced Presentation - Understand<\/b>: Evaluate the personal preferences of others related to language and symbol systems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Advanced Presentation - Perform<\/b>: Evaluate self in the area of presentation, language, and symbol systems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Accomplish<\/b>: Address critics with prepared, defensible arguments that effectively defend solutions."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Know<\/b>: Create product to solve a problem or communicate a perspective."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Understand<\/b>: Use strategies or tools of persuasion to resolve an issue or communicate a perspective."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Problem Solving - Perform<\/b>: Create specific strategies targeted at opposing viewpoints/perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "The student will create products that synthesize information from multiple sources illustrating solutions to real-life problems."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Inventive Thinking - Accomplish<\/b>: Create and defend a product using multiple sources that can be used in and across fields/disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Inventive Thinking - Know<\/b>: Generate ways to improve an existing product using two related sources."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Inventive Thinking - Understand<\/b>: Create an original product for a specific audience using inductive and deductive reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Inventive Thinking - Perform<\/b>: Create a product with defined rationale using multiple sources from varied fields or disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metaphorical Promotion - Accomplish<\/b>: Incorporate multiple sources from varied perspectives to create and test a novel theory."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metaphorical Promotion - Know<\/b>: Create a statement or product using two related ideas to strengthen the message."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metaphorical Promotion - Understand<\/b>: Illustrate a new concept using two or more related ideas innovatively."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Metaphorical Promotion - Perform<\/b>: Create two seemingly unrelated or opposing ideas to reflect an in-depth understanding of an issue, concept, or principle."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Praxis - Accomplish<\/b>: Critique or defend a personal theory based on evidence from multiple sources and multiple perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Praxis - Know<\/b>: Generate multiple solutions to a given problem."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Praxis - Understand<\/b>: Generate a new, personal concept by synthesizing multiple solutions and multiple perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "<b>Praxis - Perform<\/b>: Create a new personal theory by synthesizing multiple solutions and perspectives\r\nthat can be applied to a different field of study."}
+        }
+    ]
+}

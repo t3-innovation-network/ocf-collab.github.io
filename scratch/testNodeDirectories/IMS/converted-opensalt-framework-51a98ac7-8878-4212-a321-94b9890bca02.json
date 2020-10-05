@@ -1,0 +1,976 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/51a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Information Technology"},
+        "description": {"en-us": "CTE-Information Technology Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Information Technology cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Information Technology career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Information Technology career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Information Technology career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Information Technology career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Information Technology career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Information Technology career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Information Technology career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify computer components and their functions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe what defines a computer and ways a computer can be used."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the internal components of a computer."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and know how to connect various computer input devices and describe their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and know how to connect various computer output devices and describe their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and know how to connect various storage devices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the internal components of a computer."}
+        },
+        {
+            "competencyText": {"en-us": "Use common computer and programming terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of different operating systems."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast various operating systems used in a computer and mobile devices (e.g. DOS, Windows, Mac, Linux, Android, iOS)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use conventional file naming conventions."}
+        },
+        {
+            "competencyText": {"en-us": "Be able to identify file types by extension."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using gadgets, icons, and taskbars and other pre-loaded operating system programs. (e.g. calculator, text editor, clock, volume controls, adding icons and shortcuts to taskbar and shortcut menus)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify operating system file naming conventions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency with file management (e.g. folder creation, file creation, backup, copy, delete, open, save)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a working knowledge of standard file formats."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the history and purpose of various operating systems (e.g. DOS, Windows, Mac, Linux)."}
+        },
+        {
+            "competencyText": {"en-us": "Use iterative development and debugging to explore the problem domain."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an awareness of microprocessors and digital computers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the evolution of the digital computer."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the general architecture of a microcomputer system."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the evolution of microprocessors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain software hierarchy and its impact on microprocessors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the need for and use of peripherals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using peripherals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic concepts of computer maintenance and upgrades."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between diagnosing and troubleshooting."}
+        },
+        {
+            "competencyText": {"en-us": "Information Support and Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the information support and services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the information support and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the Open Systems Interface (OSI) model."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the evolution of OSI from its inception to the present and into the future."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the interrelations of the seven layers of the OSI as it relates to hardware and software."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose of the OSI model and each of its layers."}
+        },
+        {
+            "competencyText": {"en-us": "Explain specific functions belonging to each OSI model layer."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how two network nodes communicate through the OSI model."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the structure and purpose of data packets and frames."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the two types of addressing covered by the OSI model."}
+        },
+        {
+            "competencyText": {"en-us": "Network Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the network systems career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the network systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of computer networks."}
+        },
+        {
+            "competencyText": {"en-us": "Define network and give examples of networks used at home, school, and work."}
+        },
+        {
+            "competencyText": {"en-us": "Compare types of networks, including LAN, WAN, MAN, VPN, intranet, extranet, and the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Compare common network topologies, including bus, star, ring, and mesh."}
+        },
+        {
+            "competencyText": {"en-us": "Compare various network models and their advantages, including client and server, mainframe and terminal, peer-to-peer."}
+        },
+        {
+            "competencyText": {"en-us": "Compare various methods and media for network connections, including broadband, wireless, Bluetooth, cellular, satellite."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the functions of various network hardware devices, including NIC, hub, switch, router, bridge, gateway, access point."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose of protocols, and identify the protocols commonly used in networks, including TCP/IP, DHCP, DNS, HTTP, FTP, IMAP, POP, SMTP."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose and function of IP addressing and distinguish between public and private IP addresses."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the OSI reference model and its layers, including tracing the flow of data between two network nodes through the OSI layers."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using computer networks."}
+        },
+        {
+            "competencyText": {"en-us": "Define networking and describe the purpose of a network."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the conceptual background of digital networks including terminology and basics."}
+        },
+        {
+            "competencyText": {"en-us": "Describe various types of networks and the advantages and disadvantages of each (e.g. peer to peer, client and server, mainframe and terminal)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the use, advantages, and disadvantages of various network media (e.g. thinnet cable, coaxial, twisted pair (cat 5), fiber optics)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the function of various network devices (e.g. hub, switched hub or switch, router bridge, gateway, access points)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how network devices are identified (i.e., IP addressing)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the protocols commonly used in a network environment."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between public and private IP addresses."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the common ports and corresponding protocols used in a network."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the difference between the Internet and the intranet."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the differences between Local Area Network (LAN), Wide Area Network (WAN), Metropolitan Area Network (MAN), and Virtual Private Network (VPN)."}
+        },
+        {
+            "competencyText": {"en-us": "Programming and Software Development"}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply database skills."}
+        },
+        {
+            "competencyText": {"en-us": "Start and exit database software. Save a database in various formats."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of the database screen."}
+        },
+        {
+            "competencyText": {"en-us": "View the database window and use the Navigation Pane. Open an object in Design view or Layout view."}
+        },
+        {
+            "competencyText": {"en-us": "Create a table."}
+        },
+        {
+            "competencyText": {"en-us": "Enter records in datasheet view."}
+        },
+        {
+            "competencyText": {"en-us": "Change the column width in a datasheet. Use Hide, Unhide, Freeze and Unfreeze fields."}
+        },
+        {
+            "competencyText": {"en-us": "Add and delete fields and create relationships between tables."}
+        },
+        {
+            "competencyText": {"en-us": "Create and modify fields, for example specify text, numbers, currency, and Yes/No."}
+        },
+        {
+            "competencyText": {"en-us": "Sort and filter record (use AutoFilter, Filter by Selection, and by Form)."}
+        },
+        {
+            "competencyText": {"en-us": "Create a report."}
+        },
+        {
+            "competencyText": {"en-us": "Open and close a database."}
+        },
+        {
+            "competencyText": {"en-us": "Change the view of objects in the navigation pane."}
+        },
+        {
+            "competencyText": {"en-us": "Create a database from a template."}
+        },
+        {
+            "competencyText": {"en-us": "Edit records in datasheet view."}
+        },
+        {
+            "competencyText": {"en-us": "Add and delete records in datasheet view."}
+        },
+        {
+            "competencyText": {"en-us": "Cut, copy, and paste data in datasheet view."}
+        },
+        {
+            "competencyText": {"en-us": "Change the datasheet layout."}
+        },
+        {
+            "competencyText": {"en-us": "Hide columns in a table."}
+        },
+        {
+            "competencyText": {"en-us": "Create a table in design view and create and modify fields."}
+        },
+        {
+            "competencyText": {"en-us": "Create a form. Enter and edit data in a form."}
+        },
+        {
+            "competencyText": {"en-us": "Use form layout tools to modify database design, arrangement, and format."}
+        },
+        {
+            "competencyText": {"en-us": "Create a query."}
+        },
+        {
+            "competencyText": {"en-us": "Define database and describe real-world uses."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between databases and spreadsheets."}
+        },
+        {
+            "competencyText": {"en-us": "Identify advantages of using a database instead of spreadsheets, electronic documents, or paper."}
+        },
+        {
+            "competencyText": {"en-us": "Define Big Data and describe how it is used in advertising."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the components of a database."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between fields and records in a database."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic data types and formats used in a database."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between a table and a query."}
+        },
+        {
+            "competencyText": {"en-us": "Identify database keys, including primary and foreign."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the types of relationships between tables in databases."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between a query and a report."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various report types."}
+        },
+        {
+            "competencyText": {"en-us": "Describe Structured Query Language (SQL) and discuss its use with databases."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare various database applications, including Microsoft Access, MySQL, Oracle."}
+        },
+        {
+            "competencyText": {"en-us": "Create a database table that uses multiple data types."}
+        },
+        {
+            "competencyText": {"en-us": "Add, edit, and delete records from a database table."}
+        },
+        {
+            "competencyText": {"en-us": "Sort records in a database query or table."}
+        },
+        {
+            "competencyText": {"en-us": "Troubleshoot common database errors, including data type errors, query syntax errors."}
+        },
+        {
+            "competencyText": {"en-us": "Create a basic select query on one table."}
+        },
+        {
+            "competencyText": {"en-us": "Create an action query to manipulate data."}
+        },
+        {
+            "competencyText": {"en-us": "Create a query using primary and foreign keys."}
+        },
+        {
+            "competencyText": {"en-us": "Create a simple table join."}
+        },
+        {
+            "competencyText": {"en-us": "Import and export data from a database into a spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Create relevant reports from a database."}
+        },
+        {
+            "competencyText": {"en-us": "Create and modify fields in a datasheet."}
+        },
+        {
+            "competencyText": {"en-us": "Save a database in a different format."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply programming skills utilizing current technology."}
+        },
+        {
+            "competencyText": {"en-us": "Give a brief history of computers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how hardware and software make up computer architecture."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the binary representation of data and programs in computers."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the evolution of programming languages."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the software development process."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the fundamental concepts of object-oriented programming."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of the selected programming language."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the structure of a simple program."}
+        },
+        {
+            "competencyText": {"en-us": "Write a simple program."}
+        },
+        {
+            "competencyText": {"en-us": "Edit, compile, and run a program."}
+        },
+        {
+            "competencyText": {"en-us": "Format a program for visual effects."}
+        },
+        {
+            "competencyText": {"en-us": "Identify compile-time errors."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the programming and software development career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the programming and software development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an awareness of programming languages."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the history of programming languages."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the need for and use of compilers."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how compilers work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the three types of programming design approaches (e.g., top-down, structured, object-oriented)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the various types or classes of programming languages (e.g., compiled, interpretive)."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among source code, machine code, interpreters, and compilers."}
+        },
+        {
+            "competencyText": {"en-us": "Characterize the major categories of programming languages and how they are used."}
+        },
+        {
+            "competencyText": {"en-us": "Create a model flowchart for a computer program."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the stages in the software development life cycle."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the components of programming languages."}
+        },
+        {
+            "competencyText": {"en-us": "Examine connections between elements of mathematics and computer science including binary numbers, logic, sets, and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of database design, structure, and operation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a relational database and its key elements."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the Entity Relationship Model (ERM)."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between one-to-many, many-to-many and one-to-one relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Define referential integrity and describe its importance to managing information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a fundamental understanding of Structured Query Language (SQL)."}
+        },
+        {
+            "competencyText": {"en-us": "List the capabilities of SQL SELECT statements."}
+        },
+        {
+            "competencyText": {"en-us": "Execute basic SQL statements."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the concatenation operator to link columns to other columns, arithmetic expressions, or constant values to create a character expression."}
+        },
+        {
+            "competencyText": {"en-us": "Use the AS clause to define column aliases to rename columns in the query result."}
+        },
+        {
+            "competencyText": {"en-us": "Use SQL to display the structure of a table."}
+        },
+        {
+            "competencyText": {"en-us": "Apply SQL syntax to restrict the rows returned from a query."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate application of the WHERE clause syntax."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the proper comparison operator to return a desired result."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in game development."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of games in modern society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various types of games."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the steps of the design process for creating a game."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the design process to solving a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze (deconstruct) existing games."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the tools and skills needed for creating games."}
+        },
+        {
+            "competencyText": {"en-us": "Identify design criteria and constraints."}
+        },
+        {
+            "competencyText": {"en-us": "Create storyboards to model a game\u2019s program flow and functionality."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the programmer\u2019s role in creating games."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common programming languages and applications used to create computer games."}
+        },
+        {
+            "competencyText": {"en-us": "Compare sequential, iteration (loop) and selection programming structures."}
+        },
+        {
+            "competencyText": {"en-us": "Define the term algorithm and how it applies to problem solving."}
+        },
+        {
+            "competencyText": {"en-us": "Create an algorithm to solve a problem or complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Use pseudo-code to model a game program\u2019s flow."}
+        },
+        {
+            "competencyText": {"en-us": "Define logic errors and identify them in a game program or model."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the types and uses of variables in game programming."}
+        },
+        {
+            "competencyText": {"en-us": "Describe basic Boolean concepts, including logical operators, order of precedence, expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the use of events, event handlers and functions in game programming."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the use of parameters and arguments in game programming."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the use of objects, classes and instances in game programming."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the use of properties and methods with objects in game programming."}
+        },
+        {
+            "competencyText": {"en-us": "Write appropriate code to create a simple game using structured programming."}
+        },
+        {
+            "competencyText": {"en-us": "Test and evaluate the game program."}
+        },
+        {
+            "competencyText": {"en-us": "Modify the game program as needed to solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Create an animated object to be used in a game program."}
+        },
+        {
+            "competencyText": {"en-us": "Use programming code to control the behavior of an animated object in a game program."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in basic programming."}
+        },
+        {
+            "competencyText": {"en-us": "Define programming and discuss its role in computing."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the binary representation of data and programs in computers."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish among the three types of programming languages (machine, assembly, high-level), and give examples."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast languages that are usually compiled (e.g., C++, Java) and interpreted (e.g., JavaScript, Python)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the structure of a simple program, and explain why sequencing is important."}
+        },
+        {
+            "competencyText": {"en-us": "Write a program design document using pseudo-code that shows program flow."}
+        },
+        {
+            "competencyText": {"en-us": "Explain strategies used in problem-solving, and relate them to computer programming."}
+        },
+        {
+            "competencyText": {"en-us": "Define the term algorithm, and explain how it relates to problem-solving."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the three types of programming errors (i.e., logic, syntax, runtime), and describe the forms of testing that can be used to locate and debug errors."}
+        },
+        {
+            "competencyText": {"en-us": "Solve a problem using logic by planning a strategy, designing and testing a hypothesis, and creating a set of step-by-step instructions to perform a task."}
+        },
+        {
+            "competencyText": {"en-us": "Define structured programming and discuss the advantages of this approach."}
+        },
+        {
+            "competencyText": {"en-us": "Define the three main programming control structures used in structured programming: sequential, selection (decision), and iteration (loops)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe iterative programming structures (e.g., while, do/while) and how they are used in programming."}
+        },
+        {
+            "competencyText": {"en-us": "Describe selection programming structures (e.g., if/then, else) and explain the logic used for if statements."}
+        },
+        {
+            "competencyText": {"en-us": "Write a simple program in pseudo-code that uses structured programming to solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the types and uses of variables in programming."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic object-oriented concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Describe fundamental Boolean concepts, including Boolean algebra, operators, logic."}
+        },
+        {
+            "competencyText": {"en-us": "Create animated objects using a high-level programming environment to control their behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Create a simple program that uses animated objects."}
+        },
+        {
+            "competencyText": {"en-us": "Convert a simple program from pseudo-code into a common high-level programming environment."}
+        },
+        {
+            "competencyText": {"en-us": "Troubleshoot and debug errors in code."}
+        },
+        {
+            "competencyText": {"en-us": "Create, modify, and use a database (e.g., define field formats, adding new records, manipulate data) to analyze data and propose solutions for a task or problem, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using specialized computer coding software."}
+        },
+        {
+            "competencyText": {"en-us": "Use specialized computer coding software to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using specialized computer software (e.g. Swift, Python)."}
+        },
+        {
+            "competencyText": {"en-us": "Web and Digital Communications"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the web and digital communications career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the web and digital communications career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply web design skills utilizing current technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the various components of the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the difference between web browser and search engine."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the difference between a client and the various types of servers, including web servers."}
+        },
+        {
+            "competencyText": {"en-us": "Follow copyright laws."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of file storage and the path to describe the location of a document."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how XHTML has altered the structure of HTML."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe basic HTML/ XHTML terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe basic HTML/ XHTML tags."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the elements of a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a web page using basic HTML tags."}
+        },
+        {
+            "competencyText": {"en-us": "Include graphics in a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Use the Internet to find free components for a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Create an active web page."}
+        },
+        {
+            "competencyText": {"en-us": "Define principles of acceptable web design. "}
+        },
+        {
+            "competencyText": {"en-us": "Understand how different web browsers interpret pages."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the role of plug-ins."}
+        },
+        {
+            "competencyText": {"en-us": "Understand graphic, audio, and movie file formats and how they affect file size."}
+        },
+        {
+            "competencyText": {"en-us": "Use animated graphics, audio and video files in a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Use image editing software."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of compressing and decompressing files."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of file backup."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using HTML commands."}
+        },
+        {
+            "competencyText": {"en-us": "Identify elements of a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Define basic HTML terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze HTML source code developed by others."}
+        },
+        {
+            "competencyText": {"en-us": "Create web pages using basic HTML tags (e.g. links, lists, character styles, text alignment, tables)."}
+        },
+        {
+            "competencyText": {"en-us": "Edit and test HTML documents for accuracy and validity."}
+        },
+        {
+            "competencyText": {"en-us": "Create a website using basic functions of a WYSIWYG or GUI editor."}
+        },
+        {
+            "competencyText": {"en-us": "Use basic functions of HTML, DHTML, and XML editors and converters."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance web pages through the addition of images and graphics including animation."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in webpage design."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of acceptable webpage design."}
+        },
+        {
+            "competencyText": {"en-us": "Design a website using storyboarding techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and apply color theory as it applies to webpage design."}
+        },
+        {
+            "competencyText": {"en-us": "Access and digitize graphics through various resources."}
+        },
+        {
+            "competencyText": {"en-us": "Use image design software to create and edit images."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in publishing to the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using specialized web design software."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast various specialized web design software."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using various specialized web design software."}
+        },
+        {
+            "competencyText": {"en-us": "Use Web 2.0 or internet-based collaborative technology to facilitate a web development or research project."}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a collaborative environment for communicating and sharing among project team members."}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a social media page to share and publish project components for gauging visitor reaction and obtaining feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in web page development."}
+        },
+        {
+            "competencyText": {"en-us": "Identify website domains, and relate a site\u2019s domain to its purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Relate basic components of a webpage to aesthetic, functional and usable design principals."}
+        },
+        {
+            "competencyText": {"en-us": "Define aesthetic design, and explain how it can affect a visitor's perception of a website\u2019s information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of color wheel concepts and effective use of color on a website."}
+        },
+        {
+            "competencyText": {"en-us": "Compare functional and usable design principles, and explain how usability can affect a website\u2019s success."}
+        },
+        {
+            "competencyText": {"en-us": "Critique the aesthetic design, usability and accessibility of sample websites."}
+        },
+        {
+            "competencyText": {"en-us": "Define multimedia, and identify its role in webpage interactivity."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the primary steps of the website planning process."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the website planning process to design a basic website."}
+        },
+        {
+            "competencyText": {"en-us": "Build the site navigation scheme for a website."}
+        },
+        {
+            "competencyText": {"en-us": "Compare webpage creation using an HTML text editor to using a graphical user interface (GUI) editor."}
+        },
+        {
+            "competencyText": {"en-us": "Compare website creation using an online site builder, an offline site builder and a content management system (CMS)."}
+        },
+        {
+            "competencyText": {"en-us": "Modify an existing webpage template to create an effective look and feel for a website."}
+        },
+        {
+            "competencyText": {"en-us": "Create a website using a template."}
+        },
+        {
+            "competencyText": {"en-us": "Define Hypertext Markup Language (HTML) and related terms, including tag vs. element, container vs. empty tag, block-level vs. inline element, attribute value, semantic tag."}
+        },
+        {
+            "competencyText": {"en-us": "Identify HTML elements required to create webpage structure."}
+        },
+        {
+            "competencyText": {"en-us": "Create webpages using basic HTML tags."}
+        },
+        {
+            "competencyText": {"en-us": "Use HTML to create hyperlinks to external sites."}
+        },
+        {
+            "competencyText": {"en-us": "Use HTML to insert common image file formats into webpages, and use an image as a hyperlink."}
+        },
+        {
+            "competencyText": {"en-us": "Explain Cascading Style Sheet (CSS) technology."}
+        },
+        {
+            "competencyText": {"en-us": "Apply CSS styles to an HTML page."}
+        },
+        {
+            "competencyText": {"en-us": "Create and edit animation files, and insert them into a webpage."}
+        },
+        {
+            "competencyText": {"en-us": "Create and edit video files, and insert them into a webpage."}
+        },
+        {
+            "competencyText": {"en-us": "Use Dynamic HTML (DHTML) to enhance webpage interactivity."}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a wiki or similar tool for collaborating among project team members."}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a social media page to share content and collaborate on projects."}
+        },
+        {
+            "competencyText": {"en-us": "Review webpage content, verify copyright restrictions, and create meta-data before publishing a site to the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Test webpages for display, functionality, and accessibility before publishing a site to the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Validate webpage code using W3C validation tools before publishing a site to the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Describe network issues relating to websites, including bandwidth, compression, streaming, web hosting."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the purpose of File Transfer Protocol (FTP) in accessing information on the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Publish a website using FTP."}
+        },
+        {
+            "competencyText": {"en-us": "Describe website security methods, including secure server vs. unsecured server, SSL, SSH, and encryption."}
+        }
+    ]
+}

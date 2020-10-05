@@ -1,0 +1,420 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/6f440ce6-f4f1-11e9-bac8-0242c0a83003",
+        "name": {"en-us": "Montana Content Standards for Social Studies"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 1 \r\n(1) To satisfy the requirements of social studies content standard 1, a student must access, synthesize, and evaluate information to communicate and apply social studies knowledge to real world situations."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 1 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 1 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 1 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 1 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 1 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 1 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 2\r\n(1) To satisfy the requirements of social studies content standard 2, a student must analyze how people create and change structures of power, authority, and governance to understand the operation of government and to demonstrate civic responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 2 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 2 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 2 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 2 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 2 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 2 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 3\r\n(1) To satisfy the requirements of social studies content standard 3, a student must apply geographic knowledge and skills (e.g., location, place, human/environment interactions, movement, regions)."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 3 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 3 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 3 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 3 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 3 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 3 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 4\r\n(1) To satisfy the requirements of social studies content standard 4, a student must demonstrate an understanding of the effects of time, continuity, and change on historical and future perspectives and relationships."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 4 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 4 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 4 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 4 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 4 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 4 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 5\r\n(1) To satisfy the requirements of social studies content standard 5, a student must make informed decisions based on economic principles of production, distribution, exchange, and consumption."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 5 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 5 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 5 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 5 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 5 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 5 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES CONTENT STANDARD 6\r\n(1) To satisfy the requirements of social studies content standard 6, a student must demonstrate an understanding of the impact of human interaction and cultural diversity on individuals and societies."}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 6 FOR END OF GRADE 4\r\n(1) The benchmark for social studies content standard 6 for a student at the end of grade 4 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 6 FOR END OF GRADE 8\r\n(1) The benchmark for social studies content standard 6 for a student at the end of grade 8 is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "BENCHMARK FOR SOCIAL STUDIES CONTENT STANDARD 6 UPON GRADUATION\r\n(1) The benchmark for social studies content standard 6 for a student upon graduation is the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify and practice the steps of an inquiry process (i.e., identify question or problem, locate and evaluate potential resources, gather and synthesize information, create a new product, and evaluate product and process);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) evaluate information quality (e.g., accuracy, relevance, fact or fiction); and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use information to support statements and practice basic group decision making strategies in real world situations (e.g., class elections, playground and classroom rules, recycling projects, school stores)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply the steps of an inquiry process (i.e., identify question or problem, locate and evaluate potential resources, gather and synthesize information, create a new product, and evaluate product and process);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) assess the quality of information (e.g., primary or secondary sources, point of view and embedded values of the author); and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interpret and apply information to support conclusions and use group decision making strategies to solve problems in real world situations (e.g., school elections, community projects, conflict resolution, role playing scenarios)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze and adapt an inquiry process (i.e., identify question or problem, locate and evaluate potential resources, gather and synthesize information, create a new product, and evaluate product and process);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply criteria to evaluate information (e.g., origin, authority, accuracy, bias, distortion of information and ideas); and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) synthesize and apply information to formulate and support reasoned personal convictions within groups and participate in negotiations to arrive at solutions to differences (e.g., elections, judicial proceedings, economic choices, community service projects)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) explain the purpose and various levels of government;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) recognize local, state, tribal, and federal governments and identify representative leaders at these levels (e.g., mayor, governor, chairperson, president);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify the major responsibilities of local, state, tribal, and federal government;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explain how governments provide for needs and wants of people by establishing order and security and managing conflict;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify and explain the individual's responsibilities to family, peers, and the community, including the need for civility, respect for diversity, and the rights of others;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) describe factors that cause conflict and contribute to cooperation among individuals and groups (e.g., playground issues, misunderstandings, listening skills, taking turns); and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explore the role of technology in communications, transportation, information processing, or other areas as it contributes to or helps resolve problems."}
+        },
+        {
+            "competencyText": {"en-us": "(a) describe the purpose of government and how the powers of government are acquired, maintained and used;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify and describe basic features of the political system in the United States and identify representative leaders from various levels (e.g., local, state, tribal, federal, branches of government);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify the significance of tribal sovereignty and Montana tribal governments' relationships to local, state, and federal governments;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze and explain governmental mechanisms used to meet the needs of citizens, manage conflict, and establish order and security;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify and explain the basic principles of democracy (e.g., Bill of Rights, individual rights, common good, equal opportunity, equal protection of the laws, majority rule);"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain conditions, actions, and motivations that contribute to conflict and cooperation within and among groups and nations (e.g., discrimination, peer interaction, trade agreements); and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain the need for laws and policies governing technology and explore solutions to problems that arise from technological advancements."}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze the historical and contemporary purpose of government and how the powers of government are acquired, modified, justified, and used (e.g., checks and balances, Bill of Rights, court decisions);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) compare and contrast various world political systems (e.g., ideologies, structure, institutions) with that of the United States;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify representative political leaders and philosophies from selected historical and contemporary settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) relate the concept of tribal sovereignty to the unique powers of tribal governments as they interact with local, state, and federal governments;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze the effectiveness of various systems of government to protect the rights and needs of citizens and balance competing conceptions of a just society;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze the impact of the Constitution, laws, and court decisions on the rights and responsibilities of citizens;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) analyze and evaluate conditions, actions, and motivations that contribute to conflict and cooperation within and among groups and nations (e.g., current events from newspapers, magazines, television); and"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze laws and policies govern."}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify and use various representations of the earth (e.g., maps, globes, photographs, latitude and longitude, scale);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) locate on a map or globe physical features (e.g., continents, oceans, mountain ranges, land forms) , natural features (e.g., flora, fauna) , and human features (e.g., cities, states, national borders);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) describe and illustrate ways in which people interact with their physical environment (e.g., land use, location of communities, methods of construction, design of shelters);"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe how human movement and settlement patterns reflect the wants and needs of diverse cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) use appropriate geographic resources (e.g., atlases, databases, charts, grid systems, technology, graphs, maps) to gather information about local communities, reservations, Montana, the United States, and the world;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify and distinguish between physical system changes (e.g., seasons, climate, weather, water cycle, natural disasters) and describe the social and economic effects of these changes; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe and compare the ways in which people in different regions of the world interact with their physical environments."}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze and use various representations of the earth (e.g., physical, topographical, and political maps; globes; geographic information systems; aerial photographs; satellite images) to gather and compare information about a place;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) locate on a map or globe physical features (e.g., continents, oceans, mountain ranges, land forms) , natural features (e.g., flora, fauna) , and human features (e.g., cities, states, national borders) and explain their relationships within the ecosystem;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze diverse land use and explain the historical and contemporary effects of this use on the environment, with an emphasis on Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explain how movement patterns throughout the world (e.g., people, ideas, diseases, products, food) lead to interdependence and/or conflict;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) use appropriate geographic resources to interpret and generate information explaining the interaction of physical and human systems (e.g., estimate distance, calculate scale, identify dominant patterns of climate and land use, compute population density);"}
+        },
+        {
+            "competencyText": {"en-us": "(f) describe and distinguish between the environmental effects on the earth of short-term physical changes (e.g., floods, droughts, snowstorms) , and long-term physical changes (e.g., plate tectonics, erosion, glaciation); and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe major changes in a local area that have been caused by human beings (e.g., a new highway, fire, construction of a new dam, logging, mining) and analyze the probable effects on the community and environment."}
+        },
+        {
+            "competencyText": {"en-us": "(a) interpret, use, and synthesize information from various representations of the earth (e.g., maps, globes, satellite images, geographic information systems, three-dimensional models);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) differentiate and analyze the relationships among various regional and global patterns of geographic phenomena, (e.g., land forms, soils, climate, vegetation, natural resources, population);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) assess the major impacts of human modifications on the environment (e.g., global warming, deforestation, erosion, pollution);"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze how human settlement patterns create cooperation and conflict which influence the division and control of the earth (e.g., treaties, economics, exploration, borders, religion, exploitation, water rights);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) select and apply appropriate geographic resources to analyze the interaction of physical and human systems (e.g., cultural patterns, demographics, unequal global distribution of resources) and their impact on environmental and societal changes;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze the short-term and long-term effects that major physical changes in various parts of the world have had or might have on the environments (e.g., land use, population, resources); and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe and compare how people create places that reflect culture, human needs, government policy, and current values and ideas as they design and build (e.g., buildings, neighborhoods, parks, industrial and agricultural centers, farms and ranches)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify and use various sources of information (e.g., artifacts, diaries, photographs, charts, biographies, paintings, architecture, songs) to develop an understanding of the past;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use a timeline to select, organize, and sequence information describing eras in history;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) examine biographies, stories, narratives, and folk tales to understand the lives of ordinary people and extraordinary people, place them in time and context, and explain their relationship to important historical events;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify and describe famous people, important democratic values (e.g., democracy, freedom, justice), symbols (e.g., Montana and United States flags, state flower), and holidays in the history of Montana, American Indian tribes, and the United States;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify and illustrate how technologies have impacted the course of history (e.g., energy, transportation, communications);"}
+        },
+        {
+            "competencyText": {"en-us": "(f) recognize that people view and report historical events differently; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain the history, culture, and current status of the American Indian tribes in Montana and the United States."}
+        },
+        {
+            "competencyText": {"en-us": "(a) interpret the past using a variety of sources (e.g., biographies, documents, diaries, eyewitnesses, interviews, internet, primary source material) and evaluate the credibility of sources used;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) describe how history can be organized and analyzed using various criteria to group people and events (e.g., chronology, geography, cause and effect, change, conflict, issues);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use historical facts and concepts and apply methods of inquiry (e.g., primary documents, interviews, comparative accounts, research) to make informed decisions as responsible citizens;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify significant events, people, and important democratic values (e.g., freedom, equality, privacy) in the major eras/civilizations of Montana, American Indians, United States, and world history;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify major scientific discoveries and technological innovations and describe their social and economic effects on society;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain how and why events (e.g., American revolution, battle of the Little Big Horn, immigration, women's suffrage) may be interpreted differently according to the points of view of participants, witnesses, reporters, and historians; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) summarize major issues affecting the history, culture, tribal sovereignty, and current status of the American Indian tribes in Montana and the United States."}
+        },
+        {
+            "competencyText": {"en-us": "(a) select and analyze various documents and primary and secondary sources that have influenced the legal, political, and constitutional heritage of Montana and the United States;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) interpret how selected cultures, historical events, periods, and patterns of change influence each other;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) apply ideas, theories, and methods of inquiry to analyze historical and contemporary developments, and to formulate and defend reasoned decisions on public policy issues;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze the significance of important people, events, and ideas (e.g., political and intellectual leadership, inventions, discoveries, the arts) in the major eras/civilizations in the history of Montana, American Indian tribes, the United States, and the world;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze issues (e.g., freedom and equality, liberty and order, region and nation, diversity and civic duty) using historical evidence to form and support a reasoned position;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze both the historical impact of technology (e.g., industrialization, communication, medicine) on human values and behaviors and how technology shapes problem solving now and in the future;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) investigate, interpret, and analyze the impact of multiple historical and contemporary viewpoints concerning events within and across cultures, major world religions, and political systems (e.g., assimilation, values, beliefs, conflicts); and"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze and illustrate the major issues concerning history, culture, tribal sovereignty, and current status of the American Indian tribes and bands in Montana and the United States (e.g., artifacts, repatriation, natural resources, language, jurisdiction)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) give examples of needs and wants, scarcity and choice (e.g., budgeting of allowance, trading cards);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify basic economic concepts (e.g., supply and demand, price) that explain events and issues in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) distinguish between private goods and services (e.g., family car, local restaurant) and public goods and services (e.g., interstate highway system, United States postal service);"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe how personal economic decisions, (e.g., deciding what to buy, what to recycle, how much to contribute to people in need) affect the lives of people in Montana, the United States, and the world;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) explain the roles of money, banking, and savings in everyday life; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify and describe examples in which science and technology have affected economic conditions (e.g., assembly line, robotics, internet, media advertising)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify and explain basic economic concepts (e.g., supply, demand, production, exchange and consumption; labor, wages, and capital; inflation and deflation; private goods and services);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply economic concepts to explain historical events, current situations, and social issues in local, Montana, tribal, national, or global concerns;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) compare and contrast the difference between private and public goods and services;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze how various personal and cultural points of view influence economic decisions (e.g., land ownership, taxation, unemployment);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) explain and illustrate how money is used (e.g., trade, borrow, save, invest, compare the value of goods and services) by individuals and groups (e.g., businesses, financial institutions, governments); and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze the influences of technological advancements (e.g., machinery, internet, genetics) on household, state, national, and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze the impact that supply and demand, scarcity, prices, incentives, competition, and profits influence what is produced and distributed in various economic systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use basic economic concepts (e.g., production, distribution, consumption, market economy, command economy) to compare and contrast local, regional, national, and global economies across time and at the present time;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) assess the costs and benefits to society of allocating goods and services through private and public sectors;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) compare and contrast how values and beliefs influence economic decisions in different economic systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) explain the operations, rules, and procedures of common financial instruments (e.g., stocks and bonds, retirement funds, IRAs) and financial institutions (credit companies, banks, insurance companies); and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain and evaluate the effects of new technology, global economic interdependence, and competition on the development of national policies (e.g., social security system, medicare, other entitlement programs) and on the lives of the individuals and families in Montana, the United States, and the world (e.g., international trade, space exploration, national defense)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify the ways groups (e.g., families, faith communities, schools, social organizations, sports) meet human needs and concerns (e.g., belonging, self worth, personal safety) and contribute to personal identity;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) describe ways in which expressions of culture influence people (e.g., language, spirituality, stories, folk tales, music, art, dance);"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify and describe ways families, groups, tribes, and communities influence the individual's daily life and personal choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify characteristics of American Indian tribes and other cultural groups in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify examples of individual struggles and contributions (e.g., Sitting Bull, Louis Riel, Chief Plenty Coups, Evelyn Cameron, Helen Keller, Mohandas Gandhi, Rosa Parks); and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify roles in group situations (e.g., student, family member, peer member)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) compare and illustrate the ways various groups (e.g., cliques, clubs, ethnic communities, American Indian tribes) meet human needs and concerns (e.g., self esteem, friendship, heritage) and contribute to personal identity;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) explain and give examples of how human expression (e.g., language, literature, arts, architecture, traditions, beliefs, spirituality) contributes to the development and transmission of culture;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify and differentiate ways regional, ethnic, and national cultures influence individual's daily lives and personal choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) compare and illustrate the unique characteristics of American Indian tribes and other cultural groups in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) explain the cultural contributions of and tensions between racial and ethnic groups in Montana, the United States, and the world; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify and describe the stratification of individuals within social groups (e.g., status, social class, haves and have nots)."}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze and evaluate the ways various groups (e.g., social, political, cultural) meet human needs and concerns (e.g., individual needs, common good) and contribute to personal identity;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze human experience and cultural expression (e.g., language, literature, arts, traditions, beliefs, spirituality, values, behavior) and create a product which illustrates an integrated view of a specific culture;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze the impact of ethnic, national, and global influences on specific situations or events;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) evaluate how the unique characteristics of American Indian tribes and other cultural groups have contributed to Montana's history and contemporary life (e.g., legal and political relationships between and among tribal, state, and federal governments);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze the conflicts resulting from cultural assimilation and cultural preservation among various ethnic and racial groups in Montana, the United States, and the world; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze the interactions of individuals, groups, and institutions in society (e.g., social mobility, class conflict, globalization)."}
+        }
+    ]
+}

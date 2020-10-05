@@ -1,0 +1,1750 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/31a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Physical Education"},
+        "description": {"en-us": "Physical Education Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of locomotor skills to travel in personal and general space."}
+        },
+        {
+            "competencyText": {"en-us": "Strike objects using body parts forcefully."}
+        },
+        {
+            "competencyText": {"en-us": "Balance a lightweight object on a paddle/racket while moving."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object forcefully using a modified, long-handled implement of various sizes, weights and compositions."}
+        },
+        {
+            "competencyText": {"en-us": "Use two hands to bounce and catch a large playground ball."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of introductory water skills."}
+        },
+        {
+            "competencyText": {"en-us": " Catch a variety of self-tossed objects."}
+        },
+        {
+            "competencyText": {"en-us": "Roll and throw a variety of objects using an underhand motion."}
+        },
+        {
+            "competencyText": {"en-us": "Throw a variety of objects forcefully using an overhand motion."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a creative-movement sequence with a clear beginning balance, at least one movement and a clear ending shape."}
+        },
+        {
+            "competencyText": {"en-us": "Balance on a variety of body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of rolling actions."}
+        },
+        {
+            "competencyText": {"en-us": "Move in a variety of ways in relation to others."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize locomotor skills."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize physical activities have safety rules and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize technology can be utilized during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize there are deep and shallow areas of a pool, and identify the dangers of entering a body of water without supervision."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the concept of a dominant hand/foot for throwing/striking/kicking patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Recite cues for a variety of movement patterns and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal and general space."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize movement concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify&nbsp;opportunities&nbsp;for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Describe physical-activity goal-setting."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Verbally state the search used before crossing a roadway."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the location of muscles that help the body perform specific physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify that the heart beats faster during more intense physical activity.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Identify activities that increase breathing and heart rate."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a physiological sign of participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a benefit of flexibility."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between healthy and unhealthy food choices."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to cooperate with a partner during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Use equipment safely and properly."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to treat others with respect during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Identify physical activities that are enjoyable."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a benefit of willingly trying new movements and motor skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of continuing to participate when not successful on the first try."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Travel using various locomotor skills while changing directions, pathways and speeds."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object upward using body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Strike a lightweight object upward continuously using a paddle/racket."}
+        },
+        {
+            "competencyText": {"en-us": "Strike a stationary object a short distance using a modified, long-handled implement so that the object travels in the intended direction."}
+        },
+        {
+            "competencyText": {"en-us": "Dribble an object with hands or feet while demonstrating control in general space."}
+        },
+        {
+            "competencyText": {"en-us": " Demonstrate a variety of basic water skills."}
+        },
+        {
+            "competencyText": {"en-us": "Move in different directions to catch a variety of self-tossed objects."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an underhand-throwing motion for accuracy using correct technique."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an overhand-throwing motion for distance using correct technique."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a self-designed creative movement/dance sequence with a clear beginning balance, use of one movement and a different and clear ending shape."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a sequence of a balance, a roll and a different balance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to take weight onto hands."}
+        },
+        {
+            "competencyText": {"en-us": "Chase, flee and dodge to avoid or catch others."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of takeoff and landing patterns to jump, hop and leap safely in relation to various types of equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the critical elements of locomotor skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety rules and procedures for teacher-selected physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technology that can be utilized to enhance physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the rules for safe water activities, and recognize the importance of having a lifeguard near water or in a swimming facility."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the importance of practicing to improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "Use skill cues to improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify dominant hand/foot for use with throwing/dribbling/striking/kicking skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify movement concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Name examples of warm-up and cool-down exercises."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Set physical-activity goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the health benefits of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify edges, pedestrians, vehicles and traffic."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a benefit of strengthening muscles."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the components of health-related physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the changes in heart rate before, during and after physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the difference in the activity of the heart during rest and while physically active."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the physiological signs of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how to properly flex and extend body parts to promote flexibility."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the food groups."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "List a benefit resulting from cooperation and sharing during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Use physical-activity space safely and properly."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate consideration of others while participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Identify physical-activity preferences."}
+        },
+        {
+            "competencyText": {"en-us": "Identify feelings resulting from participation in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of learning new movement skills."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Perform locomotor skills with proficiency in a variety of activity settings to include rhythms/dance."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object continuously using body parts both upward and downward."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object continuously using a paddle/racket both upward and downward."}
+        },
+        {
+            "competencyText": {"en-us": "Strike a stationary object a short distance using a long-handled implement so that the object travels in the intended direction."}
+        },
+        {
+            "competencyText": {"en-us": "Dribble with hands and feet in various pathways, directions and speeds around stationary objects."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of fundamental aquatics skills."}
+        },
+        {
+            "competencyText": {"en-us": "Move in different directions to catch a variety of objects softly tossed by a stationary partner."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an overhand-throwing motion for distance demonstrating correct technique and accuracy."}
+        },
+        {
+            "competencyText": {"en-us": "Perform one folk or line dance accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a sequence of a balance, a roll and a different balance with correct technique and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Perform at least one skill that requires the transfer of weight to hands."}
+        },
+        {
+            "competencyText": {"en-us": "Chase, flee and dodge to avoid or catch others while maneuvering around obstacles."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the critical elements of locomotor skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety rules and procedures for selected physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize technology to enhance experiences in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of wearing a life jacket (personal flotation device) when on a boat or near water."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how appropriate practice improves the performance of movement skills."}
+        },
+        {
+            "competencyText": {"en-us": "Apply teacher feedback to effect change in performance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe movement concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of warm-up and cool-down activities."}
+        },
+        {
+            "competencyText": {"en-us": "Define offense and defense."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Set and meet physical-activity goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how opportunities for participation in physical activities change during the seasons."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthful benefits that result from regular participation in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the proper crossing sequence."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how muscular strength and endurance enhances performance in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the components of health-related physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify that a stronger heart muscle can pump more blood with each beat."}
+        },
+        {
+            "competencyText": {"en-us": "Identify why sustained physical activity causes an increased heart rate and heavy breathing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the physiological signs of moderate to vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify benefits of participation in informal physical fitness assessment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate stretching exercises."}
+        },
+        {
+            "competencyText": {"en-us": "Categorize food into food groups."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to cooperate with others regardless of personal differences during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to safely handle physical-activity equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the personal feelings resulting from challenges, successes and failures in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to successfully resolve conflicts with others."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to use physical activity to express feeling."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the relationship between skill competence and enjoyment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to contribute as a member of a cooperative group."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Apply locomotor skills in a variety of movement settings."}
+        },
+        {
+            "competencyText": {"en-us": "Strike a stationary object from a stationary position using body parts so that the object travels in the intended direction at the desired height."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object using a paddle/racquet demonstrating correct technique of a forehand pattern."}
+        },
+        {
+            "competencyText": {"en-us": "Strike both moving and stationary objects using a long-handled implement."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain control while dribbling with hands or feet against a defender."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a combination of basic swim skills."}
+        },
+        {
+            "competencyText": {"en-us": "Move in different directions to catch objects of different sizes and weights thrown by a stationary partner."}
+        },
+        {
+            "competencyText": {"en-us": "Throw balls of various sizes and weights to a stationary partner using a correct overhand motion."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a teacher-designed sequence using manipulatives."}
+        },
+        {
+            "competencyText": {"en-us": "Perform one dance accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a self-designed gymnastics sequence consisting of clear beginning and ending balances and two different movement elements with correct technique and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Continuously jump a self-turned rope."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of purposeful movement and its impact on quality of performance."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of safety rules and procedures in all physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that technology can be utilized to gather information about performance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain different items that can be used for assisting in a water-related emergency."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how appropriate practice improves performance of movement skills."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze peer performance and provide feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reasons for warm-up and cool-down activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe basic offensive and defensive tactics."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Use an activity log to maintain a personal record of participation in physical activity during a period of time."}
+        },
+        {
+            "competencyText": {"en-us": "Identify lifestyle changes that can be made to increase the level of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between the correct and incorrect way to fit a bicycle helmet."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how muscular strength and endurance enhances performance in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between the heart and lungs during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate physical activities that result in the development of cardiorespiratory endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Match physical fitness assessment events to the associated fitness component."}
+        },
+        {
+            "competencyText": {"en-us": "Identify formal and informal physical fitness assessments."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to safely stretch major muscle groups."}
+        },
+        {
+            "competencyText": {"en-us": "Read food labels for specific nutrition facts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the principles of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify individual strengths and weaknesses based upon results of a formal fitness assessment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways that technology can assist in the pursuit of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to work cooperatively with peers of differing skill levels."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to show respect for the views of a peer from a different cultural background."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to take responsibility for his/her own behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "List personally challenging physical-activity experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to appreciate the good physical performance of others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to celebrate one's own physical accomplishments while displaying sportsmanship."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Apply movement concepts to the performance of locomotor skills in a variety of movement settings."}
+        },
+        {
+            "competencyText": {"en-us": "Strike a moving object using body parts so that the object travels in the intended direction at the desired height."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object continuously using a paddle/racquet demonstrating correct technique of a forehand pattern."}
+        },
+        {
+            "competencyText": {"en-us": "Strike moving and/or stationary objects with long-handled implements using correct technique so the objects travel in the intended direction."}
+        },
+        {
+            "competencyText": {"en-us": "Dribble and pass to a moving partner."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of swim strokes."}
+        },
+        {
+            "competencyText": {"en-us": "Move in different directions to catch objects of different sizes and weights thrown by a stationary partner from varying distances."}
+        },
+        {
+            "competencyText": {"en-us": "Throw balls of various sizes and weights to a stationary partner from varying distances using a correct overhand motion."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a teacher-designed sequence, with or without manipulatives, while demonstrating balance, coordination, clear shapes, purposeful movements and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": " Perform two or more dances accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a self-designed gymnastics sequence consisting of clear beginning and ending balances and three different movement elements with correct technique and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Run and hurdle a succession of low- to medium-level obstacles."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of purposeful movement in a variety of movement settings."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of safety rules and procedures in all physical activities, especially those that are high risk."}
+        },
+        {
+            "competencyText": {"en-us": "Use technology to gather information about performance."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of protecting parts of the body from the harmful rays of the sun."}
+        },
+        {
+            "competencyText": {"en-us": "Detect errors in personal movement patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and discuss skills/sports that use similar movement patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Identify proper warm-up and cool-down techniques and the reasons for using them."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of hydration before, during and after physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic offensive and defensive tactics for modified invasion and net activities."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Implement at least one lifestyle behavior to increase physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of wearing a bicycle helmet."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the muscles being strengthened during the performance of specific activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify several activities related to each component of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain heart rate within the target heart rate zone for a specified length of time during an aerobic activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to participate in selected physical activities for the purpose of improving physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to participate in formal and informal physical fitness assessment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how specific stretches increase flexibility and reduce the chance of injury."}
+        },
+        {
+            "competencyText": {"en-us": "Understand appropriate serving size."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the principles of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Develop short- and long-term fitness goals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways that technology can assist in the pursuit of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the influence of individual differences on participation in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to encourage others while refraining from insulting/negative statements."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate respect and caring for students with disabilities through verbal and non-verbal encouragement and assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how physical activity can be a positive opportunity for social and group interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the connection between skill competence and enjoyment of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss ways to celebrate one's own physical accomplishments while displaying sportsmanship."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Apply locomotor skills in a variety of movement settings, while applying the appropriate movement concepts as the situation demands."}
+        },
+        {
+            "competencyText": {"en-us": "Approach and strike a moving object with body parts so that the object travels in the intended direction at the desired height using correct technique."}
+        },
+        {
+            "competencyText": {"en-us": "Strike an object continuously with a partner using a paddle/racquet demonstrating correct technique of a forehand pattern."}
+        },
+        {
+            "competencyText": {"en-us": "Strike moving and/or stationary objects with long-handled implements so the objects travel in the intended direction at the desired height using correct technique."}
+        },
+        {
+            "competencyText": {"en-us": "Apply dribbling skills in modified games, focusing on offensive strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in one or more swim strokes."}
+        },
+        {
+            "competencyText": {"en-us": "Catch a variety of objects while traveling and being defended."}
+        },
+        {
+            "competencyText": {"en-us": "Throw a leading pass overhand to a moving partner using a variety of objects."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a self-designed sequence, with or without manipulatives, while demonstrating balance, coordination, clear shapes, purposeful movements and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of dances accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a self-designed gymnastics sequence consisting of clear beginning and ending balances and four different movement elements with correct technique and smooth transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply purposeful movement to a variety of movement settings to include designing and performing movement routines."}
+        },
+        {
+            "competencyText": {"en-us": "Design or modify a game incorporating skills, rules and strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Apply feedback gathered from the use of technology to assess and enhance performance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the different types of basic water- rescue techniques, using various types of items."}
+        },
+        {
+            "competencyText": {"en-us": "Detect, analyze and correct errors in personal movement patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast skills/sports that use similar movement patterns and concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic practice and conditioning principles that enhance performance."}
+        },
+        {
+            "competencyText": {"en-us": "Categorize basic offensive and defensive tactics for modified invasion and net activities."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a moderate physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities during the school day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities for involvement in physical activities after the school day.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Formulate a plan to increase the amount of time spent in physical activity.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss lifestyle behaviors that can be made to increase physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Use technology to enhance regular participation in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of being visible, being predictable and communicating when cycling."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between muscular strength and muscular endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify activities that develop and maintain each component of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify that an increase in heart rate intensity is necessary to enhance cardiorespiratory endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze one's own physical fitness assessment results and develop strategies to enhance performance."}
+        },
+        {
+            "competencyText": {"en-us": "Select proper stretching exercises to increase flexibility and reduce the chance of injury."}
+        },
+        {
+            "competencyText": {"en-us": "Plan a menu for a balanced meal."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the principles of physical fitness to exercise."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate progress toward short- and long-term fitness goals."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology can assist in the pursuit of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a benefit of working productively with a partner to improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to utilize equipment safely during physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of individual differences on participation in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how participation in physical activity is a source of self-expression and meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the benefits of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways to celebrate one's own physical accomplishments while displaying sportsmanship."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate movements designed to improve and maintain cardiorespiratory endurance, muscular strength and endurance, flexibility and proper body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Perform at least three different activities that achieve target heart rate."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the principles of training (overload, specificity and progression) and conditioning (frequency, intensity, time and type) for specific physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Perform at least three activities having value for cardiorespiratory fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Perform movements using a variety of equipment which lead to improved or maintained muscular strength and endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Design and perform smooth, flowing sequences of stunts, tumbling and rhythmic patterns that combine traveling, rolling, balancing and transfer of weight."}
+        },
+        {
+            "competencyText": {"en-us": "Design and perform a routine to rhythm, with a partner or a group, while incorporating gymnastic actions and various forms of locomotion on small and/or large apparatus."}
+        },
+        {
+            "competencyText": {"en-us": "Perform complex dance sequences from a variety of dances accurately and with correct technique."}
+        },
+        {
+            "competencyText": {"en-us": "Create and perform a rhythmic movement sequence while working with a partner or group."}
+        },
+        {
+            "competencyText": {"en-us": "Design and perform different group dance and rhythm sequences that incorporate equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Apply proper warm-up and cool-down techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Use proper safety practices."}
+        },
+        {
+            "competencyText": {"en-us": "Use technology to assess, enhance and maintain motor skill performance."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify at least two movements or activities which will lead to improvement in each of the health-related components of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "List safety procedures that should be followed when engaging in activities to improve the health-related components of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how each of the health-related components of fitness are improved through the application of training principles."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the long-term benefits of regular physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the training principles of overload, progression and specificity."}
+        },
+        {
+            "competencyText": {"en-us": "Classify activities as aerobic or anaerobic."}
+        },
+        {
+            "competencyText": {"en-us": "Determine personal target heart-rate zone and explain how to adjust intensity level to stay within the desired range."}
+        },
+        {
+            "competencyText": {"en-us": "List methods of monitoring intensity level during aerobic activity."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the effects of physical activity on heart rate during exercise, recovery phase and while the body is at rest."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the difference between fact and fallacy as it relates to consumer physical fitness products and programs."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a log noting the food intake, calories consumed and energy expended through physical activity and describe results."}
+        },
+        {
+            "competencyText": {"en-us": "List the components of skill-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "List appropriate warm-up and cool-down techniques and the reasons for using them."}
+        },
+        {
+            "competencyText": {"en-us": "List terminology and etiquette in educational gymnastics or dance."}
+        },
+        {
+            "competencyText": {"en-us": "Choreograph basic dance or gymnastic sequences alone, with a partner or in a small group."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the movement performance of others."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the mechanical principles of balance, force and leverage and how they relate to the performance of skills in gymnastics or dance."}
+        },
+        {
+            "competencyText": {"en-us": "List and describe the risks and safety procedures in gymnastics and dance."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the relationship between music and dance or gymnastics skills."}
+        },
+        {
+            "competencyText": {"en-us": "Know how improvisation is used to create movements for choreography."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the precautions to be taken when exercising in extreme weather and/or environmental conditions."}
+        },
+        {
+            "competencyText": {"en-us": "List the three different types of heat illnesses associated with fluid loss."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in moderate physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in vigorous physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of fitness, wellness, gymnastics and dance activities that promote the components of health-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the in-school opportunities for physical activity that promote fitness, wellness, gymnastics and dance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the community opportunities for physical activity that promote fitness, wellness, gymnastics and dance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of fitness, wellness, gymnastics and dance activities that promote stress management."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Create, implement and assess a personal fitness program in collaboration with a teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Develop goals and strategies for a personal physical fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Use available technology to assess, design and evaluate a personal physical-activity plan."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal fitness program including a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related problems associated with low levels of cardiorespiratory endurance, muscular strength, muscular endurance, flexibility and body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "List ways that peer pressure can be positive and negative."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate acceptance and respect for persons of diverse backgrounds and abilities in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible behaviors during physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the personal, social and ethical behaviors that apply to specific physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate etiquette, care of equipment, respect for facilities and safe behaviors while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression, and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Identify an opportunity for participation in a physical activity outside of the school setting that contributes to personal enjoyment and the attainment or maintenance of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the potential benefits of participation in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in games, sports and/or physical activities from other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in modified versions of team sports demonstrating mature patterns while using a variety of manipulative skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use basic offensive and defensive strategies while playing modified versions of a variety of sports and activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate relationships between the body and an opponent in dynamic game situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate introductory outdoor pursuits skills."}
+        },
+        {
+            "competencyText": {"en-us": "Perform aquatics activities to improve or maintain health-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the critical elements in specialized skills related to a variety of team sports or outdoor pursuits activities."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize proper equipment and implement appropriate safety procedures for participation in a variety of sports or activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply technology to evaluate, monitor and improve individual skill performance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate principles of biomechanics necessary for safe and successful performance."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic rules for team sports."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic rules for outdoor pursuits/aquatics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic offensive and defensive strategies in modified games or activities and team sports."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic offensive and defensive strategies in modified games or activities and outdoor pursuits/aquatics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain different types of safety equipment and practices relating to water activities."}
+        },
+        {
+            "competencyText": {"en-us": "Provide feedback on skill patterns of self and partner by detecting and correcting mechanical errors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the critical elements for successful performance of a variety of sport skills."}
+        },
+        {
+            "competencyText": {"en-us": "List specific safety procedures and equipment necessary for a variety of sport skills and physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how movement skills learned in one physical activity can be transferred and used in other physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in moderate physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in vigorous physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of team sports, outdoor pursuits and aquatics activities that promote health-related physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the in-school opportunities for participation in team sports, outdoor pursuits and aquatics activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the community opportunities that promote team sports, outdoor pursuits and aquatics activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of team sports, outdoor pursuits and aquatics activities that promote stress management."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Create, implement and assess a personal fitness program in collaboration with a teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Develop goals and strategies for a personal physical fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Use available technology to assess, design and evaluate a personal physical-activity plan."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal fitness program including a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related problems associated with low levels of cardiorespiratory endurance, muscular strength and endurance, flexibility and body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify situations in which peer pressure could negatively impact one's own behavior choices."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate acceptance and respect for persons of diverse backgrounds and abilities in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible behaviors during physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "List examples of appropriate personal, social and ethical behaviors that apply to specific physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate etiquette, care of equipment, respect for facilities and safe behaviors while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression, and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Identify an opportunity for participation in a physical activity outside of the school setting that contributes to personal enjoyment and the attainment or maintenance of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the potential benefits of participation in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in games, sports and/or physical activities from other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in motor skills for a variety of individual/dual and extreme/alternative sports."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate critical elements when striking with an object or implement."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate body management for successful participation in a variety of modified games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply principles of biomechanics necessary for safe and successful performance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate speed and generation of force when distance running, sprinting, throwing, jumping, striking or kicking."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate offensive, defensive and transition strategies and tactics."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skill-related components of balance, reaction time, agility, coordination, power and speed to enhance performance levels."}
+        },
+        {
+            "competencyText": {"en-us": "Apply technology to evaluate, monitor and improve individual motor skills."}
+        },
+        {
+            "competencyText": {"en-us": "Select and utilize appropriate safety equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic rules for individual/dual sports."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic rules for alternative/extreme sports activities."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic offensive and defensive strategies in individual/dual sports."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic offensive and defensive strategies in alternative/extreme sports activities."}
+        },
+        {
+            "competencyText": {"en-us": "Provide feedback on skill patterns of self and partner by detecting and correcting mechanical errors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the critical elements for successful performance in a variety of sport skills or physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "List specific safety procedures and equipment necessary for a variety of sport skills and physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how movement skills and strategies learned in one physical activity can be transferred and used in other physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in moderate physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in vigorous physical activity on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of individual/dual and alternative/extreme sport activities that promote health-related components of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the in-school opportunities for participation in individual/dual and alternative/extreme sports."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the community opportunities for participation in individual/dual and alternative/extreme sports."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of individual/dual and alternative/extreme sport activities that promote stress management."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Create, implement and assess a personal fitness program in collaboration with a teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Develop goals and strategies for a personal physical fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Use available technology to assess, design and evaluate a personal physical fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal fitness program including a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related problems associated with low levels of cardiorespiratory endurance, muscular strength and endurance, flexibility and body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Define training principles appropriate for enhancing cardiorespiratory endurance, muscular strength and endurance, flexibility and body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to act independently of peer pressure during physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Develop strategies for including persons of diverse backgrounds and abilities while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate sportsmanship during game situations."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain appropriate personal, social and ethical behavior while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate etiquette, care of equipment, respect for facilities and safe behaviors while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression, and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss opportunities for participation in a variety of physical activities outside of the school setting that contribute to personal enjoyment and the attainment or maintenance of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the potential benefits of participation in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast games, sports and/or physical activities from other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Movement Competency"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in many, and proficiency in a few, movement forms from a variety of categories."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate critical elements of basic skills relating to aquatics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in combination of motor skills related to aquatics."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a basic water rescue, with or without equipment, without entering the water."}
+        },
+        {
+            "competencyText": {"en-us": "Perform refinement of one or more swim strokes to enhance efficiency, power and cardiorespiratory endurance in a variety of aquatics settings. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply strategies for self improvement based on individual strengths and needs."}
+        },
+        {
+            "competencyText": {"en-us": "Select appropriate music for dance forms and choreograph dance movements to music."}
+        },
+        {
+            "competencyText": {"en-us": "Perform advanced dance sequences from a variety of dances accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Design and perform a creative movement sequence while working with a small or large group, with or without equipment/props."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate complex skills and advanced rhythmic movements in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Apply sport specific skills in simulation and in real-life applications."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in two or more extreme sports activities."}
+        },
+        {
+            "competencyText": {"en-us": "Select and perform complex movements using a variety of equipment which lead to improved or maintained muscular strength and endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a student-designed cardiorespiratory enhancing workout."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize technology to assess, enhance and maintain health and skill-related fitness levels."}
+        },
+        {
+            "competencyText": {"en-us": "Select and apply sport/activity specific warm-up and cool-down techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the principles of training and conditioning to accommodate individual needs and strengths."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic cardiopulmonary resuscitation (CPR) procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a variety of gymnastics skills with a level of control."}
+        },
+        {
+            "competencyText": {"en-us": "Use correct body alignment, strength, flexibility and coordination in the performance of technical movements."}
+        },
+        {
+            "competencyText": {"en-us": "Perform complex combinations and sequences demonstrating smooth transitions while alone, with a partner or in a small group."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the relationship between complex dance elements and rhythmic movements related to educational gymnastics skills and sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in advanced combinations of motor skills for a variety of individual and dual sports."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency of critical elements when striking with objects, implements or body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a combination of complex movement patterns in a game setting."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate speed and generation of force when distance running, sprinting, throwing, jumping, striking or kicking."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and apply offensive, defensive and transition strategies and tactics to reflect a higher order of thinking."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in a variety of outdoor pursuit activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply strategies and tactics in a variety of outdoor pursuits."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in self-defense movement skills."}
+        },
+        {
+            "competencyText": {"en-us": "Combine and apply movement patterns from simple to complex."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate advanced offensive, defensive and transition strategies and tactics."}
+        },
+        {
+            "competencyText": {"en-us": "Apply sport specific skills in a variety of game settings."}
+        },
+        {
+            "competencyText": {"en-us": "Practice complex motor activities in order to improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate use of the mechanical principles as they apply to specific course activities."}
+        },
+        {
+            "competencyText": {"en-us": "Select proper equipment and apply all appropriate safety procedures necessary for participation."}
+        },
+        {
+            "competencyText": {"en-us": "Cognitive Abilities"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze and evaluate movement concepts, mechanical principles, safety considerations and strategies/tactics regarding movement performance in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the critical elements of a basic water rescue."}
+        },
+        {
+            "competencyText": {"en-us": "Apply terminology and etiquette in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the movement performance of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Choreograph complex dance sequences individually, with a partner or in a small group."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between music and dance."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the health-related benefits of various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effectiveness of specific warm-up and cool-down activities."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between the three different types of heat illnesses associated with fluid loss."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the precautions to be taken when exercising in extreme weather and/or environmental conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze long-term benefits of regularly participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how each of the health-related components of fitness are improved through the application of training principles."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast aerobic versus anaerobic activities."}
+        },
+        {
+            "competencyText": {"en-us": "Document food intake, calories consumed and energy expended through physical activity and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the skill-related components of fitness used in various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate individual target heart-rate zone and analyze how to adjust intensity level to stay within the desired range."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the methods of monitoring levels of intensity during aerobic activity."}
+        },
+        {
+            "competencyText": {"en-us": "Assess physiological effects of exercise during and after physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between fact and fallacy as it relates to consumer physical fitness products and programs."}
+        },
+        {
+            "competencyText": {"en-us": "Choreograph complex sequences individually, with a partner or in a small group."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate methods to resolve physical conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram, explain and justify the use of advanced offensive, defensive and transition strategies and tactics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the skill-related components of fitness and how they enhance performance levels."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate technology and analyze data to evaluate, monitor and/or improve performance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the mechanical principles as they apply to specific course activities."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and evaluate the risks, safety procedures, rules and equipment associated with specific course activities."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate skill patterns of self and/or partner by detecting and correcting mechanical errors."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how movement skills from one physical activity can be transferred and used in other physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and apply the rules associated with specific course activities."}
+        },
+        {
+            "competencyText": {"en-us": "Lifetime Fitness"}
+        },
+        {
+            "competencyText": {"en-us": "Participate regularly in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of physical activities to meet the recommended number of minutes of moderate to vigorous physical activity beyond physical education on five or more days of the week."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of activities that promote the health-related components of fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of activities that promote effective stress management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the in-school opportunities for participation in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the community opportunities for participation in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify risks and safety factors that may affect physical activity throughout life."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and implement a personal fitness program to achieve and maintain a health-enhancing level of physical fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Design a personal fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to self-assess and modify a personal fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies for setting goals when developing a personal fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Use available technology to assess, design and evaluate a personal fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the principles of training to personal fitness goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related problems associated with low levels of cardiorespiratory endurance, muscular strength and endurance, flexibility and body composition."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how to make changes in an individual wellness plan as lifestyle changes occur."}
+        },
+        {
+            "competencyText": {"en-us": "Responsible Behaviors and Values"}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit responsible personal and social behavior that respects self and others in physical-activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to act independently of peer pressure during physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Develop strategies for including persons of diverse backgrounds and abilities while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate sportsmanship during game situations."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain appropriate personal, social and ethical behavior while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate etiquette, care of equipment, respect for facilities and safe behaviors while participating in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Value physical activity for health, enjoyment, challenge, self-expression, and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss opportunities for participation in a variety of physical activities outside of the school setting that contribute to personal enjoyment and the attainment or maintenance of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze physical activities from which benefits can be derived."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the roles of games, sports and/or physical activities in other cultures."}
+        }
+    ]
+}

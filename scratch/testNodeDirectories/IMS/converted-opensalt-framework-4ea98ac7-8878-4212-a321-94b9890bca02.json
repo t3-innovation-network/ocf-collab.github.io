@@ -1,0 +1,601 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/4ea98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Health Science"},
+        "description": {"en-us": "CTE-Health Science Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Biotechnology Research and Development"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the biotechnology research and development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the biotechnology research and development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers in the biotechnology research and development career pathway (e.g. Biomedical Engineering and Biomedical Research)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the biotechnology research and development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Perform lab skills related to covered career (e.g. microbiology labs, investigating antisepsis procedures, DNA extraction lab)."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the role of research in medical advancements and discoveries that promote wellness (e.g. development of vaccines and discovery of the structure of DNA)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the biotechnology research and development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Diagnostic Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the diagnostic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the diagnostic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers in the diagnostic services career pathway (e.g. Medical Laboratory Services, Radiology, Ophthalmology)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the diagnostic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the diagnostic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Perform lab activities related to careers being explored (e.g. blood glucose testing, blood typing, and vision testing)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the diagnostic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "General"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize progress in health care service."}
+        },
+        {
+            "competencyText": {"en-us": "Compare medical progress from early times to the present (e.g. surgical techniques, anesthesia, treatment, and equipment)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss health care leaders who brought about change and progress from early times to the present (e.g. Hippocrates, Edward Jenner, Joseph Lister, Alexander Fleming, Marie Curie, and Clara Barton)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of how advances in science have impacted beliefs and practices from ancient times to the present."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a well-rounded understanding of healthcare professions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between self-awareness and satisfying career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of tasks related to health service careers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the personal traits required for employment in health care."}
+        },
+        {
+            "competencyText": {"en-us": "List factors related to job satisfaction."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a project, solve a problem, or complete an activity related to a career through team or group work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify several professions in each of the health science career pathways: biotechnology research and development, diagnostic services, health informatics, support services, and therapeutic services."}
+        },
+        {
+            "competencyText": {"en-us": "List the advantages and disadvantages of one occupation in each pathway including the following factors: job opportunities, salary range, fringe benefits, working conditions, occupational hazards, and educational requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the differences between volunteer and governmental agencies in healthcare."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of education and training levels as related to health careers."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and appreciate the importance of legal and ethical behaviors as related to health careers."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the knowledge and skills needed to do research."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a career in detail chosen from one of the health science career pathways."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the major scientific advancements that have contributed to the evolution of healthcare."}
+        },
+        {
+            "competencyText": {"en-us": "Research contributions made in the field of medical science and their impact on the health care field."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the health science career pathways:  Therapeutic Services, Diagnostic Services, Health Informatics, Support Services, Biotechnology Research and Development."}
+        },
+        {
+            "competencyText": {"en-us": "Research and describe a healthcare profession of interest identified through a career inventory assessment."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a career inventory to match student interest with potential healthcare careers."}
+        },
+        {
+            "competencyText": {"en-us": "List employability or soft skills and characteristics needed to be successful in the workplace (e.g. punctuality, dependability, and communication skills)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the characteristics of healthcare professionals."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize basic communication skills in the healthcare setting."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of interpersonal communication skills such as active listening, verbal, non-verbal and written language."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate interpersonal communication skills such as active listening, verbal, non-verbal and written language in the health care setting."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technology used for communication in healthcare professions and proper etiquette for its use."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to break medical terms into their word parts."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss common abbreviations and symbols used in healthcare professions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate use of medical terminology and abbreviations associated with healthcare professions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technology used for communication in healthcare professions and proper etiquette for its use."}
+        },
+        {
+            "competencyText": {"en-us": "Identify life stages and the health care needs of each."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common health care needs from birth to death and identify occupations that address those needs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify occupations aimed at promoting optimum health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common health care needs from birth to death and identify how nurses help address those needs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how nurses promote optimum health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how cultural diversity and transcultural nursing affects health care needs at different life stages."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic mathematical calculations and demonstrate problem solving skills used by the health care worker."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of why accurate calculations and effective problem solving skills are required for health care workers."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate mathematical problems and measurements related to health care."}
+        },
+        {
+            "competencyText": {"en-us": "Convert common weights, measure, and volumes to metric as applied in the health care setting."}
+        },
+        {
+            "competencyText": {"en-us": "Accurately tell time using both standard and international or military time formats."}
+        },
+        {
+            "competencyText": {"en-us": "Accurately identify and perform appropriate numeric procedures with problems found in numeric, symbolic, or word form as they relate to health care occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze case studies or current events where adverse consequences resulted from mathematical medical error."}
+        },
+        {
+            "competencyText": {"en-us": "Measure artificial medication in various forms (e.g. syringes, medicine cups)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the principles of wellness and disease."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how cultural and individual lifestyle differences relate to wellness and quality of life and how these differences impact health problems of society."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the risk factors that contribute to illness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify consequences of substance abuse and high risk behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ecological issues that affect wellness and identify environmental careers associated, such as parks and recreation, health inspectors, and sanitariums."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strategies for prevention of diseases including health screenings and examinations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic concepts of positive self-image, body and mental wellness, and the effect stress has on both."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the need for proper nutrition and water intake to maintain wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the sciences in the health care field."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of how the scientific method and advances in science have impacted beliefs and practices from ancient times to the present."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the role science has in the health field."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the science courses required by various health occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the role science has in nursing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate occupational safety skills related to the employer, employee and the patient in the healthcare setting."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize safety concerns related to the practice of health care."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safety habits that will prevent injury to health care workers, co-workers, and patients including proper use of personal protective equipment (PPE) and infection control practices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify poisons and hazardous materials to include the use and interpretation of a Safety Data Sheet (SDS) form."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding for the importance of fire safety practices including prevention, evacuation plans (R.A.C.E.) and the use of a fire extinguisher (P.A.S.S.)."}
+        },
+        {
+            "competencyText": {"en-us": "Explore basic information on the dangers of blood borne diseases in healthcare including but not limited to HIV/AIDS and Hepatitis B."}
+        },
+        {
+            "competencyText": {"en-us": "Perform proper body mechanics to prevent self and patient injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Health Science cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Health Science career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Health Science career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Health Science career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Health Science career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Health Science career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Health Science career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Health Science career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss personal qualities essential to nurses."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the personal traits of an ideal nurse."}
+        },
+        {
+            "competencyText": {"en-us": "List their own personal traits that would assist them in nursing and those that would need to be improved or developed."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of legal and ethical behaviors as related to nursing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and discuss progress in health care."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of how the scientific method and advances in science have impacted beliefs and practices from ancient times to the present."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the broad scope of health care delivery systems in homes, institutions, and the community."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to make informed decisions regarding choice of health care providers and products."}
+        },
+        {
+            "competencyText": {"en-us": "Research contributions made in the field of medical science and their impact on the health care field."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the importance of legal and ethical behavior related to health care."}
+        },
+        {
+            "competencyText": {"en-us": "Identify responsibilities in maintaining ethical standards, confidentiality, and the patient's rights."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and define terms related to the legal and ethical aspects of the health care industry (e.g. malpractice, negligence, invasion of privacy, quackery, ethics and law, Patients\u2019 Bill of Rights, licensure)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ethical and unethical conduct through simulated examples (e.g. role playing, making posters, TV commercials, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an awareness of various career pathways for nursing and occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and classify what careers fall under the nursing service category and cluster (e.g. CNAs, PCTs, LPNs, ADNs, diploma RNs, BSNs, MSNs, PhDs, and DNPs) and identify various pathways to reach these levels."}
+        },
+        {
+            "competencyText": {"en-us": "List various institutions where training for nursing careers is available."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of education and training levels as it relates to nursing services and occupations."}
+        },
+        {
+            "competencyText": {"en-us": "List the advantages and disadvantages of one occupation including the following factors: job opportunities, salary ranges, fringe benefits, working conditions, and occupational hazards."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the history of nursing."}
+        },
+        {
+            "competencyText": {"en-us": "Compare nursing care from early times to the present (e.g. families, religious orders, wars, modern treatment and equipment)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss early pioneers in nursing such as Clara Barton and Florence Nightingale. "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of how advances in science have impacted beliefs and practices from ancient times to the present."}
+        },
+        {
+            "competencyText": {"en-us": "Apply scientific principles to the health care field."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the overall organization of the human body."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic structure and function of the body systems of the human body."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the systems of the human body work together to maintain homeostasis."}
+        },
+        {
+            "competencyText": {"en-us": "Describe mechanisms of disease transmission, the Chain of Infection, prevention and standard precautions."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss various job settings for nurses."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize various settings that employ nurses."}
+        },
+        {
+            "competencyText": {"en-us": "Compare salaries and benefits of various levels of nursing and various employment settings."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss pros and cons of nursing jobs in various settings."}
+        },
+        {
+            "competencyText": {"en-us": "Health Informatics"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the health informatics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the health informatics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers in the health informatics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the careers available in the health informatics career pathway (e.g. Medical Coding/Biller, Medical Office Administration)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the health informatics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the health informatics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Perform activities related to health informatics careers (e.g. evaluating medical records or bills, office reception and support)."}
+        },
+        {
+            "competencyText": {"en-us": "Support Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers in the support services career pathway (e.g. dietary services, central supply, social services, environmental services)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Perform lab skills related to covered careers (e.g. diet plan design and housekeeping)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Therapeutic Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the therapeutic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the therapeutic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers in the therapeutic services career pathway, including educational requirements and salary expectations (e.g. EMS, Nursing, Dentistry, Pharmacy, Sports Medicine)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the therapeutic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills and equipment used in therapeutic service careers."}
+        },
+        {
+            "competencyText": {"en-us": "Perform lab activities that are relevant to each career that is being explored."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the therapeutic services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills performed by various levels of nursing occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify representative skills of nursing assistants and home health aides."}
+        },
+        {
+            "competencyText": {"en-us": "Identify representative skills of patient care technicians."}
+        },
+        {
+            "competencyText": {"en-us": "Identify representative skills of practical nurses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify representative skills of professional nurses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify representative skills of nursing specialties."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the multiple facets of wellness and disease."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strategies for prevention of diseases, including health screenings and examinations."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the adverse effects of alcohol, tobacco, and drugs on the human body and strategies to prevent addiction in yourself and others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain basic concepts of positive self-image, body and mental wellness and the effect stress has on both."}
+        },
+        {
+            "competencyText": {"en-us": "Explore basic information on the dangers of blood borne diseases in healthcare, including, but not limited, to HIV/AIDS and Hepatitis B."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the need for proper nutrition (www.myplate.gov) and water intake to maintain wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic health care skills."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and record (graph) height and weight."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and record temperature, pulse and respiration (TPR)."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and record temperature, pulse, blood pressure and respiration while recognizing the normal ranges for each."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate medical aseptic technique by using proper hand washing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate medical aseptic technique by hand washing, gloving and application of personal protective equipment (PPE)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform proper body mechanics to prevent self and patient injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate hands-only CPR."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the need for personal comfort measures to include skin care, bed bath, bed making, and mouth care."}
+        },
+        {
+            "competencyText": {"en-us": "Show an awareness of safe patient transfer techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the importance of instructions to patients in safe use of assisting devices."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic first aid skills (i.e. bleeding, fractures, and musculoskeletal emergencies)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate Cardiopulmonary Resuscitation (CPR) and care for a choking victim."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic skills used within the healthcare professions may include the following: visualizing x-rays, conduct vision testing (Snellen chart, peripheral vision, color blindness), conduct basic hearing test, measure respiratory capacity and output, range-of-motion exercises, conduct simulated ABO blood-typing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take vital signs and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take an oral, temporal, axillary and tympanic temperature and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take a radial, carotid, and apical pulse and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take respiration and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take a blood pressure and analyze the results."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a basic head to toe assessment and document the findings."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a basic head to toe assessment and document the findings using correct terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to take a health history."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of anatomy and physiology of the human body and perform nursing skills utilized for each system."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the anatomical position of the body by defining basic body planes and directional terms."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the respiratory system and perform a basic assessment of respiratory rate and lung sounds."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the integumentary system and identify the various wounds related to the skin and their treatment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the skeletal system and identify types of fractures and splint and sling techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the muscular system and perform range of motion (ROM) exercises."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the digestive system and assess bowel sounds."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the ear and perform the Rhinnes and Weber hearing test with a tuning fork. If available, test hearing with an audiometer."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the eye and perform a vision exam using a Snellen eye chart."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the nervous system and perform a reflex exam using a reflex hammer."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the circulatory system and how to take a blood pressure."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the excretory system and measure input and output."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of illnesses and diseases related to the immune system, perform hand washing, demonstrate the operation of a microscope, and demonstrate the streaking of an agar plate."}
+        }
+    ]
+}

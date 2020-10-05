@@ -1,0 +1,208 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a652108",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/52a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Law, Public Safety, and Security"},
+        "description": {"en-us": "CTE-Law, Public Safety, and Security Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Correction Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the correction services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the correction services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the correction services career pathway to include: officer, probation, psychology, medical, social services, food services, and gang investigators."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the correction services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the correction services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the correction services career pathway to include: prison construction, digital courts, and audio/visual monitoring."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the correction services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the careers in the correction services career pathway have evolved and impacted society from 1970\u2019s to present."}
+        },
+        {
+            "competencyText": {"en-us": "Emergency and Fire Management Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the emergency and fire management services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the emergency and fire management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Law, Public Safety & Security cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Law, Public Safety & Security career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Law, Public Safety & Security career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use communication protocols for Law, Public Safety & Security career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Define what a Mobile Data Terminal and how it is used."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the different types of dispatching organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the correct identification of the phonetic alphabet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use proper radio procedures for communicating."}
+        },
+        {
+            "competencyText": {"en-us": "Law Enforcement Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the law enforcement services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the law enforcement services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the law enforcement services career pathway to include: law enforcement, K-9, dispatch, traffic enforcement, investigations, agriculture officer, marine patrol, and aviation officer."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the law enforcement services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the law enforcement services career pathway to include: FBI Academy, FLETC, and Florida Law Enforcement Academy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the law enforcement services career pathway to include: forensics, cyber crime, and crime prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the careers in the law enforcement services career pathway have evolved and impacted society from the 1970\u2019s to present day."}
+        },
+        {
+            "competencyText": {"en-us": "Identify components of criminal investigations."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some careers available in criminal investigations to include crime scene technician and crime lab technician."}
+        },
+        {
+            "competencyText": {"en-us": "Identify evidence at a crime scene."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how to collect evidence at a crime scene."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the skills for lifting latent prints."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in processing a mock crime scene."}
+        },
+        {
+            "competencyText": {"en-us": "Legal Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the legal services career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the legal services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Security and Protective Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the security and protective services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the careers in the security and protective services career pathway have evolved and impacted society."}
+        }
+    ]
+}

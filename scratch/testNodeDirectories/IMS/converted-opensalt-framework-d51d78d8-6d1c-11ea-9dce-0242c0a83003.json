@@ -1,0 +1,2127 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/d51d78d8-6d1c-11ea-9dce-0242c0a83003",
+        "name": {"en-us": "Chapter 58 Professional Educator Preparation Program Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Initial Content and Pedagogical Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The provider ensures that candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate a deep understanding of the critical concepts and principles of their discipline and are able to use discipline-specific practices flexibly to advance the learning of all P-12 students toward attainment of college- and career-readiness standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate an understanding of the 11 Montana teaching standards (ARM 10.58.501) within the categories \"the learner and learning,\" \"content,\" \"instructional practice,\" and \"professional responsibility;\""}
+        },
+        {
+            "competencyText": {"en-us": "(c) use research and evidence to develop an understanding of the teaching profession and use both to measure their P-12 studentsꞌ progress and their own professional practice;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) apply content and pedagogical knowledge as reflected in outcome assessments in response to standards of professional associations and national or other accrediting bodies;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate skills and commitment that afford all P-12 students access to rigorous college- and career-ready standards; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) integrate technology in the design, implementation, and assessment of learning experiences to engage P-12 students, improve learning, and enrich professional practice."}
+        },
+        {
+            "competencyText": {"en-us": "Teaching Standards"}
+        },
+        {
+            "competencyText": {"en-us": "(1) All programs require that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate understanding of how learners grow and develop, recognizing that patterns of learning and development vary individually within and across the cognitive, linguistic, social, emotional, behavioral health continuum, and physical areas, and individualize developmentally appropriate and challenging learning experiences for learners of all cognitive abilities;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use understanding of individual differences and diverse cultures and communities, including American Indians and tribes in Montana and English Language Learners (ELL), to ensure inclusive environments that enable each learner to meet high standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) work with others to create environments that support individual and collaborative learning and that encourage positive social interaction, active engagement in learning, and self-motivation;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate understanding of the central concepts, tools of inquiry, and structures of the discipline(s) the candidate teaches and create individualized learning experiences that make the discipline accessible and meaningful for learners to assure mastery of the content, and include the instruction of reading and writing literacy into all program areas;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate understanding of how to connect concepts and use differing perspectives to engage learners in critical thinking, creativity, and collaborative problem solving related to authentic local and global issues;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use multiple methods of assessment, including formative and summative assessments, to engage learners in their own growth, to monitor learner progress, and to guide the teacherꞌs and learnerꞌs decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) plan and implement individualized instruction that supports students of all cognitive abilities in meeting rigorous learning goals by drawing upon knowledge of content areas, curriculum, cross-disciplinary skills, and pedagogy, as well as knowledge of learners and the community context;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) use a variety of instructional strategies to encourage learners to develop deep understanding of content areas and their connections and build skills to apply knowledge in meaningful ways;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) engage in ongoing professional learning and use evidence to continually evaluate candidateꞌs practice, particularly the effects of candidateꞌs choices and actions on others (learners, families, other professionals, and the community), and adapt practice to meet the needs of each learner;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) interact knowledgeably and professionally with students, families, and colleagues based on social needs and institutional roles;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) engage in leadership or collaborative roles, or both, in content-based professional learning communities and organizations and continue to develop as professional educators; and"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate understanding of and ability to integrate history, cultural heritage, and contemporary status of American Indians and tribes in Montana."}
+        },
+        {
+            "competencyText": {"en-us": "AGRICULTURAL EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that candidates have one year (2000 hours) of practical farm or agricultural-related experience within five years prior to completion of the program and that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate essential skills and knowledge including the scientific/technical, safety, and career information in the areas of:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) agricultural, natural, and environmental resource science;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) agricultural business management and entrepreneurship;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) horticultural science;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) animal science;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) crop science;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) soil science;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) food science;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) agriculture mechanical technology;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) biotechnology; and"}
+        },
+        {
+            "competencyText": {"en-us": "(x) technology applications in agriculture;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate a philosophy of career and technical education, which reflects the unique student/community and industry interaction and includes the biological, physical, and applied sciences, personal leadership, and school-to-career components of a comprehensive agricultural education program;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate competence in the development of a comprehensive instructional program based on identified agriculture industry demographic and technological advances, including current and evolving issues and ongoing practices of Montana American Indian agricultural contributions, while recognizing the social, economic, and demographic diversity of the community in conjunction with a partnership of students, community, business, industry, tribes, families, and an appointed advisory committee;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the development of personal and leadership competencies (e.g., citizenship, personal development, goal setting, parliamentary procedure, and teamwork);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the skills and abilities to implement and manage student supervised agricultural experience programs including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) accounting practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) career experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) entrepreneurial activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) student portfolio development;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) on-site instruction; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) job-related skills;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrates the skills and abilities to develop, utilize, and manage dedicated educational facilities with current and emerging equipment, resources, library, media, and electronic technology, and maintain a safe environment during classroom, laboratory, leadership, and supervised agricultural experiences (facilities are related to instructional areas mentioned in (1));"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the scientific process of critical thinking and problem-solving in the preparation of research experiences in the classroom, laboratory, greenhouse, leadership, and supervised agricultural experiences; and"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate research-based strategies to meet the diverse learning needs of all students by applying and integrating the state's learning goals, agricultural workplace competencies, and essential academic learning requirements in program implementation and assessment, including American Indians and tribes in Montana."}
+        },
+        {
+            "competencyText": {"en-us": "ART K-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate understanding of and engage in the processes of art making involving traditional and contemporary studio approaches, concentrating in one or more studio area;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate understanding of historical and contemporary theories of art education curriculum and instruction, enabling them to reflect and refine personal art education practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) engage in inquiry into the history of art, enabling them to acquire knowledge of the cultural context in which artworks have been created, including that of American Indians and tribes in Montana, and fostering respect for all forms of art through the study of diverse traditional and contemporary artists;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) develop abilities to critically study, see, and respond to the qualities within artworks, both in the process of creating their own artworks and in observing the artworks of others, and teaching candidates to communicate their perceptions about artworks in verbal and written language;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) develop competence and a working vocabulary in art production through developing the ability to present imaginative and original ideas and feelings by creating images in a concentration of one or more of the visual art forms;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use appropriate art technologies as tools of expression, research, and assessment;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) comprehend and appropriately use copyright laws in relation to original art works and reproductions;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) develop sequential visual arts curricula with a mission and scope that assures student development and competence in a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The program requires that successful candidates demonstrate an understanding of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) the stages of artistic development of children, adolescents, and young adults as these relate to art curriculum, and ensuring that the scope and sequence of the curriculum is age appropriate;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the necessity of creating an environment of empathy, tolerance, and emotional safety in the art classroom;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the health and safety aspects of studio work, including materials, tools, equipment, classroom design, and procedures;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) budgeting and purchasing; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) censorship issues and their complexity;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) assessment strategies for evaluating student progress and accomplishments in the visual arts as aligned to the Montana standards for visual arts, as well as other standards where the arts are integrated with technology and the content areas;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) collaborative skills and practices of art in interdisciplinary curriculum and instruction with other disciplines; and"}
+        },
+        {
+            "competencyText": {"en-us": "(h) career opportunities in art and art related fields to provide encouragement and advice to students about future options."}
+        },
+        {
+            "competencyText": {"en-us": "BUSINESS EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) create, analyze, revise, and implement business education curricula that facilitates the learning of dynamic subject matter in diverse learning environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) build professional relationships with stakeholders to produce a relevant learning environment that reflects the real world and provides benefits to the student and the community, including development of career pathways and work-based learning experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the development of personal and leadership competencies (e.g., citizenship, personal development, goal setting, and collaboration);"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate and apply ethical professional practice based on the principles and philosophy of business education and career and technical education through civic engagement, advocacy, and active participation in professional development and professional growth activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) integrate professional student organizations into the curriculum to provide an environment in which students grow professionally, personally, and socially; involve the business and professional community; and recognize the organization provides opportunities for personal growth and leadership development;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify methods for selection and application of technology tools relating to personal and business decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate and apply the use of current and emerging technologies used by business, industry, and education;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate effective communication skills to facilitate learning, incorporate quality standards in all forms of communications, and recognize that culture impacts business communication;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) determine the nature and extent of the information needed, access needed information effectively and efficiently, and evaluate information and its sources critically;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate ethical and social responsibility related to business and the legal framework for personal, business, and social interactions;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify careers and opportunities in business and related occupational fields;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate the importance of employment communications to career success (e.g., resume, application letter, application forms and online application system, follow-up letter, electronic database employment search engines), interview techniques, and the skills needed to successfully obtain and maintain employment;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) assess student interests, aptitudes, personal qualities, and other information necessary for students to make informed career choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) demonstrate effective techniques for managing employees, personnel relations, and the budgeting of time and resources;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) apply marketing concepts and management fundamentals;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) organize, manage, and synthesize information to make wise business decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) demonstrate techniques for business problem solving;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) apply interpersonal, teamwork, and leadership skills necessary to function in multicultural business and social settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) demonstrate an awareness of the interrelatedness of one countryꞌs political policies and economic practices on another including interactions with sovereign tribal nations and an understanding of the global business environment, including the interconnectedness of cultural, political, legal, economic, and ethical systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) demonstrate and apply principles of economics, free enterprise, and global economies;"}
+        },
+        {
+            "competencyText": {"en-us": "(u) demonstrate and apply the basic concepts of personal finance skills, social and government responsibility, and business practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) demonstrate the role of entrepreneurship in economies and the process of starting and maintaining a business;"}
+        },
+        {
+            "competencyText": {"en-us": "(w) demonstrate accounting procedures and use of accounting tools, strategies, and systems to maintain, monitor, control, and plan the use of financial resources;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) demonstrate the ability to use technology as a tool for facilitating business functions, coordinate information technology instruction in business education and across the curriculum, and explain the value of information technology and the potential impact it may have on studentsꞌ lives;"}
+        },
+        {
+            "competencyText": {"en-us": "(y) develop studentsꞌ ability to analyze, synthesize, evaluate, and apply technologies to solve problems, increase productivity, and improve quality of life; and"}
+        },
+        {
+            "competencyText": {"en-us": "(z) demonstrate the different functional areas of business as interrelated parts rather than distinct and separate entities."}
+        },
+        {
+            "competencyText": {"en-us": "THEATRE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate the ability to create curriculum, instruction, and assessment for K-12 students in a school theatre program to make students aware of the process of artistic creation, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) generating and conceptualizing creations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) analyzing, interpreting, selecting, organizing, developing, and refining artistic techniques; conveying meaning; and completing performances; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) perceiving and analyzing, interpreting intent and meaning in, and apply criteria to evaluate responses;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge of program goals, procedures, and rationales for a school theatre program;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) integrate activities with outside performances utilizing the latest methods of theatre practice and appreciation; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) model pedagogy and attitudes which reflect current research on the theory and practice of teaching theatre."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The program requires that successful candidates demonstrate understanding and knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) theatre as a social and aesthetic experience, reflecting on authentic representation, including cultures of American Indians and tribes in Montana and the unique history of theatre and acquaintance with representative plays of past and present, and candidates will be able to synthesize and relate knowledge and personal experiences to make art;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the relationship between the actor, the literature, and the audience, including the actor's ability to assess personal growth; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the educational function of theatre in the school setting, helping students develop life skills and better understand themselves, others, and the world."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The program requires candidates have experience with performance and that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) direct/supervise a theatrical production with artistic integrity, including supervision of appropriate selections (being mindful of community standards), analysis, casting, rehearsal, and performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) manage/supervise the technical requirements and use current and emerging technologies of a theatrical production by effectively planning and executing scenery, lights, make-up, sound, properties, costumes, special effects, promotion and publicity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use production as a measurement/evaluation of current and future goals and objectives."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The program requires candidates interact with the community as a resource and successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) contribute in the development of facilities;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) supervise classroom projects, assembly programs, or any activity that involves elements of theatre;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) assist planning comprehensive theatre and/or other fine arts curriculum including video/film; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) advocate in their school and the larger community for theatre instruction and performances."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The program requires candidates demonstrate knowledge and use of educational theatre resources and professional organizations."}
+        },
+        {
+            "competencyText": {"en-us": "ENGLISH/LANGUAGE ARTS"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply theory, research, and practice in English/language arts to plan standards-based learning experiences for all students;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) plan, implement, assess, and reflect on instruction that increases motivation and active student engagement; builds sustained learning of English/language arts and responds to diverse studentsꞌ needs;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) plan, implement, assess, and reflect on English/language arts and literacy instruction that promotes critical thinking and creative engagement with complex issues related to social justice, diversity, and democracy;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) engage students in learning experiences that demonstrate the role of the arts, humanities, and other content areas in English/language arts;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate understanding of legal and ethical issues in English/ language arts such as freedom of expression, censorship, and bias;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate understanding of theory and research and apply knowledge in the areas of language, oral discourse, reading processes, writing processes, literature, print and non-print texts, which are inclusive of texts from and about American Indians and tribes in Montana, and technology;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) plan, implement, assess, and reflect on standards-based instruction that incorporates knowledge of language, including structure, history, and conventions; and facilitate studentsꞌ comprehension and creation of oral and written discourse and print and non-print texts;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) plan, implement, assess, and reflect on standards-based instruction that incorporates knowledge of oral communication and interpersonal (verbal/non-verbal) communication for various contexts, purposes, and audiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) plan, implement, assess, and reflect on standards-based instruction that integrates individual and collaborative approaches and that demonstrates a variety of reading comprehension strategies appropriate for reading purposes and genres;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) plan, implement, assess, and reflect on standards-based instruction that integrates individual and collaborative approaches and technologies and that demonstrates an understanding of writing processes and strategies in different genres for a variety of purposes and audiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) plan, implement, assess, and reflect on standards-based instruction in literature, integrating an extensive range of authors, print and non-print texts and genres, including historic and contemporary works by and about American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) plan, implement, assess, and reflect on standards-based instruction integrating technologies and/or digital media to compose multimodal discourse; and"}
+        },
+        {
+            "competencyText": {"en-us": "(m) prepare to interact knowledgeably and professionally with students, families, and colleagues based on social needs and institutional roles; engage in leadership and/or collaborative roles in English/language arts professional learning communities; and continue to develop as professional educators."}
+        },
+        {
+            "competencyText": {"en-us": "STUDENTS WITH DISABILITIES P-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) understand how exceptionalities may interact with development and learning and use this knowledge to provide culturally responsive, meaningful, and challenging learning experiences for individuals with exceptionalities;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) understand how to create and implement personalized, safe, inclusive, and culturally responsive learning environments for all individuals with exceptionalities to become active and effective learners with positive social interactions, self-determination, and healthy well-being;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use knowledge of general and specialized curricula, including curricula used in Montana schools, to implement individualized learning opportunities that align with the needs of students with exceptionalities;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) use multiple methods of assessment and data sources to identify individualized learning needs and make a variety of education decisions (i.e., administer and score standardized assessments, interpret and present assessment results, write Present Levels of Academic Achievement and Functional Performance (PLAAFPS) (34 CFR 300.320(a)(1)), write measurable goals and objectives, and use data to monitor progress);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) select, adapt, and use a repertoire of evidence-based instructional strategies and assistive technology to advance learning of individuals with exceptionalities;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) guide professional practices by using foundational knowledge of the field along with professional ethics and standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) collaborate and communicate in culturally responsive ways with all individuals involved in the special education process to improve programs, services, and outcomes for individuals with exceptionalities and their families (i.e., facilitating meetings, scheduling services, implementing accommodations and modifications);"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate an understanding of the philosophical, historical, and legal foundations of special education;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate knowledge of typical and atypical language development and use systematic evidence-based instruction to enhance language development and teach communicative competence;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate knowledge and understanding of special education laws and regulations, procedural safeguards, ethical concerns, evaluations/documentation, and appropriate instructional strategies and techniques to support students with social-emotional/behavioral needs (e.g., positive behavior intervention plans/supports); and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate proficiency in Montana special education procedural competencies including knowledge of state and federal laws along with the 13 legally defined categories, knowledge of the Achievement in Montana (AIM) system and state forms, special education processes, identification of social and cultural movements in special education law, and court cases which shaped special education law, understand legal resources to assist decision making, and the ability to navigate federal and Montana law."}
+        },
+        {
+            "competencyText": {"en-us": "WORLD LANGUAGES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate understanding of the major linguistic features of the target language (i.e., phonology, morphology, syntax, semantics) and describe the structure, function, and meaning of target language discourse;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) explain rules for word and sentence formation (e.g., verbal system, agreement, use of pronouns) and provide examples;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify and explain pragmatic and sociolinguistic features (e.g., politeness, formal/informal address) of the target discourse and identify features for creating coherence and discourse in extended spoken and written texts;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate listening comprehension to understand short conventional narrative and descriptive texts, such as descriptions of persons, places, and things; and narrations about past, present, and future events;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) in paragraph-length discourse, narrate and describe in the major time frames with some control of aspect;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) handle the linguistic challenges presented by a complication or unexpected turn of events appropriately within the context of a situation;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) deliver oral presentations extemporaneously on familiar literary and cultural topics and those of personal interest, using a variety of strategies to tailor the presentation to the needs of their audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) understand conventional written narrative and descriptive texts, such as descriptions of persons, places, and things and narrations about past, present, and future events;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) write narratives, descriptions, and summaries on topics of general interest in all major time frames with good control of aspect;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate understanding of language as an essential element of culture;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate knowledge of cultural perspectives as reflected in daily living patterns and societal structures, including geography, history, religious, and political systems, literature, fine arts, media, and a variety of cultural products;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) connect perspectives to the products and practices of a culture as a way to compare the target culture to their own or to compare a series of cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) interpret and synthesize ideas from literary and other cultural texts that represent defining works in the target cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) identify themes, authors, historical style, and text types in a variety of media that the cultures deem important to understanding their traditions;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) provide opportunities for students to connect to the target language and culture through a variety of means, including technology, as a key component of their classroom practice;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) exhibit ease, originality, and flexibility in applying language acquisition theories to instructional practice, using a wide variety of strategies to meet the linguistic needs of their students at various developmental levels;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) tailor language use to studentsꞌ developing proficiency levels and use a variety of strategies to help students understand oral and written input;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) use the target language to the maximum extent in the classroom at all levels of instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) demonstrate an understanding of the national and state standards for foreign language learning to make instructional decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) understand how to integrate interpersonal, interpretive, and presentational modes of communication in instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(u) design authentic and standards-based performance assessments using the three modes of communication to measure student progress in communicative and cultural competencies;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) design a content-based curriculum which integrates content from other subject areas into instruction; and"}
+        },
+        {
+            "competencyText": {"en-us": "(w) demonstrate knowledge of language proficiency in the second language resulting from the achievement of an appropriate score (at a specific level determined by the degree granting college or university) on an internationally recognized proficiency examination."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The classical language program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge and understanding of the preceding standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge and understanding of the specific classical language; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate knowledge and application of the specific classical language's sounds, structure, and vocabulary rather than on conversational objectives."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The English as a Second Language (ESL) program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate understanding of language as a system, including phonology, morphology, syntax, pragmatics, and semantics;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use the major language acquisition theories to develop a standards-based ESL curriculum which teaches language and literacy through academic content areas;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate understanding of how cultural groups and individual cultural identities affect language learning and school achievement;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate understanding of various assessment issues as they affect English language learners (ELLs), such as accountability, bias, special education testing, language proficiency, and accommodations in formal testing situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate understanding of language proficiency instruments used for identification, placement, and reclassification of ELLs;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to build partnerships with colleagues and studentsꞌ families, serve as community resources, and advocate for equal access to educational resources for ELLs; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate successful completion of a two-year program, or the equivalent experience, in learning a second language."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The Native American language program and culture specialist licensure requires that successful candidates demonstrate the knowledge of and competence in languages of American Indians and tribes in Montana, as attested by the appropriate tribal authority, pursuant to ARM 10.57.436."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) utilize health-related data about the social and cultural environments impacting growth and development, needs and interests of students to promote healthy lifestyles and behaviors inclusive of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) distinguish between behaviors and external factors (family, peers, culture, media, technology) that promote health enhancement and those that hinder well-being;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) conduct needs assessments that provide appropriate data to determine health education needs of the learners and diverse populations;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) use advocacy and communication skills to recruit school and community representatives to support and assist in health education program planning;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) develop a logical scope and sequence plan for a health education program that includes a display of functional knowledge of health promotion and disease prevention concepts related to alcohol and other drugs, injury prevention, nutrition, physical activity, sexual health, tobacco, mental health, suicide prevention, personal and consumer health, including goal settings, interpersonal communication, and decision skills to enhance health and community and environmental health;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) formulate appropriate and measurable learner goals and objectives that promote healthy lifestyles and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) design health education strategies consistent with specified learner goals and objectives to encourage the practice of healthy behaviors to promote physical and cognitive health;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze factors affecting the successful implementation of health education and coordinated school health programs;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) select resources and media best suited to implement program plans for diverse learners, including relevant resources for American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate competence in delivering planned health education programs;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) evaluate health education programs, adjusting objectives and instructional strategies as necessary;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) assess student achievement based on health education program objectives, interpret results, and determine future program needs;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) design and develop a plan for coordinating health education with other components of a school health program;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) demonstrate the dispositions and communication skills to facilitate cooperation among health educators, other teachers, and appropriate school staff;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) formulate strategies of collaboration among health educators in all settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) utilize health information retrieval systems effectively, i.e., current and emerging technologies;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) establish effective and appropriate consultative relationships with those requesting assistance in solving health-related problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) synthesize valid and reliable health data and respond to requests for health information;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) select effective, valid, and reliable health resource materials for dissemination;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) interpret concepts, purposes, models, and theories of health promotion and health education;"}
+        },
+        {
+            "competencyText": {"en-us": "(u) predict the impact of societal value systems on health education programs;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) select a variety of communication techniques and adapt health information to a specific target audience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(w) develop effective communication between health care providers and consumers working cooperatively as an advocate for improving personal, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "FAMILY AND CONSUMER SCIENCES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze family, community, and work interrelationships, investigate career paths, examine family and consumer sciences careers, and apply career decision making and transitional processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) illustrate how each domain of human well-being including social, economic, financial, emotional, spiritual, physical, and intellectual can be enriched in every family and consumer sciences content area;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) manage resources responsibly to address the diverse needs and goals of individuals, families, and communities in all family and consumer sciences areas, including, but not limited to, practices related to human, economic, and environmental resources;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) apply principles of early childhood, human development, and interpersonal relationships to strengthen relationships for individuals in the family, workplace, and communities throughout the life span;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) apply principles of nutrition, culinary arts, and sustainability of wellness practices and address related concerns in a global society;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) develop, justify, and implement curricula that address perennial and evolving family, career, and community issues, and reflect the integrative nature of family and consumer sciences, across all academic areas;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) create and implement a safe, supportive learning environment that shows sensitivity to diverse needs, values, and characteristics of students, families, and communities, including American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate ethical professional practice based on the history and philosophy of family and consumer sciences and career and technical education through civic engagement, advocacy, and ongoing professional development;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) assess, evaluate, and improve student learning and programs in family and consumer sciences using appropriate criteria, standards, and processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) integrate leadership strategies from Family, Career, and Community Leaders of America (FCCLA) or other sources into the program to develop students' academic growth, application of family and consumer sciences content, leadership, service learning, and career development; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) facilitate each studentꞌs critical thinking and problem solving in family and consumer sciences through varied instructional strategies and technologies and through responsible management of resources in schools, communities, and the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "INDUSTRIAL TRADES AND TECHNOLOGY EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge of a curriculum and curriculum design consistent with current national and Montana standards, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) a mission statement with stated goals and objectives that reflect the intent of industrial trades and technology education programs, as guided by the national professional organizations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) an organized set of concepts, processes, and systems that are technological in nature; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) content orientated toward industrial trades and technology education;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge/competency in applied science, technology, engineering, mathematics, and communication, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) knowledge about the development of technology, its effects on people, industry, the environment, and society;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) communication technology, which includes information-related technology that uses resources to transfer information and to extend human potential;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) information about industry's organization, personnel systems, techniques, resources, products, and social impacts;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) construction technology, which includes physical-related technology that uses resources to build structures or construct work on site;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) manufacturing technology, which includes physical-related technology using resources to extract and convert raw/recycled materials into industrial and consumer goods;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) transportation technology, which includes physical-related technology using transportation technologies to maintain contact and exchange among individuals and societal units through the movement of material, goods, and people; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) identification of a level and scope of entry level skills in the use of tools, instruments, and machines necessary for successful teaching;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate knowledge of quality workmanship and work ethics;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) develop insight and understanding in the application of technological concepts, processes, and systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) develop and demonstrate skills in utilizing tools, materials, machines, processes, and technical concepts relative to content organizers, safely and efficiently;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate skills, creative abilities, positive self-concepts, and individual potentials relating to technology;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate problem-solving and decision-making abilities involving human and material resources and technological processes and systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate activity-oriented laboratory instruction that reinforces abstract concepts with concrete experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate knowledge and skills regarding how technological systems function and the attitudes to evaluate those systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate knowledge of past, present, and future technological systems by applying knowledge and skills developed in the study of other systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) apply and use content knowledge from other disciplines to solve individual and social problems inclusive of gender equity and culturally sensitive opportunities;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) know and understand the rules and requirements and how to obtain access to industry certifications (i.e., automotive, welding, machining);"}
+        },
+        {
+            "competencyText": {"en-us": "(m) demonstrate and apply safe laboratory skills including OSHA 10 requirements, with emphasis on the facilities, personal safety equipment, and environmental concerns;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) demonstrate and apply ethical professional practice based on principles and philosophy of industrial trade and technology education and career technical education (CTE) through civic engagement, advocacy, and active participation in professional development and professional growth activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) demonstrate an awareness of professional student organizations into the curriculum to provide an environment in which students grow professionally, personally, and socially; involve the business and industry community; and recognize the potential for these organizations to provide personal leadership development;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) demonstrate a knowledge of the value of building professional relationships with stakeholders to produce a relevant learning environment and provide benefits to the student and the community including development of career pathways and work-based learning experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) articulate industrial trades and technology education to the school and the local community;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) develop and coordinate partnerships, advisory boards, and work-related experiences into the curriculum; and"}
+        },
+        {
+            "competencyText": {"en-us": "(s) demonstrate knowledge of and how to gain access to services and financial resources available from state and federal agencies and operate within applicable laws and regulations governing education."}
+        },
+        {
+            "competencyText": {"en-us": "JOURNALISM"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge of and apply press law, particularly as it affects the rights and responsibilities of student journalists;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge of and apply the history, technological development, and impacts of the mass media;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate knowledge of the functions of the news media in a democratic society and ensure students understand their role in preserving free and independent news media;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge of the organizational structure of the news media and the value of news for todayꞌs media consumers;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate knowledge of styles and purposes of journalistic forms, including news, features, columns, and editorials;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate knowledge of and apply the concepts of accuracy, fairness, objectivity, and comprehensiveness in news reporting;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate knowledge of and apply journalism ethics;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate knowledge of precomposition strategies, including generating sources, determining angle, interviewing, and researching;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate knowledge of and apply skills in using multiple drafts, conferences, and self-assessment as guides for revision and editing, matching language use and style with the intended audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate a variety of publishing/production methods;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate knowledge of and apply methods of effective evaluation of journalistic forms, including advertisements;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate the values and skills needed to package multimedia products effectively using various forms of journalistic design with a range of visual, auditory, and interactive media;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) demonstrate the value of auditory, visual, still photography, and photojournalism to tell stories in compelling ways;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) develop a plan and apply strategies on how to organize staffs and demonstrate skills in leadership and group dynamics;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) demonstrate knowledge of and apply sound business practices for advertising, sales, consumer relations, bookkeeping, and circulation;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) create effective journalism programs by demonstrating sound practices in selecting, designing, organizing, and employing objectives, strategies, and materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) communicate components of curriculum and instruction to students, parents, lay audiences, and other educators;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) integrate a variety of instructional strategies, materials, and technologies appropriate to the breadth of journalism content and the individual needs of students; and"}
+        },
+        {
+            "competencyText": {"en-us": "(s) incorporate instruction in reading literacy and writing literacy in journalism as required by the Montana Content Standards, understanding that course organization needs to allow continuous student learning."}
+        },
+        {
+            "competencyText": {"en-us": "LIBRARY MEDIA K-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate the ability to design, implement, assess, and evaluate an information literacy program that prepares independent lifelong learners and includes the ability to demonstrate collaboration techniques with students and staff in the development and implementation of K-12 curriculum;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate the ability to manage the library facility to meet school district goals by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) utilizing current practices in the areas of policy development, budgeting, needs assessment, and collaboration with students and colleagues; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrating competency and professionalism in library program administration including budgeting, facilities, equipment, public relations, and program advocacy;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) promote reading for learning and enjoyment by demonstrating the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) manage library collections through evaluation, selection, acquisition, and organization of library materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) collaborate with teachers and students in the selection of reading materials in print and digital formats; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) select materials which reflect knowledge of current youth literature, support a wide range of information needs and interests, and support American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge of technical services and the policies and procedures that govern these services; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) model and facilitate the effective use of current and emerging digital information tools to locate, analyze, evaluate, and efficiently and ethically use information to support research, learning, creating, and communicating in a digital society."}
+        },
+        {
+            "competencyText": {"en-us": "MATHEMATICS"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge and understanding of and apply the process of mathematical problem solving;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) reason mathematically in constructing, evaluating, and communicating mathematical arguments;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate an appreciation for mathematical rigor and inquiry;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) recognize, formulate, and apply connections between mathematical ideas and representations in a wide variety of contexts;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate understanding of the mathematical modeling process by interpreting and analyzing mathematical results and models in terms of their reasonableness and usefulness;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) recognize, use, and make connections between and among mathematical ideas and in contexts outside mathematics to build mathematical understanding including the ability to:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) attend to precision in mathematical language, notation, approximations, and measurements by consistently and appropriately applying mathematical definitions and procedures; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) choose appropriate symbolic representations and labels such as specifying units of measure, calculating accurately and efficiently, and expressing numerical answers with a degree of precision appropriate for the context and the data used in calculation;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) appropriately use current and emerging technologies as essential tools for teaching and learning mathematics;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) look for and recognize repeated reasoning patterns and the mathematical structures behind those patterns to organize and generalize mathematical methods and results in mathematical problem solving and inquiry;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate how students learn mathematics and the pedagogical knowledge specific to mathematics teaching and learning by demonstrating:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) how learners develop mathematical proficiency through the interdependent processes of integrating conceptual understanding, procedural fluency, strategic competence, adaptive reasoning, and productive disposition;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) an understanding of individual differences and diverse cultures and communities to ensure inclusive learning environments in mathematics and ensure high standards of mathematical work for all students;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) an understanding of learning environments that promote mathematical learning, including individual and collaborative learning, positive social interaction about mathematics, active engagement in mathematics learning, and promote self-motivation among mathematical learners;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) an understanding of multiple methods of assessment of mathematical learner growth, progress, and decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) an understanding of a variety of instructional strategies that encourage learners to develop deep understanding of mathematics; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) an understanding of grades 5-12 mathematics curriculum as specified by the State of Montana Content Standards and of the assessment process as specified by the Montana statewide assessment;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate content knowledge in:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) numbers and operations including knowledge and understanding of number systems, arithmetic algorithms, fundamental ideas of number theory, proportion and rate, quantitative reasoning, modeling, and applications;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) different perspectives on algebra including knowledge and understanding of algebraic structures, basic function classes, functional representations, algebraic models and applications, formal structures and results in abstract algebra, and linear algebra;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) geometry and trigonometry including knowledge and understanding of Euclidean and non-Euclidean geometries, geometric transformations, axiomatic reasoning and proof, formulas and calculations related to classical geometric objects, and properties of trigonometric functions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) calculus including knowledge and understanding of limit, continuity, differentiation, integration involving single and multiple-variable functions, sequences and series, and a thorough background in the techniques and application of the calculus;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) discrete mathematics including knowledge and understanding of basic discrete structures, counting techniques, iteration, recursion, formal logic, and applications in the formulation and solution of problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) data analysis, statistics, and probability including knowledge and understanding of descriptive statistics using numbers and graphs, survey design, sources of bias and variability, empirical and theoretical probability, simulation, and inferential statistics related to univariate and bivariate data distributions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) historical development and perspectives of various branches of mathematics including contributions of significant historical figures and diverse cultures, including American Indians and tribes in Montana."}
+        },
+        {
+            "competencyText": {"en-us": "MUSIC K-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) perform solo and small to large ensemble repertoire in candidateꞌs specialty area;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) perform in both vocal and instrumental ensembles;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate proficiency on keyboard and fretted instruments in order to use the instruments for demonstration and rehearsal;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate a comprehensive knowledge of musical notation and terminology;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) arrange and/or transpose music in an age- and level-appropriate manner for ensembles and classroom situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate basic competence in performing and teaching voice, winds, string, and percussion instruments, including a comprehensive knowledge and skill in conducting and score reading, in order to instruct and conduct choral and instrumental ensembles;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate through analysis and performance an understanding of aural perception to distinguish tonal and temporal relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate through analysis and performance an understanding of the elements of music, including melody, harmony, rhythm, tempo, timbre, tone, dynamics, and form;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate through analysis and performance knowledge of acoustics and the physics of sound as it relates to instrumental sound production, timbre, and tone quality;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) develop an understanding of post K-12 opportunities available to students, including post-secondary, other post K-12 education, and career opportunities related to the study and performance of music and music-related fields;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify music in terms of style, historical period, and cultural significance as it relates to instruction, rehearsal, and performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate knowledge, awareness, and appreciation of musical cultures, including those of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) demonstrate understanding of the diversity of students with regard to culture, backgrounds, and abilities, including the cultures of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) demonstrate knowledge of the relationship of music to other performing and visual arts, and other disciplines outside the arts;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) demonstrate an understanding of the aesthetic, philosophical, and psychological aspects of music, and musicꞌs contribution to the individual and society;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) demonstrate knowledge and understanding of how children learn and develop, both as individuals and as part of a group, with regard to music instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) use a variety of age-appropriate instructional strategies to develop students' performance skills;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) demonstrate competency in promoting student creativity through age- and ability-appropriate instruction in interpretation, improvisation, and composition;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) plan instruction based on candidateꞌs musical knowledge and needs of the curriculum, the candidateꞌs students, school, and the community;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) demonstrate understanding of and use varied age-appropriate assessment strategies to evaluate and ensure continuous and consistent musical development of students;"}
+        },
+        {
+            "competencyText": {"en-us": "(u) demonstrate continuing competence in the appropriate use of current and emerging technologies in contemporary music education, such as music writing programs, music theory/skills programs, keyboard/midi, online resources, amplification, and recording technology and their relationship to acoustics and sound;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) demonstrate understanding of how to structure appropriate learning environments for K-12 music instruction, including appropriate pacing, modeling, and rehearsal organization;"}
+        },
+        {
+            "competencyText": {"en-us": "(w) demonstrate an understanding of the need for positive relationships with colleagues, parents, and community members to support student learning and program continuity;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) demonstrate an understanding of strategies for managing a music program in terms of equipment management and maintenance, instructional materials, co-curricular activities including music performance and participation, and finance management including fundraising, grants, and sponsorships; and"}
+        },
+        {
+            "competencyText": {"en-us": "(y) demonstrate an understanding of the implementation of age-appropriate classroom management for the music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify critical elements of motor skill performance and combine motor skills into appropriate sequences for the purpose of improving learning;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate competent motor skill performance in a variety of physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) describe performance concepts and strategies related to skillful movement and physical activity including fitness principles, game tactics, and skill improvement principles;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe and apply bioscience (anatomical, physiological, biomechanical) and psychological concepts to skillful movement, physical activity, and fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate knowledge and understanding of state and national content standards, current law, including those related to American Indians and tribes in Montana, and local program goals in physical education;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify, select, and implement appropriate learning/practice opportunities of K-12 physical education students based on developmental needs, expected progression, level of readiness, understanding the student, the learning environment, and the task;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate understanding and use of current and proven instructional strategies, services, and resources to promote skillful movement and physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) use organizational and managerial skills to create efficient, active, and equitable learning experiences in physical education and development that are responsive to studentsꞌ strengths, interests, challenges, individual prior experiences, and diverse cultural heritages including the distinct cultural differences of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use a variety of developmentally and culturally appropriate practices to motivate K-12 students to participate in indoor and outdoor physical activity to promote physical and cognitive health;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) use strategies to help students demonstrate responsible personal and social behaviors including mutual respect, support of others, safety, and cooperation that promote positive relationships and a productive learning environment;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate knowledge and use of instructional strategies to enhance communication among students in physical activity settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate knowledge and use technology tools and instruments to monitor studentsꞌ motor skills, development, and performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) demonstrate strategies to become an advocate in the school and community to promote a variety of health-enhancing opportunities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(n) participate in the professional health education and physical education community (e.g., school, district, state, tribal, and national) and within the broader education field."}
+        },
+        {
+            "competencyText": {"en-us": "READING SPECIALISTS K-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) understand the theoretical and evidence-based foundations of reading and writing processes and instruction as outlined in the Montana Content Standards, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understanding of the historically shared knowledge of the profession and changes over time in the perceptions of reading and writing development, processes, and components;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding of the role of analyzing data and adjusting instruction for improving all studentsꞌ reading development and achievement in order to meet the needs of individual learners; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) demonstrating knowledge and awareness of the distinct and unique cultural heritage of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create and engage their students in literacy practices that develop awareness, understanding, respect, and a valuing of differences in our society by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) recognizing, understanding, and valuing the forms of diversity that exist in society and their importance in learning to read and write;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using a literacy curriculum and engaging in instructional practices that positively impact studentsꞌ knowledge, beliefs, and engagement with the features of diversity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) developing and implementing strategies to advocate for equity;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use instructional approaches, materials, and an integrated comprehensive, balanced curriculum to support student learning in reading and writing by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) utilizing foundational knowledge to design or implement an integrated, comprehensive, and balanced curriculum;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) utilizing appropriate and varied instructional approaches, including those that develop word recognition, language comprehension, strategic knowledge, and reading/writing connections, including the use of appropriate technology; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) utilizing a wide range of texts (e.g., narrative, expository, and poetry) from traditional print, digital, and online resources;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) use a variety of assessment tools and practices to plan and evaluate effective reading and writing instruction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understanding types of assessments and their purposes, strengths, and limitations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) selecting, developing, administering, and interpreting assessments, both traditional print and electronic, in order to make decisions based on data; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using assessment information to plan, evaluate, reflect on, and adjust instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) create a literate environment that fosters reading and writing by integrating foundational knowledge, instructional practices, approaches and methods, curriculum materials, and the appropriate use of assessments by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) designing the physical environment to optimize studentsꞌ use of traditional print, digital, and online resources in reading and writing instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) designing a social environment that is low risk and includes choice, motivation, and scaffolded support to optimize studentsꞌ opportunities for learning to read and write; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) utilizing routines to support reading and writing instruction (e.g., time allocation, transitions from one activity to another, discussions, and peer feedback)."}
+        },
+        {
+            "competencyText": {"en-us": "SCIENCE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The science program ensures that successful candidates follow the subject major and/or minor program of study or the broadfield major program of study. Subject major and/or minor teaching endorsement programs are limited to biology, earth science, chemistry, and physics. The physical science endorsement is a balanced combination of physics and chemistry. The broadfield major includes a concentration in one of the endorsable disciplines, coupled with balanced study in three other endorsable science disciplines. Science disciplines selected adhere to a scope and sequence which ensures a thorough grounding in the basic concepts, skills, and dispositions associated with Montana and national K-12 content standards."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The science endorsement requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate a thorough understanding of the nature of science and essential science engineering practices, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) recent significant changes in the field, as reflected by Montana Content Standards, the science framework and their impact on the content knowledge necessary for teaching K-12 students;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding and articulating the knowledge and practices of contemporary science and engineering;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) competency in basic mathematics, statistics, and current and emerging technological applications to science teaching;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) preparation and experience in environmental science, including American Indians and tribes in Montana and their traditional relationships to the environment; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) methods to engage in active inquiry lessons where students ask questions, develop and use models, plan and carry out investigations, analyze and interpret data using applicable science-specific technology, mathematics, and computational thinking, in order to construct explanations and solutions and communicate concepts by engaging in argument from evidence;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge and skills in obtaining, evaluating, and communicating information using multiple sources in order to communicate claims, methods, and designs to others;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use a variety of strategies that demonstrate the candidatesꞌ knowledge of the appropriate teaching and learning activities, including laboratory or field settings and applicable instruments and technology, or both;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate safe laboratory management skills;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) practice ethical treatment of living organisms in the classroom; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) interrelate and interpret important concepts, ideas, and applications in their field of endorsement and supporting disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The candidate for an endorsement in earth science demonstrates the following core competencies:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) conceptual understanding in the unifying concepts and processes of systems order and organization, evidence models and explanation, change, constancy, measurement, evolution and equilibrium, form and function;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) systematic and quantitative study of the fundamental topics in earth science interrelated and illustrated with descriptive and historical perspectives, as well as the applications of earth science in society;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) conceptual understanding of astronomy, geology, paleontology, meteorology, and oceanography, and their relations with each other;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) conceptual understanding of biology, chemistry, or physics, emphasizing the interrelationships among the sciences and their relations to earth science;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) conceptual understanding of mathematics, including a working knowledge of trigonometry and statistics;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) conceptual understanding of ethical and human implications of such contemporary issues as the impact of technologies on earth systems; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) ability to design, develop, and evaluate field, demonstration, and laboratory instructional activities, and use special skills and techniques with equipment, technologies, and facilities which support and enhance curricula and instruction in earth science and especially techniques and strategies for using the local environment as a teaching/learning laboratory."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The candidate for an endorsement in biology demonstrates the following core competencies:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) conceptual understanding of the life processes in living systems including organization of matter and energy;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) conceptual understanding of the similarities and differences among animals, plants, fungi, microorganisms, and viruses;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) conceptual understanding of living organisms, ethical laboratory and field studies promoting scientific inquiry, applications of biology in social and historical perspectives;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) conceptual understanding of the principles and practices of biological classification and the theory and principles of biological evolution;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) understanding of the ecological systems including the interrelationships and dependencies of organisms with each other and their environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) conceptual understanding of population dynamics and the impact of population on its environment;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) understanding of general concepts of genetics and heredity;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) conceptual understanding of organizations and functions of cells and multi-cellular systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understanding of the regulation of biological systems including homeostatic mechanisms;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) conceptual understanding of the fundamental processes of modeling and investigating in the biological sciences;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) understanding of the applications of biology in environmental quality and in personal and community health;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) conceptual understanding of bioenergetics including major biochemical pathways;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) understanding of biochemical interactions of organisms and their environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) conceptual understanding of molecular genetics and heredity and mechanisms of genetic modification;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) understanding of molecular basis for evolutionary theory and classification;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) conceptual understanding of the causes, characteristics, and avoidance of viral, bacterial, and parasitic diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) understanding of the issues related to living systems such as genetic modification, uses of biotechnology, cloning, and pollution from farming; and"}
+        },
+        {
+            "competencyText": {"en-us": "(r) conceptual understanding of applications of biology and biotechnology in society, business, industry, and health fields."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The candidate for an endorsement in chemistry demonstrates the following core competencies:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) conceptual understanding in the unifying concepts and processes of systems order and organization, evidence models and explanation, change constancy, measurement, evolution and equilibrium, form and function;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) understanding of exploration and inquiry as tools in investigating all aspects of the natural environment and demonstrates knowledge of application and instruction using these methods when instructing students;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) conceptual understanding of the fundamental structures of atoms and molecules;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) understanding of the basic principles of ionic, covalent, and metallic bonding;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) conceptual understanding of the physical and chemical properties and classification of elements including periodicity;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) understanding of chemical kinetics and thermodynamics;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) conceptual understanding of the principles of electrochemistry;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) understanding of the Mole concept, stoichiometry, and laws of composition;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) conceptual understanding of solutions, colloids, and colligative properties;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) understanding of transition elements and coordination compounds;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) conceptual understanding of acids and bases, oxidation-reduction chemistry, and solutions;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) understanding of fundamental biochemistry;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) conceptual understanding of the applications of chemistry in personal and community health and environmental quality;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) understanding of the molecular orbital theory, aromaticity, metallic and ionic structures, and correlation to properties of matter;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) conceptual understanding of the advanced concepts of chemical kinetics, and thermodynamics;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) understanding of Lewis structures and molecular geometry;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) conceptual understanding of major biological compounds and natural products;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) understanding of solvent system concepts;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) conceptual understanding of chemical reactivity and molecular structure including electronic and steric effects; and"}
+        },
+        {
+            "competencyText": {"en-us": "(t) understanding of organic chemistry including syntheses, reactions, mechanisms, and aromaticity."}
+        },
+        {
+            "competencyText": {"en-us": "(6) The candidate for an endorsement in physics demonstrates the following core competencies, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) conceptual understanding of energy, work, and power;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) understanding of motion, major forces, and momentum;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) conceptual understanding of Newtonian physics with engineering applications;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) understanding of conservation, mass, momentum, energy, and charge;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) conceptual understanding of the physical properties of matter;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) understanding of kinetic-molecular motion and atomic models;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) conceptual understanding of radioactivity, nuclear reactors, fission, and fusion;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) understanding of wave theory, sound, light, the electromagnetic spectrum and optics;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) conceptual understanding of electricity and magnetism;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) understanding of the fundamental processes of investigating in physics;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) conceptual understanding of the applications of physics in environmental quality and to personal and community health;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) understanding of thermodynamics and energy-matter relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) conceptual understanding of nuclear physics including matter-energy duality and reactivity;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) understanding of angular rotation and momentum, centripetal forces, and vector analysis;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) conceptual understanding of quantum mechanics, space-time relationships, and special relativity;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) understanding of models of nuclear and subatomic structures and behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) conceptual understanding of light behavior, including wave-particle duality and models;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) understanding of electrical phenomena including electric fields, vector analysis, energy, potential, capacitance, and inductance;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) conceptual understanding of issues related to physics such as disposal of nuclear waste, light pollution, shielding communication systems, and weapons development;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) understanding of historical development and cosmological perspectives in physics including contributions of significant figures and underrepresented groups, and evolution of theories in physics; and"}
+        },
+        {
+            "competencyText": {"en-us": "(u) conceptual understanding of the applications of physics and engineering in society, business, industry, and health fields."}
+        },
+        {
+            "competencyText": {"en-us": "(7) The candidate for an endorsement in broadfield science demonstrates the following core competencies:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) conceptual understanding in the unifying concepts and processes of systems order and organization, evidence models and explanation, change constancy, measurement, evolution and equilibrium, form and function;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) ability to collect and interpret empirical data using applicable science-specific technology to develop science and engineering practices, understand the cross-cutting concepts and processes, relationships, and natural patterns;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interdisciplinary study of the fundamental topics in biology, chemistry, physics, and earth science including descriptive and historical perspectives, as well as the applications of these sciences in society;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) study and experiences emphasizing interrelationships among all the sciences, as well as cross-cutting concepts of the sciences with other areas of study such as mathematics, technology, and engineering;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) understanding of mathematics, including a working knowledge of calculus and statistics;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) conceptual understanding of the relationships among science, science technologies, and the study of environmental education;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) designing, developing, and evaluating field experiences, demonstrations, and laboratory instructional activities, and in using special skills and techniques with equipment, technologies, facilities, and specimens which support and enhance curricula and instruction in all sciences including laboratory and field studies that promote the science and engineering practices, investigation and inquiry, and the use of experimental methods;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) conceptual understanding of earth sciences including content in astronomy, geology, paleontology, meteorology and oceanography, and their relationships with each other;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) conceptual understanding of biology including content in zoology, botany, physiology, genetics, ecology, microbiology, cell biology/biochemistry, and evolution, and their relationships with each other;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) conceptual understanding of chemistry including content in organic, inorganic, analytical, and biochemistry and their relationships with each other;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) conceptual understanding of physics including content in classical mechanics, electricity and magnetism, heat and thermodynamics, waves, optics, atomic and nuclear physics, radiation and radioactivity, relativity, quantum mechanics, and other fields of modern physics and their relationships with each other; and"}
+        },
+        {
+            "competencyText": {"en-us": "(l) facilitating classroom discourse through questioning, reflecting on, and critically analyzing ideas, leading students toward a deeper understanding of the inquiry process itself, and, especially, using questions to define problems and potential solutions."}
+        },
+        {
+            "competencyText": {"en-us": "SOCIAL STUDIES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The social studies program ensures that successful candidates follow the subject-major/minor program of study or the broadfield major program of study. Subject-major/minor teaching endorsement programs are limited to history, government, economics, geography, psychology, and sociology. The broadfield social studies teaching endorsement shall include a concentration in history and government and additional content chosen from economics, geography, psychology, sociology, Native American studies, or anthropology. The social studies disciplines adhere to a thorough grounding in the basic philosophy, theory, concepts, and skills associated with Montana and national standards."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The social studies endorsement requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge of the purposes of social studies, how to select content appropriate to those purposes, how to use emerging technology, and how to assess student learning in terms of social studies goals;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge of and ability to plan instruction based on state and national social studies curriculum standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate ability to select and integrate the content and methods of investigation of history and the social science disciplines for use in social studies instruction;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge of and ability to plan instruction on the history, cultural heritage, and contemporary status of American Indians and tribes in Montana, including an awareness and application of the Montana 7 Essential Understandings; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate ability to use a variety of approaches to instruction that are appropriate to the nature of social studies content and goals and to use them in diverse settings with students with diverse backgrounds, interests, and range of abilities."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The economics endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) economic theory;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the basic economic problems confronting societies and the examination of the ways in which economic systems seek to resolve the three basic economic problems of choice (i.e., determining what, how, and for whom to produce) that are created by scarcity and environmental impact;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the basic economic goals for society, including freedom of choice, personal financial literacy, ethical action, efficiency, equity, full employment, price stability, growth, and security;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) the nature of comparative economic systems, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) the organization and importance of the international economic system;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) the distribution of wealth and resources on a global scale;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) the struggle of developing nations to attain economic independence and a better standard of living for their citizens;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) the role of the transnational corporation in changing rules of exchange; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) the influence of political events on the international economic order."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The geography endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) the geographic themes of location (absolute and relative), place (physical and human characteristics), human-environment interaction (relationships within places), movement (of people, goods, and ideas), and regions (how they form and change);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) physical geography including solid earth, atmosphere, oceans, landforms, soils, and biogeography;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) human geography, including cultural, social, historical, political, and economic concerns; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) the use of maps and other tools of geographical investigation or presentation, including the use of emerging technology, to process information from a spatial perspective."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The government endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) the nature of individual dignity, human rights, sovereignty (popular, tribal, and national), political power, citizenship, and political authority;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) American democracy as a form of government based on federalism, separation of powers, checks and balances, civil rights and liberties, elected representation, and popular participation;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the organization, powers, and politics of the national, state, tribal, and local units of American government;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) the role of public opinion, the press, elections, interest groups, and political leaders in building compromise and policy making;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) the nature of international relations and the principles and organizations that are used to mediate multinational conflict and achieve multinational order; and"}
+        },
+        {
+            "competencyText": {"en-us": "(f) American democracy as compared and contrasted with other forms of government, political systems, and philosophies throughout history and today."}
+        },
+        {
+            "competencyText": {"en-us": "(6) The history endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) U.S. history, including the history of the many peoples who have contributed to the development of North America;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the history of diverse civilizations throughout the world;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the origin, development, and ramifications of present local, tribal, national, and world affairs;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) the skills of chronological thinking, analysis of evidence, and interpretation of the historical record by using appropriate content standards;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) the cultural, economic, political, scientific/technological, and social activity of humans in the analysis of contemporary issues and problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) the history, cultural heritage, political development, and contemporary status of American Indians and tribes in Montana; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) the changing role of culture, ethnicity, gender, class, and identity in human affairs."}
+        },
+        {
+            "competencyText": {"en-us": "(7) The psychology endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) the basic psychological theories including developmental, personality, learning, motivation, cognition, biological/physiological, social behavior, and psychological disorders;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the application of the processes of scientific inquiry and descriptive statistics to questions concerning human behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the behaviors which are most effective in coping with stresses in life, understanding the effects of historical trauma upon cultures, and in improving interpersonal and cross-cultural relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) human development in terms of physiological, social, and environmental influences throughout the lifespan; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) the theories and factors which contribute to psychological dysfunction of individuals and families."}
+        },
+        {
+            "competencyText": {"en-us": "(8) The sociology endorsement program requires that successful candidates demonstrate knowledge of:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) the basic structure and history of the world's dominant and indigenous social systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) the factors, including the effects of changing communications, which hold groups together or which change and weaken them;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) the application of knowledge and techniques to practical problems in the everyday world of individuals, groups, organizations, and government; and"}
+        },
+        {
+            "competencyText": {"en-us": "(d) the importance of diversity in society."}
+        },
+        {
+            "competencyText": {"en-us": "COMMUNICATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate understanding of the composing process, including research, organization, and context development to plan standards-based, coherent, and relevant learning experiences for all students;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate understanding of theories of human communication including symbolic development, transference of meaning, both cognitively and affectively, nonverbal communication, and language, including social and cultural factors affecting language use;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate understanding of context (practices) of human communication, including public speaking, rhetoric, argumentation, persuasion; oral interpretation, interpersonal, small group, and organizational communication; cross-cultural communication, including American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate understanding of diagnostic techniques, assessment, and prescriptions for improving students' formal and informal communication skills and communicate with students about their performance in ways that actively involve them in their own learning;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) design instruction that incorporates studentsꞌ home and community languages to enable skillful control over their rhetorical choices and language practices for a variety of audiences and purposes;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate positive attitudes for teaching communication and demonstrate knowledge and understanding of students' social, linguistic, and cultural backgrounds affecting symbolic cognition; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) select, create, and use a variety of instructional strategies and teaching resources, including contemporary technologies and digital media."}
+        },
+        {
+            "competencyText": {"en-us": "COMPUTER SCIENCE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge of computer science content, models, important principles, and concepts through:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) knowledge of, and proficiency in, the use of primitive data types;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding of data representation;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) knowledge of, and proficiency in, the use of static and dynamic data structures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) knowledge of, and proficiency in, the use of common data abstraction mechanisms (e.g., abstract and generic classes such as stacks, trees, etc.); and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) effective use, manipulation, and explanation of external data stores \u2013 various types (text, images, sound) and various locations (local, server, cloud);"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge of algorithm design, analysis, and implementation in an object-oriented programming language using data structures and abstract data types covering:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) algorithm problem solving techniques and strategies and design methodologies;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) algorithm verification;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) algorithm complexity and efficiency; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) knowledge of at least one of the programming languages, C++, Java, C#, or Ada, and one other current programming language and current programming language trends;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate effective design, development, and testing of programs by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) using a modern high-level programming language; constructing correctly functioning programs involving simple and structured data types; using compound Boolean expressions; and sequential, conditional, iterative, and recursive control structures;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) designing and testing programming solutions to problems in different contexts (i.e., textual, symbolic, numeric, graphic) using advanced data structures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) demonstrating knowledge of and skills regarding the syntax and semantics of two high-level programming languages other than those covered in (b)(iv), their control structures, and their basic data representation;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) demonstrating knowledge of and skill regarding program correctness issues and practices (i.e., testing, test data design, and proofs of correctness);"}
+        },
+        {
+            "competencyText": {"en-us": "(v) demonstrating knowledge of and skill regarding at least three different program development environments in widespread use;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) demonstrating knowledge of and the ability to construct multi-threaded client-server applications;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) demonstrating knowledge of and the ability to construct web sites that utilize complex data bases;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) demonstrating knowledge of and the ability to construct artificial intelligence and robotic applications; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) demonstrating knowledge of the principles of usability and human-computer interaction and be able to apply these principles to the design and implementation of human-computer interfaces;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge of computer systems and networks and be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describe the operation of a computer system, CPU and instruction cycle, peripherals, network components, and applications, indicating their purposes and interactions among them;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrate an understanding of operating systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) demonstrate an understanding of computer networks; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) demonstrate an understanding of the issues involved in building and fielding mobile services;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate an understanding of software engineering and be able to demonstrate an understanding of:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) the difference between computer science and software engineering;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) software development methodologies and the software development life cycle; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) the purpose and contents of the software engineering body of knowledge;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate an understanding of the key concepts of computer/information security and be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate an understanding of the concept of ʺattack surfaceʺ and the various methods used to minimize an attack surface;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrate an understanding of the importance of maintaining logs of all system activity related to security; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) demonstrate an understanding of the purpose and general functionality of a firewall;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate an understanding of the role computer science and software engineering plays in the modern world and be able to demonstrate an understanding of:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) significant historical events relative to computers and information systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) the social, ethical, and legal issues and impacts of computing and information systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) the contributions that computer and information science and software engineering make to science, the humanities, the arts, commerce, and entertainment;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) and ability to teach social issues related to the use of computers and information systems in society and the principles for making informed decisions including, but not limited to, security, privacy, intellectual property, equitable access to technology resources, gender issues, cultural diversity, differences in learner needs, limits of computing, and rapid change; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) the many different careers that are closely related to the development and use of computer and information systems;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate effective content pedagogical strategies that make the discipline comprehensible to students and:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) design projects that require students to effectively describe computing artifacts and communicate results using multiple forms of media;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identify problematic concepts and constructs in computer science and appropriate strategies to address them; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) promote and model the safe, effective, and ethical use of computer hardware, software, peripherals, and networks and develop digital citizenship."}
+        },
+        {
+            "competencyText": {"en-us": "EARLY CHILDHOOD EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate an understanding of young childrenꞌs (birth-age 8) characteristics and needs encompassing multiple, interrelated areas of childrenꞌs development and learning including physical, cognitive, social, emotional, language, and aesthetic domains as well as learning processes and motivation to learn;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) base their practice on coherent early childhood theoretical perspectives, current research about brain growth and development, and the importance of play;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) apply their understanding of multiple influences on young childrenꞌs development and learning including family, community, cultural, and linguistic contexts, temperament, approaches, and dispositions to learning (including initiative, self-direction, persistence, and attentiveness), motivation, attachment, economic conditions, health status, opportunities for play and learning, technology and media, and developmental variations;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) understand the potential influence of early childhood programs, including early intervention, on short- and long-term outcomes for children;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use developmental knowledge including strengths of families and children to create physically and psychologically safe learning environments that are healthy, respectful, supportive, and challenging for each child;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) know about, understand, and value the complex characteristics and importance of childrenꞌs families and communities including home language, cultural values, ethnicity, socioeconomic conditions, family structures, relationships, stresses, childhood trauma and adverse childhood experiences, supports, and community resources;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understand the effects of childhood trauma on social, emotional, physical, and behavioral development and be able to demonstrate trauma-informed classroom management strategies; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrate a knowledge of the implications of secondary trauma;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) create respectful, reciprocal relationships with families using a range of formal and informal strategies such as home visits, parent-teacher conferences, family nights, and transition planning into and out of early childhood programs including kindergarten;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) promote and encourage family involvement in all aspects of childrenꞌs development and learning including assisting families to find and refer resources concerning parenting, mental health, health care, and financial assistance;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate essential knowledge and core skills in team building and in communicating with families and colleagues from other disciplines to encourage familiesꞌ participation in curriculum and program development as well as assessment of childrenꞌs learning, including identification of childrenꞌs strengths and needs;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) recognize the goals of assessment and summarize, analyze, and use assessment information gathered through ongoing, systematic observations and other informal and formal assessments, including play-based assessments and developmental screenings to:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) learn about childrenꞌs unique qualities;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) guide instruction; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) evaluate effective curriculum to maximize childrenꞌs development and learning;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) make ethical considerations when administering and interpreting assessments including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) an understanding of family context and involving families in the assessment process;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) recognizing the importance of establishing positive conditions for assessment (in familiar settings with familiar people); and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) avoiding bias and using culturally sensitive assessments that have established reliability and validity;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) create a caring community of learners that supports positive relationships; promotes the development of childrenꞌs social, emotional, and friendship skills; and assists children in the development of security, self-regulation, responsibility, and problem solving;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) utilize a broad repertoire of developmentally appropriate teaching skills and strategies supportive of young learners, such as integrating curricular areas; scaffolding learning; teaching through social interactions; providing meaningful child choice; implementing positive guidance strategies; and making appropriate use of technology;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) provide curriculum and learning experiences that reflect the languages, cultures, traditions, and individual needs of diverse families and children, with particular attention to the cultures of the children and families in the classroom and to American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) use a variety of learning formats and contexts to support young learners, including creating support for extended play, creating effective indoor and outdoor learning centers, teaching primarily through individual and small group contexts, and utilizing the environment, schedule, and routines as learning opportunities;"}
+        },
+        {
+            "competencyText": {"en-us": "(p) design, implement, and evaluate developmentally meaningful, integrated, and challenging curriculum for each child using professional knowledge, Montanaꞌs Early Learning Standards, Montana Content Standards (K-5), and Indian Education for All;"}
+        },
+        {
+            "competencyText": {"en-us": "(q) integrate and support in-depth learning using both spontaneous and planned curricula and teaching practices in each of the academic discipline content areas including language and literacy; science; mathematics; social studies; the performing and visual arts; health and well-being; and physical development, skills, and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrating knowledge and understanding of theory and research and applying knowledge in the areas of language, speaking and listening, reading and writing processes, literature, print and non-print texts, which are inclusive of texts from and about American Indians and tribes in Montana, and technology; and planning, implementing, assessing, and reflecting on English/language arts and literacy instruction that promotes critical thinking and creative engagement;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrating knowledge, understanding, and use of the fundamental concepts of physical, life, earth, and space sciences to design and implement age-appropriate inquiry lessons to teach science, to build student understanding for personal and social applications, to convey the nature of science, the concepts in science and technology, the history and nature of science, including scientific contributions of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) demonstrating knowledge, understanding, and use of the major concepts, and procedures, and reasoning processes of mathematics that define number systems and number sense, operations, algebra, geometry, measurement, data analysis statistics and probability in order to foster student understanding and use of patterns, quantities, and spatial relationships that can represent phenomena, solve problems, and deal with data to engage students in problem solving, reasoning and proof, communication, connections, and representation, including culturally inclusive lessons and examples relating to American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) demonstrating knowledge, understanding, and use of the major concepts and modes of inquiry from the social studies, the integrated study of history, government, geography, economics including personal financial literacy, and an understanding of the social sciences and other related areas to promote studentsꞌ abilities to make informed decisions as citizens of a culturally diverse democratic society, including the cultural diversity of American Indians and tribes in Montana, and interdependent world;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) demonstrating knowledge, understanding, and use of the content, functions, and achievements of the performing arts (dance, music, drama) and the visual arts as primary media for communication, inquiry, perspective, and engagement among students, and culturally diverse performing and visuals arts inclusive of the works of American Indian artists and art in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) demonstrating knowledge, understanding, and use of the major concepts in the subject matter of health education to create opportunities for student development and practice of skills that contribute to good health for all young children; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) demonstrating knowledge, understanding, and use of human movement and physical activity as central elements to foster active, healthy life styles, including health nutrition, and enhanced quality of life for all students;"}
+        },
+        {
+            "competencyText": {"en-us": "(r) base curriculum planning on the understanding of the particular significance of social, emotional, and behavioral development as the foundation for young childrenꞌs school readiness and future achievements;"}
+        },
+        {
+            "competencyText": {"en-us": "(s) uphold and use state and national codes of ethical conduct for the education of young children and other applicable regulations and guidelines to analyze, resolve, and discuss implications of professional ethical dilemmas with respect to the child, family, colleagues, and community;"}
+        },
+        {
+            "competencyText": {"en-us": "(t) collaborate with multiple stakeholders, including:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) teachers in preceding and subsequent grade levels to increase continuity and coherence across ages/grades;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) families and interdisciplinary professionals to meet the developmental needs of each child; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) relevant community and state resources to build professional early learning networks that support high quality early learning experiences for young children and their families;"}
+        },
+        {
+            "competencyText": {"en-us": "(u) use formal and informal assessments, early learning professional knowledge, reflection, collaborative relationships, and critical thinking to analyze and continuously improve professional practices with young children and their families;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identify and involve oneself with the distinctive history, values, knowledge base, and mission of the early childhood field;"}
+        },
+        {
+            "competencyText": {"en-us": "(w) engage in informed advocacy for young children and the early childhood profession; and"}
+        },
+        {
+            "competencyText": {"en-us": "(x) demonstrate knowledge, skills, and dispositions during well-planned and sequenced clinical experiences working with children and families in two different age groups (3-5 and 5-8) and two types of the settings:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) one of which must include a Kindergarten-3rd grade experience in an accredited school setting for a formal student teaching experience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) the second clinical site may include state-licensed child care centers or homes, Head Start, and community or school-based preschool programs."}
+        },
+        {
+            "competencyText": {"en-us": "ELEMENTARY"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge and understanding of the major concepts, principles, theories, and research related to the development of children and young adolescents and apply these understandings to construct learning opportunities that support individual student development, acquisition of knowledge, and engagement in learning;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate knowledge, understanding, and use of the central concepts as outlined in Montana content standards, tools of inquiry, and structures of content for students across grades K-8 and engage students in meaningful learning experiences that develop students' competence in subject matter and skills for various developmental levels;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate knowledge and understanding of theory and research and apply knowledge in the areas of language, speaking and listening, reading and writing processes, literature, print and non-print texts, which are inclusive of texts from and about American Indians and tribes in Montana; and technology, and plan, implement, assess, and reflect on English/language arts and literacy instruction that promotes critical thinking and creates engagement;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge, understanding, and use of the fundamental concepts of physical, life, earth, and space sciences to design and implement age-appropriate inquiry lessons to teach science, to build student understanding for personal and social applications, to convey the nature of science, the concepts in science and technology, the history and nature of science, including scientific contributions of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate knowledge, understanding, and use of the major concepts and procedures that define number operations, algebra, geometry, measurement, data analysis and probability to engage elementary students in problem solving, reasoning, constructing arguments, communication, connections, and representation, including culturally inclusive lessons and examples relating to American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate knowledge, understanding, and use of the major concepts and modes of inquiry from the social studies, the integrated study of history, government, geography, economics, including personal financial literacy, and an understanding of the social sciences and other related areas to promote elementary students' abilities to make informed decisions as citizens of a culturally diverse democratic society, including the cultural diversity of American Indians and tribes in Montana, and interdependent world;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate knowledge, understanding, and use of the content, functions, and achievements of dance, music, theater, and the visual arts as primary media for communication, inquiry, perspective, and engagement among elementary students, and culturally diverse performing and visual arts inclusive of the works of American Indian artists and art in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate knowledge, understanding, and use of the major concepts in the subject matter of health education to create opportunities for student development and practice of skills that contribute to good health for all elementary students;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate knowledge, understanding, and use of human movement and physical activity as central elements to foster active, healthy life styles and enhanced quality of life for all elementary students;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate knowledge, understanding, and use of interdisciplinary connections to integrate subject matter contents, employing inclusive ideas and issues that engage students' ideas, interests, concerns, and experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) plan and implement instructional strategies based on knowledge of individual students, learning theory, content, connections across the curriculum, curricular goals, and community;"}
+        },
+        {
+            "competencyText": {"en-us": "(l) demonstrate understanding of how elementary students, within different populations, including American Indians and tribes in Montana, differ in development and approaches to learning and demonstrate the ability to differentiate instruction for learners of all cognitive abilities;"}
+        },
+        {
+            "competencyText": {"en-us": "(m) demonstrate knowledge of proven instructional strategies and use this knowledge to develop elementary students' ability to use critical thinking, problem solving, and current and emerging technologies;"}
+        },
+        {
+            "competencyText": {"en-us": "(n) demonstrate knowledge and understanding of individual and group motivation and behavior and apply this knowledge and understanding to foster active engagement in learning, self-motivation, and positive interaction and to create supportive learning environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(o) use knowledge and understanding of effective verbal, nonverbal, and media communication techniques in elementary learning environments to foster active inquiry, collaboration, and supportive interaction among students; and"}
+        },
+        {
+            "competencyText": {"en-us": "(p) demonstrate knowledge and understanding of formative and summative assessment strategies and use this knowledge and understanding to evaluate and ensure the continuous intellectual, social-emotional, and physical development of elementary students."}
+        },
+        {
+            "competencyText": {"en-us": "MIDDLE GRADES (4-8)"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program ensures that successful candidates demonstrate knowledge of young adolescent development and an understanding of the middle grades learner and learning. Candidates demonstrate:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) knowledge and understanding of the major concepts, principles, theories, and research related to young adolescent development (grades 4 through 8) and apply this knowledge and understanding when making curricular decisions, planning and implementing instruction, and participating in middle grades programs and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) knowledge of young adolescents in the areas of intellectual, physical, nutritional, social, emotional, behavioral, and moral characteristics, individual needs, and interests, and apply this knowledge to create healthy, respectful, supportive, and challenging learning environments for all young adolescents, including those whose language and cultures are different from their own;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understand the effects of childhood trauma on social, emotional, physical, and behavioral development and be able to demonstrate trauma-informed classroom management strategies;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) demonstrate a knowledge of the implications of secondary trauma;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) knowledge and understanding of the implications of diversity on the development of young adolescents and apply that understanding to implement curriculum and instruction that is responsive to young adolescentsꞌ local, tribal, Montana, national, and international histories, language/dialects, and individual identities;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) understanding of young adolescent development and apply that understanding when planning and implementing middle grades curriculum and when selecting and using instructional strategies; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) knowledge of young adolescent development when making decisions about their role in creating and maintaining developmentally responsive learning environments and when participating in effective middle grades instructional and organizational practices, including interdisciplinary team organization and advisory programs."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The program ensures that successful candidates demonstrate in-depth interdisciplinary knowledge of the middle grades content, standards, and curriculum and the ability to assist all young adolescents in understanding the interdisciplinary nature of knowledge. Candidates demonstrate:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) knowledge and understanding of theory and research and apply knowledge in the areas of language, speaking, and listening; reading and writing processes; literature, print, and non-print texts, which are inclusive of texts from and about American Indians and tribes in Montana; and technology; and plan, implement, assess, and reflect on English/language arts and literacy instruction that promotes critical thinking and creative engagement for young adolescents;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) knowledge, understanding, and use of the fundamental concepts of physical, life, earth, and space sciences to design and implement age-appropriate inquiry lessons to teach science, to build middle grades student understanding for personal and social applications, to convey the nature of science, the concepts in science and technology, and the history and nature of science, including scientific contributions of American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) knowledge, understanding, and use of the major concepts and procedures that define number and operations, algebra, geometry, measurement, data analysis, and probability to engage young adolescent students in problem solving, reasoning and proof, communication, connections, and representation, including culturally inclusive lessons and examples relating to American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) knowledge, understanding, and use of the major concepts and modes of inquiry from the social studies, the integrated study of history, government, geography, economics including personal financial literacy, and an understanding of the social sciences and other related areas to promote middle grades studentsꞌ abilities to make informed decisions as citizens of a culturally diverse democratic society, including the cultural diversity of American Indians and tribes in Montana, and the interdependent world;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) knowledge, understanding, and use of the content, functions, and achievements of the performing arts (dance, music, theater) and the visual arts as primary media for communication, inquiry, perspective, and engagement among young adolescent students, and culturally diverse performing and visuals arts inclusive of the works of American Indian artists and art in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) knowledge, understanding, and use of health education to create opportunities for middle grades student development and practice of skills that contribute to good physical, social, emotional, and behavioral health for all young adolescents; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) knowledge, understanding, and use of human movement and physical activity as central elements to foster active, healthy life styles, including health nutrition and enhanced quality of life for all young adolescent students."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The program ensures that successful candidates demonstrate knowledge and understanding of middle grades philosophy and school organization. Candidates demonstrate:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) knowledge and understanding of the major concepts, principles, theories, and research underlying the philosophical foundations of developmentally responsive middle grades programs and schools and apply this knowledge and understanding to work skillfully within the middles grades organizational components;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) knowledge of the philosophical foundations of developmentally responsive middle grades programs and schools; and"}
+        },
+        {
+            "competencyText": {"en-us": "(c) knowledge of the effective components of middle grades programs and apply this knowledge in order to function effectively within a variety of school organizational settings (e.g., grades K-8, 4-6, 6-8, 7-8)."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The program ensures that successful candidates demonstrate knowledge and understanding of middle grades curriculum, instruction, assessment, and learning. Candidates demonstrate:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) knowledge, understanding, and use of interdisciplinary connections to integrate subject matter contents, employing inclusive ideas and issues that engage middle grades students' ideas, interests, concerns, and experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) abilities to plan and implement instructional strategies for middle grades classrooms based on knowledge of individual students, learning theory, content, cross-curricular connections, curricular goals, and an understanding of community;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) understanding of how middle grades students differ in their development and approaches to learning, and apply this understanding to differentiate instruction to meet the learning needs of all young adolescents;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) knowledge of proven instructional strategies and use this knowledge to develop middle grades students' ability to use critical thinking, problem solving, and current and emerging technologies;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) knowledge and understanding of individual and group motivation and behavior among students at the middle grade level to foster active engagement in learning, self-motivation, and positive interaction, and to create supportive learning environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) knowledge and understanding of effective verbal, nonverbal, and media communication techniques in middle grades learning environments to foster active inquiry, collaboration, and supportive interaction in the middle grades classroom; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) knowledge and understanding of formative and summative assessment strategies and use this knowledge and understanding to evaluate and ensure the continuous intellectual, social-emotional, behavioral, and physical development of middle grades students."}
+        },
+        {
+            "competencyText": {"en-us": "SCHOOL COUNSELING K-12"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The program requires that successful candidates:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate knowledge of school counseling program models, the history, development, trends, philosophy, leadership, advocacy, qualities and styles of effective leadership in schools, and professional activities related to the practice of professional school counseling K-12;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate understanding of models of school-based collaboration and consultation, as well as competence in developing relationships with community resources such as public, private, medical, employment, and educational agencies for referral and collaborative service delivery to promote student success;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate competence in the use of theories of individual and family development and transitions across the life span, theories of learning and personality development, and human behavior including developmental crises, exceptionality, addictive behavior, psychopathology, and environmental factors that affect both normal and abnormal behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate knowledge of educational philosophies, curriculum development, school organization, and management to facilitate student success in the areas of academic, career, and personal/social development, as well as the school counselorꞌs role in student support and school leadership teams;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate knowledge of the role of ethnic and cultural heritage, nationality, socioeconomic status, family structure, age, gender, sexual orientation, religious and spiritual beliefs, occupation, physical and mental status, and equity issues in school counseling, including American Indians and tribes in Montana;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate competence in the coordination of school counseling program components and understand how they are integrated within the school community in collaboration with the efforts of other educators and agencies, as well as the roles of leaders, advocates, and systems change agents in schools;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate competence in elementary, middle, and high school counseling in:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) planning, designing, implementing, and evaluating a comprehensive and developmental school counseling program that includes mission statements and objectives;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) appraising and interpreting interviews, observations, and formal assessments (e.g., aptitude, interest, achievement, and personality tests) and other assessments relevant to K-12 education;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) promoting student success using strategies and interventions that address academic development, career counseling, school and life transitions, promotion and graduation rates, college and career readiness, equity in academic achievement, as well as skills to critically examine the connections between social, familial, emotional, and behavioral issues and academic achievement;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) utilizing a variety of developmentally appropriate intervention strategies in individual, family, and group contexts such as personal/social counseling, parent conferences, teaching guidance curriculum lessons using lesson planning and classroom management strategies, training and overseeing peer intervention programs, and other strategies that foster collaboration and teamwork in schools;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) consulting with family members, school personnel, community agencies, and other professionals regarding assessment and intervention to enhance the physical, academic, psychological, cognitive, and social development of all students;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) utilizing prevention and intervention programs that address issues such as drugs and alcohol, wellness, conflict/anger/violence management, eating disorders, child abuse and neglect, teenage pregnancy, family relations, childhood depression and suicide, school drop-outs, grief/separation/loss issues, and programs related to emergency management plans, crises, disasters, and other trauma-causing events;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) managing school counseling programs by using accountability data to inform decision making to advocate for students and programs, analyzing, and presenting educational research, performance, and evaluation data (e.g., standardized test scores, grades, retention, and placement) that advocate for students and programs;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) demonstrating new knowledge and skills, and refining existing skills through professional renewal (e.g., self-reflection, continuing education, and professional development);"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) demonstrating knowledge of special education laws, rules, and regulations and competence in the knowledge of developmental and educational issues of exceptional students and their families;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) demonstrating knowledge of the characteristics, risk factors, and warning signs of students at risk for mental health and behavioral disorders including the signs and symptoms of substance abuse in children and adolescents as well as the signs and symptoms of living in a home where substance use occurs;"}
+        },
+        {
+            "competencyText": {"en-us": "(xi) demonstrating knowledge of common medications that affect learning, behavior, and mood in children and adolescents; and"}
+        },
+        {
+            "competencyText": {"en-us": "(xii) demonstrating knowledge of professional organizations, preparation standards, and credentials that are relevant to the practice of school counseling;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate knowledge of, and apply the laws (state and federal), policies, and legislation that affect student placement, follow-up and program planning, as well as the ethical issues related to the school counseling field, specifically the ethical standards of the American School Counselor Association (ASCA); and"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrate knowledge of the ASCA national standards for student development (academic, career, and personal/social developmental domains) and demonstrate competence integrating the national standards throughout the school counseling program."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The candidate will successfully complete a supervised counseling practicum and internship experience, which includes observation and practice of counseling and other professional skills related to professional school counseling. The counseling practicum and internship experience shall include the following requirements:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) a practicum with a minimum of 100 hours, which includes 40 hours of supervised direct service to K-12 students providing individual counseling and group work;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) a practicum supervised by a program faculty member or a supervisor under the supervision of a program faculty member, a minimum of one hour per week in an individual supervision session and one and one-half hours per week in a group supervision session;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) an internship that begins after the successful completion of a counseling practicum and a minimum of 600 hours in a school setting;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) an internship of 240 hours of supervised direct service to K-12 students performing a variety of school counseling activities related to a school counseling program that may include delivering guidance curriculum (classroom teaching), student planning (academic, career, or personal/social), responsive services (counseling and referral), and system support (management and consultation);"}
+        },
+        {
+            "competencyText": {"en-us": "(e) an internship that is supervised at a minimum of one hour per week in an individual supervision session (provided by a site supervisor) and one and one-half hours per week in a group supervision session (provided by a program faculty member);"}
+        },
+        {
+            "competencyText": {"en-us": "(f) regular and adjunct program faculty who provide individual or group practicum and/or internship supervision have a doctoral degree and/or appropriate clinical preparation from an accredited school counselor education program, relevant professional experience and demonstrated competence in counseling, and relevant training and supervision experience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(g) site supervisors who have a minimum of a masterꞌs degree in counseling or a related profession with equivalent qualifications, including appropriate certification or licensure, a minimum of two years of experience as a school counselor, and knowledge of the program's expectations, requirements, and evaluation procedures for trainees."}
+        }
+    ]
+}

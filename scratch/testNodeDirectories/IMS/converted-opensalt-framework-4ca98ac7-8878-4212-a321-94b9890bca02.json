@@ -1,0 +1,343 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/4ca98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Finance"},
+        "description": {"en-us": "CTE-Finance Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Accounting"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the accounting career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the accounting career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Banking Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the banking services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the banking services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "State the banking concept as used in America."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic functions of banks."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the services offered by a full service bank."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of selling financial services by all financial institutions."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize global banking functions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the promotion of global trade."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the global credit crisis."}
+        },
+        {
+            "competencyText": {"en-us": "Identify global exchange services."}
+        },
+        {
+            "competencyText": {"en-us": "Business Finance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the business finance career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the business finance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the differences between the various economic systems and explore American capitalism."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the terms \"market\" and \"market system.\""}
+        },
+        {
+            "competencyText": {"en-us": "Describe the characteristics of America\u2019s market economy and the impact of supply and demand."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of the profit motive in investment decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast major features of a variety of economic systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge through citing examples of capital markets and the role securities have within these markets."}
+        },
+        {
+            "competencyText": {"en-us": "Identify reasons for corporate efforts to raise capital."}
+        },
+        {
+            "competencyText": {"en-us": "Explain methods available to corporations for raising capital."}
+        },
+        {
+            "competencyText": {"en-us": "Develop skill in interpreting the financial section of the daily newspaper."}
+        },
+        {
+            "competencyText": {"en-us": "Identify important financial data components found in the financial section of a daily newspaper."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Finance cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Finance career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Finance career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Finance career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Finance career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Finance career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Finance career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Finance career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability in using computer and electronic skills to perform job functions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate tools to increase work efficiency (e.g. word processing, database, spreadsheet programs, presentation programs, email systems, and internet)."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize computer technology to access, analyze and interpret business information."}
+        },
+        {
+            "competencyText": {"en-us": "Cite internet-based resources using proper format."}
+        },
+        {
+            "competencyText": {"en-us": "Research industry trends using the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Develop sales and marketing fundamentals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of available financial services and products."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize consumer motivation related to buying behaviors (i.e. demographic, geographic and socioeconomic data)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of and demonstrate the procedures of cross selling."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the opportunities for cross selling."}
+        },
+        {
+            "competencyText": {"en-us": "Follow effective procedures for closing a sale."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to sell a variety of financial services and products."}
+        },
+        {
+            "competencyText": {"en-us": "Develop awareness of management functions and organizational structures as they relate to today\u2019s workplace and employer/employee roles."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and evaluate organizational structures and cultures for managing project teams."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and identify current trends in business and the employee\u2019s role in maintaining productive business environments in today\u2019s global workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with individuals and teams to practice tasks and solve business-related problems, demonstrating initiative, courtesy, loyalty, honesty, cooperation, and punctuality."}
+        },
+        {
+            "competencyText": {"en-us": "Assess personal strengths and weaknesses related to job objectives, career exploration, personal development, and life goals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze job and career pathways and requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and relate career interest opportunities in financial occupations in the global economy."}
+        },
+        {
+            "competencyText": {"en-us": "Identify different types of business organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the features of proprietorship, partnership, and corporation."}
+        },
+        {
+            "competencyText": {"en-us": "List the advantages and disadvantages of forming a corporation."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss reasons for corporate acquisitions and mergers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of consumer credit in today's society."}
+        },
+        {
+            "competencyText": {"en-us": "Define consumer credit."}
+        },
+        {
+            "competencyText": {"en-us": "Identify major providers of consumer credit."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reasons consumer credit exists."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the principles of saving and borrowing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of credit to consumers in the American marketplace."}
+        },
+        {
+            "competencyText": {"en-us": "List the criteria for evaluating an individual's credit worthiness. "}
+        },
+        {
+            "competencyText": {"en-us": "Describe three different types of consumer credit discrimination."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a strategy for increasing an individual's savings."}
+        },
+        {
+            "competencyText": {"en-us": "Define global trade."}
+        },
+        {
+            "competencyText": {"en-us": "Describe what takes place during the rise or fall of the exchange rate of the U.S. dollar."}
+        },
+        {
+            "competencyText": {"en-us": "Outline the advantages and disadvantages of a protectionist policy."}
+        },
+        {
+            "competencyText": {"en-us": "Identify possible solutions to the problem of meeting global competition."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between imports and exports."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the U.S. balance of trade."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate initiative, courtesy, loyalty, honesty, cooperation and punctuality as a team member."}
+        },
+        {
+            "competencyText": {"en-us": "Practice tasks as a team member to solve business-related problems, demonstrating initiative, courtesy, loyalty, honesty, cooperation, and punctuality."}
+        },
+        {
+            "competencyText": {"en-us": "Insurance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the insurance career pathway and describe how the careers have evolved and impacted society. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the insurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Securities and Investments"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the securities and investments career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the securities and investments career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the securities and investments career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the securities and investments career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the securities and investments career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the securities and investments career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the securities and investments career pathway."}
+        }
+    ]
+}

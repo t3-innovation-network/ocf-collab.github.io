@@ -1,0 +1,2971 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/1da98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Science"},
+        "description": {"en-us": "Science Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the five senses and related body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that some books and other media portray animals and plants with characteristics and behaviors they do not have in real life."}
+        },
+        {
+            "competencyText": {"en-us": "Observe plants and animals, describe how they are alike and how they are different in the way they look and in the things they do."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Sort objects by observable properties, such as size, shape, color, temperature (hot or cold), weight (heavy or light) and texture."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter  "}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the shape of materials such as paper and clay can be changed by cutting, tearing, crumpling, smashing, or rolling."}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Observe that things that make sound vibrate."}
+        },
+        {
+            "competencyText": {"en-us": "Motion of Objects"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate that things move in different ways, such as fast, slow, etc."}
+        },
+        {
+            "competencyText": {"en-us": "Forces and Changes in Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Observe that a push or a pull can change the way an object is moving."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Gravity by investigating how objects are pulled toward the ground unless something holds them up."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the repeating pattern of day and night."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the Sun can only be seen in the daytime."}
+        },
+        {
+            "competencyText": {"en-us": "Observe that sometimes the Moon can be seen at night and sometimes during the day."}
+        },
+        {
+            "competencyText": {"en-us": "Observe that things can be big and things can be small as seen from Earth."}
+        },
+        {
+            "competencyText": {"en-us": "Observe that some objects are far away and some are nearby as seen from Earth."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with a partner to collect information."}
+        },
+        {
+            "competencyText": {"en-us": "Make observations of the natural world and know that they are descriptors collected using the five senses."}
+        },
+        {
+            "competencyText": {"en-us": "Keep records as appropriate -- such as pictorial records -- of investigations conducted."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and create a visual representation of an object which includes its major features."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that learning can come from careful observation."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Make observations of living things and their environment using the five senses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major parts of plants, including stem, roots, leaves, and flowers."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between living and nonliving things."}
+        },
+        {
+            "competencyText": {"en-us": "Heredity and Reproduction"}
+        },
+        {
+            "competencyText": {"en-us": "Make observations that plants and animals closely resemble their parents, but variations exist among individuals within a population."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Through observation, recognize that all plants and animals, including humans, need the basic necessities of air, water, food, and space."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Sort objects by observable properties, such as size, shape, color, temperature (hot or cold), weight (heavy or light), texture, and whether objects sink or float."}
+        },
+        {
+            "competencyText": {"en-us": "Motion of Objects"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate and describe the various ways that objects can move, such as in a straight line, zigzag, back-and-forth, round-and-round, fast, and slow."}
+        },
+        {
+            "competencyText": {"en-us": "Forces and Changes in Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that the way to change the motion of an object is by applying a push or a pull."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time "}
+        },
+        {
+            "competencyText": {"en-us": "Observe and discuss that there are more stars in the sky than anyone can easily count and that they are not scattered evenly in the sky."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Gravity by demonstrating that Earth's gravity pulls any object on or near Earth toward it even though nothing is touching the object."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how magnifiers make things appear bigger and help people see things they could not see without them."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the beneficial and harmful properties of the Sun."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that water, rocks, soil, and living organisms are found on Earth's surface."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the need for water and how to be safe around water."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that some things in the world around us happen fast and some happen slowly."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Raise questions about the natural world, investigate them in teams through free exploration, and generate appropriate explanations based on those explorations."}
+        },
+        {
+            "competencyText": {"en-us": "Using the five senses as tools, make careful observations, describe objects in terms of number, shape, texture, size, weight, color, and motion, and compare their observations with others."}
+        },
+        {
+            "competencyText": {"en-us": "Keep records as appropriate - such as pictorial and written records - of investigations conducted."}
+        },
+        {
+            "competencyText": {"en-us": "Ask \"how do you know?\" in appropriate situations."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish human body parts (brain, heart, lungs, stomach, muscles, and skeleton) and their basic functions."}
+        },
+        {
+            "competencyText": {"en-us": "Heredity and Reproduction"}
+        },
+        {
+            "competencyText": {"en-us": "Observe and describe major stages in the life cycles of plants and animals, including beans and butterflies."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the basic needs that all living things, including humans, have for survival."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that living things are found all over Earth, but each is only able to live in habitats that meet its basic needs."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Observe and measure objects in terms of their properties, including size, shape, color, temperature, weight, texture, sinking or floating in water, and attraction and repulsion of magnets."}
+        },
+        {
+            "competencyText": {"en-us": "Identify objects and materials as solid, liquid, or gas."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that solids have a definite shape and that liquids and gases take the shape of their container."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and describe water in its solid, liquid, and gaseous states."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and compare temperatures taken every day at the same time."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and compare the volume of liquids using containers of various shapes and sizes."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate that materials can be altered to change some of their properties, but not all materials respond the same way to any one alteration."}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss that people use electricity or other forms of energy to cook their food, cool or warm their homes, and power their cars."}
+        },
+        {
+            "competencyText": {"en-us": "Forces and Changes in Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the effect of applying various pushes and pulls on different objects."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that magnets can be used to make some things move without touching them."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that objects are pulled toward the ground unless something holds them up."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that the greater the force (push or pull) applied to an object, the greater the change in motion of the object."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that Earth is made up of rocks. Rocks come in many sizes and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how small pieces of rock and dead plant and animal parts can be the basis of soil and explain the process by which soil is formed."}
+        },
+        {
+            "competencyText": {"en-us": "Classify soil types based on color, texture (size of particles), the ability to retain water, and the ability to support the growth of plants."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Systems and Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and describe changing patterns in nature that repeat themselves, such as weather conditions including temperature and precipitation, day to day and season to season."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate by observing and measuring, that the Sun's energy directly and indirectly warms the water, land, and air."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate, observe and describe how water left in an open container disappears (evaporates), but water in a closed container does not disappear (evaporate)."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate that air is all around us and that moving air is wind."}
+        },
+        {
+            "competencyText": {"en-us": "State the importance of preparing for severe weather, lightning, and other weather related events."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Raise questions about the natural world, investigate them in teams through free exploration and systematic observations, and generate appropriate explanations based on those explorations."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the observations made by different groups using the same tools."}
+        },
+        {
+            "competencyText": {"en-us": "Ask \"how do you know?\" in appropriate situations and attempt reasonable answers when asked the same question by others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how particular scientific investigations should yield similar conclusions when repeated."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between empirical observation (what you see, hear, feel, smell, or taste) and ideas or inferences (what you think)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how scientists alone or in groups are always investigating new ways to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Grade K-2"}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Personal, Community, Global, and Ethical Impact"}
+        },
+        {
+            "competencyText": {"en-us": "Responsible use of technology and information"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper care for electronic devices (e.g., handling devices carefully, logging off or shutting down correctly, and keeping devices away from water/food)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the attributes of a good digital citizen: one who protects private information, balances time online, reports cyberbullying, and recognizes inappropriate content/contact."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safe and unsafe examples of online communications."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that a password helps protect the privacy of information."}
+        },
+        {
+            "competencyText": {"en-us": "The impact of computing resources on local and global society"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe how people use many types of technologies in their daily work and personal lives."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate about technology using developmentally appropriate terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that people use computing technology in the workplace to perform many important tasks and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Security, privacy, information sharing, ownership, licensure and copyright"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that some information is private and should not be shared online."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication and Collaboration"}
+        },
+        {
+            "competencyText": {"en-us": "Communication and collaboration "}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of digital tools used for communication and collaboration (e.g., online library catalogs and databases)."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct basic keyword searches, and exchange information and feedback with teachers and other students (e.g., e-mail and text messaging)."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate and cooperate with peers, teachers, and others using technology to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Provide and accept constructive criticism on a collaborative project."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication Systems and Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Modeling and simulations"}
+        },
+        {
+            "competencyText": {"en-us": "Define simulation and identify the concepts illustrated by a simple simulation (e.g., growth, human health, and the butterfly life cycle)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how models and simulations can be used to solve real-world issues in science and engineering."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how models represent a real-life system (e.g., globe or map)."}
+        },
+        {
+            "competencyText": {"en-us": "Solve questions individually and collaboratively using models."}
+        },
+        {
+            "competencyText": {"en-us": "Problem solving and algorithms "}
+        },
+        {
+            "competencyText": {"en-us": "Arrange or sort information into useful order, such as sorting students by birth date, with or without technology."}
+        },
+        {
+            "competencyText": {"en-us": "Solve age-appropriate problems (e.g., puzzles and logical thinking programs) with or without technology (i.e., computational thinking)."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real life issues in science and engineering using computational thinking."}
+        },
+        {
+            "competencyText": {"en-us": "Define an algorithm as a sequence of defined steps."}
+        },
+        {
+            "competencyText": {"en-us": "Create a simple algorithm, individually and collaboratively, without using computers to complete the task (e.g., making a sandwich, getting ready for school)."}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate thoughts, ideas, and stories in a step-by-step manner using writing tools, digital cameras, and drawing tools."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and present an algorithm using tangible materials."}
+        },
+        {
+            "competencyText": {"en-us": "Gather and organize information using concept-mapping tools."}
+        },
+        {
+            "competencyText": {"en-us": "Digital tools"}
+        },
+        {
+            "competencyText": {"en-us": "Create a digital artifact (independently and collaboratively) that clearly expresses thoughts and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Create, review, and revise artifacts that include text, images, and audio using digital tools."}
+        },
+        {
+            "competencyText": {"en-us": "Hardware and software"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize different kinds of computing devices in the classroom and other places (e.g., laptops, tablets, smart phones, desktops, printers)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and operate different types of computers, applications and peripherals (e.g., use input/output devices such as a mouse, keyboard, or touch screen; find, navigate, launch a program)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that a computer program is running when a program or command is executed."}
+        },
+        {
+            "competencyText": {"en-us": "Human \u2013 Computer interactions and Artificial Intelligence"}
+        },
+        {
+            "competencyText": {"en-us": "Identify tasks that are made easier because of computers."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Computer Practices and Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Data analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Identify different kinds of data (e.g., text, charts, graphs, numbers, pictures, audio, video, and collections of objects)."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and manipulate data using a variety of computing methods (e.g., sorting, totaling, and averaging)."}
+        },
+        {
+            "competencyText": {"en-us": "Propose a solution to a problem or question based on an analysis of the data and critical thinking, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Create data visualizations (e.g., charts and infographics), individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Computer programming basics"}
+        },
+        {
+            "competencyText": {"en-us": "Define a computer program as a set of commands created by people to do something."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a simple task (e.g., making a sandwich and brushing teeth) breaking it into small steps."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that computers only follow the program&rsquo;s instructions."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a simple program using tools that do not require a textual programming language (e.g. block-based programming language)."}
+        },
+        {
+            "competencyText": {"en-us": "Programming applications"}
+        },
+        {
+            "competencyText": {"en-us": "Create developmentally appropriate multimedia products with support from teachers, family members, or student partners."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a simple presentation of digital products and applications."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Describe structures in plants and their roles in food production, support, water and nutrient transport, and reproduction."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe how plants respond to stimuli (heat, light, gravity), such as the way plant stems grow toward light and their roots grow downward in response to gravity."}
+        },
+        {
+            "competencyText": {"en-us": "Diversity and Evolution of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Classify animals into major groups (mammals, birds, reptiles, amphibians, fish, arthropods, vertebrates and invertebrates, those having live births and those which lay eggs) according to their physical characteristics and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Classify flowering and nonflowering plants into major groups such as those that produce seeds, or those like ferns and mosses that produce spores, according to their physical characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how animals and plants respond to changing seasons."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that plants use energy from the Sun, air, and water to make their own food."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Measure and compare temperatures of various samples of solids and liquids."}
+        },
+        {
+            "competencyText": {"en-us": "Measure and compare the mass and volume of solids and liquids."}
+        },
+        {
+            "competencyText": {"en-us": "Compare materials and objects according to properties such as size, shape, color, texture, and hardness."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the changes water undergoes when it changes state through heating and cooling by using familiar scientific terms such as melting, freezing, boiling, evaporation, and condensation."}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Identify some basic forms of energy such as light, heat, sound, electrical, and mechanical."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that energy has the ability to cause motion or create change."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that light travels in a straight line until it strikes an object or travels from one medium to another."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that light can be reflected, refracted, and absorbed."}
+        },
+        {
+            "competencyText": {"en-us": "Energy Transfer and Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate, observe, and explain that things that give off light often also give off heat."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate, observe, and explain that heat is produced when one object rubs against another, such as rubbing one's hands together."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that stars can be different; some are smaller, some are larger, and some appear brighter than others; all except the Sun are so far away that they look like points of light."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the Sun as a star that emits energy; some of it in the form of light."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the Sun appears large and bright because it is the closest star to Earth."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Gravity by demonstrating that gravity is a force that can be overcome."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate that the number of stars that can be seen through telescopes is dramatically greater than those seen by the unaided eye."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate that radiant energy from the Sun can heat objects and when the Sun is not present, heat may be lost."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Raise questions about the natural world, investigate them individually and in teams through free exploration and systematic investigations, and generate appropriate explanations based on those explorations."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the observations made by different groups using the same tools and seek reasons to explain the differences across groups."}
+        },
+        {
+            "competencyText": {"en-us": "Keep records as appropriate, such as pictorial, written, or simple charts and graphs, of investigations conducted."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the importance of communication among scientists."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that scientists question, discuss, and check each other's evidence and explanations."}
+        },
+        {
+            "competencyText": {"en-us": "Infer based on observation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that empirical evidence is information, such as observations or measurements, that is used to help validate explanations of natural phenomena."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that words in science can have different or more specific meanings than their use in everyday language; for example, energy, cell, heat/cold, and evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that scientists use models to help understand and explain how things work."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that all models are approximations of natural phenomena; as such, they do not perfectly account for all observations."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Heredity and Reproduction"}
+        },
+        {
+            "competencyText": {"en-us": "Identify processes of sexual reproduction in flowering plants, including pollination, fertilization (seed production), seed dispersal, and germination."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that although characteristics of plants and animals are inherited, some characteristics can be affected by the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that animal behaviors may be shaped by heredity and learning."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the major stages in the life cycles of Florida plants and animals, such as those that undergo incomplete and complete metamorphosis, and flowering and nonflowering seed-bearing plants."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the seasonal changes in Florida plants and animals to those in other regions of the country."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that animals, including humans, cannot make their own food and that when animals eat plants or other animals, the energy stored in the food source is passed to them."}
+        },
+        {
+            "competencyText": {"en-us": "Trace the flow of energy from the Sun as it is transferred along the food chain through the producers to the consumers."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize ways plants and animals, including humans, can impact the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Measure and compare objects and materials based on their physical properties including: mass, shape, volume, color, hardness, texture, odor, taste, attraction to magnets."}
+        },
+        {
+            "competencyText": {"en-us": "Identify properties and common uses of water in each of its states."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Conservation of Mass by demonstrating that the mass of a whole object is always the same as the sum of the masses of its parts."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that magnets can attract magnetic materials and attract and repel other magnets."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Identify some familiar changes in materials that result in other materials with different characteristics, such as decaying animal or plant matter, burning, rusting, and cooking."}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Observe and describe some basic forms of energy, including light, heat, sound, electrical, and the energy of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that energy has the ability to cause motion or create change."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain that sound is produced by vibrating objects and that pitch depends on how fast or slow the object vibrates."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how moving water and air are sources of energy and can be used to move things."}
+        },
+        {
+            "competencyText": {"en-us": "Energy Transfer and Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that heat flows from a hot object to a cold object and that heat flow may cause materials to change temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common materials that conduct heat well or poorly."}
+        },
+        {
+            "competencyText": {"en-us": "Motion of Objects"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that an object in motion always changes its position and may change its direction."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that the speed of an object is determined by the distance it travels in a unit of time and that objects can move at different speeds."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Observe that the patterns of stars in the sky stay the same although they appear to shift across the sky nightly, and different stars can be seen in different seasons."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the changes in the observable shape of the moon over the course of about a month."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that Earth revolves around the Sun in a year and rotates on its axis in a 24-hour day."}
+        },
+        {
+            "competencyText": {"en-us": "Relate that the rotation of Earth (day and night) and apparent movements of the Sun, Moon, and stars are connected."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and report the effects of space research and exploration on the economy and culture of Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the three categories of rocks: igneous, (formed from molten rock); sedimentary (pieces of other rocks and fossilized organisms); and metamorphic (formed from heat and pressure)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the physical properties of common earth-forming minerals, including hardness, color, luster, cleavage, and streak color, and recognize the role of minerals in the formation of rocks."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that humans need resources found on Earth and that these are either renewable or nonrenewable."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic differences between physical weathering (breaking down of rock by wind, water, ice, temperature change, and plants) and erosion (movement of rock by gravity, wind, water, and ice)."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how technology and tools help to extend the ability of humans to observe very small things and very large things."}
+        },
+        {
+            "competencyText": {"en-us": "Identify resources available in Florida (water, phosphate, oil, limestone, silicon, wind, and solar energy)."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Raise questions about the natural world, use appropriate reference materials that support understanding to obtain information (identifying the source), conduct both individual and team investigations through free exploration and systematic investigations, and generate appropriate explanations based on those explorations."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the observations made by different groups using multiple tools and seek reasons to explain the differences across groups."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that science does not always follow a rigidly defined method (\"the scientific method\") but that science does involve the use of observations and empirical evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Attempt reasonable answers to scientific questions and cite evidence in support."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the methods and results of investigations done by other classmates."}
+        },
+        {
+            "competencyText": {"en-us": "Keep records that describe observations made, carefully distinguishing actual observations from ideas and inferences about the observations."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that scientists base their explanations on evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that science involves creativity in designing experiments."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that science focuses solely on the natural world."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that models can be three dimensional, two dimensional, an explanation in your mind, or a computer model."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the organs in the human body and describe their functions, including the skin, brain, heart, lungs, stomach, liver, intestines, pancreas, muscles and skeleton, reproductive organs, kidneys, bladder, and sensory organs."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the function of organs and other physical structures of plants and animals, including humans, for example: some animals have skeletons for support -- some with internal skeletons others with exoskeletons -- while some plants have stems for support."}
+        },
+        {
+            "competencyText": {"en-us": "Diversity and  Evolution of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how, when the environment changes, differences between individuals allow some plants and animals to survive and reproduce while others die or move to new locations."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast adaptations displayed by animals and plants that enable them to survive in different environments such as life cycles variations, animal behaviors and physical characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the basic properties of solids, liquids, and gases, such as mass, volume, color, texture, and temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and identify materials that will dissolve in water and those that will not and identify the conditions that will speed up or slow down the dissolving process."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate and explain that mixtures of solids can be separated based on observable properties of their parts such as particle size, shape, color, and magnetic attraction."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of atoms (also called atomic theory) by recognizing that all matter is composed of parts that are too small to be seen without magnification."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that many physical and chemical changes are affected by temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe some basic forms of energy, including light, heat, sound, electrical, chemical, and mechanical."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain that energy has the ability to cause motion or create change."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain that an electrically-charged object can attract an uncharged object and can either attract or repel another charged object without any contact between the objects."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain that electrical energy can be transformed into heat, light, and sound energy, as well as the energy of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Energy Transfer and Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and illustrate the fact that the flow of electricity requires a closed circuit (a complete loop)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and classify materials that conduct electricity and materials that do not."}
+        },
+        {
+            "competencyText": {"en-us": "Forces and Changes in Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Identify familiar forces that cause objects to move, such as pushes or pulls, including gravity acting on falling objects."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that the greater the force applied to it, the greater the change in motion of a given object."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that the more mass an object has, the less effect a given force will have on the object's motion."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain that when a force is applied to an object but it does not move, it is because another opposing force is being applied by something in the environment so that the forces are balanced."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that a galaxy consists of gas, dust, and many stars, including any objects orbiting the stars. Identify our home galaxy as the Milky Way."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the major common characteristics of all planets and compare/contrast the properties of inner and outer planets."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish among the following objects of the Solar System -- Sun, planets, moons, asteroids, comets -- and identify Earth's position in it."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Systems and Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Create a model to explain the parts of the water cycle. Water can be a gas, a liquid, or a solid and can go back and forth from one state to another."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the ocean is an integral part of the water cycle and is connected to all of Earth's water reservoirs via evaporation and precipitation processes."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize how air temperature, barometric pressure, humidity, wind speed and direction, and precipitation determine the weather in a particular place and time."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish among the various forms of precipitation (rain, snow, sleet, and hail), making connections to the weather in a particular place and time."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that some of the weather-related differences, such as temperature and humidity, are found among different environments, such as swamps, deserts, and mountains."}
+        },
+        {
+            "competencyText": {"en-us": "Describe characteristics (temperature and precipitation) of different climate zones as they relate to latitude, elevation, and proximity to bodies of water."}
+        },
+        {
+            "competencyText": {"en-us": "Design a family preparedness plan for natural disasters and identify the reasons for having such a plan."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Define a problem, use appropriate reference materials to support scientific understanding, plan and carry out scientific investigations of various types such as: systematic observations, experiments requiring the identification of variables, collecting and organizing data, interpreting data in charts, tables, and graphics, analyze information, make predictions, and defend conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between an experiment and other types of scientific investigation."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain the need for repeated experimental trials."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a control group and explain its importance in an experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that authentic scientific investigation frequently does not parallel the steps of \"the scientific method.\""}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain the difference between personal opinion/interpretation and verified observation."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that science is grounded in empirical observations that are testable; explanation must always be linked with evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that when scientific investigations are carried out, the evidence produced by those investigations should be replicable by others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and identify patterns in the hierarchical organization of organisms from atoms to molecules and cells to tissues to organs to organ systems to organisms."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain the components of the scientific theory of cells (cell theory): all organisms are composed of cells (single-celled or multi-cellular), all cells come from pre-existing cells, and cells are the basic unit of life."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explore how cells of all organisms undergo similar processes to maintain homeostasis, including extracting energy from food, getting rid of waste, and reproducing."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the structure and function of major organelles of plant and animal cells, including cell wall, cell membrane, nucleus, cytoplasm, chloroplasts, mitochondria, and vacuoles."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and investigate the general functions of the major systems of the human body (digestive, respiratory, circulatory, reproductive, excretory, immune, nervous, and musculoskeletal) and describe ways these systems interact with each other to maintain homeostasis."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast types of infectious agents that may infect the human body, including viruses, bacteria, fungi, and parasites."}
+        },
+        {
+            "competencyText": {"en-us": "Diversity and Evolution of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and describe how and why organisms are classified according to shared characteristics with emphasis on the Linnaean system combined with the concept of Domains."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Energy Transfer and Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Conservation of Energy by differentiating between potential and kinetic energy. Identify situations where kinetic energy is transformed into potential energy and vice versa."}
+        },
+        {
+            "competencyText": {"en-us": "Motion of Objects"}
+        },
+        {
+            "competencyText": {"en-us": "Measure and graph distance versus time for an object moving at a constant speed. Interpret this relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Forces and Changes in Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe types of forces including contact forces and forces acting at a distance, such as electrical, magnetic, and gravitational."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Gravity by recognizing that every object exerts gravitational force on every other object and that the force depends on how much mass the objects have and how far apart they are."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe that an unbalanced force acting on an object changes its speed, or direction of motion, or both."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and give examples of ways in which Earth's surface is built up and torn down by physical and chemical weathering, erosion, and deposition."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that there are a variety of different landforms on Earth's surface such as coastlines, dunes, rivers, mountains, glaciers, deltas, and lakes and relate these landforms as they apply to Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Systems and Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among radiation, conduction, and convection, the three mechanisms by which heat is transferred through Earth's system."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and apply how the cycling of water between the atmosphere and hydrosphere has an effect on weather patterns and climate."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how global patterns such as the jet stream and ocean currents influence local weather in measurable terms such as temperature, air pressure, wind direction and speed, and humidity and precipitation."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate and show interactions among the geosphere, hydrosphere, cryosphere, atmosphere, and biosphere."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how energy provided by the sun influences global patterns of atmospheric movement and the temperature differences between air, water, and land."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between weather and climate."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how natural disasters have affected human life in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways human beings protect themselves from hazardous weather and sun exposure."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the composition and structure of the atmosphere protects life and insulates the planet."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Define a problem from the sixth grade curriculum, use appropriate reference materials to support scientific understanding, plan and carry out scientific investigation of various types, such as systematic observations or experiments, identify variables, collect and organize data, interpret data in charts, tables, and graphics, analyze information, make predictions, and defend conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why scientific investigations should be replicable."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between an experiment and other types of scientific investigation, and explain the relative benefits and limitations of each."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss, compare, and negotiate methods used, results obtained, and explanations among groups of students conducting the same investigation."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that science involves creativity, not just in designing experiments, but also in creating explanations that fit evidence."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish science from other activities involving thought."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that scientific knowledge is durable because it is open to change as new evidence or interpretations are encountered."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that scientists who make contributions to scientific knowledge come from all kinds of backgrounds and possess varied talents, interests, and goals."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that a scientific theory is a well-supported and widely accepted explanation of nature and is not simply a claim posed by an individual.&nbsp;&nbsp; Thus, the use of the term theory in science is very different than how it is used in everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain that a scientific law is a description of a specific relationship under given conditions in the natural world. Thus, scientific laws are different from societal laws."}
+        },
+        {
+            "competencyText": {"en-us": "Give several examples of scientific laws."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of models in the context of the sixth grade science benchmarks."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3-5"}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Personal, Community, Global, and Ethical Impact"}
+        },
+        {
+            "competencyText": {"en-us": "Responsible use of technology and information"}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate and inappropriate uses of technology when posting to social media, sending e-mail, and browsing the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Describe responsible uses of modern communication media and devices."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the proper use and operation of security technologies (e.g., passwords, virus protection software, spam filters, pop-up blockers, and cookies)."}
+        },
+        {
+            "competencyText": {"en-us": "Define plagiarism and understand the impacts of plagiarized materials."}
+        },
+        {
+            "competencyText": {"en-us": "The impact of computing resources on local and global society"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how computers and computing devices are used to communicate with others on a daily basis."}
+        },
+        {
+            "competencyText": {"en-us": "Describe types of cyberbullying and explain what actions should be taken if students are either victims or witnesses of these behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the legal and social consequences of cyberbullying/harassment in social media."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how access to technology helps empower individuals and groups (e.g., gives them access to information, the ability to communicate with others around the world, and allows them to buy and sell things)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways in which people with special needs access and use adaptive technology."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate about technology using appropriate terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe how computing knowledge is essential to performing important tasks and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluation of digital information resources"}
+        },
+        {
+            "competencyText": {"en-us": "Identify digital information resources used to answer research questions (e.g., online library catalog, online encyclopedias, databases, and websites)."}
+        },
+        {
+            "competencyText": {"en-us": "Gather, organize, and analyze information from digital resources."}
+        },
+        {
+            "competencyText": {"en-us": "Compare digital resources for accuracy, relevancy, and appropriateness."}
+        },
+        {
+            "competencyText": {"en-us": "Security, privacy, information sharing, ownership, licensure and copyright"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the difference between digital artifacts that are open or free and those that are protected by copyright."}
+        },
+        {
+            "competencyText": {"en-us": "Explain fair use for using copyrighted materials (e.g., images, music, video, and text)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose of copyright and the possible consequences for inappropriate use of digital materials that are protected by copyright."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the threats to safe and efficient use of devices (e.g., SPAM, spyware, phishing, and viruses) associated with various forms of technology use (e.g., downloading and executing software programs, following hyperlinks, and opening files)."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication and Collaboration"}
+        },
+        {
+            "competencyText": {"en-us": "Communication and collaboration "}
+        },
+        {
+            "competencyText": {"en-us": "Identify technology tools for individual and collaborative data collection, writing, communication, and publishing activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe key ideas and details while working individually or collaboratively using digital tools and media-rich resources in a way that informs, persuades, and/or entertains."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways that technology can foster teamwork, and collaboration can support problem solving and innovation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how collaborating with others can be beneficial to a digital project."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that providing and receiving feedback from others can improve performance and outcomes for collaborative digital projects."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication Systems and Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Modeling and simulations"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the concepts illustrated by a simulation (e.g., ecosystem, predator/prey, and invasive species)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how models and simulations can be used to solve real-world issues in science and engineering."}
+        },
+        {
+            "competencyText": {"en-us": "Answer a question, individually and collaboratively, using data from a simulation."}
+        },
+        {
+            "competencyText": {"en-us": "Create a simple model of a system (e.g., flower or solar system) and explain what the model shows and does not show."}
+        },
+        {
+            "competencyText": {"en-us": "Problem solving and Algorithms "}
+        },
+        {
+            "competencyText": {"en-us": "Solve age-appropriate problems using information organized using digital graphic organizers (e.g., concept maps and Venn-diagrams)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how computational thinking can be used to solve real life issues in science and engineering."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the process of arranging or sorting information into useful order as well as the purpose for doing so."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems in science and engineering using computational thinking skills."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that there are several possible algorithms for searching within a dataset (such as finding a specific word in a word list or card in a deck of cards)."}
+        },
+        {
+            "competencyText": {"en-us": "Write an algorithm to solve a grade-level appropriate problem (e.g., move a character through a maze, instruct a character to draw a specific shape, have a character start, repeat or end activity as required or upon a specific event), individually or collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and correct logical errors in algorithms; written, mapped, live action, or digital."}
+        },
+        {
+            "competencyText": {"en-us": "Systematically test and identify logical errors in algorithms."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to correct logical errors in algorithms; written, mapped, live action, or digital."}
+        },
+        {
+            "competencyText": {"en-us": "Digital tools"}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate and publish multimedia artifacts using digital tools (local and online)."}
+        },
+        {
+            "competencyText": {"en-us": "Create an artifact (independently and collaboratively) that answers a research question clearly communicating thoughts and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Hardware and software"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic components of a computer (e.g., monitor, keyboard, mouse, controller, speakers)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the function and purpose of various input/output devices and peripherals (e.g., monitor, screen, keyboard, controller, speakers)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast hardware and software."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and solve simple hardware and software problems that may occur during everyday use (e.g., power, connections, application window or toolbar)."}
+        },
+        {
+            "competencyText": {"en-us": "Human \u2013 Computer interactions and Artificial Intelligence"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how hardware applications (e.g., Global Positioning System (GPS) navigation for driving directions, text-to-speech translation, and language translation) can enable everyone to do things they could not do otherwise."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast human and computer performance on similar tasks (e.g., sorting alphabetically or finding a path across a cluttered room) to understand which is best suited to the task."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that computers model intelligent behavior (as found in robotics, speech and language recognition, and computer animation)."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Computer Practices and Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Data analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that searches may be enhanced by using Boolean logic (e.g., using &ldquo;not&rdquo;, &ldquo;or&rdquo;, &ldquo;and&rdquo;)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe examples of databases from everyday life (e.g., library catalogs, school records, telephone directories, and contact lists)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, research, and collect a data set on a topic, issue, problem, or question using age-appropriate technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Collect, organize, graph, and analyze data to answer a question using a database or spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Computer programming basics"}
+        },
+        {
+            "competencyText": {"en-us": "Perform keyboarding skills for communication and the input of data and information."}
+        },
+        {
+            "competencyText": {"en-us": "Create, test, and modify a program in a graphical environment (e.g., block-based visual programming language), individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Create a program using arithmetic operators, conditionals, and repetition in programs."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that programs need known initial conditions (e.g., set initial score to zero in a game, initialize variables, or initial values set by hardware input)."}
+        },
+        {
+            "competencyText": {"en-us": "Detect and correct program errors, including those involving arithmetic operators, conditionals, and repetition, using interactive debugging."}
+        },
+        {
+            "competencyText": {"en-us": "Programming applications"}
+        },
+        {
+            "competencyText": {"en-us": "Write, communicate and publish activities using technology tools."}
+        },
+        {
+            "competencyText": {"en-us": "Present digitally created products, either individually and collaboratively, where a topic, concept, or skill is carefully analyzed or thoughtfully explored."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Diversity and Evolution of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that fossil evidence is consistent with the scientific theory of evolution that living things evolved from earlier species."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of evolution by recognizing and explaining ways in which genetic variation and environmental factors contribute to evolution by natural selection and diversity of organisms."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of evolution by relating how the inability of a species to adapt within a changing environment may contribute to the extinction of that species."}
+        },
+        {
+            "competencyText": {"en-us": "Heredity and Reproduction"}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain that every organism requires a set of instructions that specifies its traits, that this hereditary information (DNA) contains genes located in the chromosomes of each cell, and that heredity is the passage of these instructions from one generation to another."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the probabilities for genotype and phenotype combinations using Punnett Squares and pedigrees."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the general processes of sexual reproduction requiring meiosis and asexual reproduction requiring mitosis."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explore the impact of biotechnology (cloning, genetic engineering, artificial selection) on the individual, society and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Explain and illustrate the roles of and relationships among producers, consumers, and decomposers in the process of energy transfer in a food web."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the relationships among organisms such as mutualism, predation, parasitism, competition, and commensalism."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and investigate various limiting factors in the local ecosystem and their impact on native populations, including food, shelter, water, space, disease, parasitism, predation, and nesting sites."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Forms of Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Illustrate that the sun's energy arrives as radiation with a wide range of wavelengths, including infrared, visible, and ultraviolet, and that white light is made up of a spectrum of many different colors."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and explain that light can be reflected, refracted, and/or absorbed."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that light waves, sound waves, and other waves move at different speeds in different materials."}
+        },
+        {
+            "competencyText": {"en-us": "Energy Transfer and Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that adding heat to or removing heat from a system may result in a temperature change and possibly a change of state."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe the transformation of energy from one form to another."}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence to explain that energy cannot be created nor destroyed, only changed from one form to another."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and describe that heat flows in predictable ways, moving from warmer objects to cooler ones until they reach the same temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the layers of the solid Earth, including the lithosphere, the hot convecting mantle, and the dense metallic liquid and solid cores."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the patterns within the rock cycle and relate them to surface events (weathering and erosion) and sub-surface events (plate tectonics and mountain building)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify current methods for measuring the age of Earth and its parts, including the law of superposition and radioactive dating."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and give examples of how physical evidence supports scientific theories that Earth has evolved over geologic time due to natural processes."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of plate tectonics by describing how the movement of Earth's crustal plates causes both slow and rapid changes in Earth's surface, including volcanic eruptions, earthquakes, and mountain building."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the impact that humans have had on Earth, such as deforestation, urbanization, desertification, erosion, air and water quality, changing the flow of water."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that heat flow and movement of material within Earth causes earthquakes and volcanic eruptions, and creates mountains and ocean basins."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Define a problem from the seventh grade curriculum, use appropriate reference materials to support scientific understanding, plan and carry out scientific investigation of various types, such as systematic observations or experiments, identify variables, collect and organize data, interpret data in charts, tables, and graphics, analyze information, make predictions, and defend conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate replication (by others) from repetition (multiple trials)."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between an experiment (which must involve the identification and control of variables) and other forms of scientific investigation and explain that not all scientific knowledge is derived from experimentation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify test variables (independent variables) and outcome variables (dependent variables) in an experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the methods used in the pursuit of a scientific explanation as seen in different fields of science such as biology, geology, and physics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that empirical evidence is the cumulative body of observations of a natural phenomenon on which scientific explanations are based."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that scientific knowledge is the result of a great deal of debate and confirmation within the science community."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Identify an instance from the history of science in which scientific knowledge has changed when new evidence or new interpretations are encountered."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain the difference between theories and laws and give several examples of scientific theories and the evidence that supports them."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits and limitations of the use of scientific models."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Matter and Energy Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and investigate the process of photosynthesis, such as the roles of light, carbon dioxide, water and chlorophyll; production of food; release of oxygen."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and investigate how cellular respiration breaks down food to provide energy and releases carbon dioxide."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a scientific model of the carbon cycle to show how matter and energy are continuously transferred within and between organisms and their physical environment."}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence that living systems follow the Laws of Conservation of Mass and Energy."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Properties of Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of atoms (also known as atomic theory) by using models to explain the motion of particles in solids, liquids, and gases."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between weight and mass recognizing that weight is the amount of gravitational pull on an object and is distinct from, though proportional to, mass."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and describe the densities of various materials through measurement of their masses and volumes."}
+        },
+        {
+            "competencyText": {"en-us": "Classify and compare substances on the basis of characteristic physical properties that can be demonstrated or measured; for example, density, thermal or electrical conductivity, solubility, magnetic properties, melting and boiling points, and know that these properties are independent of the amount of the sample."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that there are a finite number of elements and that their atoms combine in a multitude of ways to produce compounds that make up all of the living and nonliving things that we encounter."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that elements are grouped in the periodic table according to similarities of their properties."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of atoms (also known as atomic theory) by recognizing that atoms are the smallest unit of an element and are composed of sub-atomic particles (electrons surrounding a nucleus containing protons and neutrons)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic examples of and compare and classify the properties of compounds, including acids, bases, and salts."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish among mixtures (including solutions) and pure substances."}
+        },
+        {
+            "competencyText": {"en-us": "Changes in Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Conservation of Mass by demonstrating and concluding that mass is conserved when substances undergo physical and chemical changes."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between physical changes and chemical changes."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe how temperature influences chemical changes."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that there are enormous distances between objects in space and apply our knowledge of light and space travel to understand this distance."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the universe contains many billions of galaxies and that each galaxy contains many billions of stars."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the hierarchical relationships between planets and other astronomical bodies relative to solar system, galaxy, and universe, including distance, size, and composition."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of  Universal Gravitation by explaining the role that gravity plays in the formation of planets, stars, and solar systems and in determining their motions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and classify specific physical properties of stars: apparent magnitude (brightness), temperature (color), size, and luminosity (absolute brightness)."}
+        },
+        {
+            "competencyText": {"en-us": "Create models of solar properties including: rotation, structure of the Sun, convection, sunspots, solar flares, and prominences."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the properties of objects in the Solar System including the Sun, planets, and moons to those of Earth, such as gravitational force, distance from the Sun, speed, movement, temperature, and atmospheric conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare various historical models of the Solar System, including geocentric and heliocentric."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the impact of objects in space on each other including:  <ol>  <li>the Sun on the Earth including seasons and gravitational attraction<\/li>   <li>the Moon on the Earth, including phases, tides, and eclipses, and the relative position of each body.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Assess how technology is essential to science for such purposes as access to outer space and other remote locations, sample collection, measurement, data collection and storage, computation, and communication of information."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare characteristics of the electromagnetic spectrum such as wavelength, frequency, use, and hazards and recognize its application to an understanding of planetary images and satellite photographs."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the effects of space exploration on the economy and culture of Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Define a problem from the eighth grade curriculum using appropriate reference materials to support scientific understanding, plan and carry out scientific investigations of various types, such as systematic observations or experiments, identify variables, collect and organize data, interpret data in charts, tables, and graphics, analyze information, make predictions, and defend conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Design and conduct a study using repeated trials and replication."}
+        },
+        {
+            "competencyText": {"en-us": "Use phrases such as \"results support\" or \"fail to support\" in science, understanding that science does not offer conclusive 'proof' of a knowledge claim."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how hypotheses are valuable if they lead to further investigations, even if they turn out not to be supported by the data."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the methods used to develop a scientific explanation as seen in different fields of science."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that scientific investigations involve the collection of relevant empirical evidence, the use of logical reasoning, and the application of imagination in devising hypotheses, predictions, explanations and models to make sense of the collected evidence."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between scientific and pseudoscientific ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss what characterizes science and its methods."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Select models useful in relating the results of their own investigations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why theories may be modified but are rarely discarded."}
+        },
+        {
+            "competencyText": {"en-us": "Science and Society"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that science is one of the processes that can be used to inform decision making at the community, state, national, and international levels."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how political, social, and economic concerns can affect science, and vice versa."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Personal, Community, Global, and Ethical Impact"}
+        },
+        {
+            "competencyText": {"en-us": "Responsible use of technology and information"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and describe legal and ethical behaviors when using information and technology and describe the consequences of misuse."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use safe and appropriate practices when participating in online communities (e.g., discussion groups, blogs, and social networking sites)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the proper use and operation of security technologies (e.g., passwords, virus protection software, spam filters, pop-up blockers, and cookies)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the impacts and consequences of plagiarism on the development of creative works, projects, publications and online content."}
+        },
+        {
+            "competencyText": {"en-us": "The impact of computing resources on local and global society"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the positive and negative impacts of computing, social networking and web technologies on human culture."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the possible consequences of cyberbullying and inappropriate use of social media on personal life and society."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of access to information technologies over time and the effects those changes have had on education, the workplace, and the global society."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the unequal net-neutrality and distribution of computing resources in a global economy raises issues of equity, access, and power."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways in which adaptive technologies can assist users with special needs to function in their daily lives."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and discuss the technology skills needed in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret writings and/or communications which use developmentally appropriate terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify interdisciplinary careers that are enhanced by computer science."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluation of digital information resources"}
+        },
+        {
+            "competencyText": {"en-us": "Answer research questions using digital information resources."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how media and technology can be used to distort, exaggerate, or misrepresent information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strategies for determining the reliability of resources or information on the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify peer reviewed resources and understand the need for peer review."}
+        },
+        {
+            "competencyText": {"en-us": "Identify resources such as city, state, and federal government websites and explain that these resources can be used for communication between citizens and government."}
+        },
+        {
+            "competencyText": {"en-us": "Security, privacy, information sharing, ownership, licensure and copyright"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the guidelines for the fair use of downloading, sharing or modifying of digital materials."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how copyright law and licensing protect the owner of intellectual properties."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the possible consequences of violating intellectual property law."}
+        },
+        {
+            "competencyText": {"en-us": "Identify threats and actions that protect devices from viruses, intrusion, vandalism, and other malicious activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate compliance with the school&rsquo;s Acceptable Use Policy."}
+        },
+        {
+            "competencyText": {"en-us": "Generate text and non-text citations using digital citation tool."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication and Collaboration"}
+        },
+        {
+            "competencyText": {"en-us": "Communication and collaboration "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an ability to communicate appropriately through various online tools."}
+        },
+        {
+            "competencyText": {"en-us": "Apply productivity and or multimedia tools for local and global group collaboration."}
+        },
+        {
+            "competencyText": {"en-us": "Design, develop, and publish a collaborative digital product using a variety of digital tools and media-rich resources that demonstrate and communicate concepts to inform, persuade, and/or entertain."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication Systems and Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Modeling and simulations"}
+        },
+        {
+            "competencyText": {"en-us": "Examine connections between elements of mathematics and computer science including binary numbers, logic, sets, and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Create or modify and use a simulation to analyze and illustrate a concept in depth (i.e., use a simulation to illustrate a genetic variation), individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate what kinds of real-world problems can be solved using modeling and simulation."}
+        },
+        {
+            "competencyText": {"en-us": "Interact with content-specific models and simulations to support learning, research and problem solving (e.g., immigration, international trade, invasive species)."}
+        },
+        {
+            "competencyText": {"en-us": "Problem solving and Algorithms "}
+        },
+        {
+            "competencyText": {"en-us": "Create, modify, and use a database (e.g., define field formats, adding new records, manipulate data) to analyze data and propose solutions for a task/problem, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-life issues in science and engineering (i.e., generalize a solution to open-ended problems) using computational thinking skills."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of operations such as sorting, filtering, and searching in a database."}
+        },
+        {
+            "competencyText": {"en-us": "Organize and display information in a variety of ways such as number formats (e.g., scientific notation, percentages, and exponents), charts, tables and graphs."}
+        },
+        {
+            "competencyText": {"en-us": "Decompose a problem and create a function for one of its parts at a time (e.g., video game, robot obstacle course, making dinner), individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Create a program that implements an algorithm to achieve a given goal, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Design solutions that use repetition and two-way selection (e.g., for, while, if/else)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that boundaries need to be taken into account for an algorithm to produce correct results."}
+        },
+        {
+            "competencyText": {"en-us": "Identify simple data types and data structures."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that more than one algorithm can solve a given problem."}
+        },
+        {
+            "competencyText": {"en-us": "Predict outputs while showing an understanding of inputs."}
+        },
+        {
+            "competencyText": {"en-us": "Select the &lsquo;best&rsquo; algorithm based on a given criteria (e.g., time, resource, and accessibility) to solve a problem, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a problem domain using iterative development and debugging."}
+        },
+        {
+            "competencyText": {"en-us": "Perform program tracing to predict the behavior of programs."}
+        },
+        {
+            "competencyText": {"en-us": "Digital tools"}
+        },
+        {
+            "competencyText": {"en-us": "Explain why different file types exist (e.g., formats for word processing, images, music, and three-dimensional drawings)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the kinds of content associated with different file types."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate information from multiple file formats into a single artifact."}
+        },
+        {
+            "competencyText": {"en-us": "Hardware and software"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the function of the main internal parts of a basic computing device (e.g., motherboard, hard drive, Central Processing Unit -CPU)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the main functions of an operating system and explain how an operating system provides user and system services (e.g., user interface, IO device management, task management)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationships between hardware and software (e.g., BIOS, operating systems and firmware)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the use of sensors, actuators, and control systems in an embodied system (e.g., a robot, an e-textile, installation art, and a smart room)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a hardware or software problem and construct the steps involved in diagnosing and solving the problem (e.g., power, connections, application window or toolbar, cables, ports, network resources, video, and sound)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the essential characteristics of a software artifact."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the major components and functions of computer systems and networks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify software used to support specialized forms of human-computer interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Network systems"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how information, both text and non-text, is translated and communicated between digital computers over a computer network."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between physical (wired), local area wireless, and mobile networks"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major components of a network."}
+        },
+        {
+            "competencyText": {"en-us": "Human \u2013 Computer interactions and Artificial Intelligence"}
+        },
+        {
+            "competencyText": {"en-us": "Explain why some tasks can be accomplished more easily by computers."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how humans and machines interact to accomplish tasks that cannot be accomplished by either alone."}
+        },
+        {
+            "competencyText": {"en-us": "Identify novel ways humans interact with computers, including software, probes, sensors, and handheld devices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways in which computers use models of intelligent behavior (e.g., robot motion, speech and language understanding, and computer vision)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors that distinguish humans from machines."}
+        },
+        {
+            "competencyText": {"en-us": "Design and demonstrate the use of a device (e.g., robot, e-textile) to accomplish a task, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Computer Practices and Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Data analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Define parameters for individual and collaborative projects using Boolean logic (e.g., using &ldquo;not&rdquo;, &ldquo;or&rdquo;, &ldquo;and&rdquo;)."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use data-collection technology (e.g., probes, handheld devices, geographic mapping systems and output from multiple runs of a computer program) to gather, view, organize, analyze, and report results for content-related problems, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Computer programming basics"}
+        },
+        {
+            "competencyText": {"en-us": "Develop problem solutions using visual representations of problem states, structures and data."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the logical flow of a step-by-step program by acting it out through computer-free activities."}
+        },
+        {
+            "competencyText": {"en-us": "Develop problem solutions using a block programming language, including all of the following: looping behavior, conditional statements, expressions, variables, and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Develop problem solutions using a programming language, including all of the following: looping behavior, conditional statements, expressions, variables, and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Programming applications"}
+        },
+        {
+            "competencyText": {"en-us": "Select appropriate tools and technology resources to accomplish a variety of tasks and solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Create online content (e.g., webpage, blog, digital portfolio, multimedia), using advanced design tools."}
+        },
+        {
+            "competencyText": {"en-us": "Create an artifact (independently and collaboratively) that answers a research question and communicates results and conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Life Science"}
+        },
+        {
+            "competencyText": {"en-us": "Organization and Development of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the scientific theory of cells (cell theory) and relate the history of its discovery to the process of science."}
+        },
+        {
+            "competencyText": {"en-us": "Relate structure to function for the components of plant and animal cells. Explain the role of cell membranes as a highly selective barrier (passive and active transport)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the general structures of plant and animal cells. Compare and contrast the general structures of prokaryotic and eukaryotic cells."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast structure and function of various types of microscopes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the evidence supporting the scientific theory of the origin of eukaryotic cells (endosymbiosis)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the significance of genetic factors, environmental factors, and pathogenic agents to health from the perspectives of both individual and public health."}
+        },
+        {
+            "competencyText": {"en-us": "Relate the structure of each of the major plant organs and tissues to physiological processes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain alternation of generations in plants."}
+        },
+        {
+            "competencyText": {"en-us": "Relate the major structure of fungi to their functions."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the relationship between the evolution of land plants and their anatomy."}
+        },
+        {
+            "competencyText": {"en-us": "Classify and state the defining characteristics of epithelial tissue, connective tissue, muscle tissue, and nervous tissue."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy and histology of bone tissue."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between bones of the axial skeleton and the appendicular skeleton."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major bones of the axial and appendicular skeleton."}
+        },
+        {
+            "competencyText": {"en-us": "Identify major markings (such as foramina, fossae, tubercles, etc.) on a skeleton. Explain why these markings are important."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy and histology, including ultrastructure, of muscle tissue."}
+        },
+        {
+            "competencyText": {"en-us": "List the steps involved in the sliding filament of muscle contraction."}
+        },
+        {
+            "competencyText": {"en-us": "Describe signal transmission across a myoneural junction."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the physiology of skeletal muscle."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major muscles of the human on a model or diagram."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy, histology, and physiology of the central and peripheral nervous systems and name the major divisions of the nervous system."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the physiology of nerve conduction, including the generator potential, action potential, and the synapse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of a reflex arc."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the general parts of a synapse and describe the physiology of signal transmission across a synapse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major parts of a cross section through the spinal cord."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major parts of the brain on diagrams or models."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions of the major parts of the brain, including the meninges, medulla, pons, midbrain, hypothalamus, thalamus, cerebellum and cerebrum."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major functions of the spinal cord."}
+        },
+        {
+            "competencyText": {"en-us": "Define the terms endocrine and exocrine."}
+        },
+        {
+            "competencyText": {"en-us": "Compare endocrine and neural controls of physiology."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the physiology of hormones including the different types and the mechanisms of their action."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy and physiology of the endocrine system."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic anatomy and physiology of the reproductive system."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the composition and physiology of blood, including that of the plasma and the formed elements."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the steps in hemostasis, including the mechanism of coagulation. Include the basis for blood typing and transfusion reactions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the factors affecting blood flow through the cardiovascular system."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the components of an electrocardiogram."}
+        },
+        {
+            "competencyText": {"en-us": "Describe normal heart sounds and what they mean."}
+        },
+        {
+            "competencyText": {"en-us": "Describe hypertension and some of the factors that produce it."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the histology of the major arteries and veins of systemic, pulmonary, hepatic portal, and coronary circulation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe fetal circulation and changes that occur to the circulatory system at birth."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy and the physiology of the lymph system."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the histology of the respiratory system."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the physiology of the respiratory system including the mechanisms of ventilation, gas exchange, gas transport and the mechanisms that control the rate of ventilation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the histology of the alimentary canal and its associated accessory organs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the physiology of the digestive system, including mechanical digestion, chemical digestion, absorption and the neural and hormonal mechanisms of control."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the physiology of urine formation by the kidney."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the anatomy, histology, and physiology of the ureters, the urinary bladder and the urethra."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major functions associated with the sympathetic and parasympathetic nervous systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the structure of vertebrate sensory organs. Relate structure to function in vertebrate sensory systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the function of the vertebrate integumentary system."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the basic functions of the human immune system, including specific and nonspecific immune response, vaccines, and antibiotics."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss basic classification and characteristics of plants. Identify bryophytes, pteridophytes, gymnosperms, and angiosperms."}
+        },
+        {
+            "competencyText": {"en-us": "Diversity and Evolution of Living Organisms"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the scientific theory of evolution is supported by the fossil record, comparative anatomy, comparative embryology, biogeography, molecular biology, and observed evolutionary change."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the use of molecular clocks to estimate how long ago various groups of organisms diverged evolutionarily from one another."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how biological diversity is increased by the origin of new species and how it is decreased by the natural process of extinction."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how and why organisms are hierarchically classified and based on evolutionary relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the reasons for changes in how organisms are classified."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss distinguishing characteristics of the domains and kingdoms of living organisms."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss distinguishing characteristics of vertebrate and representative invertebrate phyla, and chordate classes using typical examples."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the scientific explanations of the origin of life on Earth."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of reproductive isolation in the process of speciation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic trends in hominid evolution from early ancestors six million years ago to modern humans, including brain size, jaw size, language, and manufacture of tools."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss specific fossil hominids and what they show about human evolution."}
+        },
+        {
+            "competencyText": {"en-us": "List the conditions for Hardy-Weinberg equilibrium in a population and why these conditions are not likely to appear in nature. Use the Hardy-Weinberg equation to predict genotypes in a population from observed phenotypes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the conditions required for natural selection, including: overproduction of offspring, inherited variation, and the struggle to survive, which result in differential reproductive success."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss mechanisms of evolutionary change other than natural selection such as genetic drift and gene flow."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how mutation and genetic recombination increase genetic variation."}
+        },
+        {
+            "competencyText": {"en-us": "Heredity and Reproduction"}
+        },
+        {
+            "competencyText": {"en-us": "Use Mendel's laws of segregation and independent assortment to analyze patterns of inheritance."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss observed inheritance patterns caused by various modes of inheritance, including dominant, recessive, codominant, sex-linked, polygenic, and multiple alleles."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic process of DNA replication and how it relates to the transmission and conservation of the genetic information."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how mutations in the DNA sequence may or may not result in phenotypic change. Explain how mutations in gametes may result in phenotypic changes in offspring."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the basic processes of transcription and translation, and how they result in the expression of genes."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the mechanisms for regulation of gene expression in prokaryotes and eukaryotes at transcription and translation level."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how viruses and bacteria transfer genetic material between cells and the role of this process in biotechnology."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between mutation, cell cycle, and uncontrolled cell growth potentially resulting in cancer."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how and why the genetic code is universal and is common to almost all organisms."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of biotechnology on the individual, society and the environment, including medical and ethical issues."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the technologies associated with forensic medicine and DNA identification, including restriction fragment length polymorphism (RFLP) analysis."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how basic DNA technology (restriction digestion by endonucleases, gel electrophoresis, polymerase chain reaction, ligation, and transformation) is used to construct recombinant DNA molecules (DNA cloning)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic anatomy and physiology of the human reproductive system. Describe the process of human development from fertilization to birth and major changes that occur in each trimester of pregnancy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the cell cycle, including the process of mitosis. Explain the role of mitosis in the formation of new cells and its importance in maintaining chromosome number during asexual reproduction."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast binary fission and mitotic cell division."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the process of meiosis, including independent assortment and crossing over. Explain how reduction division results in the formation of haploid gametes or spores."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast mitosis and meiosis and relate to the processes of sexual and asexual reproduction and their consequences for genetic variation."}
+        },
+        {
+            "competencyText": {"en-us": "Interdependence"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the characteristics of populations, such as number of individuals, age structure, density, and pattern of distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the general distribution of life in aquatic systems as a function of chemistry, geography, light, depth, salinity, and temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how various oceanic and freshwater processes, such as currents, tides, and waves, affect the abundance of aquatic organisms."}
+        },
+        {
+            "competencyText": {"en-us": "Describe changes in ecosystems resulting from seasonal variations, climate change and succession."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how population size is determined by births, deaths, immigration, emigration, and limiting factors (biotic and abiotic) that determine carrying capacity."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the relationships among organisms, including predation, parasitism, competition, commensalism, and mutualism."}
+        },
+        {
+            "competencyText": {"en-us": "Characterize the biotic and abiotic components that define freshwater systems, marine systems and terrestrial systems."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the consequences of the losses of biodiversity due to catastrophic events, climate changes, human activity, and the introduction of invasive, non-native species."}
+        },
+        {
+            "competencyText": {"en-us": "Use a food web to identify and distinguish producers, consumers, and decomposers. Explain the pathway of energy transfer through trophic levels and the reduction of available energy at successive trophic levels."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram and explain the biogeochemical cycles of an ecosystem, including water, carbon, and nitrogen cycle."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the costs and benefits of renewable and nonrenewable resources, such as water, energy, fossil fuels, wildlife, and forests."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the political, social, and environmental consequences of sustainable use of land."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the need for adequate monitoring of environmental parameters when making policy decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the need for adequate waste management strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the effects of technology on environmental quality."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the large-scale environmental impacts resulting from human activity, including waste spills, oil spills, runoff, greenhouse gases, ozone depletion, and surface and groundwater pollution."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the effectiveness of innovative methods of protecting the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how human population size and resource use relate to environmental quality."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how different natural resources are produced and how their rates of use and renewal limit availability."}
+        },
+        {
+            "competencyText": {"en-us": "Predict the impact of individuals on environmental systems and examine how human lifestyles affect sustainability."}
+        },
+        {
+            "competencyText": {"en-us": "Matter and Energy Transformations"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic molecular structures and primary functions of the four major categories of biological macromolecules."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the important structural characteristics of monosaccharides, disaccharides, and polysaccharides and explain the functions of carbohydrates in living things."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the structures of fatty acids, triglycerides, phospholipids, and steroids. Explain the functions of lipids in living organisms. Identify some reactions that fatty acids undergo. Relate the structure and function of cell membranes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the structures of proteins and amino acids. Explain the functions of proteins in living organisms. Identify some reactions that amino acids undergo. Relate the structure and function of enzymes."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the use of chemiosmotic gradients for ATP production in chloroplasts and mitochondria."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the role of anaerobic respiration in living things and in human society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reactants, products, and basic functions of photosynthesis."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reactants, products, and basic functions of aerobic and anaerobic cellular respiration."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the interrelated nature of photosynthesis and cellular respiration."}
+        },
+        {
+            "competencyText": {"en-us": "Connect the role of adenosine triphosphate (ATP) to energy transfers within a cell."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of enzymes as catalysts that lower the activation energy of biochemical reactions. Identify factors, such as pH and temperature, and their effect on enzyme activity."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the special properties of water that contribute to Earth's suitability as an environment for life: cohesive behavior, ability to moderate temperature, expansion upon freezing, and versatility as a solvent."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Science"}
+        },
+        {
+            "competencyText": {"en-us": "Matter"}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among the four states of matter."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between physical and chemical properties and physical and chemical changes of matter."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of atoms (also known as atomic theory) by describing changes in the atomic model over time and why those changes were necessitated by experimental evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the scientific theory of atoms (also known as atomic theory) by describing the structure of atoms in terms of protons, neutrons and electrons, and differentiate among these particles in terms of their mass, electrical charges and locations within the atom."}
+        },
+        {
+            "competencyText": {"en-us": "Relate properties of atoms and their position in the periodic table to the arrangement of their electrons."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between bonding forces holding compounds together and other attractive forces, including hydrogen bonding and van der Waals forces."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret formula representations of molecules and compounds in terms of composition and structure."}
+        },
+        {
+            "competencyText": {"en-us": "Characterize types of chemical reactions, for example: redox, acid-base, synthesis, and single and double replacement reactions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the mole concept and the law of conservation of mass to calculate quantities of chemicals participating in reactions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe oxidation-reduction reactions in living and non-living systems."}
+        },
+        {
+            "competencyText": {"en-us": "Relate acidity and basicity to hydronium and hydroxyl ion concentration and pH."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the properties of the carbon atom that make the diversity of carbon compounds possible."}
+        },
+        {
+            "competencyText": {"en-us": "Identify selected functional groups and relate how they contribute to properties of carbon compounds."}
+        },
+        {
+            "competencyText": {"en-us": "Energy"}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among the various forms of energy and recognize that they can be transformed from one form to others."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the Law of Conservation of Energy by differentiating among open, closed, and isolated systems and explain that the total energy in an isolated system is a conserved quantity."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast work and power qualitatively and quantitatively."}
+        },
+        {
+            "competencyText": {"en-us": "Describe heat as the energy transferred by convection, conduction, and radiation, and explain the connection of heat to change in temperature or states of matter."}
+        },
+        {
+            "competencyText": {"en-us": "Relate temperature to the average molecular kinetic energy."}
+        },
+        {
+            "competencyText": {"en-us": "Create and interpret potential energy diagrams, for example: chemical reactions, orbits around a central body, motion of a pendulum."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between endothermic and exothermic chemical processes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain entropy's role in determining the efficiency of processes that convert energy to work."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the quantization of energy at the atomic level."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the magnitude and range of the four fundamental forces (gravitational, electromagnetic, weak nuclear, strong nuclear)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and compare nuclear reactions (radioactive decay, fission and fusion), the energy changes associated with them and their associated safety issues."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between chemical and nuclear reactions."}
+        },
+        {
+            "competencyText": {"en-us": "Relate the configuration of static charges to the electric field, electric force, electric potential, and electric potential energy."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among conductors, semiconductors, and insulators."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and explain the relationships among current, voltage, resistance, and power."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between moving charges and magnetic fields, as well as changing magnetic fields and electric fields, and their application to modern technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the theory of electromagnetism by explaining electromagnetic waves in terms of oscillating electric and magnetic fields."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the theory of electromagnetism by comparing and contrasting the different parts of the electromagnetic spectrum in terms of wavelength, frequency, and energy, and relate them to phenomena and applications."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that all objects emit and absorb electromagnetic radiation and distinguish between objects that are blackbody radiators and those that are not."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the measurable properties of waves and explain the relationships among them and how these properties change when the wave moves from one medium to another."}
+        },
+        {
+            "competencyText": {"en-us": "Qualitatively describe the shift in frequency in sound or electromagnetic waves due to the relative motion of a source or a receiver."}
+        },
+        {
+            "competencyText": {"en-us": "Construct ray diagrams and use thin lens and mirror equations to locate the images formed by lenses and mirrors."}
+        },
+        {
+            "competencyText": {"en-us": "Motion"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between scalar and vector quantities and assess which should be used to describe an event."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the motion of an object in terms of its position, velocity, and acceleration (with respect to a frame of reference) as functions of time."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and apply Newton's three laws of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the gravitational force between two objects depends on their masses and the distance between them."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the law of conservation of linear momentum to interactions, such as collisions between objects."}
+        },
+        {
+            "competencyText": {"en-us": "Qualitatively apply the concept of angular momentum."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that nothing travels faster than the speed of light in vacuum which is the same for all observers no matter how they or the light source are moving."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that Newton's Laws are a limiting case of Einstein's Special Theory of Relativity at speeds that are much smaller than the speed of light."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that time, length, and energy depend on the frame of reference."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the behavior of ideal gases in terms of kinetic molecular theory."}
+        },
+        {
+            "competencyText": {"en-us": "Describe phase transitions in terms of kinetic molecular theory."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how various factors, such as concentration, temperature, and presence of a catalyst affect the rate of a chemical reaction."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the concept of dynamic equilibrium in terms of reversible processes occurring at the same rates."}
+        },
+        {
+            "competencyText": {"en-us": "Earth and Space Science"}
+        },
+        {
+            "competencyText": {"en-us": "Earth in Space and Time"}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence used to develop and verify the scientific theory of the Big Bang (also known as the Big Bang Theory) of the origin of the universe."}
+        },
+        {
+            "competencyText": {"en-us": "Identify patterns in the organization and distribution of matter in the universe and the forces that determine them."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and predict how the initial mass of a star determines its evolution."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the physical properties of the Sun and its dynamic nature and connect them to conditions and events on Earth."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the formation of planetary systems based on our knowledge of our Solar System and apply this knowledge to newly discovered planetary systems."}
+        },
+        {
+            "competencyText": {"en-us": "Develop logical connections through physical principles, including Kepler's and Newton's Laws about the relationships and the effects of Earth, Moon, and Sun on each other."}
+        },
+        {
+            "competencyText": {"en-us": "Relate the history of and explain the justification for future space exploration and continuing technology development."}
+        },
+        {
+            "competencyText": {"en-us": "Connect the concepts of radiation and the electromagnetic spectrum to the use of historical and newly-developed observational tools."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the broad effects of space exploration on the economy and culture of Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and apply the coordinate system used to locate objects in the sky."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the various methods of measuring astronomical distances and apply each in appropriate situations."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and differentiate the layers of Earth and the interactions among them."}
+        },
+        {
+            "competencyText": {"en-us": "Connect surface features to surface processes that are responsible for their formation."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the scientific theory of plate tectonics and identify related major processes and features as a result of moving plates."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how specific geologic processes and features are expressed in Florida and elsewhere."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the geologic development of the present day oceans and identify commonly found features."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze past, present, and potential future consequences to the environment resulting from various energy production technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Earth Systems and Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the movement of matter and energy through the different biogeochemical cycles, including water and carbon."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the causes of the various kinds of surface and deep water motion within the oceans and their impacts on the transfer of energy between the poles and the equator."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate and describe the various interactions among Earth systems, including: atmosphere, hydrosphere, cryosphere, geosphere, and biosphere."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the conditions that contribute to the climate of a geographic area, including the relationships to lakes and oceans."}
+        },
+        {
+            "competencyText": {"en-us": "Predict future weather conditions based on present observations and conceptual models and recognize limitations and uncertainties of such predictions."}
+        },
+        {
+            "competencyText": {"en-us": "Relate the formation of severe weather to the various physical factors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze, and relate the internal (Earth system) and external (astronomical) conditions that contribute to global climate change."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how various atmospheric, oceanic, and hydrologic conditions in Florida have influenced and can influence human behavior, both individually and collectively."}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence that the ocean has had a significant influence on climate change by absorbing, storing, and moving heat, carbon, and water."}
+        },
+        {
+            "competencyText": {"en-us": "Nature of Science"}
+        },
+        {
+            "competencyText": {"en-us": "The Practice of Science"}
+        },
+        {
+            "competencyText": {"en-us": "Define a problem based on a specific&nbsp; body of knowledge, for example: biology, chemistry, physics, and earth/space science, and do the following:&nbsp; <br /><ol><li><strong>Pose questions about the natural world,<\/strong> (A<span style=\"font-family: Arial,sans-serif; color: black; font-size: 10pt;\">rticulate the purpose of the investigation and identify the relevant scientific concepts).<\/span> <\/li><li><strong>Conduct systematic observations,<\/strong> (<span style=\"font-family: Arial,sans-serif; color: black; font-size: 10pt;\">Write procedures that are clear and replicable. Identify observables and examine relationships between test (independent) variable and outcome (dependent) variable. Employ appropriate methods for accurate and consistent observations; conduct and record measurements at appropriate levels of precision. Follow safety guidelines). <\/span><\/li><li><strong>Examine books and other sources of information to see what is already known, <\/strong><\/li><li><strong>Review what is known in light of empirical evidence,<\/strong> (<span style=\"font-family: Arial,sans-serif; color: black; font-size: 10pt;\">Examine whether available empirical evidence can be interpreted in terms of existing knowledge and models, and if not, modify or develop new models).<\/span> <\/li><li><strong>Plan investigations,<\/strong> (<span style=\"font-family: Arial,sans-serif; color: black; font-size: 10pt;\">Design and evaluate a scientific investigation).<\/span> <\/li><li><strong>Use tools to gather, analyze, and interpret data (this includes the use of measurement in metric and other systems, and also the generation and interpretation of graphical representations of data, including data tables and graphs),<\/strong> (Collect data or evidence in an organized way. Properly use instruments, equipment, and materials (e.g., scales, probeware, meter sticks, microscopes, computers) including set-up, calibration, technique, maintenance, and storage).<o:p _rdeditor_exists=\"1\"><\/o:p> <\/li><li><strong>Pose answers, explanations, or descriptions of events, <\/strong><\/li><li><strong>Generate explanations that explicate or describe natural phenomena (inferences), <\/strong><\/li><li><strong>Use appropriate evidence and reasoning to justify these explanations to others, <\/strong><\/li><li><strong>Communicate results of scientific investigations, and <\/strong><\/li><li><strong>Evaluate the merits of the explanations produced by others.<\/strong><\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and explain what characterizes science and its methods."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that the strength or usefulness of a scientific claim is evaluated through scientific argumentation, which depends on&nbsp; critical and logical thinking, and the active consideration of alternative scientific explanations to explain the data presented."}
+        },
+        {
+            "competencyText": {"en-us": "Identify sources of information and assess their reliability according to the strict standards of scientific investigation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and provide examples of how similar investigations conducted in many parts of the world result in the same outcome."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how scientific inferences are drawn from scientific observations and provide examples from the content being studied."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the role of creativity in constructing scientific questions, methods and explanations."}
+        },
+        {
+            "competencyText": {"en-us": "The Characteristics of Scientific Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Identify what is science, what clearly is not science, and what superficially resembles science (but fails to meet the criteria for science)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify which questions can be answered through science and which questions are outside the boundaries of scientific investigation, such as questions addressed by other ways of knowing, such as art, philosophy, and religion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify examples of pseudoscience (such as astrology, phrenology) in society."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that scientific knowledge is both durable and robust and open to change. Scientific knowledge can change because it is often examined and re-examined by new investigations and scientific argumentation. Because of these frequent examinations, scientific knowledge becomes stronger, leading to its durability."}
+        },
+        {
+            "competencyText": {"en-us": "Describe instances in which scientists' varied backgrounds, talents, interests, and goals influence the inferences and thus the explanations that they make about observations of natural phenomena and describe that competing interpretations (explanations) of scientists are a strength of science as they are a source of new, testable ideas that have the potential to add new evidence to support one or another of the explanations."}
+        },
+        {
+            "competencyText": {"en-us": "The Role of Theories, Laws, Hypotheses, and Models"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that a scientific theory is the culmination of many scientific investigations drawing together all the current evidence concerning a substantial range of phenomena; thus, a scientific theory represents the most powerful explanation scientists have to offer."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role consensus plays in the historical development of a theory in any one of the disciplines of science."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that scientific laws are descriptions of specific relationships under given conditions in nature, but do not offer explanations for those relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that theories do not become laws, nor do laws become theories; theories are well supported explanations and laws are well supported descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the function of models in science, and identify the wide range of models used in science."}
+        },
+        {
+            "competencyText": {"en-us": "Science and Society"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how scientific knowledge and reasoning provide an empirically-based perspective to inform society's decision making."}
+        },
+        {
+            "competencyText": {"en-us": "Weigh the merits of alternative strategies for solving a specific societal problem by comparing a number of different costs and benefits, such as human, economic, and environmental."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Personal, Community, Global, and Ethical Impact"}
+        },
+        {
+            "competencyText": {"en-us": "Responsible use of technology and information"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast appropriate and inappropriate social networking behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and demonstrate ethical and responsible use of modern communication media and devices."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impacts of irresponsible use of information (e.g., plagiarism and falsification of data) on collaborative projects."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the principles of cryptography by examining encryption, digital signatures, and authentication methods (e.g., explain why and how certificates are used with &ldquo;https&rdquo; for authentication and encryption)."}
+        },
+        {
+            "competencyText": {"en-us": "Implement an encryption, digital signature, or authentication method."}
+        },
+        {
+            "competencyText": {"en-us": "Describe computer security vulnerabilities and methods of attack, and evaluate their social and economic impact on computer systems and people."}
+        },
+        {
+            "competencyText": {"en-us": "The impact of computing resources on local and global society"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the Internet facilitates global communication."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to use technology to support lifelong learning."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss and analyze the impact of values and points of view that are presented in media messages (e.g., racial, gender, and political)."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the positive and negative impacts of technology on popular culture and personal life."}
+        },
+        {
+            "competencyText": {"en-us": "Construct strategies to combat cyberbullying or online harassment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of computing on business and commerce (e.g., automated inventory processing, financial transactions, e-commerce, virtualization, and cloud computing)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how technology has changed the way people build and manage organizations and how technology impacts personal life."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate ways in which adaptive technologies may assist users with special needs."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how societal and economic factors are affected by access to critical information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and evaluate the challenges (e.g., political, social, and economic) in providing equal access and distribution of technology in a global society."}
+        },
+        {
+            "competencyText": {"en-us": "Construct writings and/or communications using developmentally appropriate terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Explore a variety of careers to which computing is central."}
+        },
+        {
+            "competencyText": {"en-us": "Predict future careers and the technologies that may exist based on current technology trends."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluation of digital information resources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the quality of digital resources for reliability (i.e., currency, relevancy, authority, accuracy, and purpose of digital information)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the accuracy, relevance, comprehensiveness, appropriateness, and bias of electronic information resources."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research using peer reviewed articles, newspapers, magazine articles, and online books."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and evaluate public/government resources and describe how using these resources for communication can affect change."}
+        },
+        {
+            "competencyText": {"en-us": "Security, privacy, information sharing, ownership, licensure and copyright"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how different types of software licenses (e.g., open source and proprietary licenses) can be used to share and protect intellectual property."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how access to information may not include the right to distribute the information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe differences between open source, freeware, and proprietary software licenses, and how they apply to different types of software."}
+        },
+        {
+            "competencyText": {"en-us": "Describe security and privacy issues that relate to computer networks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify computer-related laws and analyze their impact on digital privacy, security, intellectual property, network access, contracts, and harassment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe security and privacy issues that relate to computer networks including the permanency of data on the Internet, online identity, and privacy."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and use digital citation tools to cite sources."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of government regulation on privacy and security."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication and Collaboration"}
+        },
+        {
+            "competencyText": {"en-us": "Communication and collaboration "}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate modes of communication and collaboration."}
+        },
+        {
+            "competencyText": {"en-us": "Select appropriate tools within a project environment to communicate with project team members."}
+        },
+        {
+            "competencyText": {"en-us": "Collect, analyze, and present information using a variety of computing devices (e.g., probes, sensors, and handheld devices)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a collaborative digital product using collaboration tools (e.g., version control systems and integrated development environments)."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate and publish key ideas and details to a variety of audiences using digital tools and media-rich resources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how collaboration influences the design and development of software artifacts."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate program designs and implementations written by others for readability and usability."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Communication Systems and Computing"}
+        },
+        {
+            "competencyText": {"en-us": "Modeling and simulations"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze data and identify real-world patterns through modeling and simulation."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate, refine, and test scientific hypotheses using models and simulations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how data analysis is used to enhance the understanding of complex natural and human systems."}
+        },
+        {
+            "competencyText": {"en-us": "Compare techniques for analyzing massive data collections."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and understand natural phenomena using modeling and simulation."}
+        },
+        {
+            "competencyText": {"en-us": "Problem solving and Algorithms "}
+        },
+        {
+            "competencyText": {"en-us": "Explain intractable problems and understand that problems exists that are computationally unsolvable (e.g., classic intractable problems include the Towers of Hanoi and the Traveling Salesman Problem -TSP)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the concept of parallel processing as a strategy to solve large problems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate concurrency by separating processes into threads of execution and dividing data into parallel streams."}
+        },
+        {
+            "competencyText": {"en-us": "Divide a complex problem into simpler parts by using the principle of abstraction to manage complexity (i.e., by using searching and sorting as abstractions) using predefined functions and parameters, classes, and methods."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate classical algorithms and implement an original algorithm."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate various data types and data structures."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how sequence, selection, iteration, and recursion are building blocks of algorithms."}
+        },
+        {
+            "competencyText": {"en-us": "Decompose a problem by defining new functions and classes."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate ways to characterize how well algorithms perform and that two algorithms can perform differently for the same task."}
+        },
+        {
+            "competencyText": {"en-us": "Design and implement a simple simulation algorithm to analyze, represent, and understand natural phenomena."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate algorithms by their efficiency, correctness, and clarity (e.g., by analyzing and comparing execution times, testing with multiple inputs or data sets, and by debugging)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast simple data structures and their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how automated software testing can reduce the cost of the testing effort."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what tools are applied to provide automated testing environments."}
+        },
+        {
+            "competencyText": {"en-us": "Digital tools"}
+        },
+        {
+            "competencyText": {"en-us": "Describe digital tools or resources to use for a real-world task based on their efficiency and effectiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate different file types for different purposes (e.g., word processing, images, music, and three-dimensional drawings)."}
+        },
+        {
+            "competencyText": {"en-us": "Hardware and software"}
+        },
+        {
+            "competencyText": {"en-us": "Describe a software development process that is used to solve problems at different software development stages (e.g., design, coding, testing, and verification)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the organization of a computer and identify its principal components by name, function, and the flow of instructions and data between components (e.g., storage devices, memory, CPU, graphics processors, IO and network ports)."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between multiple levels of hardware and software (such as CPU hardware, operating system, translation, and interpretation) that support program execution."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate various forms of input and output (e.g., IO and storage devices and digital media)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and evaluate criteria for purchasing or upgrading computer system hardware (e.g., Wi-Fi, mobile devices, home and office machines)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop criteria for selecting appropriate hardware and software when solving a specific real-world problem (such as business, educational, personal)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a software artifact (independently and collaboratively) in phases (or stages) according to a common software development methodology (e.g., Waterfall or Spiral model)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the basic components of computer networks."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze historical trends in hardware and software to assess implications on computing devices for the future (e.g., upgrades for power/energy, computation capacity, speed, size, ease of use)."}
+        },
+        {
+            "competencyText": {"en-us": "Network systems"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and select the most appropriate file format based on trade-offs (e.g., open file formats, text, proprietary and binary formats, compression and encryption formats)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the issues that impact network functionality (e.g., latency, bandwidth, firewalls and server capability)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common network protocols, such as IP, TCP, SMTP, HTTP, and FTP, and how these are applied by client-server and peer-to-peer networks."}
+        },
+        {
+            "competencyText": {"en-us": "Human \u2013 Computer interactions and Artificial Intelligence"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the unique features of computers embedded in mobile devices and vehicles."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the common physical and cognitive challenges faced by users when learning to use software and hardware."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the process of designing software to support specialized forms of human-computer interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the notion of intelligent behavior through computer modeling and robotics."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common measurements of machine intelligence (e.g., Turing test)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a few of the major branches of artificial intelligence (e.g., expert systems, natural language processing, machine perception, machine learning)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe major applications of artificial intelligence and robotics, including, but not limited to, the medical, space, and automotive fields."}
+        },
+        {
+            "competencyText": {"en-us": "Computer Science - Computer Practices and Programming"}
+        },
+        {
+            "competencyText": {"en-us": "Data analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate effective uses of Boolean logic (e.g., using &ldquo;not&rdquo;, &ldquo;or&rdquo;, &ldquo;and&rdquo;) to refine searches for individual and collaborative projects."}
+        },
+        {
+            "competencyText": {"en-us": "Perform advanced searches to locate information and/or design a data-collection approach to gather original data (e.g., qualitative interviews, surveys, prototypes, and simulations)."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and manipulate data collected by a variety of data collection techniques to support a hypothesis."}
+        },
+        {
+            "competencyText": {"en-us": "Collect real-time data from sources such as simulations, scientific and robotic sensors, and device emulators, using this data to formulate strategies or algorithms to solve advanced problems."}
+        },
+        {
+            "competencyText": {"en-us": "Computer programming basics"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the program execution process (by an interpreter and in CPU hardware)."}
+        },
+        {
+            "competencyText": {"en-us": "Design and implement a program using global and local scope."}
+        },
+        {
+            "competencyText": {"en-us": "Implement a program using an industrial-strength integrated development environment."}
+        },
+        {
+            "competencyText": {"en-us": "Facilitate programming solutions using application programming interfaces (APIs) and libraries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of an API in the development of applications and the distinction between a programming language&rsquo;s syntax and the API."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a variety of commonly used programming languages."}
+        },
+        {
+            "competencyText": {"en-us": "Classify programming languages by paradigm and application domain (e.g., imperative, functional, and logic languages) and evaluate their application to domains such as web programming, symbolic processing and data/numerical processing."}
+        },
+        {
+            "competencyText": {"en-us": "Programming applications"}
+        },
+        {
+            "competencyText": {"en-us": "Create a computational artifact, individually and collaboratively, followed by reflection, analysis, and iteration (e.g., data-set analysis program for science and engineering fair, capstone project that includes a program, term research project based on program data)."}
+        },
+        {
+            "competencyText": {"en-us": "Create mobile computing applications and/or dynamic web pages through the use of a variety of design and development tools, programming languages, and mobile devices/emulators."}
+        }
+    ]
+}

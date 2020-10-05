@@ -1,0 +1,1510 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/23a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Theatre"},
+        "description": {"en-us": "Theatre Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Create a story about an everyday event involving family members and/or pets using body movements, sounds, and imagination."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to a performance and share personal preferences about parts of the performance."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that individuals may like different things about a selected story or play."}
+        },
+        {
+            "competencyText": {"en-us": "Share reactions to a live theatre performance."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate audience behavior at a live performance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe play-acting, pretending, and real life."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal preferences related to a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Pretend to be a character from a given story."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Use imagination to show a person at work, using the body and voice to communicate ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the concept of beginning, middle, and ending in stories using dramatic play."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate use of the stage space using dramatic play."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Share opinions about a story with classmates."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Draw a picture of a favorite scene from a play."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a story that is read to one that is acted out."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how the elements of place and time can change a story."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Describe feelings related to watching a play."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Pretend to be an animal by imitating its movements and sounds."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit age-appropriate dramatic play behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Create a story and act it out, using a picture of people, animals, or objects as the inspiration."}
+        },
+        {
+            "competencyText": {"en-us": "Draw a picture from a favorite story and share with the class why the scene was important to the story."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss what worked well and what didn't work well after acting out a story."}
+        },
+        {
+            "competencyText": {"en-us": "Identify elements of an effective performance."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Share opinions about selected plays."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit appropriate audience etiquette and response."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the differences between play-acting, pretending, and real life."}
+        },
+        {
+            "competencyText": {"en-us": "Explain personal preferences related to a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to present scenes from familiar stories."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Use simple acting techniques to portray a person, place, action, or thing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe characters and plot development discovered during dramatic play."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish stage space from audience space to show understanding of the physical relationship between audience and actor in performance."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how the parts of the story go together by acting out a story with a beginning, middle, and end."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Describe in words or by drawing a picture, the most exciting part in the story line of a play."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a play to an animated movie that tells the same story."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify characters in stories from various cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how people respond to special events in the community."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Re-tell a story, demonstrating respect, from a culture other than one's own."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Identify similarities between plays and stories."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Pretend to be an animal or person living in an imagined place."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and discuss how to work together as actors."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a character in a story and tell why the character is important to the story."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to a play by drawing and/or writing about a favorite aspect of it."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the purpose of a critique."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how an actor in a play, musical, or film creates a character."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify important characteristics to discuss when sharing opinions about theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit the behavior necessary to establish audience etiquette, response, and constructive criticism."}
+        },
+        {
+            "competencyText": {"en-us": "Compare, explain, and exhibit the differences between play-acting, pretending, and real life."}
+        },
+        {
+            "competencyText": {"en-us": "Explain, using specific examples, why some individuals may or may not like a particular performance."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to perform a scene and solve challenges."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Create imagined characters, relationships, and environments using basic acting skills."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with others the concept of dramatic conflict and resolution in stories using dramatic play."}
+        },
+        {
+            "competencyText": {"en-us": "Create the stage space to communicate character and action in specific locales."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the differences between reading a story and seeing it as a play.  "}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between the stage, backstage, and audience areas."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Re-tell what happened in the beginning, middle, and end of a story after viewing a play."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Identify theatrical elements and vocabulary found in everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Read and dramatize stories with similar themes to show developing knowledge of, and respect for, cultural differences."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to respond as an audience member in a different way, depending on the style of performance."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Identify universal characters in stories from different cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Create dialogue for characters from a story."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create and sustain a character inspired by a class reading or activity."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the jobs people can have in a theater."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify what was successful about a collaborative theatre activity."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Create an imaginative costume piece or prop out of everyday items found around the classroom or at home and use it as the basis to tell an original story."}
+        },
+        {
+            "competencyText": {"en-us": "Watch a play and describe how the elements of light, costumes, props, and sound influence the mood of the production."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Revise a formal or informal performance after receiving a critique."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the meaning of an artistic choice to support development of critical thinking and decision-making skills."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the techniques that help create an effective theatre work."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective audience etiquette and constructive criticism for a live performance."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a theatrical performance with real life and discuss how theatre makes pretense seem like real life."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a performance, using correct theatre terms, and give specific examples to support personal opinions."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the process and responsibilities in creating a play and then apply them to collaborate and create a simple production."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Create and sustain imagined characters and relationships, using basic acting skills, to tell a simple story."}
+        },
+        {
+            "competencyText": {"en-us": "Use information gained from research to shape the creation of a character."}
+        },
+        {
+            "competencyText": {"en-us": "Describe elements of dramatic performance that produce an emotional response in oneself or an audience."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationships between scenery, properties, lighting, sound, costumes, and makeup in dramatic scenes and informal play productions."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how an actor creates a character."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss why costumes and makeup are used in a play."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Describe what happened in a play, using age-appropriate theatre terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate to create a collage to show the emotion(s) of a particular story or play."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the characteristics of theatre to television and movies."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how cultural differences are expressed through character, environment, and theme."}
+        },
+        {
+            "competencyText": {"en-us": "Interview an adult and create a story from his or her life using any theatrical form."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Identify geographical or cultural origins of stories."}
+        },
+        {
+            "competencyText": {"en-us": "Create and tell a story, fable, or tale."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Identify interpersonal skills that are learned through participation in a play."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss differences between stories that are presented in different modes or time periods."}
+        },
+        {
+            "competencyText": {"en-us": "Plan and perform a simple performance based on a theme from another content area."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create and/or collect appropriate props and costumes and use them to help tell a story."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange classroom furniture to create an environment for a story."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify non-theatre professions that require the same skills as are used in theatre."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a collaborative project to create a theatrical performance and reflect on the experience."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Devise a story about an age-appropriate issue and explore different endings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe choices made to create an original pantomime based on a fable, folk tale, or fairy tale."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Provide a verbal critique to help strengthen a peer's performance."}
+        },
+        {
+            "competencyText": {"en-us": "Reflect on the strengths and needs of one's own performance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the choices perceived in a peer's performance or design."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the characteristics of an effective acting performance."}
+        },
+        {
+            "competencyText": {"en-us": "Create an original scene or monologue based on a historical event or person."}
+        },
+        {
+            "competencyText": {"en-us": "Define the elements of a selected scene that create an effective presentation of an event or person."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit proper audience etiquette, give constructive criticism, and defend personal responses."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the concept of \"willing suspension of disbelief\" used in theatre to help create the illusion of real life in performances."}
+        },
+        {
+            "competencyText": {"en-us": "Use theatre terms to evaluate a live performance and discuss the qualities that directly impacted the audience's response to the production."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to share responsibilities for a production."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Create and sustain imagined characters and relationships, using basic acting skills, to re-tell a well-known fairy tale, fable, or story."}
+        },
+        {
+            "competencyText": {"en-us": "Use information gained from research to shape acting choices in a simple, historically based scene."}
+        },
+        {
+            "competencyText": {"en-us": "Describe elements of dramatic and technical performance that produce an emotional response in oneself or an audience."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate the relationships between scenery, properties, lighting, sound, costumes, and makeup in dramatic scenes and informal play productions to create different environments for a classroom piece."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Describe what a designer and director do to support the actor in creating a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common audience conventions used when viewing a play."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Write a summary of dramatic events after reading or watching a play."}
+        },
+        {
+            "competencyText": {"en-us": "Create a mask to show a comic or tragic character."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how theatre and its conventions are used to communicate ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how theatre is used to understand different cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Re-create a famous character from Florida history."}
+        },
+        {
+            "competencyText": {"en-us": "Define how a character might react to a new set of circumstances in a given story."}
+        },
+        {
+            "competencyText": {"en-us": "Identify playwrights whose lives or careers have a connection with Florida.  "}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Discover how the same idea or theme is treated in a variety of cultural and historic periods."}
+        },
+        {
+            "competencyText": {"en-us": "Re-tell stories, fables, and/or tales from cultures that settled in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Describe how individuals learn about themselves and others through theatre experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a historical play with actual historical events."}
+        },
+        {
+            "competencyText": {"en-us": "Create an original story after listening to music or viewing a work of art."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create a character based on a historical figure and respond to questions, posed by the audience, about that character."}
+        },
+        {
+            "competencyText": {"en-us": "Create sound and lighting effects to suggest the mood of a story."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the types of jobs related to putting on a theatre production and compare them with other arts-related and non-arts performances or events."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the leadership qualities of directors, actors, and/or technicians."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Devise an original performance piece based on an age-appropriate theme or social issue relevant to the school climate and explore different solutions and endings."}
+        },
+        {
+            "competencyText": {"en-us": "Create an original pantomime using instrumental music created or found to set the mood."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Change and strengthen one's own performance based on coaching from a director."}
+        },
+        {
+            "competencyText": {"en-us": "Write a self-critique of a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Defend an artistic choice for a theatrical work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify correct vocabulary used in a formal theatre critique."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss alternate performance possibilities of the same character in the same play."}
+        },
+        {
+            "competencyText": {"en-us": "Use a photograph, sculpture, or two-dimensional work of art to inspire creation of an original scene or monologue."}
+        },
+        {
+            "competencyText": {"en-us": "Define the visual elements that must be conveyed dramatically to make a scene effective."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the difference in responsibilities between being an audience member at live or recorded performances."}
+        },
+        {
+            "competencyText": {"en-us": "Weigh the use of \"fourth wall\" and \"willing suspension of disbelief\" in effectively creating the illusion of real life in specified theatre performances."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a performance, using theatre terminology, and articulate emotional responses to the whole and parts of dramatic performances."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to create productions and solve challenges."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Create and sustain imagined characters and relationships, using basic acting skills, to tell an original story based on historical, literary, or everyday situations."}
+        },
+        {
+            "competencyText": {"en-us": "Use information gained from research to shape acting choices in the re-telling of a favorite scene from a well-known literary piece."}
+        },
+        {
+            "competencyText": {"en-us": "Use elements of dramatic and technical performance designed to produce an emotional response in an audience."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate, based on research, the relationships between scenery, properties, lighting, sound, costumes, and makeup in dramatic scenes and informal play productions to create an environment."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an actor\u2019s choices in the creation of a character for a scene or play."}
+        },
+        {
+            "competencyText": {"en-us": "Research types of props that might be found in a play."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how an actor or designer\u2019s choices about a character affect the audience\u2019s understanding of a play."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Create a story board of the major events in a play."}
+        },
+        {
+            "competencyText": {"en-us": "Make a list of types of props that might be found in a play."}
+        },
+        {
+            "competencyText": {"en-us": "Predict the ending of a play or performance."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to develop and refine original scripts, and justify writing choices."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a variety of theatrical methods and/or conventions that a group of individuals can use to communicate with audiences."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how theatre can communicate universal truths across the boundaries of culture and language."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Research and describe the context in which a specified playwright wrote a particular dramatic work."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a performance to explore and celebrate a variety of human experiences."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize theatre works as a reflection of societal beliefs and values."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of early American theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Identify symbolism in a play that is found in other art forms."}
+        },
+        {
+            "competencyText": {"en-us": "Compare theatre to other modes of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how the use of movement and sound enhance the telling of a story."}
+        },
+        {
+            "competencyText": {"en-us": "Act out a character learned about in another content area."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create a character based on a literary figure and respond to questions, posed by the audience, using information inferred in the story."}
+        },
+        {
+            "competencyText": {"en-us": "Create a new ending for a familiar story."}
+        },
+        {
+            "competencyText": {"en-us": "Take creative risks through improvisation, using sensory skills to explore characters\u2019 feelings and environments."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify jobs in the community that are associated with or impacted by having a theater in the neighborhood."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and discuss the characteristics displayed by directors, actors, and technicians that can be applied to jobs outside the theatre classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Devise an original work based on a community issue that explores various solutions to a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a character analysis to support artistic portrayal."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the purpose(s), elements, meaning, and value of a theatrical work based on personal, cultural, or historical standards."}
+        },
+        {
+            "competencyText": {"en-us": "Create and present a design, production concept, or performance and defend artistic choices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how a theatrical activity can entertain or instruct an audience."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze selections from the canon of great world drama as a foundation for understanding the development of drama over time."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Use group-generated criteria to critique others and help strengthen each other&rsquo;s performance."}
+        },
+        {
+            "competencyText": {"en-us": "Keep a rehearsal journal to document individual performance progress."}
+        },
+        {
+            "competencyText": {"en-us": "Ask questions to understand a peer&rsquo;s artistic choices for a performance or design."}
+        },
+        {
+            "competencyText": {"en-us": "Defend personal responses to a theatre production."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how visual and aural design elements communicate environment, mood, and theme in a theatrical presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a film version of a story to its original play form."}
+        },
+        {
+            "competencyText": {"en-us": "Determine personal strengths and challenges, using evaluations and critiques to guide selection of material for a portfolio."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the responsibilities of audience members, to the actors and each other, at live and recorded performances and demonstrate appropriate behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Invent a character with distinct behavior(s) based on observations of people in the real world and interact with others in a cast as the invented characters."}
+        },
+        {
+            "competencyText": {"en-us": "Describe criteria for the evaluation of dramatic texts, performances, direction, and production elements."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the ways in which theatre experiences involve empathy and aesthetic distance."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the value of collaboration in theatre and work together to create a theatrical production."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss and apply the theatrical production process to create a live performance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationships of plot, conflict, and theme in a play and transfer the knowledge to a play that contrasts in style, genre, and/or mood."}
+        },
+        {
+            "competencyText": {"en-us": "Memorize and present a character&rsquo;s lines from a monologue or scene."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Develop characterizations, using basic acting skills, appropriate for selected dramatizations."}
+        },
+        {
+            "competencyText": {"en-us": "Use the elements of dramatic form to stage a play."}
+        },
+        {
+            "competencyText": {"en-us": "Lead rehearsals of improvised and scripted scenes, communicating with cast and crew to create appropriate characterization and dramatic environments."}
+        },
+        {
+            "competencyText": {"en-us": "Lead small groups to safely select and create elements of technical theatre to signify a character or setting."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different processes an actor uses to prepare for a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how color, line, shape, and texture are used to show emotion in technical theatre elements."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the impact of choices made by directors, designers, and actors on audience understanding."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how the whole of a theatre performance is greater than the sum of its parts."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram the major parts of a play and their relationships to each other."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how a performance would change if depicted in a different location, time, or culture."}
+        },
+        {
+            "competencyText": {"en-us": "Write alternate endings for a specified play."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a scene or pantomime to demonstrate understanding of blocking and stage movement."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the contributions of significant playwrights, performers, directors, designers, and producers from various cultures and historical periods have influenced the creative innovations of theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Compare theatre and its elements and vocabulary to other art forms."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how theatre and theatrical works have influenced various cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the collaborative nature of theatre and work together to create a scene or play, respecting group members&rsquo; ideas and differences."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Explore potential differences when performing works set in a variety of historical and cultural contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of one&rsquo;s emotional and social experiences when responding to, or participating in, a play."}
+        },
+        {
+            "competencyText": {"en-us": "Identify significant contributions of playwrights, actors, and designers and describe their dramatic heritage."}
+        },
+        {
+            "competencyText": {"en-us": "Create a monologue or story that reflects one&rsquo;s understanding of an event in a culture different from one&rsquo;s own."}
+        },
+        {
+            "competencyText": {"en-us": "Describe one&rsquo;s own personal responses to a theatrical work and show respect for the responses of others."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how a performer responds to different audiences."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Compare western theatre traditions with those of other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify examples of American musical theatre productions that reflect specific correlations to American history and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze theatre history and dramatic literature in the context of societal and cultural history."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the differences between presentational and representational theatre styles."}
+        },
+        {
+            "competencyText": {"en-us": "Compare decorum, environments, and manners from a variety of cultures and historical periods to discover and influence historical acting styles and design choices."}
+        },
+        {
+            "competencyText": {"en-us": "Describe historical and cultural influences leading to changes in theatre performance spaces and technology."}
+        },
+        {
+            "competencyText": {"en-us": "Define theatre genres from different periods in history, giving examples of each."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe theatrical resources in the community, including professional and community theatres, experts, and sources of scripts and materials."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Identify principles and techniques that are shared between the arts and other content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Read plays from a variety of genres and styles and compare how common themes are expressed in various art forms."}
+        },
+        {
+            "competencyText": {"en-us": "Use brainstorming as a method to discover multiple solutions for an acting or technical challenge."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of wellness and care for the actor&rsquo;s physical being as a performance instrument."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how social skills learned through play participation are used in other classroom and extracurricular activities."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss ways in which dance, music, and the visual arts enhance theatrical presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate various design components to imagine the world of the character."}
+        },
+        {
+            "competencyText": {"en-us": "Use vocal, physical, and imaginative ideas, through improvisation, as a foundation to create new characters and to write dialogue."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate creative risk-taking by incorporating personal experiences in an improvisation."}
+        },
+        {
+            "competencyText": {"en-us": "Survey an aspect of theatre to understand the ways in which technology has affected it over time."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Research careers in the global economy that are not directly related to the arts, but include skills that are arts-based or derive part of their economic impact from the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify industries within the state of Florida that have a significant impact on local economies, in which the arts are either directly or indirectly involved in their success."}
+        },
+        {
+            "competencyText": {"en-us": "Identify businesses that are directly or indirectly associated with school and community theatre, and calculate their impact on the local and/or regional economy."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Practice safe, legal, and responsible use of copyrighted, published plays to show respect for intellectual property and the playwright."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a list of line items that would typically be found in a production budget for a performance."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Devise an original work based on a global issue that explores various solutions to a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Create, refine, and sustain complex and believable characters for performance through the integration and application of artistic choices based on research, rehearsal, feedback, and refinement."}
+        },
+        {
+            "competencyText": {"en-us": "Justify a response to a theatrical experience through oral or written analysis, using correct theatre terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Research and define the physical/visual elements necessary to create theatrical reality for a specific historical and/or geographical play."}
+        },
+        {
+            "competencyText": {"en-us": "Make and defend conscious choices in the creation of a character that will fulfill anticipated audience response."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to theatrical works by identifying and interpreting influences of historical, social, or cultural contexts.  "}
+        },
+        {
+            "competencyText": {"en-us": "Justify personal perceptions of a director&rsquo;s vision and/or playwright&rsquo;s intent."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the components of aesthetics and criticism to a theatrical performance or design.  "}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and describe possible solutions to production or acting challenges and select the solution most likely to produce desired results."}
+        },
+        {
+            "competencyText": {"en-us": "Construct imaginative, complex scripts and revise them in collaboration with actors to convey story and meaning to an audience."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze different types of stage configurations to determine the effects of each as potential production solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with a team to outline several potential solutions to a design problem and rank them in order of likely success."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the effect of rehearsal sessions and/or strategies on refining skills and techniques by keeping a performance or rehearsal journal/log."}
+        },
+        {
+            "competencyText": {"en-us": "Assess a peer&rsquo;s artistic choices in a production as a foundation for one&rsquo;s own artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Accept feedback from others, analyze it for validity, and apply suggestions appropriately to future performances or designs."}
+        },
+        {
+            "competencyText": {"en-us": "Improve a performance or project using various self-assessment tools, coaching, feedback, and/or constructive criticism."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Explore commonalities between works of theatre and other performance media."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply criteria to select works for a portfolio and defend one&rsquo;s artistic choices with a prepared analysis."}
+        },
+        {
+            "competencyText": {"en-us": "Critique, based on exemplary models and established criteria, the production values and effectiveness of school, community, and live or recorded professional productions."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the interactive effect of audience members and actors on performances."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the Stanislavski Method and its impact on realism in theatrical performance in the 20th century."}
+        },
+        {
+            "competencyText": {"en-us": "Develop criteria that may be applied to the selection and performance of theatrical work."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the artistic content as described by playwrights, actors, designers, and/or directors with the final artistic product and assess the success of the final artistic product using established criteria."}
+        },
+        {
+            "competencyText": {"en-us": "Write monologues, scenes, and/or short plays using principles and elements of writing found in dramatic literature."}
+        },
+        {
+            "competencyText": {"en-us": "Respond appropriately to directorial choices for improvised and scripted scenes."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret dramatic texts, organize and conduct rehearsals, and justify directorial choices for formal and informal productions."}
+        },
+        {
+            "competencyText": {"en-us": "Use research to extract clues in dramatic texts to create performances or technical elements, choosing those that are most interesting and that best convey dramatic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Create one or more technical design documents for a theatrical production."}
+        },
+        {
+            "competencyText": {"en-us": "Apply technical knowledge of safety procedures and demonstrate safe operation of theatre equipment, tools, and raw materials."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of a dramatic work by developing a character analysis for one or more of its major characters and show how the analysis clarifies the character&rsquo;s physical and emotional dimensions."}
+        },
+        {
+            "competencyText": {"en-us": "Sustain a character or follow technical cues in a production piece to show focus."}
+        },
+        {
+            "competencyText": {"en-us": "Perform memorized theatrical literature in contrasting pieces to show ability to apply principles and structure, focus on details of performance, and processing skills to establish successful interpretation, expression, and believability."}
+        },
+        {
+            "competencyText": {"en-us": "Transfer acting and technical skills and techniques from one piece of dramatic text to another."}
+        },
+        {
+            "competencyText": {"en-us": "Create a prompt book to organize dramaturgy, blocking, and play analysis to demonstrate understanding of the production process and the job responsibilities of a director or stage manager."}
+        },
+        {
+            "competencyText": {"en-us": "Strengthen acting skills by engaging in theatre games and improvisations."}
+        },
+        {
+            "competencyText": {"en-us": "Research and defend one\u2019s own artistic choices as a designer."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate, based on research, the rationale for artistic choices in casting, staging, or technical design for a scene from original or scripted material."}
+        },
+        {
+            "competencyText": {"en-us": "Exercise artistic discipline and collaboration to achieve ensemble in rehearsal and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Develop acting skills and techniques in the rehearsal process."}
+        },
+        {
+            "competencyText": {"en-us": "Apply scientific and technological advances to develop visual and aural design elements that complement the interpretation of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct a comparative analysis of acting methods and the teacher-artists who developed them as a foundational guide to acting."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the Stanislavski Method with other acting methods to support development of a personal method."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the audition process by researching and selecting monologues and presenting a memorized selection."}
+        },
+        {
+            "competencyText": {"en-us": "Direct a scene or one-act play."}
+        },
+        {
+            "competencyText": {"en-us": "Research, analyze, and explain the processes that playwrights, directors, designers, and performers use when developing a work that conveys artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Research and analyze a dramatic text by breaking it down into its basic, structural elements to support development of a directorial concept, characterization, and design."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the conventions of western theatre with eastern theatre practices."}
+        },
+        {
+            "competencyText": {"en-us": "Execute the responsibilities of director, designer, manager, technician, or performer by applying standard theatrical conventions."}
+        },
+        {
+            "competencyText": {"en-us": "Write an original script or a dramatic adaptation of a literary work to demonstrate knowledge of theatrical conventions."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the principles of dramatic structure to the writing of a one-act play."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a scene or monologue in a non-traditional way that stays true to its dramatic structure and can be justified within the script."}
+        },
+        {
+            "competencyText": {"en-us": "Create a non-traditional scenic or costume design of a classical play that visually connects it to another time period."}
+        },
+        {
+            "competencyText": {"en-us": "Construct and perform a pantomime of a complete story, showing a full character arc."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the contributions and methods of significant individuals from various cultures and historical periods have influenced the creative innovations of theatre, and apply one of their innovations to a theatrical piece in a new way."}
+        },
+        {
+            "competencyText": {"en-us": "Deconstruct a play, using an established theory, to understand its dramatic structure."}
+        },
+        {
+            "competencyText": {"en-us": "Brainstorm a variety of ways to deviate from western rules and conventions in theatre to influence audience and performer experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Create a scene or improvisation to manipulate and challenge the conventions of the performer/audience relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the methods of communication among directors, designers, stage managers, technicians, and actors that establish the most effective support of the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze a variety of theatre and staging configurations to understand their influence on the audience experience and response."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and demonstrate how to use various media to impact theatrical productions."}
+        },
+        {
+            "competencyText": {"en-us": "Create a performance piece to document a significant issue or event."}
+        },
+        {
+            "competencyText": {"en-us": "Design technical elements to document the progression of a character, plot, or theme."}
+        },
+        {
+            "competencyText": {"en-us": "Apply standard drafting conventions for scenic, lighting, and sound design to create production design documents."}
+        },
+        {
+            "competencyText": {"en-us": "Apply standard conventions of directing, stage management, and design to denote blocking and stage movement for production documentation."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how playwrights&rsquo; work reflects the cultural and socio-political framework in which it was created."}
+        },
+        {
+            "competencyText": {"en-us": "Study, rehearse, and discuss a broad range of theatre works by diverse playwrights to enrich one&rsquo;s perspective of the world."}
+        },
+        {
+            "competencyText": {"en-us": "Present a design or perform in the style of a different historical or cultural context to gain appreciation of that time and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret a text through different social, cultural, and historical lenses to consider how perspective and context shape a work and its characters."}
+        },
+        {
+            "competencyText": {"en-us": "Respect the rights of performers and audience members to perform or view controversial work with sensitivity to school and community standards."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Research the correlations between theatrical forms and the social, cultural, historical, and political climates from which they emerged, to form an understanding of the influences that have shaped theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Research and discuss the effects of personal experience, culture, and current events that shape individual response to theatrical works."}
+        },
+        {
+            "competencyText": {"en-us": "Weigh and discuss, based on analysis of dramatic texts, the importance of cultural protocols and historical accuracy for artistic impact."}
+        },
+        {
+            "competencyText": {"en-us": "Research the intent of, and critical reaction to, artists in history who created groundbreaking, innovative, or controversial works."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of dramatic genres and historical periods to shape the work of performers, directors, and designers."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how gender, race, and age are perceived in plays and how they affect the development of theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Hypothesize how theatre may look in the future and defend that hypothesis, based on historical and social trends, to show understanding of their importance to the development of theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how events have been portrayed through theatre and film, balancing historical accuracy versus theatrical storytelling."}
+        },
+        {
+            "competencyText": {"en-us": "Create scenes that satirize current political or social events."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the history of American musical theatre is tied to events in U.S. history and popular culture, detailing the ways in which theatre evolved."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the significant works and major contributions of major playwrights, performers, designers, directors, and producers in American musical theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Apply critical-thinking and problem-solving skills used in theatre collaboration to develop creative solutions to real-life issues."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the applications of various art forms used in theatre production."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of non-theatre content areas to enhance presentations of characters, environments, and actions in performance."}
+        },
+        {
+            "competencyText": {"en-us": "Create a routine of wellness and care for the actor&rsquo;s physical being as a performance instrument."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the social interactions of daily life are manifested in theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize research, analysis, and imagination to create believable characters and settings."}
+        },
+        {
+            "competencyText": {"en-us": "Solve short conflict-driven scenarios through improvisation."}
+        },
+        {
+            "competencyText": {"en-us": "Stimulate imagination, quick thinking, and creative risk-taking through improvisation to create written scenes or plays."}
+        },
+        {
+            "competencyText": {"en-us": "Research the cause-and-effect relationship between production needs and new and emerging technologies to support creativity and innovation in theatre."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Create and maintain a portfolio for a variety of college or job interviews that can be customized for each opportunity."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the skills needed for theatre-related jobs in the community to support career selection."}
+        },
+        {
+            "competencyText": {"en-us": "Work collaboratively with others to survey the theatre activities in the school, community, and/or region to calculate their impact on the economy."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the skills necessary to be an effective director, designer, stage manager, and/or technician in the mounting of a theatrical performance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact the arts have on local, national, and global economies by researching how businesses use the arts to help them be successful."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and identify the functions of a successful system of business management for a theatre company and compare them to the systems found in a successful business management system."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a production budget for a hypothetical performance, using real-world numbers, and determine how much to charge the audience in order to cover costs."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit independence, discipline, and commitment to the theatre process when working on assigned projects and productions."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how participation in theatre supports development of life skills useful in other content areas and organizational structures."}
+        },
+        {
+            "competencyText": {"en-us": "Monitor the tasks involved in the creative and design processes and analyze ways those processes might be applied in the workforce."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how skills used in putting on a production can be applied in the general work place and design a résumé showing marketable skills for a college or job application."}
+        },
+        {
+            "competencyText": {"en-us": "Use social networking or other communication technology appropriately to advertise for a production or school event."}
+        },
+        {
+            "competencyText": {"en-us": "Use current and emerging technology appropriately to communicate rehearsal information with the cast and crew of a production."}
+        }
+    ]
+}

@@ -1,0 +1,1515 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/727336a0-b970-11ea-a3a1-0242c0a89003",
+        "name": {"en-us": "Kentucky Academic Standards: Health Education"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify family and school rules about the use of medicines."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of choosing healthy foods and beverages and identify the benefits of drinking water."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of talking with parents and other trusted adults about feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of respecting the personal space and boundaries of others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of personal health care practices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how injuries can be prevented."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of healthy peer and family relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the benefits of not using tobacco."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safe and unsafe touches."}
+        },
+        {
+            "competencyText": {"en-us": "Describe why it is harmful to tease or bully others."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify people at home and in the community who influence personal health decisions and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify school and community health care helpers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults who help provide accurate health information."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify effective active listening skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how to effectively communicate needs, wants and feelings in healthy ways."}
+        },
+        {
+            "competencyText": {"en-us": "Identify unwanted, threatening or dangerous situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults to talk to if feeling threatened or harmed."}
+        },
+        {
+            "competencyText": {"en-us": "Describe positive behaviors used to communicate with others."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance healthy behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify steps needed to make informed decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify health situations that require decision-making assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults who help make health decisions for you."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance healthy behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help Kentucky students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify individual goals for improving health."}
+        },
+        {
+            "competencyText": {"en-us": "Identify choices needed to reach a goal."}
+        },
+        {
+            "competencyText": {"en-us": "Identify people who can help achieve goals."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and sexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify personal health habits that promote healthy living."}
+        },
+        {
+            "competencyText": {"en-us": "Identify what causes diseases and other health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to encourage others to be healthy."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the harmful effects of medicines when used incorrectly."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of foods and beverages that should be limited."}
+        },
+        {
+            "competencyText": {"en-us": "Describe body signals that tell a person when they are hungry and when they are full."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate ways to express and deal with feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the difference between bullying and teasing and why it is harmful."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to prevent harmful effects of the sun."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to prevent the spread of disease-causing germs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify people who can help when someone is injured or suddenly ill."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the dangers of experimenting with tobacco."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what to do if someone is being bullied."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how family influences personal health decisions and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify roles and responsibilities of school and community health care helpers."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults within your family and the school responsible for keeping you healthy."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective active listening skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how to effectively communicate needs, wants and feelings in healthy ways."}
+        },
+        {
+            "competencyText": {"en-us": "Describe appropriate ways to respond to an unwanted, threatening or dangerous situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a trusted adult with whom to share needs, wants and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positive behaviors to show concern for others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a health-related situation that requires decision- making skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance healthy behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between situations when a health-related decision can be made individually or when assistance is needed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of situations when health-related decisions must be made."}
+        },
+        {
+            "competencyText": {"en-us": "Identify goals for positive physical, mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify steps needed to reach a goal."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how others can help achieve goals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal health habits that promote healthy living."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and sexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate ways to prevent the spreading of disease and other health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy behavior choices for self, family and friends."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain why everyone has the right to tell others not to touch his or her body."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positive health behaviors regarding personal wellness, physical activity and safety."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how to use medicine correctly"}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain what it means to be healthy and how healthy eating and sleeping patterns help the body grow and develop."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of healthy peer and family relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety hazards in the home and the community."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why it is harmful to tease or bully others based on personal characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify short and long-term physical effects of being exposed to tobacco smoke."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why inappropriate touches should be reported to a trusted adult."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain how community opportunities can influence personal health decisions and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to locate school, home or community health care helpers to enhance health."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults within the community that provide personal health services."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective listening and verbal communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy ways to effectively communicate needs, wants and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate ways to respond to an unwanted, threatening or dangerous situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a trusted adult to ask for help in an unhealthy situation."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to communicate care and concern for others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the potential outcomes of personal health decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between when a health-related decision can be made individually and when assistance is needed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how family, peers and media impact health-\r\nrelated decision making."}
+        },
+        {
+            "competencyText": {"en-us": "Set goals for positive physical, mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze steps needed to reach a health-related goal."}
+        },
+        {
+            "competencyText": {"en-us": "Describe people who can support the achievement of health-related goals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal responsibility in making healthy life decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe behaviors that can cause harm to personal wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe positive health behaviors regarding personal wellness, physical activity and safety."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to encourage peers to make healthy behavior choices."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Make a request of others to advocate to improve their personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the potential risks associated with inappropriate use and abuse of prescription medicines."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the amount of water and food from each food group that a child needs daily and describe the benefits of drinking water and eating healthy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between feelings and behavior and appropriate ways to express and deal with emotion."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of being aware of one's own feelings and being sensitive to the feelings of others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why rest and sleep are important for proper growth and good health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent harmful effects of the sun."}
+        },
+        {
+            "competencyText": {"en-us": "List examples of dangerous or risky behaviors that might lead to injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how peers can influence healthy and unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of accurate and reliable resources for health information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate verbal and non-verbal ways of communicating with others."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify healthy ways to effectively communicate when resolving conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Identify refusal skills that avoid or reduce health risks and explain why they are important"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways to tell a trusted adult if threatened or harmed."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of empathy and compassion when listening to others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the influences family, peers and media have on personal health decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related situations that might require an informed decision."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how community, school, media and technology influence a decision related to personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Set long-term goals for positive physical, mental or emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Establish a long-term plan for achieving goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify resources in the family, school or community that can help with the achievement of health-related goals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of developing positive health habits."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and sexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify behaviors that reduce or prevent health risks of disease and injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain positive health behaviors related to personal wellness, physical activity and safety."}
+        },
+        {
+            "competencyText": {"en-us": "State personal beliefs that may improve the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify factual information needed to advocate to improve the personal health and wellness of others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of healthy relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the benefits of abstaining from tobacco use and explain the dangers of experimenting with tobacco products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe what to do if oneself or someone else is being bullied."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that everyone has the right to tell others not to touch his or her body."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Identify family and school rules about alcohol use."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of eating a variety of foods from all the food groups and describe the benefits of healthy eating habits."}
+        },
+        {
+            "competencyText": {"en-us": "Identify feelings and emotions associated with loss and grief and depression and sadness and explain what it means to be emotionally healthy."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal stressors at home, in school and with friends."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the symptoms of someone who is seriously ill and needs immediate medical attention."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to prevent injuries at home, at school and in the community and explain what to do if someone is poisoned or injured and needs help."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent the spread of germs that cause infectious disease."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize why it is harmful to tease or bully others based on personal characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the short and long-term physical effects of being exposed to others\u2019 tobacco use."}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies to avoid physical fighting and violence."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of telling an adult if someone is in danger of hurting themselves or others."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how community can support personal health decisions and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of valid health information, products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe resources from home, school and community that provide valid health products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe effective verbal and non-verbal communication skills to enhance healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe healthy ways to manage or resolve conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Describe refusal skills that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to effectively communicate needs, wants and feelings in healthy ways."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to communicate support for others."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how family, peers and media influence decision- making for personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the essential steps needed to make a health- related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how community, school, media and technology influence a decision related to personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Set long-term goals for positive physical, mental or emotional health and identify skills you will need to achieve them."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List goals and identify steps needed for achieving goals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze resources in the family, school or community that can influence (positively or negatively) the achievement of health related goals."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the short and long-term effects of positive and negative health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe practices and behaviors that reduce or prevent health risks related to diseases and injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret why good health habits enhance physical, mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to advocate for others (peers, family and community) to make positive health choices."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe personal beliefs to persuade, support and promote others to improve personal health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Identify short and long-term effects of alcohol use."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the benefits of limiting the consumption of solid fat, added sugar and sodium and explain the concept of eating in moderation."}
+        },
+        {
+            "competencyText": {"en-us": "List physical and emotional reactions to stress and identify positive and negative ways of dealing with stress and anxiety."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between infectious and non- infectious diseases, as well as how to prevent and treat them."}
+        },
+        {
+            "competencyText": {"en-us": "Describe safety precautions for playing and working outdoors in different kinds of weather and climates."}
+        },
+        {
+            "competencyText": {"en-us": "Describe basic male and female reproductive body parts and their functions as well as the physical, social and emotional changes that occur during puberty."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that tobacco use is an addiction that can be treated."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why it is harmful to tease or bully others based on personal characteristics and describe examples of pro-social\r\nbehaviors that help prevent violence."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how media influences thoughts and feelings concerning health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate resources from school, home and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influences of family, culture, media and technology when accessing valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate verbal and non-verbal communication skills to enhance healthy behaviors for self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy ways to manage or resolve conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective refusal skills that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to effectively ask for help in order to reduce physical, mental or emotional health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to communicate empathy and support\r\nfor someone."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate decision-making skills needed to avoid unhealthy choices."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze when assistance is, or is not, needed in making a health-related decision."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how community, school, media and technology influence a decision related to personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and revise, if needed, long-term goals to include positive physical, mental or emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze goals and the influence family, peers, community, media and technology have on those goals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze lifestyles, skills and resources to determine the effect they will have on the achievement and/or maintenance of long-term personal goals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze personal health practices and set goals to practice positive behaviors that affect physical, mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe and demonstrate healthy practices and behaviors on a routine basis."}
+        },
+        {
+            "competencyText": {"en-us": "Describe health-enhancing practices and behaviors for physical, mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Persuade others to engage in healthy behaviors through conversations, presentations and interactive media, using school and community resources."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to advocate for others to make positive behavior choices to improve personal health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between proper use and abuse of prescription and over-the-counter medicines and distinguish between the benefits and consequences of using and not using alcohol and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the risks associated with using alcohol or other drugs and riding in a motor vehicle."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why the recommended amount of food a person needs each day may be different for each food group and analyze the benefits of healthy eating."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how emotions change during adolescence and explain appropriate ways to express and respond to needs, wants, emotions and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the benefits of good hygiene practices."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between infectious, noninfectious, acute and chronic diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize actions to take to protect oneself against potential damage from exposure to the sun."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of talking with parents and other trusted adults about issues related to relationships, growth and development and sexual health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe conception and its relationship to the menstrual cycle and describe why sexual abstinence is the most effective risk avoidance method of protection from HIV, other STDs and pregnancy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe short- and long- term physical effects of using tobacco."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the dangers of experimenting with tobacco products and the benefits of being tobacco-free."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how culture influences personal health decisions and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe health-related situations that call for professional services."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify and determine the availability of valid and reliable personal health and wellness products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe effective verbal and nonverbal communication skills to enhance health and promote healthy behaviors/relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how refusal and negotiation skills are used to\r\navoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Explain effective conflict management and/or resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize healthy options when making a decision about health- related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how to use a decision-making process to avoid harmful behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how a decision-making process is used to enhance or establish healthy behaviors and relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies and skills needed to attain personal health goals."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize how personal health goals can vary with changing abilities, priorities and responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Assess personal health practices and create a goal to maintain or improve personal health practices."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize positive health and wellness-related behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Summarize personal health practices and behaviors to improve the health and wellness of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "State a health-enhancing position, supported with accurate information, to improve the personal health and wellness of others."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how to influence and support others to make positive behavior choices to improve personal health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of non-violent ways to respond to stress when angry or upset and explain why it is important to understand the perspective of others in resolving conflict situations nonviolently."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the presence of weapons increases the risk of serious violent injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how sharing or posting personal information electronically on social media sites can negatively impact the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Determine reasons why people choose to use or not to use alcohol and other drugs and describe situations that could lead to the use of alcohol and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between using alcohol and other drugs and injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the similarities and differences among nutrients regarding nutritional value and food sources."}
+        },
+        {
+            "competencyText": {"en-us": "Describe major chronic diseases and their relationship to what people eat and their physical activity level."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of a positive body image."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how sharing or posting personal information electronically about self or others on social media sites can negatively impact mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Explain causes and effects of stress."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the behavioral and environmental factors that contribute to the major chronic diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the benefits of being sexually abstinent and summarize ways to prevent pregnancy."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why individuals have the right to refuse sexual contact."}
+        },
+        {
+            "competencyText": {"en-us": "Explain signs, symptoms, transmission and prevention of the most common STDs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the social, economic and cosmetic consequences of tobacco use."}
+        },
+        {
+            "competencyText": {"en-us": "Describe examples of dangerous or risky behaviors that\r\nmight lead to injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how personal values and beliefs can affect personal health and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Research and demonstrate how sharing or posting personal information electronically can or has negatively impacted the mental/emotional health, social health and/or safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast health-related situations that call for professional services."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the availability of valid and reliable health information, services and products."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze effective verbal and nonverbal communication skills to enhance health and promote healthy behaviors and relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how refusal and negotiation skills are used to avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how to use effective conflict management and/or resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe healthy options when making a decision about health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice using a decision-making process to avoid or refuse addictive or harmful substances and/or behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the use of a decision-making process to enhance or establish healthy behaviors and relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strategies and skills needed to attain personal health goals."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how personal health goals can vary with changing abilities, priorities and responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Set a goal to maintain or improve personal health and/or wellness-related behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of being responsible for personal health and wellness-related behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast personal health practices and behaviors that improve the health and wellness of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Express a health-enhancing position, supported with accurate information, to improve the personal health and wellness of others."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to influence and support others (peers, family and community) to make positive behavior choices to improve personal health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the signs and symptoms of people who are in danger of hurting themselves or others and explain the importance of telling an adult if there are people who are in danger of hurting themselves or others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Explain why using alcohol or other drugs is an unhealthy way to manage stress and describe the relationship between using alcohol and other drugs with other health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between access to healthy foods and personal food choices and identify healthy and risky approaches to weight management."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the causes, symptoms and effects of depression, anxiety and common eating disorders."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the benefits of living in a diverse society."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate healthy and unhealthy relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of seeking help and treatment for common infectious diseases and chronic diseases and summarize health practices to prevent the spread of disease."}
+        },
+        {
+            "competencyText": {"en-us": "Explain climate-related physical conditions that affect personal safety."}
+        },
+        {
+            "competencyText": {"en-us": "Describe first response procedures needed to treat injuries and other emergencies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the factors that contribute to and that protect against engaging in sexual behavior and explain the importance of setting personal limits to avoid sexual risk behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe usual signs and symptoms of common STDs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe situations that could lead to the use of tobacco and explain reasons most individuals do not use tobacco products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how power and control differences in relationships can contribute to aggression and violence and describe how prejudice, discrimination and bias can lead to violence."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that rape and sexual assault should be reported to a trusted adult."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how school rules, public health policies and laws can influence personal health and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate prevention strategies that reduce health risk behaviors and explain the influence these strategies have on personal choices."}
+        },
+        {
+            "competencyText": {"en-us": "Explain health-related situations that call for professional prevention or intervention services."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Investigate and analyze valid and reliable health-related products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Apply effective verbal and nonverbal communication skills to enhance health and promote healthy behaviors/relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance the health of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate refusal and negotiation skills to avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective conflict management and/or resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Predict when health-related situations require the application of a thoughtful decision-making process."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze healthy options when making a decision about health-related issues or problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a decision-making process to avoid or refuse healthy and/or unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Apply strategies and skills needed to attain personal health goals."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how personal health goals can vary with changing abilities, priorities and responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Set and implement a goal that maintains or improves personal health and/or wellness-related behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and explain personal health practices and behaviors that reduce or prevent health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Defend the importance of demonstrating healthy practices and behaviors to improve the health and wellness of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Propose a health-enhancing position, supported with accurate information, to improve the personal health and wellness of others."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Design an advocacy campaign to influence and support others to make behavior choices to improve personal health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Locate and access valid and reliable personal health and wellness information from home, school or the community."}
+        },
+        {
+            "competencyText": {"en-us": "High School"}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between proper use and abuse of over-the-counter medicines and prescription medicines."}
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend content related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["**Content Comprehension**: The acquisition of basic health content and functional health knowledge provides a foundation for promoting health-enhancing behaviors among Kentucky youth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the harmful effects of binge drinking."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the effects of using alcohol and other drugs on school performance, job performance, job absenteeism and job loss."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize why alcohol- or other drug-use is an unhealthy way to manage weight or stress and analyze the relationship between using alcohol and other drugs with other health risks."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the dangers of driving while under the influence and the relationship between unintentional injuries while using alcohol and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between diet and chronic diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the recommendation of the U.S. Dietary Guidelines for Americans and the importance of eating a variety of appropriate foods to meet daily nutrient and caloric needs."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize how to make healthy food selections when dining out."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the importance of healthy eating and physical activity in maintaining a healthy weight."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the interrelationship of physical, mental, emotional, social and spiritual health."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate effective strategies for dealing with stress."}
+        },
+        {
+            "competencyText": {"en-us": "Determine when to seek help for mental and emotional health problems."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how family, culture, environments and communities affect personal health and wellness practices."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["**Practices for Analyzing Influences**: Health is affected by a variety of positive and negative influences: family, peers, community (including school), culture and media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Distinguish how family, peers, community, culture, media and perceptions of norms influence healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the validity, reliability and accessibility of health information, products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Access valid information, products and services to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Accessing Valid Information**: Access to valid health information and health-promoting products and services is critical in the prevention, early detection and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze factors that influence opportunities to obtain reliable resources that support health-enhancing behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast effective communication skills to improve healthy relationships and/or reduce engaging in risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Communication**: Effective communication enhances personal, family and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze and demonstrate how to effectively manage personal information in electronic communications."}
+        },
+        {
+            "competencyText": {"en-us": "Choose healthy ways to express affection within relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Use consensual, consistent language to set personal limits and explain its implications for decision-making to avoid risky behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate healthy alternatives to risky behaviors by using decision-making skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Decision-Making**: Decision-making skills are needed to identify, implement and sustain health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine when professional treatment or services are needed for unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Determine when to access professional safety and injury prevention information, services and/or products."}
+        },
+        {
+            "competencyText": {"en-us": "Assess how personal attitudes, values and beliefs influence healthy and unhealthy personal health-related behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["**Practices for Goal-Setting**: Goal setting skills are essential to help students identify, adopt and maintain healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use goal-setting strategies to develop realistic short- and long-term goals to enhance personal well-being, reduce the risk of disease, promote emotional health and reduce violence."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze, revise and implement health practices and behaviors to reduce barriers in order to achieve personal goals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the role of individual versus societal responsibility for health-related behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["**Practices for Health-Enhancing Behaviors**: Research confirms practicing health-enhanced behaviors can prevent many diseases and injuries and reduce harmful and risk-taking behaviors such as abuse and neglect, drug abuse, prescription drug abuse and\r\nsexual activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate personal health-related behaviors that reduce the risk of disease, prevent unhealthy behaviors and promote positive overall wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Use peer and societal norms, based on accurate health information, to formulate health-enhancing messages that promote healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for personal, family and community health."},
+            "comment": {
+                "en-us": ["**Practices for Advocating**: Advocacy skills help students promote healthy norms and healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Persuade and support others to engage in behaviors that promote emotional health, reduce the risk of disease and reduce violence."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze characteristics of healthy relationships and explain how to build and maintain healthy relationships with family members, peers and boyfriends and girlfriends."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate effective strategies for dealing with difficult relationships with family members, peers and boyfriend or girlfriends."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the benefits of rest and sleep."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize personal strategies for minimizing potential harm from sun exposure."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize important health screenings, immunizations, checkups and examinations to maintain good health."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize ways to reduce the risk of injuries while riding in or driving a motor vehicle."}
+        },
+        {
+            "competencyText": {"en-us": "Explain accepted procedures for basic emergency care and lifesaving, including CPR."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the negative consequences of sending sexually explicit pictures or messages electronically."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the importance of talking with parents and other trusted adults about issues related to relationships, growth and development and sexual health."}
+        },
+        {
+            "competencyText": {"en-us": "Justify why abstinence from sex and drugs are the safest, most effective risk avoidance methods of protection from HIV, other STDs and pregnancy and summarize ways to prevent pregnancy and the sexual transmission of HIV and other STDs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of shared responsibilities for avoiding sexual activity and preventing sexual risk behaviors and analyze the relationship between using alcohol and other drugs with sexual risk behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the relationship between the menstrual cycle and conception."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the signs and symptoms of symptomatic and asymptomatic STDs and the importance of proper adherence to contraceptive methods to reduce the risk of pregnancy and STDs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the increased risks associated with having multiple\r\nsexual partners including serial monogamy."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze situations that could lead to being pressured to having sex."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why it is wrong to trick, threaten, or coerce another person into having sex."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the emotional, social, physical and financial effects of being a teen parent."}
+        },
+        {
+            "competencyText": {"en-us": "Examine situations that could lead to tobacco use and summarize the long-term health benefits of abstaining from or discontinuing tobacco use."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the financial costs of tobacco use to the individual and society."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize non-violent ways to respond to stress when angry or upset."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze why it is important to understand the perspectives of others in resolving a conflict situation."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between using alcohol and other drugs and violence and"}
+        },
+        {
+            "competencyText": {"en-us": "Describe actions to take if weapons are seen or suspected in school or outside the supervision of a parent or guardian."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why rape and sexual assault should be reported to a trusted adult."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize why the presence of weapons increases the likelihood of injury and why it is important to tell an adult if there are people who are in danger of hurting themselves or others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that self-directed violence is the result of the accumulation of multiple problems rather than just one problem."}
+        },
+        {
+            "competencyText": {"en-us": "Explain when to seek help for mental health problems that contribute to violence."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the factors and health-risk behaviors that influence the likelihood of engaging in unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Examine how sharing or posting personal information electronically about self or others can negatively impact mental/emotional health, social health and personal safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Design and implement a plan to model healthy physical and emotional health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe various practices to enhance personal safety."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why abstinence from unhealthy behaviors is the most effective risk avoidance method."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of preventative health care necessary to maintain overall wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Encourage others not to bully or otherwise disrespect a person based on factors such as race, religion, sexuality, ethnicity and/or disabilities."}
+        },
+        {
+            "competencyText": {"en-us": "Encourage schools and communities to promote healthy behaviors that reduce the risk of disease and violence and promote positive emotional health messages and services to improve the health of self and others."}
+        }
+    ]
+}

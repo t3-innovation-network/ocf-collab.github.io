@@ -1,0 +1,2340 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://case.georgiastandards.org/uri/2f0b354a-43a8-11ea-a629-0242ac150004",
+        "name": {"en-us": "Health - Georgia Performance Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Health / Grade K"},
+            "comment": {
+                "en-us": ["Kindergarten students recognize basic facts and concepts about their bodies and begin to acquire skills and practices that keep them safe and healthy. Students learn to seek help and advice from parents or guardians and other trusted adults and begin to learn how to seek reliable health information. They understand how to make good decisions about simple health issues, to respect others, to follow school safety rules, and to be responsible"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Kindergarten students will identify healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Name healthy behaviors"},
+            "comment": {
+                "en-us": ["**Examples:**\r\n\t* Identify healthy food choices.\r\n\t* Explain why healthy behaviors such as brushing teeth and getting adequate sleep are important."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify that physical health is one dimension of health and wellness."},
+            "comment": {
+                "en-us": ["**Examples:**\n\t* Identify that a healthy person exercises, eats well, and goes to the doctor.\n\t* Describe ways to prevent the spread of communicable diseases to promote physical health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Kindergarten students will recognize and identify external factors that influence their personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how family influences personal health practices."},
+            "comment": {
+                "en-us": ["Name physical activities family members can participate in together(e.g., raking leaves, walking, playing sports)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify what the school can do to support personal health practices."},
+            "comment": {
+                "en-us": ["Identify the kinds of healthy foods served by the school cafeteria."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "State how the media influences behaviors."},
+            "comment": {
+                "en-us": ["Discuss how advertisements (e.g., rhymes, jingles) can influence individuals to purchase certain products."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Kindergarten students will identify trusted adults who can assist them in enhancing their health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss the role of trusted adults and health professionals as sources of health information."},
+            "comment": {
+                "en-us": ["Describe the role of a variety of health care professionals in promoting health (e.g., dentist, eye doctor)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify school and community health helpers."},
+            "comment": {
+                "en-us": ["Identify community helpers who can assist students in understanding the safety procedures."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Kindergarten students will recognize skills needed to develop and maintain healthy personal relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss ways to express feelings in a healthy way."},
+            "comment": {
+                "en-us": ["Describe how to express emotions in healthy ways."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop listening skills to enhance health."},
+            "comment": {
+                "en-us": ["Explain how a person with good listening skills can enhance his or her health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Kindergarten students will identify health-related situations where decision-making skills are needed."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related situations."},
+            "comment": {
+                "en-us": ["Identify potential risky health situations at school."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss when and what assistance is needed for health-related situations."},
+            "comment": {
+                "en-us": ["Identify who to ask for help when you are ill at school."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Kindergarten students will identify personal health goals and determine who can assist them in achieving their goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Name a personal health goal."},
+            "comment": {
+                "en-us": ["Identify several potential health goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify family members who can assist with achieving short-term health goals."},
+            "comment": {
+                "en-us": ["Describe how a family member can be a role model by eating healthy foods."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Kindergarten students will name health behaviors to prevent injuries, diseases, and disorders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Show healthy behaviors that improve personal health and wellness."},
+            "comment": {
+                "en-us": ["Demonstrate the correct technique for brushing teeth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy behaviors that prevent injuries."},
+            "comment": {
+                "en-us": ["Practice safety precautions used before crossing the street."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Kindergarten students will role model healthy behaviors that promote personal health and encourage positive choices in others."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Seek assistance to promote personal health."},
+            "comment": {
+                "en-us": ["Request help when deciding on healthier snack options."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Encourage peers to make positive health choices."},
+            "comment": {
+                "en-us": ["Draw a picture to encourage classmates to use a booster seat or wear a safety belt."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 1"},
+            "comment": {
+                "en-us": ["Students in first grade learn about their body\u2019s systems and various health topics. They begin to understand how their decisions can impact their health and well-being now and in the future. Students begin to relate choices with consequences. They begin to examine the influence of the media on health decisions and to identify ways to access reliable information. They exhibit respect for self, others, and the environment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. First grade students will understand how healthy behaviors impact personal health and disease prevention."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Tell how healthy behaviors impact personal health and wellness."},
+            "comment": {
+                "en-us": ["Describe why being tobacco free is a healthy behavior."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent communicable diseases."},
+            "comment": {
+                "en-us": ["List ways to prevent germs from spreading."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. First grade students will recognize and identify internal factors that influence their personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how family influences personal health practices."},
+            "comment": {
+                "en-us": ["Describe how a family member can model healthy behaviors (e.g., eating healthy foods, exercising on a regular basis)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify what the school can do to support personal health practices."},
+            "comment": {
+                "en-us": ["Identify how schools can participate in health events (e.g., Red Ribbon week)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. First grade students will list valid health resources to enhance their health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List the roles and responsibilities of professionals who assist with enhancing health."},
+            "comment": {
+                "en-us": ["List the responsibilities of a school bus driver in keeping the passengers safe."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to locate school and community health helpers."},
+            "comment": {
+                "en-us": ["Identify community helpers who would help with understanding ways to improve the environment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. First grade students will understand their personal feelings as the basis for strengthening their relationships and avoiding conflicts."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize ways to respond when in an unwanted, threatening, or dangerous situation."},
+            "comment": {
+                "en-us": ["Describe how to avoid second hand smoke."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss ways to tell a trusted adult if threatened or harmed."},
+            "comment": {
+                "en-us": ["Give examples of when it is important to ask an adult for help when confronted with an unsafe situation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision making skills to identify, apply, and maintain health-enhancing behaviors. First grade students will list health-related situations, as well as identify people who can assist them with solving problems, in order to make health-enhancing decisions."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List health-related situations."},
+            "comment": {
+                "en-us": ["Describe situations in which students much choose between healthy and risky behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify people who can help solve problems and make decisions."},
+            "comment": {
+                "en-us": ["Identify various school personnel who can assist students with health- related problems (e.g., teacher, nurse, principal, and counselor)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. First grade students will identify actions needed to achieve short-term health goals, as well as who can assist them in achieving their goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify actions needed to achieve a short term personal health goal."},
+            "comment": {
+                "en-us": ["Identify what actions would be useful in achieving a short-term personal health goal (e.g., schedule for brushing teeth, checklist for eating healthy foods)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify who can assist you in achieving health goals outside your family."},
+            "comment": {
+                "en-us": ["Identify who can assist in teaching students how to appropriately express feelings (e.g., teacher, counselor, and parent)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. First grade students will identify steps to maintain or improve personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice health behaviors to maintain personal health and wellness."},
+            "comment": {
+                "en-us": ["Participate in a role play on how to promote cooperation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Model behaviors that reduce health risks."},
+            "comment": {
+                "en-us": ["Draw a picture of yourself eating a healthy snack."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. First grade students will demonstrate healthy skills to encourage others to practice healthful behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Obtain assistance to promote health and wellness."},
+            "comment": {
+                "en-us": ["Encourage parents and other caretakers to help students make healthy eating choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Make requests to promote personal health."},
+            "comment": {
+                "en-us": ["Ask a teacher for helpful suggestions when trying to resolve a conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 2"},
+            "comment": {
+                "en-us": ["Students in second grade learn about growth and development throughout life as well as about body systems. They learn to compare and contrast healthy and unhealthy practices. Skill building continues as students learn to apply the knowledge of health-risk reduction to the promotion of health. Students access valid information and begin to understand the relationship between personal and community health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Second grade students will identify concepts related to healthy behaviors and disease prevention."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize that there are multiple dimensions of health."},
+            "comment": {
+                "en-us": ["Explain the relationship between feelings and behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent the spread of communicable diseases."},
+            "comment": {
+                "en-us": ["Describe the relationship between germs and communicable diseases."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Second grade students will identify and discuss internal and external factors that influence their personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss how the family influences personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Discuss the importance of each family member in promoting healthy lifestyles."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how the media can impact health behaviors."},
+            "comment": {
+                "en-us": ["Describe how advertisements can influence food choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Second grade students will identify trusted adults, health care professionals, and school and community individuals who can help enhance their health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify trusted adults and professionals who can help promote health."},
+            "comment": {
+                "en-us": ["Identify adults with whom students can discuss their feelings."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to locate school and community health helpers."},
+            "comment": {
+                "en-us": ["Identify adults and professionals who help to promote regular physical activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Second grade students will demonstrate the ability to identify verbal and non- verbal communication skills as a way to reduce or avoid conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy ways to express needs, wants, and feelings."},
+            "comment": {
+                "en-us": ["Demonstrate how to express feelings to prevent conflict from starting."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate listening skills to enhance health."},
+            "comment": {
+                "en-us": ["Show how body language and eye contact can enhance communication."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision making skills to identify, apply, and maintain health-enhancing behaviors. Second grade students will utilize their knowledge of health-related situations to describe how they will make a health-enhancing decision."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe a health-related situation."},
+            "comment": {
+                "en-us": ["Describe what to do when a student feels scared or frightened."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related situations when assistance is needed."},
+            "comment": {
+                "en-us": ["Identify what to do if someone is ill or injured and in need of assistance."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Second grade students will implement actions needed to achieve a short-term personal health goal. They will also explain how others can assist them in meeting their health goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Implement actions to achieve a short-term personal health goal."},
+            "comment": {
+                "en-us": ["Identify safe ways to ride in a vehicle."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify individuals who can assist in helping achieve a personal goal."},
+            "comment": {
+                "en-us": ["Describe how individuals can help students reach their dietary goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Second grade students will practice healthy behaviors to prevent injuries, diseases, and disorders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy practices and behaviors to maintain or improve personal health."},
+            "comment": {
+                "en-us": ["Design a meal based on the food guide pyramid."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate behaviors that avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Describe ways to prevent transmission of head lice."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Second grade students will demonstrate healthy behaviors to encourage others to practice healthful behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Make requests to promote health and wellness."},
+            "comment": {
+                "en-us": ["Request foods that build strong teeth or keep teeth healthy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Encourage peers to make positive choices."},
+            "comment": {
+                "en-us": ["Design a poster encouraging peers to avoid unhealthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 3"},
+            "comment": {
+                "en-us": ["Students in third grade learn and apply health skills in areas such as disease prevention, nutrition, healthy relationships, use of tobacco, and use/abuse of alcohol. Students begin to recognize the existence of myths related to health information, distinguish fact from fiction, and set simple goals for promoting personal health and preventing disease. Students assume personal responsibility for helping promote health at school and in the community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Third grade students will identify health enhancing behaviors and describe behaviors related to disease and injury prevention."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the link between healthy choices and being healthy."},
+            "comment": {
+                "en-us": ["Illustrate the link between the six main nutrients and being healthy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize times when it might be important to seek health care or emergency help."},
+            "comment": {
+                "en-us": ["Identify potential dangers found at school and at home and whom to call for assistance in case of emergency."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Give examples of intellectual, physical, emotional, and social health."},
+            "comment": {
+                "en-us": ["Describe the impact of stress on multiple dimensions of health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Third grade students will comprehend a variety of internal and external factors that influence health practices and behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how the family influences personal health practices."},
+            "comment": {
+                "en-us": ["Recognize the role that a parent or guardian plays in caring for a child."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how peers can influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Describe examples of positive and negative peer pressure."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify consumer influences."},
+            "comment": {
+                "en-us": ["Determine target audiences for specific media and advertisements."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will identify valid health information and health-promoting products and services for the prevention, early detection, and treatment of health problems. Third grade students will locate local resources that provide valid health information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe characteristics of valid health information, products, and services."},
+            "comment": {
+                "en-us": ["Describe characteristics of valid sources of health information available on the internet."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Label resources from home, school, and community that provide valid health information."},
+            "comment": {
+                "en-us": ["List family members, school personnel, and community leaders (e.g., health experts, legal and medical professionals, business men and women, volunteer and service agencies and civic groups) that are good resources of valid health information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Third grade students will use effective verbal and nonverbal communication skills to develop and maintain quality relationships and avoid conflicts."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize the importance of assertively refusing pressure to engage in an unhealthy behavior."},
+            "comment": {
+                "en-us": ["Discuss healthy ways to express needs, wants, and feelings."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how listening skills can be used to build and maintain healthy relationships."},
+            "comment": {
+                "en-us": ["Describe how active listening is important to be a positive friend and family member."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize causes of conflicts and applies nonviolent strategies to manage or resolve."},
+            "comment": {
+                "en-us": ["Describe how effective communication skills enhance healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Third grade students will indicate when support is needed for making thoughtful decisions about health-related issues or problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Indicate routine health-related situations."},
+            "comment": {
+                "en-us": ["Describe personal choices that contribute to personal health and wellness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss situations when support is needed when making a health-related decision."},
+            "comment": {
+                "en-us": ["Discuss how adults can help an individual avoid tobacco."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss various options to health-related issues or problems."},
+            "comment": {
+                "en-us": ["Examine safety tips in walking to school, riding the bus, and riding in a car to school each day."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Indicate the possible consequences of each choice when making a health-related decision."},
+            "comment": {
+                "en-us": ["Discuss what could happen if students stopped flossing and brushing their teeth."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify a healthy choice when making a decision."},
+            "comment": {
+                "en-us": ["Describe the health implications of students after school activity choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Third grade students will select a long-term goal, determine actions to achieve the goal, and recognize who can assist them with reaching their goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Select a personal long-term health goal and determine actions needed to achieve the goal."},
+            "comment": {
+                "en-us": ["Select a personal health goal related to healthy sleep habits (e.g., establish morning and bedtime routines, record the number of hours of sleep, and track progress)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize resources needed to achieve a personal health goal."},
+            "comment": {
+                "en-us": ["Recognize that parents, teachers, and school counselors can help with a goal to manage angry feelings appropriately."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Third grade students will demonstrate healthy skills to prevent injuries, diseases, and disorders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice healthy behaviors."},
+            "comment": {
+                "en-us": ["Keep a daily log of all of the health choices a student makes throughout the day."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Perform healthy practices that maintain or improve personal health."},
+            "comment": {
+                "en-us": ["Wear appropriate footwear before engaging in an outdoor physical activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate actions to avoid and reduce health risks."},
+            "comment": {
+                "en-us": ["Demonstrate ways to reduce stress throughout the day."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Third grade students will share accurate health information and demonstrate healthy behaviors to encourage others to practice healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Share accurate information about a health issue."},
+            "comment": {
+                "en-us": ["Share with family members suggestions for conserving water in their daily practices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Encourage others to make positive health choices."},
+            "comment": {
+                "en-us": ["Explain the importance of exercise to a family member and think of ways family members can exercise together."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 4"},
+            "comment": {
+                "en-us": ["Students in fourth grade distinguish reliable from unreliable health information and resources. Students\u2019 practices and behaviors demonstrate health knowledge and skills. They begin to see the interconnection between body systems. Students critique advertising and various media displays and work with others to improve community health"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Fourth grade students will describe healthy behaviors to prevent or reduce their risk of injury and/or illness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize the relationship between health behavior and disease prevention."},
+            "comment": {
+                "en-us": ["Describe the relationship between tobacco use and nicotine addiction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict the short and long term effects of health choices on the multiple dimensions of health."},
+            "comment": {
+                "en-us": ["Describe the long and short term health benefits of avoiding foods high in sugar, fat, and sodium."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to promote a safe and healthy community environment."},
+            "comment": {
+                "en-us": ["Identify threats to personal safety and how to avoid them."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Fourth grade students will compare and contrast how family and culture influence their personal and family health. Students will recognize negative and positive peer pressure and its influence on health promotion and risk reduction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the influence of culture on health practices and behaviors."},
+            "comment": {
+                "en-us": ["Identify the health impact of eating and drinking habits associated with particular social events (i.e., holidays, sporting events)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how the school and community can support personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Identify ways to prevent the spread of communicable disease in the community (e.g., hygiene, inoculation, quarantine)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how technology and the media can influence personal health."},
+            "comment": {
+                "en-us": ["List media influences that most impact student\u201fs consumer decisions (e.g., commercials, movies, books, music)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Fourth grade students will identify services that promote healthy living within the school and community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize the characteristics of valid health information, products, and services."},
+            "comment": {
+                "en-us": ["Discuss health-related products that are available to promote a healthier individual."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Summarize the services that school, family, and community provide concerning personal health"},
+            "comment": {
+                "en-us": ["Analyze the roles and responsibilities of health care professionals and other adults in promoting personal health and wellness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Fourth grade students will develop attentive listening, refusal, and conflict resolution skills to develop and maintain health enhancing relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe effective negotiation skills to manage or resolve conflict."},
+            "comment": {
+                "en-us": ["Explain the benefits of non-violent conflict resolution strategies to others."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate skills that communicate care, consideration, and respect of self and others, including those with disabilities."},
+            "comment": {
+                "en-us": ["Demonstrate ways to respect personal space and boundaries."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Fourth grade students will determine and explain alternatives to promote healthy decisions regarding health-related issues or problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain a situation that may require a thoughtful health-related decision."},
+            "comment": {
+                "en-us": ["Discuss options of what to do in potentially dangerous situations (e.g., being lost, stranded without a ride home, riding with someone who causes you to feel unsafe)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine when help is needed to make a health-related decision."},
+            "comment": {
+                "en-us": ["Determine when a counselor is needed for anger management."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Indicate healthy alternatives to health-related issues and problems."},
+            "comment": {
+                "en-us": ["Provide positive alternatives to resolve a conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the possible consequences of each option when making a health-related decision."},
+            "comment": {
+                "en-us": ["Discuss the possible consequences of swimming alone."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine a healthy choice when making a decision."},
+            "comment": {
+                "en-us": ["Create a list of possible consequences if rules are not followed (e.g., running in the hallway, talking loud on the bus, throwing a baseball bat)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Fourth grade students will develop personal goals for positive health and discuss resources for assisting them with their goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal health goal and identify ways to monitor its progress."},
+            "comment": {
+                "en-us": ["Track a personal health goal related to consuming more fruits and vegetables using a chart to track intake."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss resources needed to help achieve a personal health goal."},
+            "comment": {
+                "en-us": ["Discuss the reasons for consulting a parent before taking medication."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Fourth grade students will demonstrate healthy behaviors to prevent injuries, diseases, and disorders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice beneficial health behaviors."},
+            "comment": {
+                "en-us": ["Practice first aid for minor injuries."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a healthy behavior to improve personal health and wellness."},
+            "comment": {
+                "en-us": ["Develop and adhere to a healthy sleep routine."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate behaviors to reduce health risks."},
+            "comment": {
+                "en-us": ["Practice goal-setting steps to reduce stress."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Fourth grade students will give sources of valid information about health issues and perform healthy behaviors to encourage others to adopt health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Provide valid health information about a health issue."},
+            "comment": {
+                "en-us": ["Analyze the benefits of being physically active."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Help others make positive choices."},
+            "comment": {
+                "en-us": ["Create a poster illustrating ways to handle and prepare foods safely."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 5"},
+            "comment": {
+                "en-us": ["Students in fifth grade develop more sophistication in understanding health issues and practicing health skills. They apply health skills and strategies to improve or maintain personal and family health. Students begin to understand adolescent health issues and concerns and the relationship between choices and consequences. They understand how to be a positive role model and the impact of positive and negative peer pressure. Injury prevention behaviors are demonstrated at school and elsewhere. Students are resourceful and discriminating in accessing and critiquing health information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Fifth grade students will describe healthy behaviors to prevent or reduce their risk of injury and/or illness throughout their lifespan."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between healthy behaviors and personal health."},
+            "comment": {
+                "en-us": ["Develop strategies and skills used to promote personal hygiene."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to prevent common injuries and health problems."},
+            "comment": {
+                "en-us": ["Describe how each person can impact the health and safety of others."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe when it is important to seek health care."},
+            "comment": {
+                "en-us": ["Discuss why it is important to talk to a parent, counselor or other medical professional when consistently feeling sad, anxious or depressed."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Fifth grade students will examine how the family, peers, culture, and media influence personal and family health. Students will begin to examine their personal values, beliefs, and perceived norms as they relate to health behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the influence of family and peers on personal health behaviors and decisions."},
+            "comment": {
+                "en-us": ["Identify personal health risk factors based on family history and lifestyle behavior."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how media/technology influences thoughts, feelings, and health behaviors."},
+            "comment": {
+                "en-us": ["Explore the various \"images\" portrayed by celebrities and their impact on consumer health behavior."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how the home, school, and community culture can influence personal health."},
+            "comment": {
+                "en-us": ["Identify places in the community designated as a non-smoking environment and list the positive health influence of this designation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Fifth grade students will describe school and community services that promote healthy living."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of valid health information, products, and services."},
+            "comment": {
+                "en-us": ["Examine valid hygiene products and services that promote a healthier individual."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Locate resources from home, school, and community that provide valid health information."},
+            "comment": {
+                "en-us": ["Identify community agencies that provide valid information about a chronic health issue."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Fifth grade students will demonstrate the ability to organize and convey information and feelings as the basis for strengthening interpersonal interactions and reducing or avoiding conflict. Students will analyze verbal and nonverbal communication skills which can help maintain healthy personal relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Apply effective verbal and nonverbal communication skills to enhance health."},
+            "comment": {
+                "en-us": ["Demonstrate refusal strategies to avoid an unhealthy choice."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice nonviolent strategies to manage or resolve conflicts."},
+            "comment": {
+                "en-us": ["Differentiate between negative (e.g., arguing, fighting) and positive (e.g., compromise, adult help, steer clear, apologize, agree to disagree) behaviors used in conflict situations."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance personal health and the health of others."},
+            "comment": {
+                "en-us": ["Practice what to say when calling 911 or other emergency numbers."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Fifth grade students will identify health-related situations and analyze the importance of seeking assistance before making a decision."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related situations that might require a thoughtful decision."},
+            "comment": {
+                "en-us": ["Explain what to do when approached with an uncomfortable request or situation (e.g., peer pressure to steal or damage property, take cigarettes from a parent)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze when assistance is needed in making a health-related decision."},
+            "comment": {
+                "en-us": ["Analyze your options when being pressured by peers to participate in dangerous activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List healthy options to a health-related issue or problem."},
+            "comment": {
+                "en-us": ["Identify options for improving the health of one\u201fs environment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict the potential outcomes of each option when making a health-related decision."},
+            "comment": {
+                "en-us": ["Predict the positive outcomes of a regular exercise plan and healthy nutrition."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Choose a healthy option when making a decision."},
+            "comment": {
+                "en-us": ["Commit to choosing foods that are healthier options at a fast food restaurant."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the outcomes of a health-related decision."},
+            "comment": {
+                "en-us": ["Describe the long-term benefits of avoiding peer pressure to engage in unhealthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Fifth grade students will set personal health goals, track progress of the goals, and identify resources to assist them in achieving the goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Set a personal health goal and track progress toward its achievement."},
+            "comment": {
+                "en-us": ["Set a personal health goal related to personal hygiene and use a graph to track progress (e.g., deodorant use, washing with soap, hair care, and dental practices)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify and utilize resources to assist in achieving a personal health goal."},
+            "comment": {
+                "en-us": ["Identify resources in the community that offer classes or opportunities for participation that may assist with achieving personal health goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Fifth grade students will perform healthy behaviors and avoid and/or reduce risky behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice responsible personal health choices."},
+            "comment": {
+                "en-us": ["Keep a log of daily fluid intake to ensure proper hydration."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a variety of healthy practices and behaviors to preserve or enhance personal health."},
+            "comment": {
+                "en-us": ["Create and execute a plan to manage academic, extracurricular, and family responsibilities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of behaviors that prevent or decrease health risks."},
+            "comment": {
+                "en-us": ["Analyze strategies for maintaining and improving personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Fifth grade students will express opinions on health issues and encourage others to adopt health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Review accurate information and develop an opinion about a health issue."},
+            "comment": {
+                "en-us": ["Research the short and long term consequences of alcohol use."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Illustrate how to assist others to make positive health choices."},
+            "comment": {
+                "en-us": ["Design a bumper sticker encouraging physical activity (e.g., Got Exercise?)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 6"},
+            "comment": {
+                "en-us": ["Students in sixth grade generate and choose positive alternatives to risky behaviors. They use skills to resist peer pressure and manage stress and anxiety. Students are able to relate health choices (e.g., nutritional, physical activity) to alertness, feelings, and performance at school or during physical activity. Students exhibit a healthy lifestyle, interpret health information, and promote good health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Sixth grade students will identify actions and behaviors to prevent injuries, diseases, and disorders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare how healthy behaviors and risk practices impact personal health."},
+            "comment": {
+                "en-us": ["Analyze the relationship between stress and personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the interrelationships of emotional and social health in adolescence."},
+            "comment": {
+                "en-us": ["Identify positive relationships in a student\u201fs life."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine how one's surroundings impact health and wellness."},
+            "comment": {
+                "en-us": ["Identify healthy and unhealthy relationships and their effect on health and wellness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how family culture and beliefs can impact personal health."},
+            "comment": {
+                "en-us": ["Describe family practices and beliefs that benefit personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Practice ways to reduce or prevent injuries."},
+            "comment": {
+                "en-us": ["Demonstrate examples of several stretching techniques."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how health care can promote health."},
+            "comment": {
+                "en-us": ["Describe the benefits of regular dental visits on oral health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of practicing healthy behaviors."},
+            "comment": {
+                "en-us": ["Describe the benefits of only using household products for their intended purpose."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the consequences of engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Research and describe the long-term health effects of tobacco use."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Sixth grade students will compare how the family, peers, culture, and media influence personal and family health. Students will review how laws, rules, and regulations influence health promotion and risk reduction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how family practices influence the health of adolescents."},
+            "comment": {
+                "en-us": ["Discuss how often students eat at fast food establishments on a weekly basis."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the influence of culture on health beliefs and practices."},
+            "comment": {
+                "en-us": ["Research health beliefs and practices I different countries and time periods."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how peers influence healthy behaviors."},
+            "comment": {
+                "en-us": ["Give a description of an activity other peers are involved in that could increase personal physical activity levels."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how the community can affect personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Identify service activities being offered in the community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Illustrate how media messages influence health behaviors."},
+            "comment": {
+                "en-us": ["Examine print media advertisements for fast food restaurants and interpret hidden messages."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the influence of technology on family health."},
+            "comment": {
+                "en-us": ["List kinds of technology found in the home."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify norms that influence health behaviors."},
+            "comment": {
+                "en-us": ["Identify examples of norms that impact healthy behaviors (e.g., using safety belts, eating heart healthy foods, drinking an adequate amount of water each day)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List the influence of personal values on health practices."},
+            "comment": {
+                "en-us": ["Describe a personal value in a home that can impact personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how some health choices influence unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Identify the health risks associated with eating an excessive amount of calories."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how school policies can influence health promotion."},
+            "comment": {
+                "en-us": ["Research and discuss how many minutes per week different age groups of students should spend in a physical education class or engaged in physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Sixth grade students will identify and access valid health resources and services that promote healthy living within the school and community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine validity of health information, products, and services."},
+            "comment": {
+                "en-us": ["Research and analyze the validity of a variety of sources for health information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Locate valid information from home, school, and community."},
+            "comment": {
+                "en-us": ["Research the benefits of several different healthy eating plans."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the accessibility of products that enhance health."},
+            "comment": {
+                "en-us": ["Discuss the various products that enhance health that can be found at a local drug store."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the situations that may require professional health services."},
+            "comment": {
+                "en-us": ["List and discuss the services offered in your local community which influence healthy lifestyles (e.g. importance of yearly check-ups at the dentist, doctor\u201fs office, health department, etc.)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Locate valid and reliable health products and services."},
+            "comment": {
+                "en-us": ["Research and summarize several effective methods to change an unhealthy behavior."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Sixth grade students will use verbal and nonverbal communication skills to develop and maintain healthy personal relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Recognize effective verbal and nonverbal communication skills to enhance health."},
+            "comment": {
+                "en-us": ["Identify effective verbal communication strategies for making healthy choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify refusal and negotiation skills that avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["List peer pressure refusal skills (e.g., better idea, say no)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine effective conflict management or resolution strategies."},
+            "comment": {
+                "en-us": ["Demonstrate negotiation skills to avoid conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Sixth grade students will evaluate if a behavior is healthy or not and recognize unhealthy behaviors as posing a danger to well-being."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List some reasons that one may use to make an unhealthy choice."},
+            "comment": {
+                "en-us": ["List reasons one may choose to be sedentary."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Decide whether a health-related situation may require a carefully considered decision-making process."},
+            "comment": {
+                "en-us": ["Determine when it is necessary to ask for assistance when making a health choice."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Distinguish whether decisions should be made by the individual or if help should be sought."},
+            "comment": {
+                "en-us": ["Determine when to seek help if faced with peer pressure from a friend."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Choose between healthy and unhealthy alternatives to health-related problems."},
+            "comment": {
+                "en-us": ["Role-play healthy ways to express anger and frustration."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Study the potential short-term impact of each alternative on self and others."},
+            "comment": {
+                "en-us": ["List the consequences of skipping meals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Decide which alternatives are healthy when making a decision."},
+            "comment": {
+                "en-us": ["Identify healthy exercise choices when planning a physical activity program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict the outcomes of a health-related decision."},
+            "comment": {
+                "en-us": ["Analyze the benefits of avoiding risky health behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Sixth grade students will understand and use the specific steps that are necessary to set and achieve both short-term and long-term health goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Assess personal health practices and decide whether or not they are healthy."},
+            "comment": {
+                "en-us": ["Examine current snacking habits and assess whether they are healthy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Choose a goal to adopt a personal health practice."},
+            "comment": {
+                "en-us": ["Set goals to allow time for physical activity and quality academic study."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop a plan to achieve a personal health practice."},
+            "comment": {
+                "en-us": ["Identify personal behaviors that could lead to injury and create a plan to address them."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how personal health goals can vary with changing priorities."},
+            "comment": {
+                "en-us": ["Describe the benefits of participation in extracurricular activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Sixth grade students will practice health-enhancing behaviors that contribute to a positive quality of life. By accepting responsibility for personal health, students will build a foundation for living a healthy and productive life."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of being responsible for health behaviors."},
+            "comment": {
+                "en-us": ["State how present health behaviors impact one\u201fs future health (proper nutritional guidelines, physical activity, dental care, proper medical check-ups)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy behaviors that will maintain or improve the health of self and others."},
+            "comment": {
+                "en-us": ["Show behaviors that increase the likelihood of being a non-smoker (e.g., being physically active, utilizing refusal skills)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe practices to avoid or reduce health risks to self and others."},
+            "comment": {
+                "en-us": ["Discuss practices that reduce the possibility of misusing a prescription or over \u2013the-counter (OTC) medication (e.g., follow directions for appropriate use for condition, dosage, and other medications not to be used in combination with the medication)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["The students will demonstrate the ability to advocate for personal, family, and community health. Sixth grade students will apply advocacy skills that encourage others to adopt health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "State a health position and support it with accurate information."},
+            "comment": {
+                "en-us": ["Design a sun safety poster after interviewing a health care provider and getting proper techniques to protect the skin from the sun."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to support others in positive choices regarding their health."},
+            "comment": {
+                "en-us": ["Practice social skills such as listening, taking turns, using names, and making eye contact while communicating to help others to make healthy lifestyle choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Plan with others to advocate for healthy lifestyles or choices."},
+            "comment": {
+                "en-us": ["Plan with others to make signs promoting safety to place in an elementary school."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify the methods in which health messages can be altered to appeal to different age groups."},
+            "comment": {
+                "en-us": ["Analyze the lyrics of a popular song to identify underlying health messages."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 7"},
+            "comment": {
+                "en-us": ["Students in seventh grade have an understanding of the origins and causes of diseases, including the relationship between family history and certain health risks. They begin to relate short- and long-term consequences of health choices and apply health skills to specific personal, family, and community health concerns. Students can discern relationships among all components of health and wellness and knowledgeably use consumer information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Seventh grade students will describe patterns of healthy behaviors to prevent or reduce their risk of injury and /or illness throughout their lifespan."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine how healthy behaviors influence personal health."},
+            "comment": {
+                "en-us": ["Examine how nutritional choices can positively or negatively affect one\u201fs immediate and long term health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Summarize the interrelationship of emotional, social, and physical health in adolescence."},
+            "comment": {
+                "en-us": ["Determine how a peer group can affect multiple dimensions of health (e.g., food choices, participation in unhealthy activities)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the environment can impact personal health."},
+            "comment": {
+                "en-us": ["Identify environmental conditions (e.g., physical, social, community) that are potentially harmful to personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Cite how family history can impact personal health."},
+            "comment": {
+                "en-us": ["Cite hereditary diseases prevalent among various ethnic groups that can impact personal health and wellness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain ways to reduce or prevent health risks among adolescents."},
+            "comment": {
+                "en-us": ["Determine the health risks associated with body piercing or tattooing."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how immediate health care can promote individual health."},
+            "comment": {
+                "en-us": ["Describe the importance of seeking health care when experiencing a health issue."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the barriers to practicing healthy behaviors."},
+            "comment": {
+                "en-us": ["Determine the barriers to good nutrition."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict the risk of injury or illness if engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Give examples of possible dangers associated with the use of alcohol and other drug use."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Seventh grade students will compare how the family, peers, and culture influence personal and family health. Students will examine how the media influence thoughts, feelings, and health behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how family values and behaviors influence the health of adolescents."},
+            "comment": {
+                "en-us": ["Describe the importance of exercise for your family and provide examples of ways your family is physically active."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss the influence of culture on health behaviors."},
+            "comment": {
+                "en-us": ["Discuss how peer interaction is influenced by the current culture."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how peers influence unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Describe techniques used to influence peers to participate in unhealthy behaviors (i.e., smoking)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how the school can affect personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Identify the types of healthy food and drink choices that could be included in a school vending machine."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine how information from the media influences health behaviors."},
+            "comment": {
+                "en-us": ["Describe how the media sends mixed messages about nutrition."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Interpret the influence of technology on personal health."},
+            "comment": {
+                "en-us": ["Identify how technology can be used to improve personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Indicate how the perceptions of norms influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Indicate how personal eating habits are influenced by societal norms."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of personal beliefs on health practices and behaviors."},
+            "comment": {
+                "en-us": ["Identify how an individual\u201fs personal beliefs are expressed through personal health decisions."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Discuss how some risky choices can influence the likelihood of unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Discuss how using tobacco can increase the risk of using other drugs."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how public health policies can influence disease prevention."},
+            "comment": {
+                "en-us": ["Identify the immunization policy for children entering school."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Seventh grade students will differentiate services that promote healthy living within the school and community from unreliable sources of health services."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the validity of health information, products, and services."},
+            "comment": {
+                "en-us": ["Distinguish between facts and myths concerning teenage abuse of marijuana."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Access valid health information from home, school, and community."},
+            "comment": {
+                "en-us": ["Analyze places where youths and families can be physically active."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the accessibility of products that enhance health."},
+            "comment": {
+                "en-us": ["Discuss the importance of consulting a parent before purchasing a product to enhance health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describes situations that may require professional health services."},
+            "comment": {
+                "en-us": ["List resources that you should consult if you have a family member who is abusing alcohol."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Locate valid health information from school and community."},
+            "comment": {
+                "en-us": ["Discuss the role of the school counselor, school psychologist, school clinic/nurse, and local service within the community in helping students with mental health issues."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Seventh grade students will demonstrate verbal and nonverbal communication skills to improve or maintain healthy relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Apply effective verbal and nonverbal communication skills to enhance health."},
+            "comment": {
+                "en-us": ["Discuss ways to be respectful of people from different backgrounds, religions, and cultures."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Model refusal and negotiation skills that avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Participate in a role play to show how to deal in a non-violent manner with bullying."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective conflict management or resolution strategies."},
+            "comment": {
+                "en-us": ["Participate in a role play to demonstrate how to deal with an argument between two friends."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance the health of self and others."},
+            "comment": {
+                "en-us": ["Model how to ask for help when being cyberbullied."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Seventh grade students will list the steps of the decision-making process which enables them to collaborate with others to improve the quality of their lives. Students will distinguish between healthy and unhealthy behaviors and rationalize their choices to their peers."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe situations that can help or hinder making a healthy decision."},
+            "comment": {
+                "en-us": ["List factors that contribute to teens choosing to use illegal drugs."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine whether a health-related situation requires the application of a thoughtful decision-making process."},
+            "comment": {
+                "en-us": ["Demonstrate the ability to assess one\u201fs personal strengths, needs, and health risks before making a health choice."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine when individual or collaborative decision making is appropriate."},
+            "comment": {
+                "en-us": ["Decide whom to contact for support when confronted with peer pressure for engaging in unhealthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between healthy and unhealthy alternatives to health-related issues or problems."},
+            "comment": {
+                "en-us": ["Describe the correlation between self esteem and alcohol and drug use."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Relate the potential short-term impact of each alternative on self and others."},
+            "comment": {
+                "en-us": ["List the effects of consuming energy drinks."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Select healthy alternatives over unhealthy alternatives when making a decision."},
+            "comment": {
+                "en-us": ["Choose ways to limit sun exposure when engaging in outdoor activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the outcomes of a health-related decision."},
+            "comment": {
+                "en-us": ["Explain the benefits of proper hydration during physical activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Seventh grade students will apply the critical steps that should be used to achieve both short-term and long-term health goals. Students will demonstrate an understanding that circumstances may dictate a change in future health goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the effectiveness of personal health practices."},
+            "comment": {
+                "en-us": ["Examine the effectiveness of your current communication practices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Select a goal to improve a personal health practice."},
+            "comment": {
+                "en-us": ["Identify negative stressors and create a plan to reduce the factors that trigger them."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the skills necessary to achieve a personal health goal."},
+            "comment": {
+                "en-us": ["Exhibit personal behaviors that promote emotional health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Relate how personal health goals can vary with differing abilities and priorities."},
+            "comment": {
+                "en-us": ["Identify the processes by which one chooses safer behaviors based on abilities and current life priorities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risk."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Seventh grade students will identify how diseases and injuries can be prevented by reducing harmful and at risk behaviors. Students will demonstrate how to reduce harmful and at risk behaviors to enhance their health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of assuming responsibility for personal health behaviors."},
+            "comment": {
+                "en-us": ["Identify the qualities needed to work cooperatively with others and accept individual differences."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Give personal examples of healthy behaviors that will maintain or improve the health of self and others."},
+            "comment": {
+                "en-us": ["Describe factors that influence the selection of friends and determine which factors are positive for keeping friends."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate behaviors to avoid or reduce health risks to self and others."},
+            "comment": {
+                "en-us": ["Practice healthy behaviors such as good nutrition, regular exercise, and proper rest by keeping a log for regular analysis."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Seventh grade students will develop a wide variety of advocacy skills such as persuasiveness, collaboration, and communication techniques. Advocacy skills will help students promote healthy norms and behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Select a health-enhancing position and support it with accurate information."},
+            "comment": {
+                "en-us": ["Bring in a current event supporting a chosen health enhancing position/policy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to influence and support others to make positive health choices."},
+            "comment": {
+                "en-us": ["Create an advertising campaign to promote an after school intramural program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Work with others to advocate for healthy individuals and families."},
+            "comment": {
+                "en-us": ["Interview various people, identifying the different successful ways that they handle stress, and share findings with the class."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the ways that health messages can be altered to reach different audiences."},
+            "comment": {
+                "en-us": ["Create a poster for the cafeteria encouraging students to make healthy eating choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health / Grade 8"},
+            "comment": {
+                "en-us": ["Students in eighth grade integrate a variety of health concepts, skills, and behaviors to plan for their personal health goals. These include prevention of disease and chemical addiction for the promotion of a healthy lifestyle. Students demonstrate confidence in their knowledge and skills. They see themselves as having a role in creating a healthy lifestyle for themselves as individuals, for their families, and for the larger community. These students will engage in promoting health in their community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. Eighth grade students will describe patterns of healthy behaviors to prevent or reduce the risk of injury and/or illness throughout their lifespan. Students will examine the interrelationships of emotional, physical, social, and intellectual health and how each aspect of health can be impacted by their surroundings."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between healthy behaviors and personal health."},
+            "comment": {
+                "en-us": ["Identify how low self esteem affects multiple dimensions of health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the interrelationships of emotional, intellectual, physical, and social health in adolescence."},
+            "comment": {
+                "en-us": ["Determine how societal influences can affect physical health (i.e., food choices, participation in unhealthy activities, etc.) and describe their impact on emotional and social health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the environment affects personal health."},
+            "comment": {
+                "en-us": ["Investigate the effects stress has on personal health by researching different high stress-related occupations (e.g., ambulance drivers, high-rise construction workers)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how family history can affect personal health."},
+            "comment": {
+                "en-us": ["Describe how family dietary behaviors can impact health and quality of life."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe ways to reduce or prevent injuries and other adolescent health problems."},
+            "comment": {
+                "en-us": ["Describe ways to reduce asthma-related symptoms."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how appropriate health care can promote personal health."},
+            "comment": {
+                "en-us": ["Investigate programs offered at hospitals/clinics that help promote personal health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the benefits of and barriers to practicing healthy behaviors."},
+            "comment": {
+                "en-us": ["Create a plan for eliminating potential barriers to exercise."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the likelihood of injury or illness if engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Illustrate the correlation between alcohol use and poor academic achievement."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the potential seriousness of injury or illness if engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Examine the physical, social, and emotional effects illegal drug use has on an adolescent."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. Eighth grade students will focus on identifying and understanding the diverse internal and external factors that influence health practices and behaviors among youth including personal values, beliefs, and perceived norms. Students will draw conclusions on how the family, peers, culture, and media influence personal and family health. Eighth graders will review how policies and regulations influence health promotion and risk reduction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine how the family influences the health of adolescents."},
+            "comment": {
+                "en-us": ["Log the meals your family eats for one week and examine the contents of the meals for nutritional value."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of culture on health beliefs, practices, and behaviors."},
+            "comment": {
+                "en-us": ["Describe how the community determines the sale of alcohol (e.g., when it can be sold, how many stores can be built)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how peers influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Describe how peers influence your consumer choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the school and community can affect personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Analyze the requirements for students to participate in physical education classes and the effects on student health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how messages from media influence health behaviors."},
+            "comment": {
+                "en-us": ["Interpret underlying messages used in health-related advertisements."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of technology on personal and family health."},
+            "comment": {
+                "en-us": ["Determine how new types of technological equipment can contribute to the early detection of diseases."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how the perceptions of norms influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Give examples of adolescent perceived norms which can result in healthy and/or unhealthy behaviors (e.g., teenagers consuming alcohol because they think it is expected)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the influence of personal values and beliefs on individual health practices and behaviors."},
+            "comment": {
+                "en-us": ["Explain how beliefs regarding alcohol consumption can influence interactions with your peers."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how some health risk behaviors can influence the likelihood of engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Describe how alcohol use can lead to poor decision-making."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how school and public health policies can influence health promotion and disease prevention."},
+            "comment": {
+                "en-us": ["Identify the healthy beverage choices that students make as a result of implementing a school wellness policy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["Students will access valid health information and health-promoting products and services. Eighth grade students will analyze the validity of health information, health promoting products, and services to prevent and detect health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the validity of health information, products, and services."},
+            "comment": {
+                "en-us": ["List and discuss home gym equipment in terms of reliability, effectiveness, and cost, in helping an individual start a physical activity program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Access valid health information from home, school, and community"},
+            "comment": {
+                "en-us": ["Analyze conflict resolution material that can be accessed from school (counselor\u201fs office)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the accessibility of products that enhance health."},
+            "comment": {
+                "en-us": ["Locate restaurants with healthier food options within your community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe situations that may require professional health services."},
+            "comment": {
+                "en-us": ["Examine the risks associated with tobacco/drug use and list professional health services which deal with these issues."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Locate valid and reliable health products and services."},
+            "comment": {
+                "en-us": ["Discuss how to differentiate between a reliable product and/or service and quackery (e.g., performance enhancement drugs)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will use effective communication skills to enhance personal, family, and community health. Eighth grade students will demonstrate verbal and nonverbal skills in the appropriate manner to maintain healthy relationships. Students will distinguish how communication skills are the basis for strengthening interpersonal interactions and reducing or avoiding conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Apply effective verbal and nonverbal communication skills to enhance health."},
+            "comment": {
+                "en-us": ["Practice effective alcohol/drug refusal skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate refusal and negotiation skills that avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Demonstrate refusal skills which could be used when presented with drug use."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective conflict management or resolution strategies."},
+            "comment": {
+                "en-us": ["Analyze media clips of effective and non-effective conflict resolutions as portrayed by the media."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to ask for assistance to enhance the health of self and others."},
+            "comment": {
+                "en-us": ["Role-play how the student being bullied should ask for assistance from school personnel."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. Eighth grade students will model the steps of the decision-making model and analyze the importance of seeking assistance before making a decision."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify health-related situations that might require a thoughtful decision."},
+            "comment": {
+                "en-us": ["Explain what to do when approached with an uncomfortable request or situation (e.g., peer pressure to steal or damage property, a choice to sneak cigarettes from a parent)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze when assistance is needed in making a health-related decision."},
+            "comment": {
+                "en-us": ["Analyze your options when being pressured by peers to commit illegal acts."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "List healthy options to a health-related issue or problem."},
+            "comment": {
+                "en-us": ["Identify options for improving the health of one\u201fs environment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict the potential outcomes of each option when making a health-related decision."},
+            "comment": {
+                "en-us": ["Predict the outcomes of a good time management plan on health and wellness."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Choose a healthy option when making a decision."},
+            "comment": {
+                "en-us": ["Determine which foods would be a healthy choice from a favorite restaurant menu."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the outcomes of a health-related decision."},
+            "comment": {
+                "en-us": ["Describe the consequences of using positive peer pressure to avoid using drugs."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. Eighth grade students will utilize critical skills to achieve both short-term and long-term health goals and continue to aspire to maintain these goals in the future. Students should be prepared to modify goals when faced with changing abilities, priorities, and responsibilities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compile and assess personal health practices."},
+            "comment": {
+                "en-us": ["Identify and avoid dangers to one\u201fs safety in the home, community, and school."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop a goal to adopt, maintain, or improve a personal health practice."},
+            "comment": {
+                "en-us": ["Discuss the importance of having regular physical examinations."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Outline the strategies and skills necessary to attain a personal health goal."},
+            "comment": {
+                "en-us": ["Create a list of ways to resist peer pressure to be disrespectful of others."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe how personal health goals can vary with changing abilities, priorities, and responsibilities."},
+            "comment": {
+                "en-us": ["Demonstrate the ability to set goals to prevent and manage unhealthy relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how early sexual behavior can affect achieving long-term health goals."},
+            "comment": {
+                "en-us": ["Discuss the importance for setting personal boundaries and limits related to sexual behavior."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. Eighth grade students will summarize strategies that improve healthy behaviors and will assist students in developing positive healthy lifestyles to achieve wellness for a lifetime."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the relationship between assuming responsibility for personal health and avoiding risky behaviors."},
+            "comment": {
+                "en-us": ["Explain how personal choices can influence one\u201fs health (e.g., active lifestyle vs. sedentary, good nutritional choices vs. poor diet)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate healthy practices and behaviors that will maintain or improve the health of self and others."},
+            "comment": {
+                "en-us": ["Define the role of a peer leader and practice peer leadership. (e.g., anti-smoking campaign)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Examine the behaviors to avoid or reduce health risks to self and others."},
+            "comment": {
+                "en-us": ["Identify the symptoms of alcoholism and recognize that alcoholism is one of the most common forms of chemical dependency."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to advocate for personal, family, and community health. Eighth grade students will develop important advocacy skills to create persuasive health enhancing messages to encourage others to adopt healthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Debate a health issue and support all sides with accurate information."},
+            "comment": {
+                "en-us": ["Research the causes and methods to prevent sexually transmitted infections (STIs) and create a public service announcement."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Apply strategies that will influence and support others to make positive health choices."},
+            "comment": {
+                "en-us": ["Work as a class to keep an activity journal for a week to identify group norms for healthy physical activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively to advocate for healthy individuals, families, and schools."},
+            "comment": {
+                "en-us": ["Work with a group and plan a skit with someone taking the part of a bully, a victim, and a bystander, and explain how each person felt in each situation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify ways in which health messages and communication techniques can be altered for different audiences."},
+            "comment": {
+                "en-us": ["Choose a public service announcement about a tobacco message and identify how it could be altered to reach a younger audience."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Health Education (9 - 12)"},
+            "comment": {
+                "en-us": ["The new Georgia Performance Standards for Health Education are content standards and provide an outline for curriculum development. They are not a curriculum, nor do they constitute objectives for a curriculum. However, they reflect the most recent concept in health curricula, which is to provide a framework from which curricula can be developed that are appropriate for state and local needs. The new Georgia Performance Standards for Health Education are based on the eight National Health Education Standards, copyright 2007, developed by the Joint Committee on National Health Education Standards which consisted of representatives from the following organizations and agencies: American Association for Health Education, American School Health Association, American Public Health Association, and the Society of State Directors of Health, Physical Education, and Recreation and sponsored by the American Cancer Society.\n\nThe National and Georgia Standards for Health Education are designed to incorporate into a curricula the following six priority adolescent risk behaviors identified by the U.S. Centers for Disease Control and Prevention: Alcohol and other Drug Use, Injury and Violence (including Suicide), Tobacco Use, Poor Nutrition, Inadequate Physical Activity, and Risky Sexual Behavior. The standards also are designed to encompass a wide range of the following common content areas: Community Health, Consumer Health, Environmental Health, Family Life, Mental/Emotional Health, Injury Prevention/Safety, Nutrition, Personal Health, Prevention/Control of Disease, and Substance Use/Abuse. (Table 1 shows the relationship between the National Health Education Standards, Common Health Education Content Areas, and Centers for Disease Control and Prevention Adolescent Risk Behaviors.)\n\nThe standards reflect what a health educated student should know and be able to do at each grade level (K-12). The eight Georgia Performance Standards for Health Education with accompanying elements are provided for each grade level. The elements are provided to further define the knowledge and skills that are expected of students at the end of a lesson or unit of study. Examples are provided for each element and can serve as guidelines for assessing student performance. Rather than defining curriculum, these standards provide guidance for designing appropriate health education curriculum. In addition, the standards demonstrate that health education has meaningful, significant content and measurable outcomes. The standards can and should be used to guide the development of state frameworks (ultimately helping to develop local curriculum) and /or directly guide the design of local curriculum, instruction, and assessment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will comprehend concepts related to health promotion and disease prevention to enhance health."},
+            "comment": {
+                "en-us": ["Students will acquire basic personal health concepts that help maintain healthy behaviors and prevent disease. High school students will demonstrate patterns of healthy behaviors to prevent or reduce the risk of injury and/or illness throughout their lifespan. Students will describe the interrelationships of emotional, physical, social, and intellectual health and how each aspect of health can be impacted by their surroundings. Students will evaluate established health behavior theories and models."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Predict how health behaviors can affect health status."},
+            "comment": {
+                "en-us": ["Research and rank the ten leading causes of unintentional death and their risk factors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the interrelationships of emotional, intellectual, physical, and social health."},
+            "comment": {
+                "en-us": ["Compare and contrast how peer pressure is linked to emotional, intellectual, physical, and social health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how environment and personal health are interrelated."},
+            "comment": {
+                "en-us": ["List possible risks associated with cell phone use or other electronic devices on personal health and safety."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how genetics and family history can affect personal health."},
+            "comment": {
+                "en-us": ["Compile family health information needed for detection and treatment of disease prevention related to hereditary factors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Propose ways to reduce or prevent injuries and health problems."},
+            "comment": {
+                "en-us": ["Critique health risk behaviors associated with drug and alcohol use and how it affects body systems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between access to health care and health status."},
+            "comment": {
+                "en-us": ["Determine the relationship between health insurance coverage and life expectancy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the benefits of and barriers to practicing a variety of healthy behaviors."},
+            "comment": {
+                "en-us": ["Recommend strategies to avoid violence or criminal activity."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze personal susceptibility to injury, illness, or death if engaging in unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Argue the use of seatbelts in public transportation versus private vehicles."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the potential consequences of having unprotected sex on physical, emotional, and social health."},
+            "comment": {
+                "en-us": ["Identify personal health risks of engaging in unprotected sex."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors."},
+            "comment": {
+                "en-us": ["Students will analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors. High school students will analyze a variety of positive and negative influences within society. Students will identify the diverse internal and external factors that influence health practices and behaviors among youth including personal values, beliefs, and perceived norms. Students will analyze how policies and regulations influence health promotion and risk reduction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the family influences the health of individuals."},
+            "comment": {
+                "en-us": ["Describe how family members express their positive and negative feelings."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the culture supports and challenges health beliefs, practices, and behaviors."},
+            "comment": {
+                "en-us": ["Assess how holidays and celebrations can promote unhealthy behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how peers influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Analyze how peers can influence a person\u201fs physical activity level."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how the school and community can affect personal health practices and behaviors."},
+            "comment": {
+                "en-us": ["Discuss how school and community facilities can enhance your health practices and behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effect of media on personal and family health."},
+            "comment": {
+                "en-us": ["Explain the influences of the media on teen body image."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of technology on personal, family, and community health."},
+            "comment": {
+                "en-us": ["Evaluate the effectiveness of movie and video game rating systems regarding teen viewing."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the perceptions of norms influence healthy and unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Discuss peer pressure among teens to wear safety equipment (e.g., \"you don\u201ft need a helmet\")."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of personal values and beliefs on individual health practices and behaviors."},
+            "comment": {
+                "en-us": ["Summarize the effects of choosing unhealthy food choices."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how some health risk behaviors can influence the likelihood of engaging in additional unhealthy behaviors."},
+            "comment": {
+                "en-us": ["Evaluate the notion that tobacco is a gateway drug."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how public health policies and government regulations can influence health promotion and disease prevention."},
+            "comment": {
+                "en-us": ["Debate the laws concerning the use of cell phones while driving a car."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to access valid information and products and services to enhance health."},
+            "comment": {
+                "en-us": ["The students will access valid health information and health-promoting products and services. High school students will critique the validity of health information, health promoting products, and services to prevent and detect health problems. Using critical thinking and analysis skills, high school students will be able to assess the validity of health information and products and services used in the prevention, early detection, and treatment of health problems."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Critique the validity of health information, products, and services"},
+            "comment": {
+                "en-us": ["Discuss the validity of quick weight loss products."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Investigate the accessibility of products and services that enhance health."},
+            "comment": {
+                "en-us": ["Assemble a list of school clubs and youth organizations \u2013 what is offered in a local community that enhances health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Utilize resources from school and community that provide valid health information."},
+            "comment": {
+                "en-us": ["Document from websites the various resources from school and community that provide health information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine when professional health services may be required."},
+            "comment": {
+                "en-us": ["Summarize when it is necessary to seek help for mental and emotional health problems (e.g., mood disorders, depression, anxiety disorders)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["The student will use effective communication skills to enhance personal, family, and community health. High school students will demonstrate effective verbal and nonverbal communication skills to develop and maintain healthy relationships. Students will demonstrate the ability to organize and convey information and feelings as the basis for strengthening interpersonal interactions and reducing or avoiding conflict."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use skills for communicating effectively with family, peers, and others to enhance health."},
+            "comment": {
+                "en-us": ["Discuss how to ask someone effectively and respectfully not to smoke."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate strategies to prevent, manage, or resolve conflicts without harming self or others."},
+            "comment": {
+                "en-us": ["Compare various types of violence and identify warning signs of unhealthy relationships."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Summarize how to ask for and offer assistance to enhance the health of self and others."},
+            "comment": {
+                "en-us": ["Create a \u201ehow to ask\u201f booklet for contacting resources in the community which enhances the health of self and others."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use decision-making skills to enhance health."},
+            "comment": {
+                "en-us": ["Description: Students will use decision-making skills to identify, apply, and maintain health-enhancing behaviors. High school students will apply comprehensive decision-making processes in a variety of situations to enable them to collaborate with others to improve their quality of lives now and in the future."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the barriers to making a positive, healthy decision."},
+            "comment": {
+                "en-us": ["List personal barriers to reducing stress and the impact on one\u201fs health."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply a decision-making process to a health-related situation."},
+            "comment": {
+                "en-us": ["Develop and apply a decision-making process for responding to an emergency situation (e.g., determine order of care in an accident for multiple injuries)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Justify when individual or collaborative decision making is appropriate."},
+            "comment": {
+                "en-us": ["Explain when input from a health professional would be helpful in making decisions related to substance use or abuse."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe alternative choices to health-related issues or problems."},
+            "comment": {
+                "en-us": ["Evaluate positive consequences for seeking help for depression."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the potential short-term and long-term impact of each decision on self and others."},
+            "comment": {
+                "en-us": ["Analyze the consequences of the excessive eating of unhealthy foods."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Justify the health-enhancing choices when making decisions."},
+            "comment": {
+                "en-us": ["Justify the benefits of eating healthy foods and beverages over less healthy foods and beverages."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the effectiveness of health-related decisions."},
+            "comment": {
+                "en-us": ["Compare and contrast the medical decisions made in early historical eras with those of modern medicine."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Justify the reasons for remaining sexually abstinent."},
+            "comment": {
+                "en-us": ["Discuss the reason(s) abstinence is the most effective and healthy means for preventing sexually transmitted infections (STIs)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to use goal-setting skills to enhance health."},
+            "comment": {
+                "en-us": ["Students will use goal-setting skills to identify, apply, and maintain health-enhancing behaviors. High school students will construct short-term and long-term health goals based on personal needs. In addition, they will design, implement, and evaluate critical steps to achieve these goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate personal health and health practices."},
+            "comment": {
+                "en-us": ["Evaluate the pros and cons of various fad diet plans."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Design a personal health plan that addresses personal strengths, needed improvements, and risky behaviors."},
+            "comment": {
+                "en-us": ["Design a personal plan to improve health by quitting or helping others to stop the use of tobacco."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Monitor personal progress in achieving short-term and long-term personal health goals."},
+            "comment": {
+                "en-us": ["Monitor progress toward achieving a healthier diet goal."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Students will demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks. High school students will model health-enhancing behaviors to prevent injuries, diseases, and disorders. Students will practice strategies for reducing harmful and risk taking behaviors now and in the future."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate individual responsibility for improving personal health."},
+            "comment": {
+                "en-us": ["Participate in a variety of personal health assessments to determine strategies for health enhancement and risk reduction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Choose a variety of healthy practices and behaviors that will maintain or improve health."},
+            "comment": {
+                "en-us": ["Use and evaluate safety techniques to avoid and reduce injury (e.g., earthquakes, fire, flood)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Model behaviors to avoid or reduce health risks."},
+            "comment": {
+                "en-us": ["Debate ways to reduce the negative impact on the environment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Students will demonstrate the ability to advocate for personal, family, and community health."},
+            "comment": {
+                "en-us": ["The students will demonstrate the ability to advocate for personal, family, and community health by creating health enhancing messages and encourage others to adopt healthy behaviors. High school students will act as a health resource by communicating valid information about health issues. Students will demonstrate advocacy skills to encourage others to acquire health-enhancing behaviors."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate accurate peer and societal norms to create a health-enhancing message."},
+            "comment": {
+                "en-us": ["Create a poster advocating acceptance for a diversity of body types."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Model how to influence and support others to make positive health choices."},
+            "comment": {
+                "en-us": ["Develop a presentation on how to help others prevent and manage conflict and stress in healthy ways."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Coordinate with others to advocate for improving personal, family, and community health."},
+            "comment": {
+                "en-us": ["Engage others to develop health campaigns which promote care, consideration, and concern for others. (e.g., HIV, cancer, diabetes)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Create health messages and communication techniques to target specific audiences."},
+            "comment": {
+                "en-us": ["Create a skit to demonstrate ways of handling abuse (e.g., sexual harassment, bullying, hazing, fighting, and hate crimes)."]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1340 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "http://frameworks.act.org/uri/69ac0674-d89c-11e9-bdf8-274df4dbdeef",
+        "name": {"en-us": "ACT Holistic Framework - Language Arts and Literacy V2.1"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org//terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Language Arts and Literacy"}
+        },
+        {
+            "competencyLabel": {"en-us": "Language Use"},
+            "competencyText": {"en-us": "Developing knowledge, skills and practices to make effective language choices when comprehending, composing, and interacting with others"}
+        },
+        {
+            "competencyText": {"en-us": "Word, Phrase, & Sentence Level"}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate familiar, literary, general academic, and discipline-specific words and phrases into reading, writing, speaking, and listening."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the meaning of unknown words and phrases by using context clues."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the meaning of unknown words by using knowledge of word parts (e.g., prefixes, and suffixes)."}
+        },
+        {
+            "competencyText": {"en-us": "Make conceptual connections between unfamiliar and known words and phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Use words and phrases precisely, considering both connotative and denotative meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how word and phrase choice affects meaning and impact."}
+        },
+        {
+            "competencyText": {"en-us": "Use and interpret figurative language and literary devices."}
+        },
+        {
+            "competencyText": {"en-us": "Grammar & Usage"}
+        },
+        {
+            "competencyText": {"en-us": "Nouns & Pronouns"}
+        },
+        {
+            "competencyText": {"en-us": "Use frequently occurring nouns."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use regular and irregular plural nouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use collective nouns (e.g., flock, herd)."}
+        },
+        {
+            "competencyText": {"en-us": "Use noncount counts (e.g., sand, water, milk)."}
+        },
+        {
+            "competencyText": {"en-us": "Use concrete and abstract nouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use appositives to rename nouns in sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Use personal pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use possessive pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use indefinite pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use reflexive pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use relative pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use intensive pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate pronoun case (subjective, objective, possessive)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors in pronoun-antecedent agreement."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct shifts in pronoun person and number."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct vague or ambiguous pronouns (i.e., ones with unclear antecedents)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of nouns."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Verbs"}
+        },
+        {
+            "competencyText": {"en-us": "Form and use simple verb tenses (past, present, and future)."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use perfect verb tenses (past, present, and future)."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use continuous verb tenses (pest, present, and future)."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use irregular verbs."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use regular and irregular simple and compound verb tenses (past, present, and future)."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use progressive verb tenses."}
+        },
+        {
+            "competencyText": {"en-us": "Use modal auxiliary verbs (e.g., should, may, must)"}
+        },
+        {
+            "competencyText": {"en-us": "Form and use verbs in active and passive voice."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use different verb moods (indicative, interrogative, conditional, imperative)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors in subject-verb agreement."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct inappropriate shifts in verb tense."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct inappropriate shifts in verb voice and mood."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of verbs."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the difference between transitive and intransitive verbs."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of verbals (gerunds, infinitives, participles)."}
+        },
+        {
+            "competencyText": {"en-us": "Adjectives & Adverbs"}
+        },
+        {
+            "competencyText": {"en-us": "Use frequently occurring adjectives."}
+        },
+        {
+            "competencyText": {"en-us": "Use frequently occurring adverbs."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use comparative and superlative adjectives and adverbs."}
+        },
+        {
+            "competencyText": {"en-us": "Order adjectives or adverbs that modify the same noun or verb, following conventional patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use compound adjectives."}
+        },
+        {
+            "competencyText": {"en-us": "Use relative adverbs (where, when, why) to join sentences or clauses."}
+        },
+        {
+            "competencyText": {"en-us": "Use adverbs to modify adjectives and other adverbs."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of adjectives and adverbs."}
+        },
+        {
+            "competencyText": {"en-us": "Conjunctions"}
+        },
+        {
+            "competencyText": {"en-us": "Use frequently occurring conjunctions."}
+        },
+        {
+            "competencyText": {"en-us": "Use coordinating and subordinating conjunctions appropriately depending on context."}
+        },
+        {
+            "competencyText": {"en-us": "Use correlative conjunctions."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of conjunctions."}
+        },
+        {
+            "competencyText": {"en-us": "Determiners"}
+        },
+        {
+            "competencyText": {"en-us": "Use determiners (definite and indefinite articles, demonstratives)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of determiners."}
+        },
+        {
+            "competencyText": {"en-us": "Prepositions"}
+        },
+        {
+            "competencyText": {"en-us": "Use frequently occurring prepositions."}
+        },
+        {
+            "competencyText": {"en-us": "Form and use prepositional phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of prepositions."}
+        },
+        {
+            "competencyText": {"en-us": "Other Usage Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors involving frequently confused words (e.g., affect/effect, capital/capitol, read/read)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors confusing plurals, contractions, and/or possessives."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors involving use of incorrect parts of speech (e.g., using an adjective instead of an adverb)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize variations from standard English."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize variations in the formality of language."}
+        },
+        {
+            "competencyText": {"en-us": "Mechanics: Punctuation"}
+        },
+        {
+            "competencyText": {"en-us": "Commas"}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma before a coordinating conjunction linking independent clauses in a compound sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma to separate an introductory element from the rest of a sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma to set off the words \"yes\" and \"no.\""}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma to set off a tag question from the rest of the sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma to indicate a direct address."}
+        },
+        {
+            "competencyText": {"en-us": "Use a comma to separate coordinate adjectives."}
+        },
+        {
+            "competencyText": {"en-us": "Use commas in dates."}
+        },
+        {
+            "competencyText": {"en-us": "Use commas in greetings and closings of letters."}
+        },
+        {
+            "competencyText": {"en-us": "Semicolons & Colons"}
+        },
+        {
+            "competencyText": {"en-us": "Use a semicolon to link two or more closely related independent clauses in a compound sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Use a colon to introduce a list or quotation."}
+        },
+        {
+            "competencyText": {"en-us": "Use a colon between independent clauses when the second, explains, illustrates, or elaborates the first."}
+        },
+        {
+            "competencyText": {"en-us": "Apostrophes"}
+        },
+        {
+            "competencyText": {"en-us": "Use an apostrophe to form contractions."}
+        },
+        {
+            "competencyText": {"en-us": "Use an apostrophe to form possessives."}
+        },
+        {
+            "competencyText": {"en-us": "Ellipses, Hyphens, & Dashes"}
+        },
+        {
+            "competencyText": {"en-us": "Use an ellipsis to indicate an omission."}
+        },
+        {
+            "competencyText": {"en-us": "Observe hyphenation conventions."}
+        },
+        {
+            "competencyText": {"en-us": "Observe conventions for en-dash and em-dash."}
+        },
+        {
+            "competencyText": {"en-us": "Other Punctuation Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Use end punctuation (periods, exclamation marks, question marks) for sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation (commas, semicolons, ellipses, dashes) to indicate a pause or break within a sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation (commas, semicolons) to separate items in a series."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation (commas, quotation marks, colons) in dialogue."}
+        },
+        {
+            "competencyText": {"en-us": "Use commas and quotations to mark direct speech and quotations from a text."}
+        },
+        {
+            "competencyText": {"en-us": "Use correct punctuation in addresses."}
+        },
+        {
+            "competencyText": {"en-us": "Use underlining, quotation marks, or italics to indicate titles of works."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation for effect."}
+        },
+        {
+            "competencyText": {"en-us": "Mechanics: Capitalization"}
+        },
+        {
+            "competencyText": {"en-us": "Proper Nouns"}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize names and titles of people when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize cities, countries, nationalities, languages and names or titles of entities such as organizations and brands."}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize dates, days, months, and holidays."}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize regions and geographic features (e.g., \"the Midwest\" and \"the Atlantic Ocean\")."}
+        },
+        {
+            "competencyText": {"en-us": "Other Capitalization Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize the first word in a sentence."}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize the pronoun \u201cI.\u201d"}
+        },
+        {
+            "competencyText": {"en-us": "Capitalize appropriate words in headings and titles of books, plays, movies, and other texts."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct errors in capitalization."}
+        },
+        {
+            "competencyText": {"en-us": "Mechanics: Spelling"}
+        },
+        {
+            "competencyText": {"en-us": "Regular Words"}
+        },
+        {
+            "competencyText": {"en-us": "Spell words phonetically, drawing on knowledge of phonemic awareness and spelling conventions."}
+        },
+        {
+            "competencyText": {"en-us": "Spell words correctly, using knowledge of meaningful word parts."}
+        },
+        {
+            "competencyText": {"en-us": "Spell words correctly by applying knowledge of spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules)."}
+        },
+        {
+            "competencyText": {"en-us": "Irregular Words"}
+        },
+        {
+            "competencyText": {"en-us": "Spell high-frequency irregular words correctly."}
+        },
+        {
+            "competencyText": {"en-us": "Sentence Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Phrases & Clauses"}
+        },
+        {
+            "competencyText": {"en-us": "Construct independent and dependent clauses."}
+        },
+        {
+            "competencyText": {"en-us": "Construct phrases and clauses that use parallel structure."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct inappropriate fragments."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct run-on sentences, including comma splices."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct faulty or weak coordination and subordination of clauses."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and correct illogical placement of phrases and clauses, including misplaced and dangling modifiers."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of phrases in general and their function in specific sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and explain the function of independent and dependent clauses in general and their function in specific sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Sentence Types"}
+        },
+        {
+            "competencyText": {"en-us": "Produce simple declarative, negative, and exclamatory sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Produce simple interrogative sentences, using question words appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Produce compound sentences, using appropriate coordination to link multiple independent clauses."}
+        },
+        {
+            "competencyText": {"en-us": "Produce complex sentences, using appropriate subordination to link one independent clause and one or more dependent clauses."}
+        },
+        {
+            "competencyText": {"en-us": "Produce compound-complex sentences using appropriate coordination and subordination to link two or more independent clauses and at least one dependent clause."}
+        },
+        {
+            "competencyText": {"en-us": "Variety"}
+        },
+        {
+            "competencyText": {"en-us": "Use simple, compound, complex, and compound-complex sentences to express and connect ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of sentence structures, beginnings and lengths."}
+        },
+        {
+            "competencyText": {"en-us": "Use sentences that maintain/enhance coherence and cohesion within a paragraph or longer text."}
+        },
+        {
+            "competencyText": {"en-us": "Combine, expand, or reduce sentences to enhance clarity and style."}
+        },
+        {
+            "competencyText": {"en-us": "Text Level"}
+        },
+        {
+            "competencyText": {"en-us": "Cohesion & Coherence"}
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 Replaced with H.A.LAL.LU.TXL.COH.3, H.A.LAL.LU.TXL.COH.4, & H.A.LAL.LU.TXL.COH.5\nV2.0 Demonstrate knowledge and understanding of techniques for building cohesion."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 Replaced with H.A.LAL.LU.TXL.COH.6, H.A.LAL.LU.TXL.COH.7, & H.A.LAL.LU.TXL.COH.8\nV2.0 Demonstrate knowledge and understanding of logical organization, including sequence of information, introductions and conclusions."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Enhance cohesion through effective use of transition words and phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance cohesion through effective use of repetition, synonyms, and pronouns."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance cohesion through sentence structure (e.g., parallelism, Known-New contract)."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance coherence through the logical ordering of phrases, sentences, and paragraphs."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance coherence through the development of effective introductions and conclusions."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance coherence through the development of effective transitions between paragraphs or sections of text."}
+        },
+        {
+            "competencyText": {"en-us": "Text Structures"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and understanding of text structures, including organizational patterns and methods of development."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how linguistic and structural elements commonly associated with different genre families or types of texts shape meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Style"}
+        },
+        {
+            "competencyText": {"en-us": "Use language that concisely communicates ideas, avoiding redundancy and unnecessary wording."}
+        },
+        {
+            "competencyText": {"en-us": "Determine appropriate language register (i.e., informal, formal, academic) based on rhetorical situation (purpose, audience, and context)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and understanding of the impact of style and voice."}
+        },
+        {
+            "competencyText": {"en-us": "English as a Living Language"}
+        },
+        {
+            "competencyText": {"en-us": "Varieties of English"}
+        },
+        {
+            "competencyText": {"en-us": "Understand and appreciate the natural variations in language across different rhetorical situations, historical periods, and geographical regions in the English-speaking world."}
+        },
+        {
+            "competencyText": {"en-us": "Understand ways in which technology plays a role in language change (e.g., SMS, Twitter, email)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that language use and formatting may vary across disciplines and professions and consult appropriate resources (e.g., MLA Handbook, Chicago Manual of Style)."}
+        },
+        {
+            "competencyText": {"en-us": "Oral Language Foundations"}
+        },
+        {
+            "competencyText": {"en-us": "Listening & Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Speak audibly and clearly."}
+        },
+        {
+            "competencyText": {"en-us": "Pronounce words accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Take turns appropriately when talking to others."}
+        },
+        {
+            "competencyText": {"en-us": "Follow and give simple instructions."}
+        },
+        {
+            "competencyText": {"en-us": "Participate actively in reciting or singing familiar texts."}
+        },
+        {
+            "competencyText": {"en-us": "Notice and ask questions when meaning is unclear."}
+        },
+        {
+            "competencyText": {"en-us": "Reword or restate ideas when asked."}
+        },
+        {
+            "competencyText": {"en-us": "Follow language use conventions appropriate to oral language."}
+        },
+        {
+            "competencyText": {"en-us": "Phonological Awareness"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and isolate syllables and phonemes in words."}
+        },
+        {
+            "competencyText": {"en-us": "Segment sounds (syllables and phonemes) in words."}
+        },
+        {
+            "competencyText": {"en-us": "Blend sounds (syllables and phonemes) in words."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate sounds in words by changing initial or ending phonemes."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and produce sound patterns such as rhyme and alliteration."}
+        },
+        {
+            "competencyText": {"en-us": "Written Language Foundations"}
+        },
+        {
+            "competencyText": {"en-us": "Print Concepts"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of organizational features of print."}
+        },
+        {
+            "competencyText": {"en-us": "Use mouse or interactive features to navigate a digital text."}
+        },
+        {
+            "competencyText": {"en-us": "Show awareness of different types of text, including words used in the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Phonics & Word Recognition"}
+        },
+        {
+            "competencyText": {"en-us": "Decode regular words using letter-sound knowledge, syllable types, and phonics patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Read and spell words with inflectional endings and high frequency prefixes."}
+        },
+        {
+            "competencyText": {"en-us": "Read and spell high frequency irregular words."}
+        },
+        {
+            "competencyText": {"en-us": "Fluency"}
+        },
+        {
+            "competencyText": {"en-us": "Read words quickly and accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Read text at appropriate rate."}
+        },
+        {
+            "competencyText": {"en-us": "Read aloud familiar text with appropriate pacing, intonation and expression."}
+        },
+        {
+            "competencyText": {"en-us": "Monitor comprehension and self-correct errors that impeded understanding."}
+        },
+        {
+            "competencyText": {"en-us": "Conventions & Mechanics"}
+        },
+        {
+            "competencyText": {"en-us": "Use handwriting to produce text fluently and legibly."}
+        },
+        {
+            "competencyText": {"en-us": "Type to produce texts fluently and accurately."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the function of and use simple punctuation."}
+        },
+        {
+            "competencyText": {"en-us": "Behaviors"}
+        },
+        {
+            "competencyText": {"en-us": "Using Reference Materials"}
+        },
+        {
+            "competencyText": {"en-us": "Independently use resources (e.g., dictionaries, handbooks, and style guides) to answer questions about language, including pronunciation, meaning, and usage."}
+        },
+        {
+            "competencyText": {"en-us": "Disposition"}
+        },
+        {
+            "competencyText": {"en-us": "Understand that words and images convey meaning and should make sense."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate awareness of connections between oral, written, and visual language."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that oral and written language often differ in conventional ways."}
+        },
+        {
+            "competencyText": {"en-us": "Develop awareness of, interest in, and metacognition about words and language."}
+        },
+        {
+            "competencyLabel": {"en-us": "Critical Comprehension"},
+            "competencyText": {"en-us": "Developing the knowledge and practices to comprehend and critique a wide range of written, spoken, and multimedia texts"}
+        },
+        {
+            "competencyText": {"en-us": "Comprehension"}
+        },
+        {
+            "competencyText": {"en-us": "Locate Information & Understand Literal Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Scan for and locate key details in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Recall key details from the text."}
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 Replaced with H.A.LAL.CC.CPH.LIU.4 & H.A.LAL.CC.CPH..LIU.6\nV2.0 Describe relationships between or among characters, events, objects, concepts, and/or linguistic or structural elements when the relationships are clearly stated in the text."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe characters, individuals, and groups as presented in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Recount or describe events or setting as presented in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Describe relationships between or among characters, individuals, groups and events when the relationships are clearly stated in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate & Interpret"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the topic or gist of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the theme or central idea of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify subordinate themes or ideas in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish central ideas or themes from subordinate ideas or themes in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 Replaced with H.A.LAL.CC.CPH.INI.18 & H.A.LAL.CC.CPH.INI.20\nV2.0 Describe relationships between or among characters, events, objects, concepts, and/or linguistic or structural elements when the relationships are implied in the text."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Make elaborative (gap-filling) inferences to establish logical connections and draw reasonable generalizations from the text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the text supports an inference."}
+        },
+        {
+            "competencyText": {"en-us": "Determine point of view in narrative texts."}
+        },
+        {
+            "competencyText": {"en-us": "Determine speaker in poetic texts."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the perspective of the author and others in informational texts."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret figurative language in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret information presented in graphical resources (e.g., charts, tables, graphs, diagrams, and illustrations)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase particularly important, dense, or rich language."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize information, ideas, or events from the text."}
+        },
+        {
+            "competencyText": {"en-us": "Apply information or ideas from a text to answer a question or solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Apply information or ideas from a text to a new situation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify text that supports an inference."}
+        },
+        {
+            "competencyText": {"en-us": "Describe relationships between or among characters, individuals, and groups when the relationships are implied in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of linguistic and structural elements to identify and describe key elements in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Describe relationships between or among key elements (e.g., setting, plot, and characters) and concepts when the relationships are implied in the text."}
+        },
+        {
+            "competencyText": {"en-us": "Strategies & Metacognition"}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of strategies (e.g., questioning, annotating, and previewing) to monitor and improve comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Establish and adjust purposes and goals for reading, listening to, and viewing the text."}
+        },
+        {
+            "competencyText": {"en-us": "Oral Reading Fluency"}
+        },
+        {
+            "competencyText": {"en-us": "Pause appropriately, grouping words into meaningful phrases that indicate understanding of content."}
+        },
+        {
+            "competencyText": {"en-us": "Use punctuation cues."}
+        },
+        {
+            "competencyText": {"en-us": "Vary pace according to purpose and audience."}
+        },
+        {
+            "competencyText": {"en-us": "Use effective intonation, stress and expression that indicate comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Adjust pace, volume, and pronunciation to enhance meaning and expression."}
+        },
+        {
+            "competencyText": {"en-us": "Thinking Critically About Texts"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the main rhetorical purpose(s) of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze texts to determine the function of specific linguistic and/or structural elements."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze texts to determine argument elements."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how part(s) of the text function within its overall structure."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how text relates to broad themes about the human experience."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the author's perspective, including bias and stereotyping, influences the text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the author organizes the text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how linguistic and/or structural elements contribute to the meaning or effectiveness of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 moved to SYN and revised (H.A.LAL.CC.TCT.SYN.1, H.A.LAL.CC.TCT.SYN.2)\nV2.0 Reflect on what has been learned."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 moved to SYN (H.A.LAL.CC.TCT.SYN.3)\nV2.0 Reflect on what has been learned."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate"}
+        },
+        {
+            "competencyText": {"en-us": "Formulate opinions about texts."}
+        },
+        {
+            "competencyText": {"en-us": "Establish criteria for evaluating texts."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate texts aesthetically."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate techniques an author uses to accomplish his or her purpose with the text."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the reasoning in arguments."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate evidence used to support arguments."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how well the text has fulfilled a given purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the overall quality or effectiveness of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Deprecated (Revised / replaced by newer KSAO)"},
+            "comment": {
+                "en-us": ["V2.1 moved to SYN (H.A.LAL.CC.TCT.SYN.5)\nV2.0 Reflect on what has been learned."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Synthesize"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how two or more texts address similar themes or topics."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate information and ideas across texts."}
+        },
+        {
+            "competencyText": {"en-us": "Reflect on what has been learned."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of author\u2019s perspective and/or medium in different versions of the same text or event (e.g., print and film, different translators, modern interpretations)."}
+        },
+        {
+            "competencyText": {"en-us": "Critique the text through different critical lenses; compare and evaluate different critical interpretations of a text."}
+        },
+        {
+            "competencyText": {"en-us": "Behaviors"}
+        },
+        {
+            "competencyText": {"en-us": "Range"}
+        },
+        {
+            "competencyText": {"en-us": "Read, listen to, and view a variety of print and nonprint text types."}
+        },
+        {
+            "competencyText": {"en-us": "Read, listen to, and view texts composed by authors from different time periods, cultures, genders, and ethnicities."}
+        },
+        {
+            "competencyText": {"en-us": "Read, listen to, and view texts for a variety of purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Disposition"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate increasing confidence and independence in comprehension activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a positive attitude towards comprehension activities."}
+        },
+        {
+            "competencyText": {"en-us": "Use personal criteria to select texts (e.g., interest, knowledge of authors and genres, difficulty, recommendations of others)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that critical comprehension enhances learning and reflection by encouraging deeper exploration of content and relationships."}
+        },
+        {
+            "competencyLabel": {"en-us": "Creating & Composing"},
+            "competencyText": {"en-us": "Developing the knowledge and practices to create and compose a wide range of written, spoken, and multimedia texts for school and real life purposes"}
+        },
+        {
+            "competencyText": {"en-us": "Composing for Different Purposes"}
+        },
+        {
+            "competencyText": {"en-us": "Convey Experience & Emotions"}
+        },
+        {
+            "competencyText": {"en-us": "Relate experience through point of view of character or other narrator or speaker."}
+        },
+        {
+            "competencyText": {"en-us": "Express feelings and thoughts."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate relevant actions, events, and details."}
+        },
+        {
+            "competencyText": {"en-us": "Develop characters through description, dialogue, and characters' thoughts and actions."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate plot, including a beginning, middle, and end."}
+        },
+        {
+            "competencyText": {"en-us": "Establish cohesion through logical and effective transitions that emphasize the sequence of events and/or development of characters."}
+        },
+        {
+            "competencyText": {"en-us": "Use precise language, which might include sensory details, literary devices, and dialect to describe characters and setting, to enhance effect on reader."}
+        },
+        {
+            "competencyText": {"en-us": "Use different poetic forms that enhance meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Inform & Explain"}
+        },
+        {
+            "competencyText": {"en-us": "Establish a topic and the focus or main idea about that topic."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate information, providing an appropriate level of detail, relevant to the focus or main idea."}
+        },
+        {
+            "competencyText": {"en-us": "Use text format features (e.g., headings, labels, and bullets) to clarify meaning and enhance overall effect."}
+        },
+        {
+            "competencyText": {"en-us": "Develop understanding of the focus or main idea by elaborating on supporting information."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate organizational strategies, which may include conventional text structures, to group related ideas and information."}
+        },
+        {
+            "competencyText": {"en-us": "Establish cohesion through logical and effective transitions that emphasize relationships between and among ideas and information."}
+        },
+        {
+            "competencyText": {"en-us": "Provide sense of closure by summarizing and/or reflecting on key points about the focus or main idea."}
+        },
+        {
+            "competencyText": {"en-us": "Use precise language, which might include discipline-specific vocabulary and technical terms, to clarify meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Persuade & Argue"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze topic or issue that is focus of argument."}
+        },
+        {
+            "competencyText": {"en-us": "Establish a perspective on the topic or issue; focus perspective into a thesis claim or claims."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate counterclaims/arguments and responses, including qualifications to strengthen own thesis claim."}
+        },
+        {
+            "competencyText": {"en-us": "Develop chain of reasoning to support argument and to guide organization."}
+        },
+        {
+            "competencyText": {"en-us": "Provide evidence that supports arguments and counterarguments."}
+        },
+        {
+            "competencyText": {"en-us": "Use conventional text structures or organizational strategies to group related arguments, ideas, and information."}
+        },
+        {
+            "competencyText": {"en-us": "Establish cohesion through logical and effective transitions that emphasize the chain of reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "Provide a sense of closure by reflecting on key points and emphasizing implications or calling reader to action."}
+        },
+        {
+            "competencyText": {"en-us": "Use precise language, which might include rhetorical devices and persuasive techniques, to enhance effect on the reader."}
+        },
+        {
+            "competencyText": {"en-us": "Skills & Strategies"}
+        },
+        {
+            "competencyText": {"en-us": "Process Approach"}
+        },
+        {
+            "competencyText": {"en-us": "Use a process approach to compose texts."}
+        },
+        {
+            "competencyText": {"en-us": "Manage the composition process to meet deadlines; show awareness that projects can require considerable time to complete (e.g., engage in planning and drafting ahead of deadlines)."}
+        },
+        {
+            "competencyText": {"en-us": "Adjust composition processes and use them flexibly based on a given task (e.g., drafting for a long research paper vs. drafting for an on-demand writing test)."}
+        },
+        {
+            "competencyText": {"en-us": "Idea Generation & Analysis"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the rhetorical situation, including purpose, audience, and context, that will guide development of the text."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the focus or topic."}
+        },
+        {
+            "competencyText": {"en-us": "Generate ideas, gather information, and select relevant content."}
+        },
+        {
+            "competencyText": {"en-us": "Development"}
+        },
+        {
+            "competencyText": {"en-us": "Explain and/or elaborate on a topic by providing support (e.g., facts, examples, and reasons)."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain focus on topic by including only relevant material."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate material that strengthens support and avoids redundancy."}
+        },
+        {
+            "competencyText": {"en-us": "Organization"}
+        },
+        {
+            "competencyText": {"en-us": "Organize with a text structure appropriate to the rhetorical situation."}
+        },
+        {
+            "competencyText": {"en-us": "Use cohesive devices appropriate to the rhetorical situation."}
+        },
+        {
+            "competencyText": {"en-us": "Language Use & Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Make language choices to establish and maintain an appropriate style and tone."}
+        },
+        {
+            "competencyText": {"en-us": "Review and revise language to enhance coherence, cohesion, and overall effectiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Proofread and edit drafts to identify and correct issues with grammar, usage, mechanics and sentence structure."}
+        },
+        {
+            "competencyText": {"en-us": "Behaviors"}
+        },
+        {
+            "competencyText": {"en-us": "Range"}
+        },
+        {
+            "competencyText": {"en-us": "Compose texts for a variety of rhetorical situations."}
+        },
+        {
+            "competencyText": {"en-us": "Compose regularly, in a variety of contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Compose a wide variety of written, spoken, and multimedia text types."}
+        },
+        {
+            "competencyText": {"en-us": "Compose texts across a variety of disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Study and analyze mentor texts."}
+        },
+        {
+            "competencyText": {"en-us": "Disposition"}
+        },
+        {
+            "competencyText": {"en-us": "Sustain effort to complete complex composition tasks, seeking assistance as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate increasing confidence and independence in creating and composing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a positive attitude towards composition."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate audience awareness throughout all aspects of the composition process."}
+        },
+        {
+            "competencyText": {"en-us": "Explore concepts of genre, text type, and language use when reading published texts (i.e., apply Analysis skills from Critical Comprehension in order to learn about composition)."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that creating and composing enhances learning and reflection by encouraging deeper exploration of content and relationships."}
+        },
+        {
+            "competencyLabel": {"en-us": "Communicating with Others"},
+            "competencyText": {"en-us": "Developing the knowledge and practices to communicate effectively in a variety of real time, dynamic oral and written contexts"}
+        },
+        {
+            "competencyText": {"en-us": "Presentational"}
+        },
+        {
+            "competencyText": {"en-us": "Presenter"}
+        },
+        {
+            "competencyText": {"en-us": "Prepare for and practice delivery, including rehearsal with multimedia and other presentation aids."}
+        },
+        {
+            "competencyText": {"en-us": "Use notes, outline or other memory aids for reminders of main ideas, key concepts, and organization."}
+        },
+        {
+            "competencyText": {"en-us": "Strategically incorporate multimedia and other presentation aids to enhance understanding."}
+        },
+        {
+            "competencyText": {"en-us": "Use verbal and nonverbal cues to support organizational fluency and emphasize key points."}
+        },
+        {
+            "competencyText": {"en-us": "Engage audience using strategies (e.g., personal anecdotes, humor, and rhetorical questions) appropriate to the rhetorical situation."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain focus on main ideas and key points."}
+        },
+        {
+            "competencyText": {"en-us": "Speak at a natural pace, with clear articulation and appropriate volume."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate confidence, poise, and self-control, maintaining eye contact and appropriate pacing and vocalization."}
+        },
+        {
+            "competencyText": {"en-us": "Monitor audience response and adjust delivery when needed."}
+        },
+        {
+            "competencyText": {"en-us": "Anticipate audience response and address alternative or opposing perspectives when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to questions confidently, answering knowledgeably or offering hypothesized response if appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Audience"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate engagement with presenter."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain focus on main ideas and key points."}
+        },
+        {
+            "competencyText": {"en-us": "Listen and view attentively for cues that signal transitions and key point."}
+        },
+        {
+            "competencyText": {"en-us": "Listen critically to informational and persuasive elements of presentations and flexibly move to other types of listening when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Use a range of comprehension strategies appropriate for listening and viewing presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Ask relevant questions for clarification, understanding, and elaboration at appropriate times."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal"}
+        },
+        {
+            "competencyText": {"en-us": "Conversation"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate attentiveness to the speaker."}
+        },
+        {
+            "competencyText": {"en-us": "Use language cues that reflect uncertainty when hypothesizing, speculating, imagining and exploring ideas rather than stating facts or firmly held opinions (e.g., \u201cwhat if\u2026,\u201d \u201cvery likely\u2026,\u201d \u201cI\u2019m unsure whether\u2026\u201d)."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to questions with appropriate elaboration."}
+        },
+        {
+            "competencyText": {"en-us": "Emphasize understanding by paraphrasing what the speaker said."}
+        },
+        {
+            "competencyText": {"en-us": "Use a range of listening types appropriate for topic and context of conversation."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate new topics."}
+        },
+        {
+            "competencyText": {"en-us": "Ask relevant questions for clarification, understanding, and elaboration at appropriate times."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening comprehension strategies flexibly."}
+        },
+        {
+            "competencyText": {"en-us": "Respond constructively and disagree politely when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Collaboration"}
+        },
+        {
+            "competencyText": {"en-us": "Use group discussion practices (e.g., brainstorming, setting an agenda, and establishing group norms) appropriate to context and goal."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a variety of roles (e.g., critical listener, discussion leader, facilitator)."}
+        },
+        {
+            "competencyText": {"en-us": "Attend to and elaborate on others' comments."}
+        },
+        {
+            "competencyText": {"en-us": "Offer relevant and productive comments, opinions, and questions confidently but without dominating."}
+        },
+        {
+            "competencyText": {"en-us": "Actively encourage peers to participate."}
+        },
+        {
+            "competencyText": {"en-us": "Be prepared and build trust with peers by completing tasks (including learning about topic/task) in a timely matter."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening comprehension strategies flexibly."}
+        },
+        {
+            "competencyText": {"en-us": "Use a range of listening types appropriate for supporting group tasks and goals."}
+        },
+        {
+            "competencyText": {"en-us": "Behaviors"}
+        },
+        {
+            "competencyText": {"en-us": "Disposition"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a positive attitude and increasing confidence towards communicating with diverse audiences in different contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how use of language can enhance community with or emphasize distance from others."}
+        },
+        {
+            "competencyText": {"en-us": "Be aware of personal bias and avoid stereotyping others based on appearance and voice."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate tolerance for different perspectives and ambiguity."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate empathy and respect when communicating with others."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that communicating with others enhances learning and reflection by exploring different perspectives, generating new ideas, and challenging assumptions."}
+        },
+        {
+            "competencyLabel": {"en-us": "Using Sources for Research & Learning"},
+            "competencyText": {"en-us": "Developing skills for engaging in a source-based research process, including development of critical questions and finding, accessing, evaluating, and applying information from a range of print and digital information sources."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions & Planning the Task"}
+        },
+        {
+            "competencyText": {"en-us": "Develop guiding, primary inquiry question(s) on a topic or in response to a text."}
+        },
+        {
+            "competencyText": {"en-us": "Develop supporting, elaborative questions around primary inquiry question(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify information needs around primary and supporting questions."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a plan for answering questions and finding information; approach the problem strategically."}
+        },
+        {
+            "competencyText": {"en-us": "Searching & Gathering"}
+        },
+        {
+            "competencyText": {"en-us": "Search for information from a range of information sources (including print and digital, primary and secondary sources) appropriate for accomplishing a given task; understand differences between types of sources."}
+        },
+        {
+            "competencyText": {"en-us": "Use a range of search techniques and technologies to find relevant information."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and seek out librarians and others who can aid in the search process."}
+        },
+        {
+            "competencyText": {"en-us": "Use a search strategy appropriate to the domain or discipline (e.g., appropriate keywords/search terms for a given domain)."}
+        },
+        {
+            "competencyText": {"en-us": "Refine search strategy to focus results and address gaps around information needs."}
+        },
+        {
+            "competencyText": {"en-us": "Gather sources, record citation information (\u201cmetadata\u201d), and organize using a systemic approach and technology (e.g., reference list or citation management software) to facilitate source evaluation."}
+        },
+        {
+            "competencyText": {"en-us": "Sourcing & Evaluating"}
+        },
+        {
+            "competencyText": {"en-us": "Attend to information about the source (e.g., author, date, publication) to evaluate source relevance, reliability, quality, bias, and credibility before engaging with source content (i.e., engage in \u201csourcing\u201d)."}
+        },
+        {
+            "competencyText": {"en-us": "Consider how the source is viewed by authorities in the field of inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the original context(s) in which the information was produced."}
+        },
+        {
+            "competencyText": {"en-us": "Read source content strategically to evaluate relevance, reliability, quality, bias, and credibility."}
+        },
+        {
+            "competencyText": {"en-us": "Determine author\u2019s purpose, main idea(s), and perspective(s) in a source."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, analyze, and evaluate arguments in sources, including author claims, counterclaims, and evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Make connections between the content of a source and information about the source."}
+        },
+        {
+            "competencyText": {"en-us": "Corroborate information across sources and determine relationships between them; compare perspectives across sources; identify gaps and inconsistencies in information."}
+        },
+        {
+            "competencyText": {"en-us": "Create a map or model of sources, attending to points of agreement and disagreement among sources (e.g., draw a diagram of source relationships)."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate information within and across sources with prior knowledge into an organized, coherent understanding of the topic."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate quality of understanding of multiple sources according to task goals; identify gaps or inconsistencies and engage in further questioning, planning, searching, gathering, sourcing, and evaluating if necessary."}
+        },
+        {
+            "competencyText": {"en-us": "Applying"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the supporting, evidentiary role that source information plays in the learning process and its products (e.g., papers, presentations)."}
+        },
+        {
+            "competencyText": {"en-us": "Use information from multiple sources to answers questions and construct knowledge on the topic: construct arguments, developing and critiquing claims and counterclaims using information drawn from multiple sources as evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Use information from multiple sources to answers questions and construct knowledge on the topic: produce explanations, accurately using information drawn from multiple sources to provide detail and clarity."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate information/evidence from multiple sources into presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Engage in informed discussions, using information from multiple sources to support and critique claims and to explain complex concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that information can be decontextualized and re-contextualized in ways that are strategic and deceptive."}
+        },
+        {
+            "competencyText": {"en-us": "Attribute information to sources accurately to avoid plagiarism; correctly use a citation style appropriate for the topic or discipline."}
+        },
+        {
+            "competencyText": {"en-us": "Understand that information has legal, political, economic, and ethical aspects; seek out and apply best practices for information use."}
+        }
+    ]
+}

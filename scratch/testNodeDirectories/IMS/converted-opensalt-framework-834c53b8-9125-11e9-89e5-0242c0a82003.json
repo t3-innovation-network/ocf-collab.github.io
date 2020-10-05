@@ -1,0 +1,1660 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFDocuments/834c53b8-9125-11e9-89e5-0242c0a82003",
+        "name": {"en-us": "Illinois Learning Standards (ILS) for Social Studies"},
+        "description": {"en-us": "Official Social Studies Academic Standards for the State of Illinois"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFLicenses/c8b514a0-b142-4919-81ba-66354e958170",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Explain how and why perspectives of people have changed over time."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the social construction of self and groups and their impact on the life chances of individuals."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how biological, psychological, and sociocultural factors and their interactions influence individuals\u2019 behavior and mental processes."}
+        },
+        {
+            "competencyText": {"en-us": "Construct different representations to explain the spatial patterns of cultural and environmental characteristics."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between skills, education, jobs, and income."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use other historical sources to infer a plausible maker, date, place of origin, and intended audience for historical sources where information is not easily identified."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of social structure, including culture, institutions, and societies."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the environmental characteristics of places and production of goods influence patterns of world trade."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Classify series of historical events and developments as examples of change and/or continuity."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how people choose to buy goods and services while still maintaining a budget based on income, taxes, savings, and fixed and variable interest rates."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate alternative approaches or solutions to current economic issues in terms of benefits and costs for different groups and society as a whole."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how cultural and economic decisions influence environments and the daily lives of people in both nearby and distant places."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use mapping and graphing to represent and analyze spatial patterns of different environmental and cultural characteristics."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate employment, unemployment, inflation, total production, income and economic growth data and how they affect different groups."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use questions generated about individuals and groups to analyze why they, and the developments they shaped, are seen as historically significant."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Understand a variety of psychological perspectives and apply their concepts and theoretical ideas to the investigation of similarities and differences in behavior and mental processes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain multiple causes and effects of historical events."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Use geographic representations (maps, photographs, satellite images, etc) to explain the relationships between the locations (places and regions) and changes in their environment."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Organize applicable evidence into a coherent argument about the past."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the complexities of human thought and behavior, as well as the factors related to the individual differences among people."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the central historical arguments in secondary works across multiple media."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how changes in supply and demand cause changes in prices and quantities of goods and services, labor, credit, and foreign currencies."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the cultural and environmental characteristics of different places or regions."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify how cultural and environmental characteristics vary among regions of the world."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain why standards of living increase as productivity improves."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of stratification and inequality on groups and the individuals within them."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how humans and their environment affect one another."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the role of innovation and entrepreneurship in a market economy."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how changes in transportation and communication influence the spatial connections among human settlements and affect the spread of ideas and culture."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the roles and relationships between savers, borrowers, interest, time, and the purposes for saving."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of social relationships on the self, groups, and socialization processes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply psychological thinking to personal and societal experiences and issues."}
+        },
+        {
+            "competencyText": {"en-us": "Classify the kinds of historical sources used in secondary interpretation."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how global changes in population distribution patterns affect changes in land use."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the influences of long-term human- induced environmental change on spatial patterns of conflict and cooperation."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how environmental characteristics impact human migration and settlement."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Hypothesize how primary agents of socialization influence the individual."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze connections among events and developments in broader historical contexts."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how people\u2019s perspectives influenced what information is available in the historical sources they created."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how economic decisions affect the well- being of individuals, businesses and society."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how external benefits and costs influence choices."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze multiple factors that influenced the perspectives of people during different historical eras."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply the sociological perspective and a variety of sociological theories."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the connection between credit, credit options, and interest and credit history."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between financial risks and protection, insurance and costs."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain barriers to trade and how those barriers influence trade among nations."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify scientific methodologies utilized in psychological research."}
+        },
+        {
+            "competencyText": {"en-us": "Detect possible limitations in the historical record based on evidence collected from different kinds of historical sources."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the roles of institutions, such as corporations, non-profits, and labor unions in a market economy."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the conclusions made by psychological research, including ethical concerns."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the correlation between investors, investment options (and associated risks), and income/wealth."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Supporting Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain how people and goods move from place to place."}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Determine the value of sources by evaluating their relevance and intended use."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Causation and Argumentation"}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "National and Global Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Global Interconnections: Changing Spatial Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the origins, functions, and structure of government with reference to the U.S. Constitution, Illinois Constitution and other systems of government."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Develop procedures for making decisions in historic and contemporary settings (such as the school, civil society, or local, state or national government)."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the purposes, implementation, and consequences of public policies in historic and contemporary settings."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine whether specific rules and laws (both actual and proposed) resolve the problems they were meant to address."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Apply civic virtues and democratic principles in school and community settings."}
+        },
+        {
+            "competencyText": {"en-us": "Critique deliberative processes used by a wide variety of groups in various settings."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the ideas and principles contained in the founding documents of the United States and other countries, and explain how they influence the social and political system."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain the connection between interests and perspectives, civic virtues, and democratic principles when addressing issues in government and society."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Compare the means by which individuals and groups change societies, promote the common good, and protect rights."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the power and limits of governments, public officials, and bureaucracies at different levels in the United States and other countries."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the origins, purposes, and impact of constitutions, laws, treaties, and international agreements."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the powers and responsibilities of citizens, political parties, interest groups, and the media."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the roles of political, civil and economic organizations in shaping people\u2019s lives."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify roles played by citizens (examples: voters, jurors, taxpayers, military, protesters and office holders)."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Participation and Deliberation: Applying Civic Virtues and Democratic Principals"}
+        },
+        {
+            "competencyText": {"en-us": "Apply a range of deliberative and democratic procedures to make decisions and take action in schools and community contexts."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze how a problem can manifest itself and the challenges and opportunities faced by those trying to address it."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Assess individual and collective capacities to take action to address problems and identify potential outcomes."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Critique the structure and credibility of arguments and explanations (self and others)."}
+        },
+        {
+            "competencyText": {"en-us": "Critiquing Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Present arguments and explanations that would appeal to audiences and venues outside the classroom using a variety of media."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Construct explanations using reasoning, correct sequence, examples and details, while acknowledging their strengths and weaknesses."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Construct arguments using claims and evidence from multiple sources, while acknowledging their strengths and limitations."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Develop claims and counterclaims while pointing out the strengths and limitations of both."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Identify evidence from multiple sources to support claims, noting its limitations."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Appropriately cite all sources utilized."},
+            "comment": {
+                "en-us": ["Less Complex (LC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gather relevant information from credible sources and determine whether they support each other."},
+            "comment": {
+                "en-us": ["More Complex (MC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Determine the credibility of sources based upon their origin, authority and context."},
+            "comment": {
+                "en-us": ["Moderately Complex (MdC)"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Determine sources representing multiple points of view that will assist in organizing a research plan."}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Ask essential and focusing questions that will lead to independent research."}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Supporting Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Create essential questions to help guide inquiry about a topic."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the methods utilized by people and institutions to promote change."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate psychological terminology with reference to psychologists, their experiments, and theories in order to explain the possible causes of and impact on behavior and mental processes."}
+        },
+        {
+            "competencyText": {"en-us": "Apply psychological knowledge to their daily lives."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how local actions can have global consequences, and how global patterns and processes can affect seemingly unrelated local actions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply anthropological concepts and anthropological knowledge to a variety of everyday,real-world situations."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate one\u2019s own cultural assumptions using anthropological concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why anthropologists study culture from a holistic perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how cultures develop and vary in response to their physical and social environment, including local, national,regional, and global patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the elements of culture and explain the factors that shape these elements differently around the world."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the geographic and cultural forces that have resulted in conflict and cooperation."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze multiple and complex causes and effects of events in the past."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the causes and effects of global conflicts and economic crises."}
+        },
+        {
+            "competencyText": {"en-us": "Causation and Argumentation"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between historical sources and the secondary interpretations made from them."}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze key historical events and contributions of individuals through a variety of perspectives, including those of historically underrepresented groups"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of individuals, groups, and institutions in people\u2019s struggle for safety, freedom, equality and justice."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the concept and pursuit of the American Dream."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the factors and historical context that influenced the perspectives of people during different historical eras."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how people and institutions have reacted to environmental, scientific, and technological changes."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze change and continuity within and across historical eras."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how historical developments were shaped by time and place as well as broader historical contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the costs and benefits of insurance, including the influences of an individual\u2019s characteristics and behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate risks and rates of return of diversified investments"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze costs and benefits of different credit and payment options for goods and services, the role of lenders, and interest"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how time, interest rates, and inflation influence savings patterns over a lifetime."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to make informed financial decisions by collecting information, planning, and budgeting."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the costs and benefits of various strategies to increase income."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how globalization trends and policies affect social, political, and economic conditions in different nations."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the role of comparative advantage in global trade of goods and services."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how advances in technology and investment in capital goods and human capital affect economic growth and standards of living."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how government policies are influenced by and impact a variety of stakeholders."}
+        },
+        {
+            "competencyText": {"en-us": "Use data and economic indicators to analyze past and current states of the economy and predict future trends"}
+        },
+        {
+            "competencyText": {"en-us": "The National and Global Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the ways in which competition and government regulation influence what is produced and distributed in a market system."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effectiveness of government policies to improve market outcomes, address inequality, or reduce inefficiencies."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how much competition exists within and among sellers and buyers in specific markets"}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Use marginal benefits and marginal costs to propose a solution to an economic issue for an individual or community."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how scarcity and incentives influence choices to consume or produce for different individuals and groups."}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how competition for scarce natural resources contributes to conflict and cooperation within and among countries."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how globalization impacts the cultural, political, economic, and environmental characteristics of a place or region"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how and why culture shapes worldview."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and explain the characteristics that constitute a particular culture."}
+        },
+        {
+            "competencyText": {"en-us": "Global Interconnections: Changing Spatial Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how short and long term climate variability impacts human migration and settlement patterns, resource use and land uses."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how economic activities and political decisions impact spatial patterns within and among urban, suburban, and rural regions."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how historical events and the diffusion of ideas, technologies, and cultural practices have influenced migration patterns and the distribution of human population."}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how human societies plan for and respond to the consequences of human-made and naturally occurring catastrophes and how these events impact, trade, politics and migration."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how political and economic decisions have influenced cultural and environmental characteristics of various places and regions."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and explain how humans impact and interact with the environment and vice versa"}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Use self-collected or pre-existing data sets to generate spatial patterns at multiple scales that can be used to conduct analysis or to take civic action."}
+        },
+        {
+            "competencyText": {"en-us": "Use maps (created using geospatial and related technologies, if possible), satellite images, and photographs to display and explain the spatial patterns of physical, cultural, political, economic and environmental characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of compromise and deliberation in the legislative process."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate public policies in terms of intended and unintended outcomes and related consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how individuals use and challenge laws to address a variety of public issues"}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the concepts and principles that are inherent to American Constitutional Democracy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how political parties, the media, and public interest groups both influence and reflect social and political interests"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of personal interest and diverse perspectives on the application of civic dispositions,"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the US Constitution established a system of government that has powers, responsibilities, and limits that have changed over time and are still contested while promoting the common good and protecting rights."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of constitutions, laws, and agreements on the maintenance of order, justice, equality and liberty."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the opportunities and limitations of participation in elections, voting, and electoral process."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the rights, roles, powers, and responsibilities of individuals and institutions in the political system."}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Use deliberative processes and apply democratic strategies and procedures to address local, regional, or global concerns and take action in or out of school."}
+        },
+        {
+            "competencyText": {"en-us": "Use interdisciplinary lenses to analyze the causes and effects of and identify solutions to local, regional, or global concerns."}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Articulate explanations and arguments to a targeted audience in diverse settings."}
+        },
+        {
+            "competencyText": {"en-us": "Critiquing Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Construct and evaluate explanations and arguments using multiple sources and relevant, verified information."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Identify evidence that draws information from multiple sources to revise or strengthen claims."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gather and evaluate information from multiple sources while considering the origin, credibility, point of view, authority, structure, context, and corroborative value of the sources."}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Develop new supporting and essential questions through investigations, collaboration, and using diverse sources."}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how supporting questions contribute to an inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Supporting Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Address essential questions that reflect an enduring issue in the field."}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Sociology Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Psychology Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Anthropology Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Participation and Deliberation: Applying Civic Virtues and Democratic Principles"}
+        },
+        {
+            "competencyText": {"en-us": "Grades 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Grades 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Explain probable causes and effects of events and developments in U.S. history"}
+        },
+        {
+            "competencyText": {"en-us": "Causation and Argumentation"}
+        },
+        {
+            "competencyText": {"en-us": "Use information about a historical source-including the maker, date, place of origin, intended audience, and purpose-to judge the extent to which the source is useful for studying a particular topic."}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a chronological sequence of related events to compare developments that happened at the same time."}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Determine the ways in which the government pays for the goods and services it provides."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that interest is the price the borrower pays for using someone else\u2019s money."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Discover how positive incentives (e.g. sale prices and earning money) and negative incentives influence behavior in our nation\u2019s economy and around the world."}
+        },
+        {
+            "competencyText": {"en-us": "National and Global Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze why and how individuals, businesses, and nations around the world specialize and trade."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the environmental characteristics of the United States to other world regions"}
+        },
+        {
+            "competencyText": {"en-us": "Global Interconnections: Changing Spatial Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the effects of specific catastrophic and environmental events as well as technological developments that have impacted our nation and compare to other places."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how humans have utilized natural resources in the United States."}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how the cultural and environmental characteristics of places within the United States change over time."}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how policies are developed to address public problems."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the origins, functions and structure of different systems of government."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the origins and purposes of rules, laws, and key U.S. Constitutional provisions."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the responsibilities and powers of government official at various levels and branches of government and in different times and places"}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Critiquing Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Develop essential questions and explain the importance of the questions to self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Determine sources representing multiple points of view that will assist in answering essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom and school."}
+        },
+        {
+            "competencyText": {"en-us": "Create supporting questions to help answer essential questions in an inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "Gather relevant information and distinguish among fact and opinion to determine credibility of multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a range of local problems and some ways in which people are trying to address these problems."}
+        },
+        {
+            "competencyText": {"en-us": "Develop claims using evidence from multiple sources to answer essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Construct and critique arguments and explanations using reasoning, examples, and details from multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Explain probable causes and effects of events and developments in Illinois history."}
+        },
+        {
+            "competencyText": {"en-us": "Causation and Argumentation"}
+        },
+        {
+            "competencyText": {"en-us": "Using artifacts and primary sources, investigate how individuals contributed to and the founding and development of Illinois."}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Explain connections among historical contexts and why individuals and groups differed in their perspectives during the same historical period."}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that income can be saved, spent on good and services, or used to pay taxes."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how spending choices are influenced by price as well as many other factors (e.g. advertising, peer pressure, options)."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how goods and services are produced using human, natural, and capital resources (e.g. tools and machines)."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how profits reward and influence sellers."}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the current movements of goods, people, jobs, or information to, from, or within Illinois, and explain reasons for the movements."}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the cultural and environmental characteristics of places in Illinois change over time"}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Construct and interpret maps of Illinois and the United States using various media."}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how rules and laws change society and how people change rules and laws in Illinois."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Identify core civic virtues (such as honesty, mutual respect, cooperation, and attentiveness to multiple perspectives) and democratic principles (such as equality, freedom, liberty, and respect for individual rights) that guide our state and nation"}
+        },
+        {
+            "competencyText": {"en-us": "Participation and Deliberation: Applying Civic Virtues and Democratic Processes"}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how a democracy relies on people\u2019s responsible participation, and draw implications for how individuals should participate."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the responsibilities and powers of government officials at the local, state, and national levels."}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Critiquing Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Supporting Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Gather relevant information and distinguish among fact and opinion to determine credibility of multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Create supporting questions to help answer essential questions in an inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "Construct and critique arguments and explanations using reasoning, examples, and details from multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a range of local problems and some ways in which people are trying to address these problems."}
+        },
+        {
+            "competencyText": {"en-us": "Develop essential questions and explain the importance of the questions to self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom and school."}
+        },
+        {
+            "competencyText": {"en-us": "Develop claims using evidence from multiple sources to answer essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine sources representing multiple points of view that will assist in answering essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify artifacts and documents as either primary or secondary sources of historical data from which historical accounts are constructed."}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how significant people, events, and developments have shaped their own community and region."}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "Create and use a chronological sequence of events."}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that when people borrow, they receive something of value now and agree to repay the lender over time."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of banks and other financial institutions in an economy."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Generate examples of the goods and services that governments provide."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the goods and services that people in the local community produce and those that are produced in other communities."}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Show how consumption of products connects people to distant places."}
+        },
+        {
+            "competencyText": {"en-us": "Global Interconnections: Changing Spatial Patterns"}
+        },
+        {
+            "competencyText": {"en-us": "Compare how people modify and adapt to the environment and culture in our community to other places."}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Locate major landforms and bodies of water on a map or other representation."}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how people have tried to improve their communities over time."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Compare procedures for making decisions in the classroom, school and community."}
+        },
+        {
+            "competencyText": {"en-us": "Participation and Deliberation: Applying Civic Virtues and Democratic Processes"}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how groups of people make rules to create responsibilities and protect freedoms."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways in which interactions among families, workplaces, voluntary organizations, and government benefit communities."}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom and school."}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Identify a range of local problems and some ways in which people are trying to address these problems."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Critiquing Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Construct and critique arguments and explanations using reasoning, examples, and details from multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Develop claims using evidence from multiple sources to answer essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gather relevant information and distinguish among fact and opinion to determine credibility of multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Determine sources representing multiple points of view that will assist in answering essential questions."}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Create supporting questions to help answer essential questions in an inquiry."}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Supporting Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Develop essential questions and explain the importance of the questions to self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Explain that money can be saved or spent on goods and services."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how different kinds of historical sources (such as written documents, objects, artistic works, and oral accounts) can be used to study the past."}
+        },
+        {
+            "competencyText": {"en-us": "Historical Sources and Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Compare individuals and groups who have shaped a significant historical change."}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "Summarize changes that have occurred in the local community over time."}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the goods and services that people in the local community produce and those that are produced in other communities."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and Markets"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of money in making exchange easier."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how our choices can affect ourselves and others in positive and negative ways."}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how people in your community use local and distant environments to meet their daily needs"}
+        },
+        {
+            "competencyText": {"en-us": "Human Population: Spatial Patterns and Movements"}
+        },
+        {
+            "competencyText": {"en-us": "Identify some cultural and environmental characteristics of your community and compare to other places."}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Construct and interpret maps and other graphic representations of both familiar and unfamiliar places."}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how communities work to accomplish common tasks, establish responsibilities, and fulfill roles of authority."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Explain what governments are and some of their functions (e.g. making and enforcing laws, protecting citizens, and collecting taxes)."}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a source by distinguishing between fact and opinion."}
+        },
+        {
+            "competencyText": {"en-us": "Explore facts from various sources that can be used to answer the developed questions."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions about arguments and explanations."}
+        },
+        {
+            "competencyText": {"en-us": "Create questions to help guide inquiry about a topic with guidance from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Gather information from one or two sources with guidance and support from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Compare perspectives of people in the past to those of people in the present."}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "Describe individuals and groups who have shaped a significant historical change."}
+        },
+        {
+            "competencyText": {"en-us": "Create a chronological sequence of multiple events."}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how people earn pay or income in exchange for work."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the skills and knowledge required to produce certain goods and services."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and give examples of when choices are made that something else is given up."}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Construct and interpret maps and other representations to navigate a familiar place."}
+        },
+        {
+            "competencyText": {"en-us": "Geographic Representations: Spatial Views of the World"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain how rules function in various settings, inside and outside of the school."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how all people, not just official leaders, play important roles in a community"}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions about arguments and explanations."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how weather, climate, and other environmental characteristics affect people\u2019s lives."}
+        },
+        {
+            "competencyText": {"en-us": "Human-Environment Interaction: Place, Regions, and Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Geography Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the need for and purposes of rules in various settings, inside and outside of the school."}
+        },
+        {
+            "competencyText": {"en-us": "Processes, Rules, and Laws"}
+        },
+        {
+            "competencyText": {"en-us": "Describe roles and responsibilities of people in authority."}
+        },
+        {
+            "competencyText": {"en-us": "Civic and Political Institutions"}
+        },
+        {
+            "competencyText": {"en-us": "Civics Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Conclusions and Taking Informed Action"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Claims and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Gathering and Evaluating Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluating Sources and Using Evidence"}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Create questions to help guide inquiry about a topic with guidance from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Create questions to help guide inquiry about a topic with guidance from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Explore facts from various sources that can be used to answer the developed questions."}
+        },
+        {
+            "competencyText": {"en-us": "Gather information from one or two sources with guidance and support from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a source by distinguishing between fact and opinion."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, consensus building, and voting procedures to decide on and take action in their classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions about arguments and explanations."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a source by distinguishing between fact and opinion."}
+        },
+        {
+            "competencyText": {"en-us": "Gather information from one or two sources with guidance and support from adults and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Explore facts from various sources that can be used to answer the developed questions."}
+        },
+        {
+            "competencyText": {"en-us": "Developing Questions and Planning Inquiries"}
+        },
+        {
+            "competencyText": {"en-us": "Perspectives"}
+        },
+        {
+            "competencyText": {"en-us": "Change, Continuity, and Context"}
+        },
+        {
+            "competencyText": {"en-us": "Economic Decision Making"}
+        },
+        {
+            "competencyText": {"en-us": "Determining Helpful Sources"}
+        },
+        {
+            "competencyText": {"en-us": "Constructing Essential Questions"}
+        },
+        {
+            "competencyText": {"en-us": "History Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Economics and Financial Literacy Standards"}
+        },
+        {
+            "competencyText": {"en-us": "Inquiry Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the significance of our national holidays and the heroism and achievements of the people associated with them."}
+        },
+        {
+            "competencyText": {"en-us": "Compare life in the past with life today."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that choices are made because of scarcity (i.e. because we cannot have everything that we want)."}
+        }
+    ]
+}

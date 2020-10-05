@@ -1,0 +1,1542 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/31b3bcfa-f5c3-11e9-8df2-0242c0a83003",
+        "name": {"en-us": "Montana Arts Content Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFLicenses/9b516ff5-1cd2-41aa-8618-f20eee60b06d",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS"}
+        },
+        {
+            "competencyText": {"en-us": "(c) theatre arts;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(e) dance."}
+        },
+        {
+            "competencyText": {"en-us": "(2) When a district incorporates or integrates arts content into district curriculum or offers an elective course in the arts, the following content standards apply."}
+        },
+        {
+            "competencyText": {"en-us": "(3) At each grade level a student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) generate and conceptualize artistic ideas and work;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) organize and develop artistic ideas and work;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) refine and complete artistic work;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) select, analyze, and interpret artistic work for presentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) develop and refine artistic techniques and work for presentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) convey meaning through the presentation of artistic work;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) perceive and analyze artistic work;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) construct meaningful interpretations of artistic works;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) apply criteria to evaluate artistic work;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) synthesize and relate knowledge and personal experiences to create art; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) relate artistic ideas and works with societal, cultural, and historical context to deepen understanding, including traditional and contemporary artistic ideas and works by American Indians."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR KINDERGARTEN"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explore ideas for media artworks using play and experimentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) explore ideas to form models for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) combine arts and media content to form media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) choose varied art forms and other content in media artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify skills and roles used to create media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) share reactions to the presentation of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) recognize messages in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) identify a variety of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify qualities and possible changes in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) use personal experiences and choices in making media artworks; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) share ideas relating media artworks to everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) engage in creative play with art materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create artworks or designs that represent natural and constructed objects;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) explain the artistic process while making artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) choose art objects for a personal portfolio and display;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) explain the purpose of a portfolio or collection;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain the purpose of an art museum;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify uses of artwork within one's personal environment;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) identify subject matter and details in artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explain reasons for selecting a preferred artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create art that tells a story about a personal experience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify a purpose of an artwork."}
+        },
+        {
+            "competencyText": {"en-us": "(1) The content areas covered by the arts standards include:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) visual arts;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) media arts;"}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify ways in which movement may be used to create or retell a story;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) express original ideas in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify plot details in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) use facial expressions to communicate character and emotions in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify various design elements in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use voice and sound in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe a response to characters in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe a setting in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify design elements in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify similarities between characters and oneself in guided creative drama; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify similarities and differences in stories from multiple cultures."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explore and experience musical concepts;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate a musical idea;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify changes in musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify expressive qualities in musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) rehearse to improve performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music with expression;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) discuss preferences in musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss expressive qualities of music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify preferences in evaluating music;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify emotions when experiencing music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify connections between music, arts, and daily life in a variety of contexts."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) respond in movement to a variety of sounds;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) explore dances with beginning, middle, and end;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use improvised movement to change dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explore different movement qualities;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) coordinate dance movements with other dancers;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify production elements of a dance for and with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify a movement that repeats in a dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) observe movement and describe it;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify criteria to describe movement in dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify an emotion expressed in a dance; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) replicate movement in dances."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR FIRST GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) express ideas for media artworks through traditional and nontraditional media;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) express ideas to form plans and models for media arts productions and products;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify the effects of making changes to the content form or presentation of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) combine art forms and media content to form media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate skills and roles in media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) discuss the presentation of media artworks and identify reactions;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify components and messages in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe the meanings of a variety of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify qualities of media artworks considering audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) use personal experiences, interests, and models in creating media artworks; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) discuss uses of media artworks in everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) engage and collaborate in creative investigation of art materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create artwork that identifies uses of everyday objects;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) use art vocabulary to describe choices while creating art;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explain why objects, artifacts, and artwork are valued differently by different audiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify how artwork should be prepared for a presentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify the roles and responsibilities of people who visit and work in museums;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) select and describe artworks that illustrate daily life comparing different images that represent the same subject;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe characteristics of artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) classify artwork based on reasons for preferences;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify reasons to create art outside of school; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe the reasons that people from different places and times create artwork."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify ways in which gestures and movement may be used to create or retell a story;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) contribute to the development of a sequential plot in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) contribute to the adaptation of the plot in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) use body, face, gesture, and voice to communicate character and emotions in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) experiment with design elements in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use movement and gesture to communicate emotions in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) discuss an emotional response to guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss how setting can influence character actions in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describe design elements in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) describe similarities between characters and oneself in a guided creative drama; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe similarities and differences in stories from multiple cultures."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) create musical ideas for a purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify expressive intent of musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) discuss changes in musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe the purpose of a variety of musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) rehearse to revise musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music for a purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify influences in making musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) identify expressive qualities of music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describe preferences while evaluating music;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) describe emotions when experiencing music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe connections between music, arts, and daily life in a variety of contexts."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) experiment with movement inspired by a variety of sounds;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) improvise a dance with beginning, middle, and end;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) apply changes to movement in dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify movement qualities using simple dance vocabulary;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate a range of movements while coordinating with other dancers;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use production elements in a dance for and with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify a movement that repeats in a dance to make a pattern;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss selected movements from a dance using dance vocabulary;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use criteria to identify and demonstrate movements in dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify the movements in a dance that relate to a familiar experience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate and describe movements in dances."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR SECOND GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) use resources to generate creative ideas for media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) use ideas to create plans and models for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) describe expressive effects in altering, refining, and completing media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) combine a variety of art and media content into unified media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) use experimentation skills and various roles in creating media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) identify and describe the experience of presenting media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe the components and messages in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) define the purposes and meanings of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discuss the effectiveness of and improvements for media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create media artworks and discuss their meaning and purpose; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify how media artworks and ideas relate to everyday life and culture."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) discover multiple approaches and solutions to an art or design problem;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate personal interest in an artwork or design using various materials, tools, and everyday objects;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) discuss choices made in creating artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) categorize artwork based on a theme or concept for an exhibit;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) describe different materials or artistic techniques for preparing artwork for presentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) describe how exhibited art, in a variety of venues, contributes to communities;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe aesthetic characteristics of the natural world and constructed environments based on expressive properties;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe the mood suggested by an artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use art vocabulary to express preferences about artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create artworks about events in home, school, or community life; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) discuss cultural uses of artwork from different times and places."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify ways in which voice and sounds may be used to create or retell a story;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) develop dialogue in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) contribute to the adaptation of dialogue in a creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) alter voice and body to expand and articulate character in creative drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify the basic design elements in creative drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) contribute original ideas or choices to group creative drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe the artistic choices made in creative drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe how setting influences character actions and consequences in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discuss design elements in guided creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) compare character experiences to personal experiences in creative drama; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) compare similarities and differences in stories from multiple cultures through creative drama experiences."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explore rhythmic musical ideas for a purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) discuss the expressive intent of patterns and ideas for music;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) interpret changes in musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify expressive qualities and the purpose of musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) evaluate the expressiveness of musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music with expression and technical accuracy;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain responses to musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain how expressive qualities support intent in music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discuss personal preferences in evaluating musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) discuss emotions when experiencing music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe musical expressions in terms of patterns and connections to daily life."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explore movement inspired by a variety of sources;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create a dance sequence with a beginning, middle, and end;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) make choices to change movement in a dance sequence;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) correlate movement to music;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) coordinate body movements and alignment with other dancers;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) integrate basic production elements to perform a dance sequence for and with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify movements in a dance that develop a pattern;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) identify meaning and intent from the movement in a dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use criteria to describe dance movements from a specific genre;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create and perform a dance that expresses personal meaning; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) discuss dances and the relationship between the types of movement and the dancers."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR THIRD GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) develop ideas for media artworks using a variety of tools, methods, and materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) make plans and models for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate how the use of different elements alters media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) integrate varied art forms and media content into media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) exhibit a variety of skills and roles to create new content in media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) discuss ways to improve media artworks presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) describe how messages are created by components in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss the purposes and meanings of media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify basic criteria to evaluate media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate how media artworks influence popular media; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) explain how media artworks and ideas can influence everyday life."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) apply knowledge of available resources to enhance personal ideas through the art-making process;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create artwork using a variety of artistic processes and materials;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) elaborate on artwork by adding details to enhance meaning;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) research and discuss the possibilities and limitations of physical and digital spaces for exhibiting artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) prepare artworks for presentation;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain how and where different cultures record and illustrate stories and history of life through art;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify processes an artist uses to create artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss the use of media to create subject matter, form, and mood in artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) evaluate artwork based on criteria;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) develop artwork based on observations and details of surroundings; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) compare how responses to art change based on knowledge of the artwork's cultural and historical context."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) experiment with character choices in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) devise original ideas for a creative drama experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) collaborate to revise ideas of creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) determine how movement and voice are incorporated into creative drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) describe design elements in a creative drama experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) rehearse and discuss reflections about a drama experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) discuss artistic choices and how they shape reactions to drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) discuss ways to develop a character for a creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) compare design elements in creative drama;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) discuss personal experiences and knowledge to make connections to community and culture in creative drama; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe how stories are adapted from literature to become drama or theatre works."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) identify the connection between rhythmic and melodic ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify expressive intent of selected musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) explain revisions to musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) discuss how intent is conveyed through expressive qualities;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) evaluate the effectiveness of musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music for a purpose with expression and technical accuracy;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) evaluate responses to musical selections;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe how expressive qualities determine intent in music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identify criteria to evaluate musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) explain emotions experienced when creating, performing, and responding to music;"}
+        },
+        {
+            "competencyText": {"en-us": "(k) discuss patterns and connections between music, arts, and daily life."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) experiment with movement using a variety of sources;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) identify movement patterns and sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) describe differences in movement changes in dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) choose specific movements to express intent in a dance sequence;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) identify technical dance skills that coordinate with other dancers;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) create production elements for a dance performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) discuss a movement pattern that creates a dance sequence;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain how specific movements relate to the main idea of a dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use criteria to identify characteristic movements in dances from a variety of genres;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create movement based on an event or issue; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) explain what the movements of a dance may communicate about culture."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR FOURTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) develop original media artworks using a variety of creative methods;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) discuss, test, and assemble models for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate intentional effect in refining media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate how a variety of forms and content can be mixed and coordinated into media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) apply a variety of skills and knowledge to solve problems while creating media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain results of and improvements for presenting media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain how various forms, methods, and styles influence the message of a media artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain reactions to a variety of media artworks considering their purpose and context;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) apply basic criteria to evaluate and improve media artworks and production processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) examine how media artworks affect meanings, situations, and cultural experiences in popular media; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate how media artworks and ideas relate to everyday life and culture."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) collaborate on multiple approaches to a creative art or design problem and develop a plan from concept to completion for an artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply research to art-making for the purpose of communicating about constructed environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) revise artwork on the basis of insights gained through discussion;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) describe how past, present, and emerging technologies impact the preservation and presentation of artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze considerations for presenting and protecting artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) compare purposes of art museums, art galleries, and other venues with the types of experiences they provide;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) compare components of visual imagery;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze subject matter, form, and use of media in artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) apply criteria to analyze artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create artworks that reflect community cultural traditions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) interpret artworks through observation and information about context."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) design technical elements that support the story and drama experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) develop original ideas for characters and plot in a theatre performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) revise an improvised or scripted theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) make physical and vocal choices to develop a character in a drama experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) discuss the use of technical elements to enhance a drama experience;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform small-group drama and theatre works to an audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) identify artistic choices made through participation in and observation of drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) compare character qualities in drama or theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) propose criteria to evaluate drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) identify the ways drama and theatre work reflect the perspectives of a community or culture; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) discuss cross-cultural approaches to storytelling in drama and theatre works."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) explain the connection between rhythmic, melodic, and harmonic ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) organize musical ideas for an express purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) identify revisions for personal musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify the structure and elements in music selected for performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) evaluate accuracy and expressiveness of musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music with expression, technical accuracy, and interpretation;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain connections to responses, musical structure, and elements;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain how expressive qualities help performers interpret music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use established criteria to evaluate musical works and performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) convey personal emotions using elements of music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) demonstrate understanding of the connection between music and its historical and cultural context."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) use elements of dance to create a series of movements;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) plan a dance sequence with a variety of movement patterns and structures;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) revise and explain choices made in movement changes within dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate shapes and expand the range of movements in a dance sequence;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate technical dance skills that coordinate with other dancers;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) use a variety of production elements to create a formal dance performance space;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) compare movement patterns within a genre or style;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) identify intent of a dance by relating the movements, ideas, and context using dance vocabulary;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discuss and demonstrate the movement characteristics of a dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) explain how the main idea of a dance is similar to or different from personal experience; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe how specific movements of a dance relate to culture and time period."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR FIFTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate original ideas and innovations for media artworks using personal and community experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) develop, present, and test ideas, plans, models, and proposals for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) determine how elements and components can be altered for clear communication and intentional effects in media artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) create media artworks through the integration of multiple contents and forms;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) perform a variety of roles while solving problems to create media art presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) compare results of and improvements for presenting media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) differentiate how message and meaning are created by components in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) compare personal and group interpretations of a variety of media artworks considering their intention and context;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) apply criteria to evaluate media artworks and production processes, considering context and practicing constructive feedback;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate how media artworks affect meanings, situations, and cultural experiences; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) research how media artworks and ideas relate to personal, social, and community life and culture."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) combine diverse concepts and artistic methods to choose an approach and create an artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create artworks that document places or objects of personal significance;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) create artist statements using art vocabulary to describe personal choices in art-making;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) explain the role of a curator;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) discuss responsible and effective use of materials and techniques for preparing, presenting, and preserving artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) cite evidence to explain how an exhibition presents ideas and provides information about a specific concept or topic;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) compare personal interpretations of artwork to others' interpretations;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze use of structure, context, and visual elements to convey ideas and mood in artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) evaluate artworks based on styles, genres, and media;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) apply formal and conceptual knowledge of art and design to make artwork; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) identify how artworks are used to inform or change beliefs, values, or behaviors of an individual or society."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) implement design ideas that support the story in a drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) participate in specific responsibilities required to present a drama or theatre work informally to an audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) evaluate choices to improve an improvised or scripted drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) experiment with physical and vocal choices to create meaning in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the use of technical elements in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) present drama and theatre works informally for an audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain personal reactions to artistic choices made in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain how cultural perspectives influence personal responses to characters in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) implement criteria to evaluate drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) explain how drama and theatre work connects one to a community or culture; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) investigate historical, global, and cultural issues in drama and theatre works."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) improvise rhythmic, melodic, and harmonic ideas for a specific purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) develop musical ideas for an express purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) describe revisions to personal musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) compare the structure and elements of music in works selected for performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) evaluate the accuracy, effectiveness, and expressiveness of musical performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music with expression, technical accuracy, and interpretation that conveys the composer's intent;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) cite evidence that connects musical selections to specific experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) describe how performers interpret expressive intent in music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use established criteria to evaluate the quality of musical works and performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate how a musical experience forms an emotional, physical, and cultural connection; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) compare connections between music and historical and cultural context."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) use elements of dance to create a movement series;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create a dance sequence that communicates an idea;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) revise and explain choices made to refine movement changes in dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) perform dance sequences using a variety of rhythms;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) execute a series of dance sequences using technical dance skills;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) collaborate to adapt dance to performance venues;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) analyze characteristics of diverse dance genres and styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain how movement can communicate meaning and intent in a dance using dance vocabulary;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use criteria to compare characteristic movements in dances from a variety of genres and styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) analyze dances with contrasting themes; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) describe how specific movements or qualities of a dance communicate the ideas and perspectives of culture."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR SIXTH THROUGH EIGHTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for sixth through eighth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) produce ideas, goals, and solutions for original media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze ideas, plans, prototypes, and creative processes for media arts productions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) improve the technical quality of media artworks by selecting expressive and stylistic elements to reflect an understanding of purpose, audience, and place;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) integrate multiple content areas and forms into media artwork productions that convey perspectives, themes, and narratives;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate a range of skills and roles in creating and performing media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze results of and improvements for presenting media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) evaluate the qualities of and relationships between the components and style in media artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) compare and contrast the intent of a variety of media artworks and how they impact understanding of one's own culture and other cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) compare and contrast media artworks and production processes to context and artistic goals;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) analyze how media artworks expand meaning and knowledge, create cultural experiences, and influence local and global events; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) compare how media artworks and ideas relate to various contexts, purposes, and values."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for sixth through eighth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) design project steps and criteria to reach an identified goal and investigate personally relevant content for art-making;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate awareness of issues and ethics of appropriation as they create artworks and design;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) apply criteria to plan revisions for artwork or design;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) compare similarities and differences associated with preserving and presenting two-dimensional, three-dimensional, and digital artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) evaluate methods for preparing and presenting artwork based on criteria;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) explain and cite evidence about how exhibits reflect history and values of a community;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain how a person's aesthetic choices are influenced by culture and environment;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) collaborate to interpret artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) develop criteria to evaluate artwork;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) use art to express ideas and current interests; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) distinguish different ways that artworks represent, establish, reinforce, and reflect group identity."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for sixth through eighth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) develop a character in a drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) demonstrate leadership and collaboration when developing a drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze scripted drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) identify the essential events in a story or script that make up the dramatic structure;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze how technical elements enhance drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform a rehearsed drama or theatre work for an audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) evaluate the artistic choices in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze how cultural perspectives influence the evaluation of drama and theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) evaluate drama and theatre works using supporting evidence;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) research how cultural perspectives, community ideas, and personal beliefs impact a drama or theatre work; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) use different forms of drama and theatre work to examine contemporary, social, cultural, or global issues."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for sixth through eighth grades, when a district incorporates or integrates music into district curriculum or offers an elective course in general music, performance-based classes, music technology, or music theory, are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) generate rhythmic, melodic, and harmonic phrases and harmonic accompaniments;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) select musical ideas for arrangements, songs, and compositions;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) evaluate personal musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) evaluate the structure of contrasting pieces of music selected for performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) rehearse and determine when music is ready to perform;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform music with technical accuracy, expression, and culturally respectful practices to convey the composer's intent;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) compare connections between musical selections for a specific purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) compare how composers and performers interpret expressive qualities of music to create performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) develop criteria to evaluate musical works and performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) evaluate how personal connections inform creation, performance, and response to music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) evaluate connections between music and historical and cultural context."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for sixth through eighth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) create an original dance;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create an original dance that communicates an idea;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) revise movements in dance sequences based on artistic criteria;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) present dance sequences from a variety of genres and styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) execute and coordinate technical dance skills in performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) collaborate with others to design and execute a dance production;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) explain how the elements of dance are used to communicate intent in a variety of genres or styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) explain relationships among the elements of dance that support intent;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) use criteria to determine what makes an effective performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) create a movement sequence of two contrasting ideas; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) analyze how dances from a variety of cultures and time periods reveal ideas and perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "ARTS CONTENT STANDARDS FOR NINTH THROUGH TWELFTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The media arts content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) integrate ideas, develop artistic goals, and problem solve in media arts creation processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply criteria in developing and refining artistic ideas, plans, prototypes, and production processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) enhance and modify media artworks, honing aesthetic quality;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) synthesize various art forms and themes into media artwork productions considering the reaction and interaction of the audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate a progression of skills by fulfilling specific roles in the production of a variety of media arts presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) evaluate impact and implement improvements in presenting media artworks considering personal, local, and social impacts;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) synthesize the qualities and relationships of the components in a variety of media artworks to create intention and persuasion;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze the intent, meanings, and reception of a variety of media artworks, focusing on personal and cultural contexts;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyze critiques of media artworks and production processes;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) demonstrate the use of media artworks to synthesize new meaning and knowledge that reflect and form cultural experiences; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) analyze how media artworks and ideas relate to various contexts, purposes, and values."}
+        },
+        {
+            "competencyText": {"en-us": "(2) The visual arts content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) develop plans for creating art and design works using various materials and methods from traditional and contemporary practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) create art or design projects in response to contemporary issues that demonstrate an awareness of ethical implications of making and distributing creative works;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) complete artworks or designs incorporating relevant criteria as well as personal artistic vision;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) curate artifacts and artworks for presentation and preservation;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) apply appropriate methods or processes to display artwork in a specific place;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze an exhibit or collection's impact on personal awareness of social, cultural, or political beliefs and understandings;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) evaluate the effectiveness of an artwork as perceived by a variety of audiences;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) defend an interpretation of an artwork or collections of artworks;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyze a collection of artwork based on sets of criteria;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) incorporate knowledge of personal, social, cultural, and historical life to create artworks; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) compare uses of art in a variety of personal, societal, cultural, and historical contexts."}
+        },
+        {
+            "competencyText": {"en-us": "(3) The theatre arts content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) examine the roles of character, story, playwright, theatre tradition, and genre in a drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the collaborative relationship of the actor, director, and playwright in creating a drama or theatre work;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) refine design choices to support the story and impact of devised or scripted drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) apply a variety of acting techniques in the rehearsal and performance of drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) apply technical elements to enhance the production of drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) perform a rehearsed scripted drama or theatre work for a specific audience;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) synthesize what is seen, felt, and heard in drama and theatre works to develop criteria for personal artistic choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze how artistic choices are developed from personal experiences in drama and theatre works;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyze a drama or theatre work using personal aesthetics and artistic criteria;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) collaborate on drama or theatre work that examines a critical issue using various perspectives; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) analyze the social, historical, and cultural contexts of drama and theatre works."}
+        },
+        {
+            "competencyText": {"en-us": "(4) The music content standards for ninth through twelfth grades, when a district incorporates or integrates music into district curriculum or offers an elective course in general music, performance-based classes, music technology, or music theory, are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze rhythmic, melodic, and harmonic phrases and harmonic accompaniments for expressive intent;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) assemble and organize sounds or short musical ideas for express purposes;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze and revise the technical and expressive aspects of personal musical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) analyze how the elements of a musical performance relate to style and mood;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) analyze ways a performance conveys the elements of music, style, and mood;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) analyze musical performances to explain how the elements of music are used to convey intent;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) analyze elements of music in selected works for specific responses;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze composers' and performers' expressive intent in interpretations of music;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) develop criteria to analyze the technical and expressive qualities of music and performances;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) analyze how interests, knowledge, and skills relate to intent when creating, performing, and responding to music; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) analyze relationships between music, arts, society, and cultures."}
+        },
+        {
+            "competencyText": {"en-us": "(5) The dance content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) analyze established dance forms to inform their own original dances;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze dance patterns and sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) analyze and evaluate the impact of choices made in revising dance sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) present an expanded repertoire of movement and dance compositions;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) use technical dance skills to perform in a variety of dance genres;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) collaborate with others to produce a dance production that reflects the artistic intent of a dance performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) compare and contrast movement patterns and the elements of dance in a variety of genres and styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(h) analyze and interpret how elements of dance contribute to artistic expression across genres and styles;"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyze the artistic expression of a dance and discuss insights using criteria and genre-specific dance vocabulary;"}
+        },
+        {
+            "competencyText": {"en-us": "(j) perform a dance inspired by a topic of interest; and"}
+        },
+        {
+            "competencyText": {"en-us": "(k) analyze how dances from a variety of cultures and time periods communicate specific purpose and meaning."}
+        }
+    ]
+}

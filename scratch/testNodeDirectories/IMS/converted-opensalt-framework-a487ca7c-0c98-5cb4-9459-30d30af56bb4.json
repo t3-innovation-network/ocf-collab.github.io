@@ -1,0 +1,2107 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/a487ca7c-0c98-5cb4-9459-30d30af56bb4",
+        "name": {"en-us": "Capítulo 113. Conocimiento y destrezas esenciales de Texas para los Estudios sociales"},
+        "description": {"en-us": "Capítulo 113. Conocimiento y destrezas esenciales de Texas para los Estudios sociales"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Subcapítulo A. Primaria"}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, kindergarten, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.11 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En kindergarten, el estudio de uno mismo, del hogar, de la familia y del salón de clases establece la base de lo que define el ser un ciudadano responsable en la sociedad en que se vive. Los estudiantes exploran las herencias estatales y nacionales examinando las celebraciones de los días festivos y las contribuciones de diferentes personajes. Se presenta el concepto de cronología. Los estudiantes comienzan a aplicar conceptos geográficos de lugar y las características físicas y humanas de un lugar. Los estudiantes identifican las necesidades básicas de los seres humanos y cómo las personas satisfacen dichas necesidades. Los estudiantes aprenden el propósito de las reglas y la función que cumple una figura que representa autoridad, tanto en el hogar como en la escuela. Los estudiantes aprenden sobre las costumbres, los símbolos patrios y las celebraciones que representan las creencias y los principios de la nación estadounidense, y que contribuyen a nuestra identidad nacional. Los estudiantes comparan las diferentes tradiciones y costumbres familiares y describen ejemplos del uso de la tecnología, tanto en la escuela como en el hogar. Los estudiantes adquieren información de una variedad de fuentes auditivas y visuales. Los estudiantes practican habilidades para solucionar problemas, para tomar decisiones y para pensar en forma independiente."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de buenas fuentes informativas es crucial. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales y en sociedades encargadas de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender y otras que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes deben demostrar que han aprendido todo el contenido pedagógico que requieren los mandatos federales y estatales. Aunque en el grado de kindergarten no se requiere participar en la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, en sus siglas en inglés TEC, §29.907, en los grados de primaria, los estudiantes van construyendo una plataforma de aprendizaje que los lleva a ser exitosos en el futuro. Como resultado, el conocimiento y las destrezas esenciales de Texas en el grado de kindergarten incluyen estándares relacionados con este cumplimiento patriótico."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende que los días festivos son celebraciones de acontecimientos especiales. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique las razones de por qué existen días festivos para celebrar acontecimientos patrióticos nacionales tales como el Día de los Presidentes, el Día de los Veteranos de Guerra y el Día de la Independencia; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las costumbres relacionadas con los días festivos patrióticos nacionales tales como los desfiles y los fuegos artificiales, durante la celebración de Día de la Independencia."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende la manera en que los personajes históricos, los patriotas y los buenos ciudadanos ayudaron a formar la comunidad, el estado y la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las contribuciones realizadas por los personajes históricos, donde se incluye a Stephen F. Austin, George Washington, Cristóbal Colón y José Antonio Navarro, quienes ayudaron a formar el estado y la nación: e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las contribuciones realizadas por los patriotas y buenos ciudadanos que han formado la comunidad."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende el concepto de cronología. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "ordene los acontecimientos en orden cronológico; y"}
+        },
+        {
+            "competencyText": {"en-us": "use vocabulario relacionado con el concepto de tiempo y cronología, lo que incluye palabras como antes, después, próximo, primero, último, ayer, hoy día y mañana."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende el concepto de lugar. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use términos que incluyen sobre, abajo, cerca, lejos, izquierda y derecha para describir un lugar relativo;"}
+        },
+        {
+            "competencyText": {"en-us": "ubique los lugares que hay en la escuela y describa dónde están ubicados; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los recursos que le ayudan a determinar el lugar, incluyendo mapas y globos terráqueos."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende las características físicas y humanas relacionadas con el concepto de lugar. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las características físicas de lugar tales como accidentes geográficos, masas de agua, recursos naturales y clima; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las características humanas de lugar tales como las maneras de ganarse la vida, el tipo de vivienda, el tipo de vestimenta, la alimentación y las actividades se basan en un lugar geográfico."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende que las necesidades y los deseos humanos básicos se satisfacen de muchas maneras. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las necesidades humanas básicas de alimentación, vestimenta, vivienda;"}
+        },
+        {
+            "competencyText": {"en-us": "explique la diferencia entre necesidades y deseos; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo se satisfacen las necesidades humanas básicas como por ejemplo a través de la autoproducción, la compra y el comercio."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el valor de los trabajos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los trabajos que hay en el hogar, en la escuela y en la comunidad; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique por qué las personas tienen trabajos."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende el propósito de las reglas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el propósito de tener reglas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las reglas que proporcionan orden, protección y seguridad en el hogar y en la escuela."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende el papel que cumplen las personas que representan la autoridad. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las personas que representan la autoridad en el hogar, en la escuela y en la comunidad; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las personas que representan la autoridad cumplen y hacen cumplir las reglas."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende que existen símbolos, costumbres y responsabilidades importantes, que representan las creencias y los principios de los Estados Unidos y contribuyen a nuestra identidad nacional. Se espera que el estudiante"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las banderas de los Estados Unidos y de Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "recite el Juramento a la bandera de los Estados Unidos y el Juramento a la bandera de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el Día de la Constitución como un día de celebración de la libertad de los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "use el sistema de voto como método para tomar decisiones en forma grupal."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las similitudes y diferencias entre las personas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique similitudes y diferencias entre las personas tales como el parentesco, las leyes y la religión; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique similitudes y diferencias entre las personas tales como la música, la vestimenta y la alimentación."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la importancia que tienen las costumbres y las tradiciones familiares. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique la importancia de las costumbres y tradiciones familiares; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las costumbres y tradiciones familiares."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende la manera de usar la tecnología en el hogar y en la escuela y cómo la tecnología afecta la vida de las personas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de tecnología que se usan en el hogar y en la escuela;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología ayuda a llevar a cabo tareas específicas y satisface las necesidades de las personas; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo cambiaría su vida sin la tecnología moderna."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico utilizando una variedad de fuentes auditivas tales como conversaciones, entrevistas y música;"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico utilizando una variedad de fuentes visuales tales como imágenes, símbolos, comunicación electrónica de los diferentes medios, material impreso y artefactos; y"}
+        },
+        {
+            "competencyText": {"en-us": "ordene en secuencia y categorice la información."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral y visual. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en el conocimiento y las experiencias; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete visuales, incluyendo imágenes y mapas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, genere opciones, prediga los resultados, tome acción para implementar una decisión y reflexione sobre la efectividad de la decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, primer grado, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.12 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En primer grado, los estudiantes analizan su relación con el salón de clases, con la escuela y con la comunidad para establecer la base de lo que significa ser un ciudadano responsable en la sociedad. Los estudiantes desarrollan los conceptos de tiempo y cronología para distinguir entre los acontecimientos del pasado, del presente y del futuro. Los estudiantes identifican los himnos y lemas de los Estados Unidos y Texas. Los estudiantes crean mapas simples para identificar la ubicación de los lugares en el salón de clases, en la escuela y en la comunidad. Los estudiantes exploran los conceptos de bienes y servicios y el valor del trabajo. Los estudiantes identifican a los individuos que exhiben características de ser buenos ciudadanos. Los estudiantes describen la importancia de las costumbres y tradiciones familiares e identifican cómo la tecnología ha cambiado la vida familiar. Los estudiantes ordenan en secuencia y categorizan la información. Los estudiantes practican las habilidades para la solución de problemas, la toma de decisiones y el pensamiento crítico."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de buenas fuentes informativas es crucial. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales y en sociedades encargadas de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entiende que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes deben demostrar que han aprendido todo el contenido pedagógico que requieren los mandatos federales y estatales. Aunque en primer grado no se requiere participar en la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, en sus siglas en inglés TEC, §29.907, en los grados de primaria, los estudiantes van construyendo una plataforma de aprendizaje que los lleva a ser exitosos en el futuro. Como resultado, el conocimiento y las destrezas esenciales de Texas en primer grado incluyen estándares relacionados con este cumplimiento patriótico."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende el origen de las costumbres, de los días festivos y las celebraciones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa el origen de las costumbres, días festivos y celebraciones de la comunidad, del estado y de la nación tales como el Día de la Batalla de San Jacinto, el Día de la Independencia, el Día de los Veteranos de Guerra; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare el cumplimiento de días festivos y celebraciones, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende cómo los personajes históricos, los patriotas y los buenos ciudadanos han ayudado a formar la comunidad, el estado y la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las contribuciones de personajes históricos, incluyendo a Sam Houston, George Washington, Abraham Lincoln y Martin Luther King Jr., quienes han influenciado la comunidad, el estado y la nación;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique personajes históricos tales como Alexander Graham Bell, Thomas Edison, Garrett Morgan, Richard Allen y otros individuos que han exhibido características de individualismo (peculiaridad) e inventiva; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las similitudes y diferencias entre las vidas y las actividades de los personajes históricos y de otros individuos que han influenciado la comunidad, el estado y la nación."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los conceptos de tiempo y cronología Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre pasado, presente y futuro;"}
+        },
+        {
+            "competencyText": {"en-us": "describa y mida el tiempo en el calendario, en días, semanas, meses y años; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree un calendario y líneas cronológicas simples."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende la ubicación relativa de lugares. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "ubique lugares usando los cuatro puntos cardinales; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa la ubicación de sí mismo y de objetos relacionados con otros lugares, en el salón de clases y en la escuela."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende el propósito de los mapas y los globos terráqueos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "cree y use mapas simples tales como mapas del hogar, del salón de clases y de la comunidad; y"}
+        },
+        {
+            "competencyText": {"en-us": "ubique la comunidad, Texas y los Estados Unidos en mapas y globos terráqueos."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende varias características físicas y humanas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa las características físicas de lugar, tales como accidentes geográficos, masas de agua, recursos naturales y clima;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de recursos naturales y cómo éstos son utilizados en la comunidad, en el estado y en la nación; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa cómo las características humanas de lugar, tales como la vivienda, la vestimenta, la alimentación y las actividades se basan en un lugar geográfico."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende cómo las familias satisfacen necesidades humanas básicas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo las familias satisfacen sus necesidades humanas básicas; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa las similitudes y las diferencias de cómo las familias satisfacen sus necesidades humanas básicas."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende los conceptos de bienes y servicios. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de bienes y servicios en el hogar, en la escuela y en la comunidad;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las personas intercambian bienes y servicios; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el papel que cumplen los mercados en el intercambio de bienes y servicios."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende la condición de no ser capaz de tener todos los bienes y servicios que uno desea. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de personas que desean más de lo que pueden tener;"}
+        },
+        {
+            "competencyText": {"en-us": "explique por qué desear más de lo que se puede tener requiere que las personas tengan que elegir;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de las opciones a las que optan las familias cuando compran bienes y servicios."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el valor del trabajo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa los componentes de los diferentes trabajos y las características de un trabajo bien hecho; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los trabajos especializados contribuyen a la producción de bienes y servicios."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende el propósito de las reglas y las leyes, Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique el propósito de las reglas y las leyes en el hogar, en la escuela y en la comunidad; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las reglas y las leyes que establecen el orden, proporcionan seguridad y manejan los conflictos."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende la función que cumplen las personas que representan la autoridad, los oficiales públicos y los ciudadanos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las responsabilidades de las personas que representan la autoridad en el hogar, en la escuela y en la comunidad;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa el papel que cumplen los oficiales públicos en la comunidad, en el estado y en la nación; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa el papel que cumple un buen ciudadano para mantener una república constitucional."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende las características que conlleva el concepto de buena ciudadanía, como lo ejemplifican los personajes históricos y otros individuos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique características de lo que significa ser un buen ciudadano, lo que incluye la veracidad, la justica, la igualdad, el respeto por uno mismo y por los demás, la responsabilidad en el diario vivir y la participación en el gobierno, manteniéndose informado sobre los asuntos gubernamentales, respetuosamente siguiendo las disposiciones de los oficiales públicos y votando;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique personajes históricos tales como Benjamin Franklin, Francis Scott Key y Eleanor Roosevelt quienes han sido un ejemplo de buena ciudadanía; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique otros ciudadanos que han sido ejemplo de buena ciudadanía."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende que hay símbolos, costumbres y celebraciones importantes que representan las creencias y los principios estadounidenses, y que contribuyen a nuestra identidad nacional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique los símbolos patrios estatales y nacionales, incluyendo las banderas de los Estados Unidos y de Texas, la Campana de la Libertad, la Estatua de la Libertad y el Álamo."}
+        },
+        {
+            "competencyText": {"en-us": "recite y explique el significado del Juramento a la bandera de los Estados Unidos y el Juramento a la bandera de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los himnos y lemas de Texas y de los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "explique y practique el voto como forma de elección y de toma de decisiones;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las costumbres y celebraciones patrióticas reflejan el individualismo y la libertad estadounidense; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el Día de la Constitución como una celebración de la libertad estadounidense."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la importancia de las creencias, las costumbres el idioma y las tradiciones de las familias y la comunidad. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique la importancia de las diferentes creencias, costumbres, idiomas y tradiciones de las familias y las comunidades; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los cuentos folklóricos y las legendas, tales como las fábulas de Esopo reflejan las creencias, las costumbres y las tradiciones de las comunidades."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende cómo la tecnología ha afectado el diario vivir, en el pasado y en el presente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología cambia las formas de vida de las familias;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología cambia los medios de comunicación, los medios de transporte y la recreación; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología cambia la manera en que la gente trabaja."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico, utilizando una variedad de fuentes auditivas tales como conversaciones, entrevistas y música;"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico, utilizando una variedad de fuentes visuales tales como imágenes, símbolos, comunicación electrónica de los diferentes medios, mapas, literatura y artefactos; y"}
+        },
+        {
+            "competencyText": {"en-us": "ordene en secuencia y categorice la información."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en el conocimiento y las experiencias; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete materiales visuales y escritos."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, genere opciones, prediga los resultados, tome acción para implementar una decisión y reflexione sobre la efectividad de la decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, Segundo grado, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.13 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En segundo grado, los estudiantes estudian su comunidad local, analizando cómo algunos personajes y acontecimientos han impactado la historia de la comunidad, el estado y la nación. Los estudiantes comienzan a desarrollar los conceptos de tiempo y cronología. Se introducen los conceptos de las relaciones entre el ambiente físico y las actividades humanas, como también los conceptos de consumidores y productores. Los estudiantes identifican las funciones de gobierno como también los servicios que proporcionan los gobiernos locales. Los estudiantes continúan adquiriendo conocimiento sobre las costumbres, los símbolos y las celebraciones que representan las creencias y los principios estadounidenses. Los estudiantes identifican la significancia de las obras de arte en la comunidad local, y explican cómo las innovaciones tecnológicas han cambiado el transporte y la comunicación. Los estudiantes comunican lo que han aprendido en forma escrita, oral y visual."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de buenas fuentes informativas, tales como literatura de no ficción, fuentes originales, biografías, folklore, poesía, canciones y obras de arte es crucial. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales, recorriendo el internet, y en sociedades encargadas de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes deben demostrar que han aprendido todo el contenido pedagógico que requieren los mandatos federales y estatales. Aunque en segundo grado no se requiere participar en la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, en sus siglas en inglés TEC, §29.907, en los grados de primaria, los estudiantes van construyendo una plataforma de aprendizaje que los lleva a ser exitosos en el futuro. Como resultado, el conocimiento y las destrezas esenciales de Texas en segundo grado incluyen estándares relacionados con este cumplimiento patriótico."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende la significancia de los lugares, edificios y monumentos históricos y las celebraciones en la comunidad, en el estado y en la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique la significancia de diferentes celebraciones de la comunidad, del estado y de la nación tales como el Día de los Veteranos de Guerra, el Día de los Caídos, el Día de la Independencia y el Día de Acción de Gracias; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique la significancia de varios puntos históricos tales como monumentos y edificios de gobierno."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los conceptos de tiempo y cronología. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa el orden de los acontecimientos utilizando designaciones de periodos de tiempo, tales como tiempos históricos y tiempos presentes;"}
+        },
+        {
+            "competencyText": {"en-us": "aplique el vocabulario relacionado al concepto de cronología, incluyendo pasado, presente y futuro; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete líneas cronológicas de acontecimientos del pasado y del presente."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende que a través de varias fuentes se puede obtener información sobre el pasado y el presente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique varias fuentes de información sobre un periodo o un evento dado, tales como materiales de referencia, biografías, periódicos y fuentes electrónicas; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa varias evidencias del mismo periodo usando fuentes originales, tales como fotografías, diarios e intervalos"}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende cómo los personajes históricos, los patriotas y los buenos ciudadanos han ayudado a formar la comunidad, el estado y la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las contribuciones de personajes históricos, incluyendo a Thurgood Marshall, Irma Rangel, John Hancock y Theodore Roosevelt, quienes han influenciado la comunidad, el estado y la nación;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique personajes históricos tales como Amelia Earhart, W. E. B. DuBois, Robert Fulton y George Washington Carver que han exhibido características de individualismo (peculiaridad) e inventiva; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las personas y los acontecimientos han influenciado la historia de la comunidad local."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante utiliza recursos geográficos simples tales como mapas y globos terráqueos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "interprete la información de mapas y globos terráqueos usando elementos de mapas simples, tales como título, orientación (norte, sur, este, oeste) símbolos/claves de un mapa; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree mapas para mostrar lugares y rutas dentro del hogar, de la escuela y de la comunidad."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende la ubicación y las características de lugares y regiones en la comunidad, en el estado y en la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los accidentes geográficos y las masa de agua más importantes, lo que incluye cada uno de los continentes y cada uno de los océanos, en los mapas y en los globos terráqueos;"}
+        },
+        {
+            "competencyText": {"en-us": "ubique lugares significativos, incluyendo la comunidad local, Texas, la capital del estado, la capital de los Estados Unidos, las ciudades más importantes de Texas, la costa de Texas, Canadá, México y los Estados Unidos en mapas y globos terráqueos; y"}
+        },
+        {
+            "competencyText": {"en-us": "examine la información de varias fuentes sobre lugares y regiones."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo las características físicas de los lugares y regiones afectan las actividades de la gente y los factores, en la distribución de los asentamientos o poblados. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los factores climáticos y los factores de las estaciones del año afectan las actividades y la distribución de los poblados;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los recursos naturales y los peligros naturales afectan las actividades y la distribución de los poblados;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo la gente depende del ambiente físico y de los recursos naturales para satisfacer las necesidades básicas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las características de las diferentes comunidades, incluyendo zonas urbanas, suburbanas y rurales, y cómo estas características afectan las actividades y la distribución de los poblados."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo los seres humanos usan y modifican el ambiente físico. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las personas han modificado el ambiente físico, como por ejemplo la construcción de caminos, la limpieza de la tierra para el desarrollo urbano y la agricultura y la construcción de pozos petroleros;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las consecuencias positivas y negativas de las modificaciones que los seres humanos han hecho al ambiente físico tales como el uso de la irrigación para mejorar los campos de cosechas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las personas pueden conservar y reponer los recursos naturales."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el valor del trabajo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo el trabajo proporciona un salario para comparar bienes y servicios; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique las opciones que tiene la gente que vive en los Estados Unidos, donde hay un sistema de libre empresa, en cuanto a lo que gana, lo que gasta, lo que ahorra y dónde quiere vivir y trabajar."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el papel que cumplen los productores y consumidores en la producción de bienes y servicios. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre la producción y el consumo;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las maneras por las cuales la personas pueden ser tanto productores como consumidores; y"}
+        },
+        {
+            "competencyText": {"en-us": "examine el desarrollo de un producto desde recurso natural hasta un producto acabado."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende el propósito de los gobiernos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las funciones de un gobierno tales como establecer el orden, proporcionar seguridad y manejar los conflictos;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los servicios gubernamentales en la comunidad, tales como la protección policiaca y de bomberos, biblioteca, escuelas y parques, y explique el valor que estos servicios proporcionan a la comunidad; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los gobiernos usan los impuestos de los ciudadanos para pagar por los servicios."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende las funciones de los oficiales públicos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "nombre los oficiales públicos actuales, incluyendo al alcalde, al gobernador y al presidente;"}
+        },
+        {
+            "competencyText": {"en-us": "compare las funciones de los oficiales públicos, incluyendo al alcalde, al gobernador y al presidente;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo se elige a los oficiales públicos, incluyendo elección y nominación al cargo; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo los ciudadanos participan en su propio gobierno, manteniéndose informados de las funciones de los oficiales públicos, dándoles su opinión y participando como voluntarios en asuntos de gobierno."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende las características que conlleva el concepto de buena ciudadanía, como lo ejemplifican los personajes históricos y otros individuos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique características de lo que significa ser un buen ciudadano, lo que incluye la veracidad, la justica, la igualdad, el respeto por uno mismo y por los demás, la responsabilidad en el diario vivir y la participación en el gobierno, manteniéndose informado sobre los asuntos gubernamentales, respetuosamente siguiendo las disposiciones de los oficiales públicos y votando;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique personajes históricos tales como Paul Revere, Abigail Adams, las Pilotos al servicio de la fuerza aérea en la segunda guerra mundial, siglas en inglés (WASPs) y los Navajo Code Talkers quienes han sido un ejemplo de buena ciudadanía; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique otros ciudadanos que han sido ejemplo de buena ciudadanía; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique maneras de practicar la buena ciudadanía, incluyendo la participación en el servicio a la comunidad."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende que hay símbolos, costumbres y celebraciones importantes que representan las creencias y los principios estadounidenses, y que contribuyen a nuestra identidad nacional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "recite el Juramento a la bandera de los Estados Unidos y el Juramento a la bandera de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique una selección de canciones patrióticas, incluyendo \"The Star Spangled Banner\" y \"America the Beautiful\";"}
+        },
+        {
+            "competencyText": {"en-us": "identifique una selección de símbolos tales como aves y flores estatales y nacionales, las banderas de Texas y de los Estados Unidos y el Tío Sam; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo algunas costumbres símbolos y celebraciones reflejan el amor que tienen los estadounidenses al individualismo, la inventiva y la libertad."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende el significado de las obras de arte en la comunidad local. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique una selección de historias, poemas, estatuas, pinturas y otros ejemplos de la herencia cultural local; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el significado de la selección de historias, poemas, estatuas, pinturas y otros ejemplos de la herencia cultural local."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las celebraciones étnicas y/o culturales. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la significancia de las celebraciones étnicas y/o culturales; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las celebraciones étnicas y/o culturales."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende cómo la tecnología y la ciencia han afectado la vida, en el pasado y en el presente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología y la ciencia han cambiado los medios de comunicación, los medios de transporte y la recreación; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo la tecnología y la ciencia cambia la manera en que la gente satisface sus necesidades básicas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico utilizando una variedad de fuentes auditivas tales como conversaciones, entrevistas y música;"}
+        },
+        {
+            "competencyText": {"en-us": "obtenga información sobre algún tópico utilizando una variedad de fuentes visuales tales como imágenes, mapas, fuentes electrónicas, literatura, fuentes de referencia y artefactos;"}
+        },
+        {
+            "competencyText": {"en-us": "use diferentes partes de una fuente informativa, incluyendo la tabla de contenidos, el glosario y el índice, como también el teclado del Internet para localizar información."}
+        },
+        {
+            "competencyText": {"en-us": "ordene en secuencia y categorice la información; y"}
+        },
+        {
+            "competencyText": {"en-us": "interprete material oral, visual e impreso para identificar la idea principal, predecir y comparar y contrastar."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en el conocimiento y las experiencias; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete materiales visuales y escritos, tales como historias, poemas y organizadores gráficos para expresar ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, genere opciones, prediga los resultados, tome acción para implementar una decisión y reflexione sobre la efectividad de la decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, tercer grado, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.14 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En tercer grado, los estudiantes aprenden cómo diversos personajes han cambiado sus comunidades y el mundo. Los estudiantes estudian los efectos que los héroes han tenido en la comunidad, en el pasado y en el presente. Los estudiantes aprenden sobre las vidas de los diferentes héroes y heroínas quienes tomaron importantes decisiones, superaron obstáculos, hicieron sacrificios por el bien de otros y se embarcaron en aventuras que resultaron en nuevas ideas, nuevos inventos, nuevas tecnologías y nuevas comunidades. Los estudiantes expanden su conocimiento sobre la identificación y el estudio de personajes que marcaron la diferencia, influenciaron las políticas públicas y la toma de decisiones, y participaron en la solución de asuntos importantes para todos. A lo largo de todo el tercer año, los estudiantes desarrollan una comprensión de las contribuciones económicas, culturales y científicas hachas por algunos individuos."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de buenas fuentes informativas tales como biografías, documentos históricos fundamentales, poesía, canciones, y obras de arte es crucial. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales, recorriendo el internet, y en sociedades encargadas de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Las leyes estatales y federales requieren el cumplimiento de una variedad de celebraciones y días feriados, incluyendo la Semana de la libertad."}
+        },
+        {
+            "competencyText": {"en-us": "Cada una de las clases de estudios sociales deberá incluir, durante la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, por sus siglas en inglés TEC, §29.907, o durante otra semana completa del año, que los miembros del consejo directivo o del distrito hayan elegido, un tipo de instrucción apropiada que se relacione con la intención, el significado y la importancia de la Declaración de Independencia y la Constitución de EE.UU., incluyendo la Carta de Derechos, en su contexto histórico. El estudio de la Declaración de Independencia debe incluir el estudio de la relación de las ideas que se expresan en ese documento, con ideas históricas posteriores en la nación, incluyendo la relación de estas ideas con la gran diversidad de la población, como nación de inmigrantes, con la Revolución estadounidense, con la formulación de la Constitución de EE.UU. y con el movimiento abolicionista, lo que condujo a la Proclamación de la Emancipación y al movimiento femenino en la lucha por el derecho a sufragar."}
+        },
+        {
+            "competencyText": {"en-us": "Cada distrito escolar deber requerir que durante la celebración de la Semana de la libertad o en otra semana de instrucción, como se prescribe en el subpárrafo (A) de este párrafo, los estudiantes que cursan los grados de tercero a doceavo estudien y reciten el siguiente texto: \u201cSostenemos como evidentes por sí mismas dichas verdades: que todos los hombres son creados iguales; que son dotados por su creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados.\u201d"}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende cómo los individuos, los acontecimientos y las ideas han influenciado la historia de las diferentes comunidades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los individuos, los acontecimientos y las ideas han cambiado las comunidades, en el pasado y en el presente;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique a individuos, incluyendo a Pierre-Charles L'Enfant, Benjamin Banneker y Benjamin Franklin, quienes han ayudado a formar comunidades; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo individuos, incluyendo a Daniel Boone, Christopher Columbus, los Padres de la Patria y Juan de Oñate, han contribuido a la expansión de comunidades existentes o a la creación de nuevas comunidades."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende características de las comunidades del pasado y del presente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique porqué las personas han formado comunidades, incluyendo la necesidad de seguridad y protección, libertad de religión, de leyes y de bienestar material;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las personas de las comunidades locales y otras comunidades satisfacen sus necesidades de gobierno, educación, comunicación, transporte y recreación; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las maneras que las personas de otras comunidades satisfacen sus necesidades."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende el concepto de tiempo y cronología. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use vocabulario relacionado con el concepto de cronología, incluyendo tiempos pasados, presentes y futuros;"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete líneas cronológicas; y"}
+        },
+        {
+            "competencyText": {"en-us": "aplique los términos de año, década y siglo para describir los tiempos históricos."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo los seres humanos nos adaptamos a las variaciones del ambiente físico. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique variaciones del ambiente físico, incluyendo el clima, los accidentes geográficos, los recursos naturales y los peligros naturales;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare cómo las personas de las diferentes comunidades se adaptan o modifican el ambiente físico en el cual viven, tales como desiertos, montañas, zonas acuosas y llanuas;"}
+        },
+        {
+            "competencyText": {"en-us": "describa los efectos de los procesos físicos tales como volcanes, huracanes y terremotos en la formación del paisaje;"}
+        },
+        {
+            "competencyText": {"en-us": "describa los efectos de los procesos humanos tales como la construcción de nuevas casas, protección del medio ambiente y la contaminación ambiental en la formación del paisaje; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las características humanas de varias regiones."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende los conceptos de lugar, distancia y dirección en mapas y globos terráqueos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use las direcciones cardinales e intermedias para ubicar lugares en mapas y globos terráqueos, tales como las Montañas Rocallosas, el río Misisipi y Austin, Texas en relación a su comunidad local;"}
+        },
+        {
+            "competencyText": {"en-us": "use una escala numérica o regla para determinar la distancia entre los lugares en mapas y globos terráqueos;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y use el compás rosa (rosa de los vientos), el sistema grid y símbolos para ubicar lugares en los mapas y globos terráqueos; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree e interprete mapas de lugares y regiones que contienen elementos de los mapas, incluyendo un título, un compás rosa, símbolos y lecturas, escalas numéricas y el sistema grid."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el propósito de ganar, gastar, ahorrar y donar dinero. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique formas de ganar, gastar, ahorrar y donar dinero; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree un presupuesto simple en el cual destine dinero para gastar, ahorrar y donar."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el concepto de un sistema de libre empresa. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "defina e identifique ejemplos de escasez;"}
+        },
+        {
+            "competencyText": {"en-us": "explique el impacto de la escasez en la producción, distribución y consumo de bienes y servicios; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el concepto de mercado libre y su relación con el sistema de libre empresa de los Estados Unidos."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende cómo los negocios operan en un sistema de libre empresa en los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de cómo opera un negocio simple;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo la oferta y la demanda afecta el precio de un buen servicio;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo el costo de la producción y el precio de venta afecta las ganancias;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las regulaciones y los impuestos gubernamentales impactan los costos del consumidor; y"}
+        },
+        {
+            "competencyText": {"en-us": "identifique individuos, del pasado y de ahora, incluyendo Henry Ford y otros empresarios de la comunidad tales como Mary Kay Ash, Wallace Amos, Milton Hershey y Sam Walton que han comenzado nuevos negocios."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende la estructura básica y las funciones de los diferentes niveles del gobierno. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa la estructura básica del gobierno en la comunidad local, en el estado y en la nación;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los oficiales gubernamentales locales, estatales y nacionales y explique cómo se eligen;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los servicios que comúnmente proporcionan los gobiernos locales, estatales y nacionales; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo se financian los servicios gubernamentales locales, estatales y nacionales."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende las ideas importantes que contienen los documentos históricos en los diferentes niveles del gobierno. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los propósitos de la Declaración de Independencia y de la Constitución de EE.UU., incluyendo la Carta de Derechos; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique el concepto de \u201cconsentimiento de los gobernados\u201d y su relación con las funciones del gobierno local, estatal y nacional."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende las características del concepto de buena ciudadanía como lo ejemplifican figuras históricas y contemporáneas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique características de lo que significa ser un buen ciudadano, lo que incluye la veracidad, la justica, la igualdad, el respeto por uno mismo y por los demás, la responsabilidad en el diario vivir y la participación en el gobierno, manteniéndose informado sobre los asuntos gubernamentales, respetuosamente siguiendo las disposiciones de los oficiales públicos y votando;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique personajes históricos tales como Helen Keller y Clara Barton y figuras contemporáneas tales como Ruby Bridges, militares y paramédicos militares, quienes han sido un ejemplo de buena ciudadanía; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique la importancia de actos individuales de responsabilidad cívica, incluyendo el obedecer las leyes, servir a la comunidad, servir en un jurado y votar."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende el impacto de las decisiones individuales y grupales de las comunidades en una república constitucional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "de ejemplos de cambios en la comunidad como resultado de decisiones individuales y grupales;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de acciones que individuos y grupos llevan a cabo para mejorar la comunidad; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de organizaciones sin fines de lucro y/o civiles tales como la Cruz Roja, y explique cómo sirven al bien común."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las diferentes celebraciones étnicas y/o culturales de la comunidad local y otras comunidades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique la significancia de las diferentes celebraciones étnicas y/o culturales de la comunidad local y otras comunidades; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las diferentes celebraciones étnicas y/o culturales de la comunidad local con otras comunidades."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la función de los héroes en la formación de la cultura de las comunidades, el estado y la nación. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las obras heroicas de héroes estatales y nacionales, incluyendo a Hector P. Garcia y James A. Lovell y a otros individuos tales como Harriet Tubman, Juliette Gordon Low, Todd Beamer, Ellen Ochoa, John \"Danny\" Olivas y otros héroes contemporáneos; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y analice las obras heroicas de individuos, incluyendo a los militares y paramédicos militares tales como los Four Chaplains."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la importancia de escritores y artistas en la herencia cultural de las comunidades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique diferentes escritores y artistas tales como Kadir Nelson, Tomie dePaola y Phillis Wheatley y sus historias, poemas, estatuas, pinturas y otros ejemplos de herencia cultural de las comunidades; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique la significancia de diferentes escritores y artistas tales como Carmen Lomas Garza, Laura Ingalls Wilder y Bill Martin Jr y sus historias, poemas, estatuas, pinturas y otros ejemplos de herencia cultural de las comunidades."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende cómo los individuos han creado e inventado nueva tecnología y por ende, afectado la vida en las diferentes comunidades, en el pasado y en el presente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique científicos e inventores, incluyendo a Jonas Salk, Maria Mitchell, y otros que han descubierto avances científicos o creado o inventado nuevas tecnologías tales como Cyrus McCormick, Bill Gates y Louis Pasteur; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el impacto de los avances científicos y las nuevas tecnologías en la computación, la pasteurización y las vacunas médicas en diferentes comunidades."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "investigue acontecimientos actuales e históricos y datos gráficos acerca de la comunidad y el mundo, usando una variedad de recursos escritos, orales y visuales válidos;"}
+        },
+        {
+            "competencyText": {"en-us": "ordene en secuencia y categorice la información;"}
+        },
+        {
+            "competencyText": {"en-us": "interprete material oral, visual e impreso identificando la idea principal, distinguiendo entre hecho y opinión, identificando causa y efecto y comparando y contrastando:"}
+        },
+        {
+            "competencyText": {"en-us": "use diferentes partes de una fuente informativa, incluyendo la tabla de contenidos, el glosario y el índice, como también el teclado del Internet para localizar información."}
+        },
+        {
+            "competencyText": {"en-us": "interprete y cree visuales, incluyendo gráficos, diagramas, tablas, líneas cronológicas y mapas; y"}
+        },
+        {
+            "competencyText": {"en-us": "use habilidades matemáticas apropiadas para interpretar información de los estudiaos sociales tales como mapas y gráficos."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en el conocimiento y las experiencias; y"}
+        },
+        {
+            "competencyText": {"en-us": "use la tecnología para crear materiales visuales y escritos tales como historias, poemas, imágenes, mapas y organizadores gráficos para expresar ideas; y"}
+        },
+        {
+            "competencyText": {"en-us": "use gramática, ortografía, sintaxis y puntuación estándar."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, genere opciones, prediga las consecuencias y tome acción para implementar una decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, cuarto grado, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.15 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En cuarto grado, los estudiantes examinan la historia de Texas desde sus comienzos hasta el presente, dentro del contexto de las influencias de América del norte. El contenido histórico se enfoca en la historia de Texas, incluyendo la Revolución de Texas, el establecimiento de la República de Texas y el anexo posterior a los Estados Unidos. Los estudiantes analizan asuntos, acontecimientos e individuos importantes de los siglos 19, 20 y 21. Los estudiantes realizan un estudio completo de las regiones de Texas y Norteamérica, como resultado de la actividad humana y los rasgos físicos. La ubicación, la distribución y los patrones de las actividades económicas y la colonización de Texas realzan el concepto de regiones. Los estudiantes describen cómo los primeros indígenas que habitaban Texas y Norteamérica satisficieron sus necesidades económicas básicas. Los estudiantes identifican las motivaciones de la exploración europea y la colonización y las razones que había detrás de las misiones y los asentamientos españoles. Los estudiantes explican cómo los indígenas norteamericanos se auto gobernaban e identifican las características de los gobiernos españoles de la colonia y de los gobiernos mexicanos en Texas. Los estudiantes recitan y explican el significado del Juramento a la bandera de Texas. Los estudiantes identifican las contribuciones de los diversos grupos étnicos, raciales, culturales y religiosos que hicieron a Texas y describen el impacto de la ciencia y la tecnología en el estado. Los estudiantes usan habilidades de pensamiento crítico para identificar las relaciones entre causa y efecto, comparar y contrastar y formular generalizaciones y predicciones."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de fuentes informativas primarias y secundarias tales como documentos, biografías, novelas, discursos, cartas, poesía, canciones, y obras de arte es crucial. Si son apropiados, se deben incluir tópicos locales. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales, recorriendo el internet, y en sociedades encargadas de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Las leyes estatales y federales requieren el cumplimiento de una variedad de celebraciones y días feriados, incluyendo la Semana de la libertad."}
+        },
+        {
+            "competencyText": {"en-us": "Cada una de las clases de estudios sociales deberá incluir, durante la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, por sus siglas en inglés TEC, §29.907, o durante otra semana completa del año, que los miembros del consejo directivo o del distrito hayan elegido, un tipo de instrucción apropiada que se relacione con la intención, el significado y la importancia de la Declaración de Independencia y la Constitución de EE.UU., incluyendo la Carta de Derechos, en su contexto histórico. El estudio de la Declaración de Independencia debe incluir el estudio de la relación de las ideas que se expresan en ese documento con ideas históricas posteriores en la nación, incluyendo la relación de estas ideas con la gran diversidad de la población, como nación de inmigrantes, con la Revolución estadounidense, con la formulación de la Constitución de EE.UU. y con el movimiento abolicionista, lo que condujo a la Proclamación de la Emancipación y al movimiento femenino en la lucha por el derecho a sufragar."}
+        },
+        {
+            "competencyText": {"en-us": "Cada distrito escolar deber requerir que durante la celebración de la Semana de la libertad o en otra semana de instrucción, como se prescribe en el subpárrafo (A) de este párrafo, los estudiantes que cursan los grados de tercero a doceavo estudien y reciten el siguiente texto: \u201cSostenemos como evidentes por sí mismas dichas verdades: que todos los hombres son creados iguales; que son dotados por su creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados.\u201d"}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los orígenes, similitudes y diferencias de los grupos indígenas que habitaban en Texas y Norteamérica antes de la exploración europea. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique los posibles orígenes de los grupos indígenas que habitaban en Texas y Norteamérica;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los grupos indígenas que habitaban en Texas y Norteamérica, antes de la exploración europea tales como los Lipan Apache, los Karankawa, los Caddo y los Jumano;"}
+        },
+        {
+            "competencyText": {"en-us": "describa las regiones donde habitaban las tribus indígenas originales e identifique los grupos indígenas que permanecen en Texas tales como los Ysleta Del Sur Pueblo, los Alabama-Coushatta y los Kickapoo; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las formas de vida de los grupos indígenas que habitaban en Texas y Norteamérica antes de la exploración europea."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende las causas y los efectos de la exploración europea y la colonización de Texas y Norteamérica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "resuma las motivaciones para la exploración europea y la colonización de Texas, incluyendo la oportunidad económica, la competencia y el deseo de expansión;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los logros y explique el impacto de importantes exploradores, incluyendo a Cabeza de Vaca; Francisco Coronado y René Robert Cavelier, Sieur de la Salle, en la colonización de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cuándo, dónde y porqué los españoles se establecieron y establecieron misiones católicas en Texas, como también personajes importantes tales como José de Escandón;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la función de Texas en la guerra de la independencia de México y el impacto de la guerra en el desarrollo de Texas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los logros y explique las motivaciones económicas y el impacto de importantes empresarios, incluyendo a Stephen F. Austin y Martín de León, en la colonización de Texas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende la importancia de la Revolución de Texas, la República de Texas y el anexo de Texas a los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice las causas, acontecimientos importantes y efectos de la Revolución de Texas, incluyendo la Batalla del Álamo, la Declaración de Independencia de Texas, la huida de los tejanos por temor a las represalias del ejército mexicano (Runaway Scrape) y la Batalla de San Jacinto;"}
+        },
+        {
+            "competencyText": {"en-us": "resuma las importantes contribuciones de individuos de Texas tales como William B. Travis, James Bowie, David Crockett, George Childress y Sidney Sherman; tejanos Juan Antonio Padilla, Carlos Espalier, Juan N. Seguín, Plácido Benavides y José Francisco Ruiz; mexicanos Antonio López de Santa Anna y Vicente Filisola y los no combatientes Susanna Dickinson y Enrique Esparza;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique importantes líderes que ayudaron a fundar Texas como república y estado, incluyendo a José Antonio Navarro, a Sam Houston, a Mirabeau Lamar y a Anson Jones;"}
+        },
+        {
+            "competencyText": {"en-us": "describa los éxitos, los problemas y las organizaciones de la República de Texas tales como el establecimiento de una constitución, las luchas económicas, las relaciones con los grupos indígenas norteamericanos y con los Rangers de Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique los acontecimientos que condujeron a la anexión de Texas a los Estados Unidos, incluyendo el impacto de la guerra entre Estados Unidos y México."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los cambios políticos, económicos y sociales en Texas durante el último periodo del siglo 19. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa el impacto de la Guerra Civil y la Reconstrucción de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "explique el crecimiento, el desarrollo y el impacto de la industria del ganado, incluyendo las contribuciones hechas por Charles Goodnight, Richard King y Lizzie Johnson;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el impacto del ferrocarril en la vida de Texas, incluyendo los cambios a las ciudades y a las industrias importantes; y"}
+        },
+        {
+            "competencyText": {"en-us": "examine los efectos en la vida de los grupos indígenas norteamericanos, como resultado de los cambios en Texas, incluyendo la Guerra del Río Rojo, la construcción de fuertes y vías de ferrocarril y la pérdida de búfalos."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende asuntos, acontecimientos e individuos importantes del siglo 20 en Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el impacto de varios asuntos y acontecimientos en la vida de Texas tales como la urbanización, el aumento del uso del petróleo y el gas, la Gran Depresión, el periodo de sequía conocido como Dust Bowl (Cuenco de Polvo) y la Segunda Guerra Mundial;"}
+        },
+        {
+            "competencyText": {"en-us": "explique el desarrollo e impacto de la industria del gas y el petróleo en la industrialización y urbanización de Texas, incluyendo personas y lugares importantes tales como Spindletop y Pattillo Higgins; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los logros de notables individuos tales como John Tower, Scott Joplin, Audie Murphy, Cleto Rodríguez, Stanley Marcus, Bessie Coleman, Raul A. Gonzalez Jr. y otros notables individuos locales."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante usa recursos geográficos para reunir, analizar e interpretar información. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "utilice recursos geográficos, incluyendo sistemas grid, lectura de mapas, símbolos, escalas numéricas y compases rosa (rosa de los vientos) para construir e interpretar mapas; y"}
+        },
+        {
+            "competencyText": {"en-us": "traduzca datos geográficos, distribución de la población y recursos naturales en una variedad de formatos tales como gráficos y mapas."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende el concepto de regiones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa una variedad de regiones en Texas y en los Estados Unidos tales como la población política y las regiones económicas que resultan de cambios en la actividad humana."}
+        },
+        {
+            "competencyText": {"en-us": "identifique, ubique y compare las regiones geográficas de Texas (Montañas y Cuencas, las Grandes Llanuras, las Llanuras del Norte Central y las Llanuras Costeras), incluyendo sus accidentes geográficos, clima y vegetación; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las regiones geográficas de Texas (Montañas y Cuencas, las Grandes Llanuras, las Llanuras del Norte Central y las Llanuras Costeras), con regiones de los Estados Unidos y de otras partes del mundo."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende la ubicación, los tipos de asentamientos y los factores geográficos que afectan los lugares donde habitan las personas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique agrupaciones y patrones relacionados con los asentamientos en Texas en diferentes épocas, tales como antes de la Revolución de Texas, después de la construcción del ferrocarril y después de la Segunda Guerra Mundial;"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique la ubicación y distribución de diferentes pueblos y ciudades en Texas, en el pasado y en el presente; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique los factores geográficos tales como los accidentes geográficos y el clima que impactan el tipo de asentamientos y la distribución de la población en Texas, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo las personas se adaptan o modifican su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo las personas se han adaptado o modificado su medio ambiente en Texas, en el pasado y en el presente, tales como la deforestación, la producción de productos agrícolas, el drenaje de las tierras acuosas, la producción de energía y la construcción de diques;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique porqué las personas se han adaptado o modificado su ambiente en Texas, en el pasado y en el presente, tales como el uso de los recursos naturales para satisfacer las necesidades básicas, facilitar el transporte y mejorar las actividades recreacionales; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las consecuencias positivas y negativas de las modificaciones humanas del medio ambiente en Texas, en el pasado y en el presente, tanto en el sector gubernamental como en el sector privado, tales como el desarrollo económico y el impacto en los hábitats y la fauna, como también en la calidad del aire y del agua."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende las actividades económicas básicas de las primeras sociedades de Texas y de América del Norte. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique las actividades económicas que los primeros grupos indígenas que habitaban Texas y Norteamérica usaban para satisfacer sus necesidades básicas y sus deseos tales como la agricultura, el comercio y la caza; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique las actividades económicas que desarrollaron los primeros inmigrantes que se establecieron en Texas para satisfacer sus necesidades básicas y deseos."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende las características y los beneficios de un sistema de libre empresa en Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa el desarrollo de un sistema de libre empresa en Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo funciona un sistema de libre empresa, incluyendo la oferta y la demanda; y"}
+        },
+        {
+            "competencyText": {"en-us": "De ejemplos de los beneficios de un sistema de libre empresa como la opción y la oportunidad."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende los tipos de trabajos y las actividades económicas en Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las personas en las diferentes regiones de Texas se ganaban la vida en el pasado y cómo se ganan la vida en el presente, a través del sustento económico y el suministro de bienes y servicios;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los factores geográficos tales como el clima, el transporte y los recursos naturales han impactado la ubicación de las actividades económicas en Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "analice los efectos de la exploración, la inmigración, la migración y los recursos limitados en el desarrollo económico y en el crecimiento de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "describa el impacto de la producción en masa, la especialización y la división laboral en el crecimiento económico de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los avances en el transporte y en las comunicaciones han impactado las actividades económicas en Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el impacto de las ideas estadounidenses sobre el progreso y la igualdad de oportunidades en el desarrollo económico y el crecimiento de Texas."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende cómo el estado de Texas, los Estados Unidos y otras partes del mundo son económicamente independientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo los cambios tecnológicos en áreas como el transporte y la comunicación han conducido a una mayor interdependencia entre Texas, los Estados Unidos y el mundo;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los productos tejanos en las áreas del petróleo y el gas, la agricultura y la tecnología que satisfacen las necesidades en los Estados Unidos y alrededor del mundo; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los tejanos satisfacen algunas de sus necesidades a través de la compra de productos de los Estados Unidos y del resto del mundo."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende cómo las personas organizaban sus gobiernos durante el primer desarrollo de Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare cómo los diferentes grupos indígenas tales como los Caddos y los Comanches se auto gobernaban; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las características del gobierno español de la época de la colonia y los primeros gobiernos mexicanos y sus influencias en los habitantes de Texas."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende las importantes ideas que contienen los documentos históricos de Texas y de los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los propósitos y explique la importancia de la Declaración de Independencia de Texas, la Constitución de Texas y otros documentos tales como el Tratado Meusebach-Comanche;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique las funciones básicas de las tres ramas de gobierno de acuerdo a la Constitución de Texas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la intención, el significado y la importancia de la Declaración de Independencia de EE.UU. y la Carta de Derechos (la celebración de la Semana de la libertad)."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende importantes costumbres, símbolos y celebraciones de Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique el significado de los diferentes símbolos y puntos patrióticos de Texas, incluyendo las seis banderas sobre Texas, el Monumento de San Jacinto, el Álamo y otras misiones:"}
+        },
+        {
+            "competencyText": {"en-us": "cante y recite \u201cTexas, Nuestro Texas\u201d;"}
+        },
+        {
+            "competencyText": {"en-us": "recite y explique el significado del Juramento a la bandera de Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa los orígenes y la significancia de las celebraciones del estado, tales como el Día de la Independencia de Texas y el Día de la Emancipación (Juneteenth)."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende la importancia de la participación individual en el proceso democrático. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique importantes individuos que han participado en forma voluntaria en asuntos cívicos, en el estado y a nivel local, tales como Adina de Zavala y Clara Driscoll;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las personas pueden participar voluntariamente en asuntos cívicos, en el estado y a nivel local, a través de actividades tales como respetando las disposiciones de los oficiales públicos, escribiendo cartas y participando en la conservación de la historia y en los proyectos de servicio;"}
+        },
+        {
+            "competencyText": {"en-us": "explique los deberes de los individuos en los procesos electorales estatales y locales, tales como manteniéndose informado y votando;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la importancia de algunos individuos y personajes históricos quienes han participado activamente en el proceso democrático, tales como Sam Houston, Barbara Jordan, Lorenzo de Zavala, Ann Richards, Sam Rayburn, Henry B. González, James A. Baker III, Wallace Jefferson y otros individuos locales; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo contactarse con líderes que han sido nominados y elegidos, en el estado y el sector local."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende la importancia de un liderazgo efectivo en una república constitucional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique líderes del gobierno local, estatal y nacional, incluyendo al gobernador, a los miembros locales del Poder Legislativo de Texas, al alcalde local, a los senadores de los EE.UU., a los representantes locales de los EE.UU. y a los tejanos que han sido presidentes de los Estados Unidos; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las cualidades de liderazgo que han presentado líderes estatales y locales, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las contribuciones de personas de diferentes grupos raciales, étnicos y religiosos de Texas, Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las similitudes y diferencias entre los diferentes grupos raciales, étnicos y religiosos de Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique costumbres, celebraciones y tradiciones de los diferentes grupos culturales, regionales y locales en Texas, tales como Cinco de Mayo, Oktoberfest, el Festival de la Fresa y la Fiesta San Antonio; y"}
+        },
+        {
+            "competencyText": {"en-us": "resuma las contribuciones de los diferentes grupos raciales, étnicos y religiosos en el desarrollo de Texas, tales como Lydia Mendoza, Chelo Silva y Julius Lorenzo Cobb Bledsoe."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende el impacto de la ciencia y la tecnología en la vida en Texas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique inventores famosos, tales como Gail Borden, Joseph Glidden, Michael DeBakey y Millie Hughes-Fulford y sus contribuciones;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo los descubrimientos y las innovaciones científicas en el área aeroespacial, en la agricultura, en la energía y la tecnología han sido un beneficio para los individuos, los negocios y para la sociedad en Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "prediga cómo los futuros descubrimientos científicos y las innovaciones tecnológicas podrían afectar la vida en Texas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "Distinga, localice y use fuentes válidas primarias y secundarias, tales como programas computacionales; entrevistas; biografías; material oral visual e impreso; documentos y artefactos para adquirir información sobre los Estados Unidos y Texas;"}
+        },
+        {
+            "competencyText": {"en-us": "analice información, ordenando en una secuencia, categorizando, identificando las relaciones de causa y efecto, comparando, contrastando, encontrando la idea principal, resumiendo, formulando generalizaciones y predicciones y formulando inferencias y sacando conclusiones;"}
+        },
+        {
+            "competencyText": {"en-us": "organice e interprete información en bosquejos, reportes, bases de datos y visuales, incluyendo gráficos, diagramas, líneas cronológicas y mapas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique diferentes puntos de vista sobre un asunto, un tópico, un acontecimiento histórico o un evento actual; y"}
+        },
+        {
+            "competencyText": {"en-us": "use habilidades matemáticas apropiadas para interpretar la información de los estudios sociales, tales como mapas y gráficos."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use terminología de estudios sociales en forma correcta;"}
+        },
+        {
+            "competencyText": {"en-us": "incorpore las ideas principales y secundarias en la comunicación verbal y escrita;"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en las investigaciones y las experiencias;"}
+        },
+        {
+            "competencyText": {"en-us": "cree material impreso y visual, tales como periódicos, reportes, organizadores gráficos, bosquejos y bibliografías; y"}
+        },
+        {
+            "competencyText": {"en-us": "use gramática, ortografía, sintaxis y puntuación estándar."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, genere opciones, prediga las consecuencias y tome acción para implementar una decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, quinto grado, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.16 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En quinto grado, los estudiantes estudian la historia de los Estados Unidos desde 1565 hasta el presente. El contenido histórico incluye el periodo colonial, la Revolución estadounidense, el establecimiento de la Constitución de los EE.UU., la Identidad estadounidense, la expansión hacia el oeste, la Guerra Civil y la Reconstrucción, inmigración e industrialización y los siglos 20 y 21. Los estudiantes analizan una gran variedad de regiones como resultado de rasgos físicos y actividad humana e identifican cómo la gente se adapta o modifica su medio ambiente. Los estudiantes explican las características y los beneficios de un sistema de libre empresa y describen las actividades económicas en los Estados Unidos. Los estudiantes identifican las raíces de un gobierno representativo en esta nación, como también las importantes ideas que contienen los documentos de Declaración de Independencia y la Constitución de los EE.UU. Los estudiantes estudian los derechos fundamentales que se garantizan en la Carta de Derechos. Los estudiantes examinan la importancia de un liderazgo efectivo en una república constitucional e identifican líderes importantes en el gobierno nacional. Los estudiantes recitan y explican el significado del Juramento a la bandera de los Estados Unidos. Los estudiantes describen el impacto cultural de los diferentes grupos raciales, étnicos y religiosos e identifican los logros de individuos notables en la ciencia y la tecnología. Los estudiantes explican símbolos, tradiciones y puntos históricos que representan las creencias y los principios de la nación. Los estudiantes usan habilidades de pensamiento crítico para ordenar en secuencia, categorizar y resumir información como también formular inferencias y sacar conclusiones."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de fuentes informativas primarias y secundarias tales como documentos, biografías, novelas, discursos, cartas, poesía, canciones, y obras de arte es crucial. Se pueden encontrar muchos recursos disponibles en museos, lugares históricos, bibliotecas presidenciales, recorriendo el internet, y en sociedades encargados de conservar la historia, a nivel local y estatal."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La compresión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Las leyes estatales y federales requieren el cumplimiento de una variedad de celebraciones y días feriados, incluyendo la Semana de la libertad."}
+        },
+        {
+            "competencyText": {"en-us": "Cada una de las clases de estudios sociales deberá incluir, durante la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, por sus siglas en inglés TEC, §29.907, o durante otra semana completa del año, que los miembros del consejo directivo o del distrito hayan elegido, un tipo de instrucción apropiada que se relacione con la intención, el significado y la importancia de la Declaración de Independencia y la Constitución de EE.UU, incluyendo la Carta de Derechos, en su contexto histórico. El estudio de la Declaración de Independencia debe incluir el estudio de la relación de las ideas que se expresan en ese documento con ideas históricas posteriores en la nación, incluyendo la relación de estas ideas con la gran diversidad de la población, como nación de inmigrantes, con la Revolución estadounidense, con la formulación de la Constitución EE.UU y con el movimiento abolicionista, lo que condujo a la Proclamación de la Emancipación y al movimiento femenino en la lucha por el derecho a sufragar."}
+        },
+        {
+            "competencyText": {"en-us": "Cada distrito escolar deber requerir que durante la celebración de la Semana de la libertad o en otra semana de instrucción, como se prescribe en el subpárrafo (A) de este párrafo, los estudiantes que cursan los grados de tercero a doceavo estudien y reciten el siguiente texto: \u201cSostenemos como evidentes por sí mismas dichas verdades: que todos los hombres son creados iguales; que son dotados por su creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados.\u201d"}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende las causas y efectos de la colonización europea en los Estados Unidos, comenzando en el año 1565 la fundación de San Agustín. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique cuándo, dónde y porqué grupos de personas exploraron, colonizaron y se establecieron en los Estados Unidos, incluyendo la búsqueda de libertad religiosa y ganancias económicas; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa los logros de importantes individuos durante la época colonial, incluyendo a William Bradford, Anne Hutchinson, William Penn, John Smith, John Wise y Roger Williams."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende cómo el conflicto entre las colonias estadounidenses y Gran Bretaña condujo a la independencia de los EE.UU. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y analice las causas y efectos de acontecimientos previos y durante la Revolución estadounidense, incluyendo la Guerra entre los franceses y los grupos indígenas y el Motín del té."}
+        },
+        {
+            "competencyText": {"en-us": "identifique a los Padres de la Patria y a héroes de la nación, incluyendo a John Adams, Samuel Adams, Benjamin Franklin, Nathan Hale, Thomas Jefferson, los hijos de la Libertad y George Washington, y sus inspiraciones y contribuciones durante el periodo revolucionario; y"}
+        },
+        {
+            "competencyText": {"en-us": "resuma los resultados de la Revolución estadounidenses, incluyendo el establecimiento de los Estados Unidos y el desarrollo de las fuerzas armadas de los EE.UU."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los acontecimientos que condujeron a que se pasara de los Artículos de la Confederación a la creación de la Constitución de los EE.UU. y que se estableciera un gobierno. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los asuntos que condujeron a la creación de la Constitución de los EE.UU, incluyendo la debilidad de los Artículos de la Confederación, e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las contribuciones de individuos, incluyendo a James Madison y a otros, tales como George Mason, Charles Pinckney y Roger Sherman quienes colaboraron en la creación de la Constitución de los EE.UU."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende los cambios políticos, económicos y sociales que ocurrieron en los Estados Unidos durante el siglo 19. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa las causas y efectos de la Guerra de 1812;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique cómo los cambios que hubo después de la Revolución Industrial crearon conflicto entre algunas secciones de los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique porqué las personas se desplazaron hacia el oeste;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique acontecimientos y conceptos significativos asociados con la expansión del territorio estadounidense, incluyendo la Compra de Luisiana, las expediciones de Lewis y Clark y la doctrina del Destino Manifiesto;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las causas de la Guerra Civil, incluyendo el separatismo, los derechos de los estados y la esclavitud, y los efectos de la Guerra Civil, incluyendo la Reconstrucción y las enmiendas decimotercera, decimocuarta y decimoquinta de la Constitución de los EE.UU;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo la industria y la mecanización de la agricultura cambió la vida de los estadounidenses; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los desafíos, las oportunidades y las contribuciones de los diferentes grupos indígenas norteamericanos y los grupos de inmigrantes."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende que hubo asuntos, acontecimientos e individuos importantes en los Estados Unidos durante los siglos 20 y 21. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice los diferentes asuntos y acontecimientos del siglo 20, tales como la industrialización, la urbanización, el aumento del uso del gas y el petróleo, la Gran Depresión, las guerras mundiales, el movimiento de los derechos civiles y las acciones de las fuerzas armadas;"}
+        },
+        {
+            "competencyText": {"en-us": "analice los diferentes asuntos y acontecimientos del siglo 21, tales como el terrorismo y la elección presidencial del 2008; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los logros de individuos y grupos tales como Jane Addams, Susan B. Anthony, Dwight Eisenhower, Martin Luther King Jr., Rosa Parks, Cesar Chavez, Franklin D. Roosevelt, Ronald Reagan, Colin Powell, los aviadores de Tuskegee y el 442.o Regimiento de Infantería, que han contribuido a la sociedad, en las áreas de los derechos civiles, los derechos de la mujer, las acciones de las fuerzas armadas y la política."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante usa recursos geográficos para reunir, analizar e interpretar información. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "utilice recursos geográficos, incluyendo sistemas grid, lectura de mapas, símbolos, escalas numéricas y compases rosa (rosa de los vientos) para construir e interpretar mapas; y"}
+        },
+        {
+            "competencyText": {"en-us": "traduzca datos geográficos en una variedad de formatos, tales como la información primaria u original en gráficos y mapas."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende el concepto de regiones en los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa una variedad de regiones en los Estados Unidos tales como la población política y las regiones económicas que resultan de cambios en la actividad humana;"}
+        },
+        {
+            "competencyText": {"en-us": "describa una variedad de regiones en los Estados Unidos, tales como accidentes geográficos, clima y regiones de vegetación que resultan de las características físicas, tales como las Grandes llanuras, las Montañas Rocallosas y las llanuras Costeras;"}
+        },
+        {
+            "competencyText": {"en-us": "localice en un mapa rasgos políticos importantes, tales como las diez áreas urbanas más grandes de los Estados Unidos, los 50 estados y sus capitales y las regiones, tales como el Noreste, Medio Oeste y el Sudoeste; y"}
+        },
+        {
+            "competencyText": {"en-us": "localice en un mapa rasgos físicos importantes, tales como las Montañas Rocallosas, el Río Misisipi y las Grandes Llanuras."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende la ubicación, los tipos de asentamientos y los factores geográficos que afectan los lugares donde habitan las personas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa los tipos de asentamientos y la distribución del uso de la tierra en los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "explique los factores geográficos que impactan el tipo de asentamientos y la distribución de la población en los Estados Unidos, en el pasado y en el presente; y"}
+        },
+        {
+            "competencyText": {"en-us": "analice las razones de la ubicación de las ciudades en los Estados Unidos, incluyendo las capitales y explique su distribución, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo las personas se adaptan o modifican su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo las personas se han adaptado o modificado su medio ambiente en los Estados Unidos, en el pasado y en el presente, tal como el uso de los recursos humanos para satisfacer las necesidades básicas;"}
+        },
+        {
+            "competencyText": {"en-us": "analice las consecuencias positivas y negativas de la modificación humana del ambiente en los Estados Unidos, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende los modelos económicos básicos de las primeras sociedades de los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique los modelos económicos de los primeros colonos europeos; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las industrias más importantes de Norteamérica colonial."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el desarrollo, las características y los beneficios del sistema de libre empresa en los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa el desarrollo del sistema de libre empresa de Norteamérica colonial y en los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo funciona el sistema de libre empresa en los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "de ejemplos de los beneficios del sistema de libre empresa en los Estados unidos."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende el impacto de la oferta y la demanda en los consumidores y en los productores en un sistema de libre empresa. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo la oferta y la demanda afecta a los consumidores en los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "evalúe los efectos de la oferta y la demanda en los negocios, en la industria y la agricultura, incluyendo el sistema de plantación, en los Estados Unidos."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende los tipos de trabajo y las actividades económicas en los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare cómo las personas en las diferentes áreas de los Estados Unidos se ganaban la vida en el pasado y cómo se ganan la vida en el presente;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique el impacto de los factores geográficos en la ubicación de las actividades económicas en los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "analice los efectos de la inmigración, la migración y los recursos limitados en el desarrollo económico y el crecimiento de los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "describa el impacto de la producción en masa, la especialización y la división del trabajo en el crecimiento económico de los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el impacto de las ideas estadounidenses sobre el progreso y la igualdad de oportunidades en el desarrollo económico y el crecimiento de los Estados Unidos."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende la organización gubernamental en Norteamérica colonial. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare los sistemas de gobiernos de los primeros colonos europeos, incluyendo el gobierno representativo y la monarquía; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de un gobierno representativo en las primeras colonias norteamericanas, incluyendo el Pacto del Mayflower y la Cámara de los Burgueses de Virginia."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende las importantes ideas que contienen los documentos de la Declaración de Independencia de EE.UU., la Constitución de los EE.UU. y la Carta de Derechos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los elementos claves y los propósitos y explique la importancia de la Declaración de Independencia;"}
+        },
+        {
+            "competencyText": {"en-us": "explique los propósitos de la Constitución de los Estados Unidos, como se identifica en el Preámbulo; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique las razones de la creación de la Carta de Derechos y su importancia."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende la estructura del gobierno creado en la Constitución de EE.UU. del 1787. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique las funciones básicas de las tres ramas de gobierno;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las razones y describa el sistema de controles y contrapeso, descrito en la Constitución de los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre los gobiernos estatales y nacionales y compare sus responsabilidades en el sistema federal de los EE.UU."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende que existen importantes símbolos, costumbres, celebraciones y puntos históricos que representan las creencias y los principios estadounidenses y contribuyen a nuestra identidad nacional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique diferentes símbolos patrios, incluyendo el Tío Sam y símbolos políticos tales como el burro y el elefante;"}
+        },
+        {
+            "competencyText": {"en-us": "cante y recite \u201cThe Star-Spangled Banner\u201d y explique su historia;"}
+        },
+        {
+            "competencyText": {"en-us": "recite y explique el significado del Juramento a la bandera de los Estados Unidos; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa los orígenes y la significancia de celebraciones nacionales tales como el Día de los Caídos, el Día de la Independencia, El Día del Trabajo, el Día de la Constitución, El Día de la Raza, y el Día de los Veteranos de Guerra; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique la significancia de puntos históricos importantes, incluyendo la Casa Blanca, la Estatua de la Libertad y el Monte Rushmore."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende la importancia de la participación de los individuos en el proceso democrático a nivel local, estatal y nacional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique los deberes de los individuos en la participación de asuntos cívicos, a nivel local, estatal y nacional; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo contactarse con líderes electos y nominados en gobiernos locales, estatales y nacionales;"}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende la importancia de un liderazgo efectivo en una república constitucional. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique las contribuciones de los Padres de la Patria en el desarrollo del gobierno nacional;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique líderes del presente y del pasado del gobierno nacional, incluyendo al presidente y a los diferentes miembros del Congreso y sus partidos políticos; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare cualidades de liderazgo de líderes nacionales, del presente y del pasado."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende los derechos fundamentales de los ciudadanos estadounidenses garantizados en la Carta de Derechos y en otras enmiendas de la Constitución de EE.UU. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa los derechos fundamentales garantizados en cada enmienda de la Carta de Derechos, incluyendo la libertad religiosa, la libertad de expresión y de prensa; la libertad de asamblea, la libertad de petición; el derecho a portar armas; el derecho a un juicio imparcial y local y el derecho a tener un abogado; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa diferentes enmiendas hechas a la Constitución de EE.UU., tales como las que extienden el derecho a voto de los ciudadanos estadounidenses."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la relación entre las artes y las épocas en que fueron creadas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos importantes de arte, música y literatura de diferentes periódos de la historia de los EE.UU., tales como la pintura American Progress, \"Yankee Doodle,\" y \"Paul Revere's Ride\"; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los ejemplos de arte, música y literatura son un reflejo de la época en que fueron creados."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las contribuciones de personas de diferentes grupos raciales, étnicos y religiosos de los Estados Unidos, Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las similitudes y diferencias entre los diferentes grupos raciales, étnicos y religiosos de los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "describa las costumbres y tradiciones de los diferentes grupos raciales, étnicos y religiosos de los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "resuma las contribuciones a nuestra identidad de los diferentes grupos raciales, étnicos y religiosos."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tecnología y sociedad. El estudiante entiende el impacto de la ciencia y la tecnología en la sociedad de los Estados Unidos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los logros de individuos notables en las áreas de la ciencia y la tecnología, incluyendo a Benjamin Franklin, Eli Whitney, John Deere, Thomas Edison, Alexander Graham Bell, George Washington Carver, the Wright Brothers y Neil Armstrong;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo los descubrimientos científicos, las innovaciones tecnológicas y el rápido crecimiento de las industrias tecnológicas han avanzado el desarrollo económico de los Estados Unidos, incluyendo el ferrocarril transcontinental y el programa espacial;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los descubrimientos científicos y las innovaciones tecnológicas en el campo de la medicina, la comunicación y el transporte han beneficiado a los individuos y a la sociedad estadounidense; y"}
+        },
+        {
+            "competencyText": {"en-us": "prediga cómo los futuros descubrimientos científicos y las innovaciones tecnológicas podrían afectar la sociedad en los Estados Unidos."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "Distinga, localice y use fuentes válidas primarias y secundarias, tales como programas computacionales; entrevistas; biografías; material oral visual e impreso; documentos y artefactos para adquirir información sobre los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "analice información, ordenando en una secuencia, categorizando, identificando las relaciones de causa y efecto, comparando, contrastando, encontrando la idea principal, resumiendo, formulando generalizaciones y predicciones y formulando inferencias y sacando conclusiones;"}
+        },
+        {
+            "competencyText": {"en-us": "organice e interprete información en bosquejos, reportes, bases de datos y visuales, incluyendo gráficos, diagramas, líneas cronológicas y mapas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique diferentes puntos de vista sobre un asunto, un tópico o un evento actual; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique el contexto histórico de un acontecimiento."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use terminología de estudios sociales en forma correcta;"}
+        },
+        {
+            "competencyText": {"en-us": "incorpore las ideas principales y secundarias en la comunicación verbal y escrita;"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en investigaciones y experiencias;"}
+        },
+        {
+            "competencyText": {"en-us": "cree material impreso y visual, tales como periódicos, reportes, organizadores gráficos, bosquejos y bibliografías; y"}
+        },
+        {
+            "competencyText": {"en-us": "use gramática, ortografía, sintaxis y puntuación estándar."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, identifique opciones, prediga las consecuencias y tome acción para implementar una decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Subcapítulo B. Educación intermedia"}
+        },
+        {
+            "competencyText": {"en-us": "Estudios Sociales, sexto grado, a partir del año escolar 2011-2012"},
+            "comment": {
+                "en-us": ["Fuente: Las disposiciones de §113.18 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "En sexto grado, los estudiantes estudian personas, lugares y sociedades del mundo contemporáneo. Las sociedades provienen de las siguientes regiones del mundo: Europa, Rusia y las repúblicas Eurásicas, América del norte, América central y el Caribe, América del sur, Asia occidental-África del norte, África negra o subsahariana, Asia del sur, Asia del este, Asia oriental, Australia y el reino del Pacífico. Los estudiantes describen la influencia de individuos y grupos en los eventos históricos y contemporáneos de dichas sociedades e identifican los lugares y las características geográficas de diversas sociedades. Los estudiantes identifican maneras de organizar los sistemas gubernamentales y económicos. Se introducen los conceptos de gobierno limitado e ilimitado y los estudiantes describen la naturaleza del concepto de ciudadanía en diversas sociedades. Los estudiantes comparan instituciones que todas las sociedades tienen en común, tales como el gobierno, la educación y las instituciones religiosas. Los estudiantes explican cómo el nivel de la tecnología afecta el desarrollo de diversas sociedades e identifican diferentes puntos de vista sobre los eventos. Se introduce el concepto de marco o sistema de referencia como una influencia en el punto de vista de un individuo."}
+        },
+        {
+            "competencyText": {"en-us": "Con el propósito de apoyar la enseñanza del conocimiento de las destrezas esenciales, el uso de una gran variedad de fuentes informativas primarias y secundarias tales como biografías, autobiografías, novelas, discursos, cartas, poesía, canciones, y obras de arte es crucial. Se pueden encontrar muchos recursos disponibles en museos, galerías de arte y lugares históricos."}
+        },
+        {
+            "competencyText": {"en-us": "Las ocho categorías del conocimiento y las destrezas esenciales para los Estudios sociales están interrelacionadas por motivos pedagógicos. Las destrezas de los estudios sociales que se listan en la sub sección (b) de esta sección deben incorporarse en la enseñanza de todos los conocimientos y destrezas esenciales para los estudios sociales. La comprensión profunda de un material pedagógico complejo se adquiere cuando el contenido de los estudios sociales de varias disciplinas, y las habilidades que promueven el pensamiento crítico se enseñan en forma conjunta. Las declaraciones que contienen la palabra \u201cincluyendo\u201d como un material referencial que se debe aprender, y las que contienen la frase \u201ctales como\u201d tienen la intención de servir como ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican la función que cumple el sistema de la libre empresa en los Estados Unidos dentro de los parámetros de este curso y entienden que este sistema también puede ser llamado capitalismo o sistema de libre mercado."}
+        },
+        {
+            "competencyText": {"en-us": "A través de toda la enseñanza de estudios sociales, desde Kindergarten al grado 12, los estudiantes forman una base en historia; geografía; economía; gobierno; ciudadanía; cultura; ciencias, tecnología y sociedad y en las destrezas de los estudios sociales. El contenido, el cual se ajusta a cada grado o curso escolar, capacita a los estudiantes para que aprendan la importancia del patriotismo, a funcionar en una sociedad de libre empresa y a apreciar los valores democráticos básicos de nuestro estado y nación, como se estipula en el Código de Educación de Texas, en sus siglas en inglés (TEC), §28.002(h)."}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes entienden que una república constitucional es una forma representativa de gobierno cuyos representantes basan su autoridad en el consentimiento de los gobernados, sirven por un período establecido y juran defender la constitución."}
+        },
+        {
+            "competencyText": {"en-us": "Las leyes estatales y federales requieren el cumplimiento de una variedad de celebraciones y días feriados, incluyendo la Semana de la libertad."}
+        },
+        {
+            "competencyText": {"en-us": "Cada una de las clases de estudios sociales deberá incluir, durante la celebración de la Semana de la libertad, de acuerdo al Código de Educación de Texas, por sus siglas en inglés TEC, §29.907, o durante otra semana completa del año, que los miembros del consejo directivo o del distrito hayan elegido, un tipo de instrucción apropiada que se relacione con la intención, el significado y la importancia de la Declaración de Independencia y la Constitución de EE.UU, incluyendo la Carta de Derechos, en su contexto histórico. El estudio de la Declaración de Independencia debe incluir el estudio de la relación de las ideas que se expresan en ese documento con ideas históricas posteriores en la nación, incluyendo la relación de estas ideas con la gran diversidad de la población, como nación de inmigrantes, con la Revolución estadounidense, con la formulación de la Constitución EE.UU y con el movimiento abolicionista, lo que condujo a la Proclamación de la Emancipación y al movimiento femenino en la lucha por el derecho a sufragar."}
+        },
+        {
+            "competencyText": {"en-us": "Cada distrito escolar deber requerir que durante la celebración de la Semana de la libertad o en otra semana de instrucción, como se prescribe en el subpárrafo (A) de este párrafo, los estudiantes que cursan los grados de tercero a doceavo estudien y reciten el siguiente texto: \u201cSostenemos como evidentes por sí mismas dichas verdades: que todos los hombres son creados iguales; que son dotados por su creador de ciertos derechos inalienables; que entre estos están la vida, la libertad y la búsqueda de la felicidad; que para garantizar estos derechos se instituyen entre los hombres los gobiernos, que derivan sus poderes legítimos del consentimiento de los gobernados.\u201d"}
+        },
+        {
+            "competencyText": {"en-us": "Los estudiantes identifican y analizan cómo las acciones de los ciudadanos estadounidenses y los gobiernos locales, estatales y federales han satisfecho o no los ideales que se sostienen en los documentos históricos fundamentales."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende que los eventos históricos influyen en los eventos contemporáneos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "encuentre características de varias sociedades contemporáneas, en regiones que se han originado de eventos históricos o factores tales como invasión, conquistas, colonización, inmigración y comercio; y"}
+        },
+        {
+            "competencyText": {"en-us": "analice los antecedentes históricos de varias sociedades contemporáneas para evaluar las relaciones entre los conflictos del pasado y las condiciones actuales."}
+        },
+        {
+            "competencyText": {"en-us": "Historia. El estudiante entiende las influencias de individuos y grupos de varias culturas en las diversas sociedades históricas y contemporáneas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa la influencia de los logros alcanzados por individuos y grupos en las diversas sociedades históricas y contemporáneas, tales como los clásicos griegos en asuntos de gobierno y la revolución estadounidense en la revolución francesa; y"}
+        },
+        {
+            "competencyText": {"en-us": "evalúe las contribuciones sociales, políticas, económicas y culturales de individuos y grupos de diversas sociedades, en el pasado y en el presente."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante utiliza herramientas geográficas para responder preguntas sobre geografía. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "postule y responda preguntas sobre geografía, incluyendo: ¿Dónde se encuentra? ¿Por qué se encuentra allí? ¿Qué tiene de significativo este lugar? ¿Cómo se relaciona esta ubicación con los lugares de otras personas, con otros lugares y otros medio ambientes?;"}
+        },
+        {
+            "competencyText": {"en-us": "postule y responda preguntas sobre los patrones y distribuciones geográficas de diversas regiones y países del mundo, como se muestra en mapas, gráficas, tablas, modelos y bases de datos;"}
+        },
+        {
+            "competencyText": {"en-us": "compare los diversos países y regiones del mundo mediante el uso de datos que provengan de herramientas geográficas, incluyendo mapas, gráficas, tablas, bases de datos y modelos; y"}
+        },
+        {
+            "competencyText": {"en-us": "cree mapas temáticos, gráficas, tablas, modelos y bases de datos, describiendo aspectos tales como población, enfermedades y actividades económicas de diversos países y regiones del mundo."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende los factores que influyen la ubicación y las características de las diversas sociedades contemporáneas, en mapas y globos terráqueos y usa las medidas de latitud y longitud para determinar ubicaciones absolutas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "localice diversas sociedades contemporáneas en mapas y globos terráqueos, usando las medidas de latitud y longitud para determinar una ubicación absoluta;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique los factores geográficos responsables de los patrones de población en lugares y regiones;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo la inmigración humana influye la idiosincrasia de lugares y regiones;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y localice rasgos geográficos físicos y humanos, tales como accidentes geográficos, cuerpos o extensiones de agua y centros urbanos de diversos lugares y regiones;"}
+        },
+        {
+            "competencyText": {"en-us": "haga diagramas de mapas para ilustrar diversos lugares y regiones; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la ubicación de los países más importantes del mundo tales como Canadá, México, Francia, Alemania, el Reino Unido, Italia, España, Noruega, Suecia, Rusia, África del sur, Nigeria, Iraq, Afganistán, Israel, Irán, India, Pakistán, la República Popular China, la República de China (Taiwán), Japón, Corea del norte y Corea del sur, Indonesia y Australia."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende cómo los factores geográficos influyen en el desarrollo económico, las relaciones políticas y las políticas de las sociedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique los factores geográficos responsables de la ubicación de las actividades económicas en lugares y regiones;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique factores geográficos, tales como ubicación, rasgos físicos, corredores y barreras de transportación y distribución de los recursos naturales que influyen la habilidad de una sociedad para controlar el territorio; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el impacto de los factores geográficos en el desarrollo económico y en las políticas domésticas y extranjeras de las sociedades."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende que los patrones geográficos son el resultado de los procesos físicos del medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa y explique los efectos de los procesos físicos del medio ambiente, tales como la erosión, las corrientes oceánicas y los terremotos en la superficie de la Tierra;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la ubicación de los recursos naturales renovables y no renovables, tales como agua fresca, combustible fósil, suelos fértiles y madera; y"}
+        },
+        {
+            "competencyText": {"en-us": "analice los efectos de la interacción entre los procesos físicos y el medio ambiente en los humanos."}
+        },
+        {
+            "competencyText": {"en-us": "Geografía. El estudiante entiende el impacto de las interacciones entre las personas y el medio ambiente físico en el desarrollo y las condiciones de lugares y regiones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y analice cómo las personas se han adaptado al medio ambiente físico en diversos lugares y regiones;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y analice las maneras de cómo las personas han modificado el medio ambiente físico, tales como minería, irrigación e infraestructura de transporte; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa las maneras en que la tecnología influye las interacciones humanas con el medio ambiente, tales como la construcción de represas para el control de las inundaciones."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende los factores de la producción en la economía de una sociedad. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa las maneras de cómo los factores de producción (recursos naturales, mano de obra, capital y empresarios) influyen las economías de diversas sociedades contemporáneas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los problemas o asuntos que surgen cuando hay escasez relativa de uno o más de los factores de la producción; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el impacto de la escasez relativa de recursos en el comercio internacional y la interdependencia económica, dentro de las sociedades y entre ellas."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende las diversas maneras que las personas utilizan para organizar sistemas económicos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare las maneras que las diversas sociedades utilizan para organizar la producción y la distribución de bienes y servicios;"}
+        },
+        {
+            "competencyText": {"en-us": "compare y contraste la libre empresa, las economías socialistas y comunistas en diversas sociedades contemporáneas, incluyendo los beneficios del sistema de libre empresa de los EE.UU;"}
+        },
+        {
+            "competencyText": {"en-us": "entienda la importancia de la moralidad y la ética en la mantención de un sistema de libre empresa funcional; y"}
+        },
+        {
+            "competencyText": {"en-us": "examine los registros de los sistemas económicos colectivos donde no hay mercado libre en las sociedades contemporáneas del mundo."}
+        },
+        {
+            "competencyText": {"en-us": "Economía. El estudiante entiende las categorías de las actividades económicas y los datos que se utilizan para medir el nivel económico de una sociedad. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "defina y de ejemplos del sector agrícola, distribución mayorista, distribución minorista, fabricación (bienes) y las industrias de servicios;"}
+        },
+        {
+            "competencyText": {"en-us": "describa los niveles del desarrollo económico de varias sociedades usando indicadores tales como expectativas de vida, producto doméstico bruto, en sus siglas en inglés GDP, GDP per cápita y la alfabetización; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa los efectos de las regulaciones gubernamentales y de los impuestos en el desarrollo económico y la planificación comercial."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende los conceptos de gobiernos limitados e ilimitados. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa ejemplos de gobiernos limitados e ilimitados, tales como constitucional (limitado) y totalitario (ilimitado);"}
+        },
+        {
+            "competencyText": {"en-us": "compare las características de gobiernos limitados e ilimitados;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las razones de porqué se limita el poder de un gobierno; y"}
+        },
+        {
+            "competencyText": {"en-us": "revise registros sobre el abuso de los derechos humanos en gobiernos limitados e ilimitados tales como la opresión de los cristianos en Sudán."}
+        },
+        {
+            "competencyText": {"en-us": "Gobierno. El estudiante entiende las diversas maneras en que la gente organiza los gobiernos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y de ejemplos de gobiernos gobernados por una persona, por unos pocos o por muchos."}
+        },
+        {
+            "competencyText": {"en-us": "compare las diversas maneras en que sociedades tales como China, Alemania, India y Rusia organizan sus gobiernos y cómo funcionan; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los orígenes históricos de las formas democráticas de gobierno tales como la Antigua Grecia."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende que la naturaleza del concepto de ciudadanía varía entre las sociedades. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa los roles y las responsabilidades de los ciudadanos en las diversas sociedades contemporáneas, incluyendo los Estados Unidos;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo las oportunidades que los ciudadanos tienen de participar y de influir en el proceso político, varían entre las diversas sociedades contemporáneas; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare el rol que cumplen los ciudadanos de los Estados Unidos con los roles de ciudadanos de diversas sociedades contemporáneas, en gobiernos representativos y no representativos."}
+        },
+        {
+            "competencyText": {"en-us": "Ciudadanía. El estudiante entiende la relación entre los derechos individuales, las responsabilidades, los deberes y la libertad de las sociedades que tienen gobiernos representativos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique el deber de la participación cívica en las sociedades con gobiernos representativos;"}
+        },
+        {
+            "competencyText": {"en-us": "explique las relaciones entre los derechos, responsabilidades y deberes en las sociedades con gobiernos representativos."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las similitudes y las diferencias dentro de las culturas y entre las culturas de las diversas sociedades del mundo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "defina cultura y los rasgos comunes que unifican la cultura de una región;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa rasgos comunes que definen las culturas ;"}
+        },
+        {
+            "competencyText": {"en-us": "defina una sociedad multicultural y considere ambas, las cualidades positivas y negativas del multiculturalismo;"}
+        },
+        {
+            "competencyText": {"en-us": "analice las experiencias y evalúe las contribuciones de grupos diversos en las sociedades multiculturales;"}
+        },
+        {
+            "competencyText": {"en-us": "analice las similitudes y las diferencias entre las diversas sociedades del mundo; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique ejemplos de conflictos y de cooperación entre dos culturas y entre diversas culturas."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende que todas las sociedades tienen instituciones básicas en común, aunque las características de dichas instituciones pueden ser distintas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las instituciones básicas de todas las sociedades, incluyendo instituciones gubernamentales, económicas, educacionales y religiosas;"}
+        },
+        {
+            "competencyText": {"en-us": "compare las características de las instituciones en diversas sociedades contemporáneas; y"}
+        },
+        {
+            "competencyText": {"en-us": "analice los esfuerzos y las actividades que las instituciones llevan a cabo para sostenerse en el tiempo, tales como el desarrollo de una ciudadanía bien informada a través de una buena educación y a través del uso de arquitectura monumental de las instituciones religiosas."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las relaciones que existen entre las culturas del mundo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa cómo se expanden rasgos culturales tales como el comercio, los viajes y la guerra;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa los factores que influencian el cambio cultural, tales como el mejoramiento de las comunicaciones, el transporte y el desarrollo económico;"}
+        },
+        {
+            "competencyText": {"en-us": "evalúe el impacto de una tecnología que mejora las comunicaciones entre las culturas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y defina el impacto de la difusión cultural entre los individuos y las sociedades mundiales; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de los efectos negativos y positivos de la difusión de la cultura."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende la relación que existe entre las artes y las sociedades en las que se producen. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique las relaciones que existen entre las sociedades y su arquitectura, arte, música y literatura;"}
+        },
+        {
+            "competencyText": {"en-us": "relacione las maneras en que las expresiones culturales contemporáneas han recibido influencias del pasado;"}
+        },
+        {
+            "competencyText": {"en-us": "describa las maneras en que la influencia de los asuntos contemporáneos influyen en las expresiones creativas; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ejemplos de arte, música y literatura que han trascendido las barreras de las sociedades y transmiten temas universales, tales como religión, justicia y el paso del tiempo."}
+        },
+        {
+            "competencyText": {"en-us": "Cultura. El estudiante entiende las relaciones entre religión, filosofía y cultura. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explique la relación entre las ideas religiosas, las ideas políticas y las culturas; y"}
+        },
+        {
+            "competencyText": {"en-us": "explique el significado de los días festivos religiosos y días festivos tales como la Navidad, Pascua de Resurrección, Ramadan, el hajj anual, Yom Kippur, Rosh Hashanah, Diwali (Festival de las luces) y Vaisakhi en diversas sociedades contemporáneas."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencia, tecnología y sociedad. El estudiante entiende las influencias de las ciencias y la tecnología en las sociedades contemporáneas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "de ejemplos de descubrimientos científicos e innovaciones tecnológicas, incluyendo los roles de los científicos e inventores que han trascendido las barreras de las sociedades y han modelado el mundo;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo los recursos, los sistemas de creencias, los factores económicos y las decisiones políticas han afectado el uso de la tecnología; y"}
+        },
+        {
+            "competencyText": {"en-us": "formule predicciones sobre futuros impactos sociales, políticos, económicos y del medio ambiente, que podrían originarse de futuros descubrimientos científicos e innovaciones tecnológicas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza las habilidades del pensamiento crítico para organizar y usar la información que adquiere de una variedad de fuentes válidas, incluyendo la tecnología electrónica. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "Distinga, localice y use fuentes válidas primarias y secundarias, tales como programas computacionales; entrevistas; biografías; material oral visual e impreso; documentos y artefactos para adquirir información sobre diversas culturas del mundo;"}
+        },
+        {
+            "competencyText": {"en-us": "analice información, ordenando en una secuencia, categorizando, identificando las relaciones de causa y efecto, comparando, contrastando, encontrando la idea principal, resumiendo, formulando generalizaciones y predicciones y formulando inferencias y sacando conclusiones;"}
+        },
+        {
+            "competencyText": {"en-us": "organice e interprete información en bosquejos, reportes, bases de datos y visuales, incluyendo gráficos, diagramas, líneas cronológicas y mapas;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique diferentes puntos de vista sobre un asunto, un tópico o un evento actual;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los elementos de un sistema o marco de referencia que influenció los participantes en un evento; y"}
+        },
+        {
+            "competencyText": {"en-us": "use habilidades matemáticas apropiadas para interpretar la información de los estudios sociales tales como mapas y gráficas."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante se comunica en forma oral, visual y escrita. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use terminología de estudios sociales en forma correcta;"}
+        },
+        {
+            "competencyText": {"en-us": "incorpore las ideas principales y secundarias en la comunicación verbal y escrita, basándose en investigaciones;"}
+        },
+        {
+            "competencyText": {"en-us": "exprese sus ideas oralmente basándose en investigaciones y experiencias;"}
+        },
+        {
+            "competencyText": {"en-us": "cree material impreso y visual, tales como periódicos, reportes, organizadores gráficos, bosquejos y bibliografías, basándose en investigaciones; y"}
+        },
+        {
+            "competencyText": {"en-us": "use gramática, ortografía, sintaxis y puntuación estándar; y"}
+        },
+        {
+            "competencyText": {"en-us": "use citas correctas para evitar el plagio."}
+        },
+        {
+            "competencyText": {"en-us": "Destrezas de los estudios sociales. El estudiante utiliza habilidades para resolver problemas y tomar decisiones, en forma independiente y con otros, en diferentes ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar un problema, reúna información, haga una lista y considere opciones, considere las ventajas y desventajas, elija e implemente una solución y evalúe la efectividad de la solución; y"}
+        },
+        {
+            "competencyText": {"en-us": "use un proceso de solución de problemas para identificar una situación que requiere una decisión, reúna información, identifique opciones, prediga las consecuencias y tome acción para implementar una decisión."}
+        },
+        {
+            "competencyText": {"en-us": "Implementación de los conocimientos y destrezas esenciales de Texas para los Estudios Sociales de la educación primaria, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": [
+                    "Fuente: Las disposiciones §113.10 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232",
+                    " enmendadas para entrar en vigor el 17 de octubre del 2011, 36 TexReg 6946."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Las disposiciones de §§113.11-113.16 de este subcapítulo deben ser implementadas por los distritos escolares a partir del año escolar 2010\u20132011."}
+        },
+        {
+            "competencyText": {"en-us": "Implementación de los conocimientos y destrezas esenciales de Texas para los Estudios Sociales de la educación intermedia, a partir del año escolar 2011-2012."},
+            "comment": {
+                "en-us": [
+                    "Fuente: Las disposiciones §113.17 adoptadas para entrar en vigor el 23 de agosto del 2010, 35 TexReg 7232",
+                    " enmendadas para entrar en vigor el 17 de octubre del 2011, 36 TexReg 6946."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Las disposiciones de §§113.18-113.20 de este subcapítulo deben ser implementadas por los distritos escolares a partir del año escolar 2010\u20132011."}
+        }
+    ]
+}

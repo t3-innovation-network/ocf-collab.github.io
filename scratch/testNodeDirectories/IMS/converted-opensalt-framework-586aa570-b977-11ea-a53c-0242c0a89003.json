@@ -1,0 +1,990 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/586aa570-b977-11ea-a53c-0242c0a89003",
+        "name": {"en-us": "Kentucky Academic Standards: Career Studies and Financial Literacy"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grades K-3 (Primary)"}
+        },
+        {
+            "competencyText": {"en-us": "Essential Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Adaptability"}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to approach and/or solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate flexibility and willingness to try new things (e.g., changes in schedules, routines, procedures)."}
+        },
+        {
+            "competencyText": {"en-us": "Diligence"}
+        },
+        {
+            "competencyText": {"en-us": "Practice resilience and perseverance by showing willingness to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Create and complete short-term goals (e.g. SMART goals)."}
+        },
+        {
+            "competencyText": {"en-us": "Initiative"}
+        },
+        {
+            "competencyText": {"en-us": "Identify tasks that need to be completed and take action."}
+        },
+        {
+            "competencyText": {"en-us": "Practice personal responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Engage effectively in a range of developmentally appropriate collaborative discussions (one-on-one, in groups and teacher led)."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that differences exist in individuals, families and communities."}
+        },
+        {
+            "competencyText": {"en-us": "Drug-Free"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how household products and medications may be harmful when used incorrectly."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate strategies to resolve conflicts with guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Follow classroom norms and procedures in various activities and settings."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how reading, writing and mathematics skills are necessary career and life skills."}
+        },
+        {
+            "competencyText": {"en-us": "Reliability"}
+        },
+        {
+            "competencyText": {"en-us": "Complete tasks on time."}
+        },
+        {
+            "competencyText": {"en-us": "Practice ethical behavior (e.g., honesty, trust, compassion, acceptance) in various situations with guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit self-control with guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Careers"}
+        },
+        {
+            "competencyText": {"en-us": "Exploration"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reasons why people need to work (e.g., chores, jobs, employment) to meet basic needs and personal goals (e.g., food, clothing, shelter)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and expose students to different job opportunities that are available in the community (e.g., career day, field trips, virtual field trips, guest speakers)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how interests, values and abilities influence career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Preparation"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how academic content students learn in school (e.g., mathematics, reading/writing, science, social studies) impacts future jobs/careers."}
+        },
+        {
+            "competencyText": {"en-us": "Learn and practice responsible digital citizenship."}
+        },
+        {
+            "competencyText": {"en-us": "Application"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow agreed-upon work skills (e.g., attendance, respect, preparedness, quality of work, time-management) that are necessary for both the classroom and workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between buying and borrowing."}
+        },
+        {
+            "competencyText": {"en-us": "Credit & Debt"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the difference between wants (e.g., skateboard, video games) and needs (e.g., food, clothing and shelter) and the relationship to consumer decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making & Money Management"}
+        },
+        {
+            "competencyText": {"en-us": "Identify why people make financial choices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to keep possessions, including money, safely at home and other places."}
+        },
+        {
+            "competencyText": {"en-us": "Insurance & Risk Management"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the reasons for not sharing personal information with strangers."}
+        },
+        {
+            "competencyText": {"en-us": "Explore ways people pay for goods or services."}
+        },
+        {
+            "competencyText": {"en-us": "Identify things people buy (e.g., goods, services (i.e., tasks performed by others), leisure activities, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Money & The Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Describe how financial decisions impact the achievement of short and long-term goals."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how planning helps people make choices about how to use their money."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate different ways to save money (e.g., piggy bank, local bank, credit union)."}
+        },
+        {
+            "competencyText": {"en-us": "Saving & Investing"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that people need to work to meet basic needs."}
+        },
+        {
+            "competencyText": {"en-us": "Careers, Education & Income"}
+        },
+        {
+            "competencyText": {"en-us": "Grades 4-5 (Intermediate)"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how credit is used a basic financial tool."}
+        },
+        {
+            "competencyText": {"en-us": "Credit & Debt"}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors and experiences, such as role models and peer pressure, which affect spending patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making & Money Management"}
+        },
+        {
+            "competencyText": {"en-us": "Develop a basic budget which includes income, expenses and savings for a specific purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how financial management is needed to meet the goals of individuals and families by:"}
+        },
+        {
+            "competencyText": {"en-us": "Describe reasons (i.e., financial goals) people invest for the future."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the purpose of insurance and give examples of financial risks that are covered by insurance."}
+        },
+        {
+            "competencyText": {"en-us": "Insurance & Risk Management"}
+        },
+        {
+            "competencyText": {"en-us": "List types of personal information that should not be disclosed to others in person or online."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different payment methods (e.g., writing a check, using a debit or credit card, paying online or with a mobile device)."}
+        },
+        {
+            "competencyText": {"en-us": "Money & The Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Describe various services (e.g., deposits, check cashing) provided by financial institutions (e.g. banks, credit unions)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how investing puts money to work to earn more money for the future."}
+        },
+        {
+            "competencyText": {"en-us": "Saving & Investing"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the financial impacts of a career choice (e.g., financial goals, desired lifestyles, values)."}
+        },
+        {
+            "competencyText": {"en-us": "Careers, Education & Income"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate resilience and perseverance by showing willingness to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Diligence"}
+        },
+        {
+            "competencyText": {"en-us": "Create and prioritize short-term goals."}
+        },
+        {
+            "competencyText": {"en-us": "Essential Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Adaptability"}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to approach and/or solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate flexibility and willingness to try new things (e.g., critical thinking, problem solving)."}
+        },
+        {
+            "competencyText": {"en-us": "Use failure as a learning opportunity."}
+        },
+        {
+            "competencyText": {"en-us": "Initiative"}
+        },
+        {
+            "competencyText": {"en-us": "Practice on-task behaviors with minimal direction."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that differences exist in individuals, families, communities, cultures and varying points of view."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Engage effectively in a range of developmentally appropriate collaborative discussions (one-on-one, in groups and teacher led)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate strategies to resolve conflicts with guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Use various sources of career information (e.g., Career Day, guest speaker, field trips, virtual field trips, career fairs, career websites) to evaluate jobs/careers that reflect individual interests/needs."}
+        },
+        {
+            "competencyText": {"en-us": "Preparation"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how academic content learned in school (e.g., mathematics, reading/writing, science, social studies) impacts future jobs/careers."}
+        },
+        {
+            "competencyText": {"en-us": "Careers"}
+        },
+        {
+            "competencyText": {"en-us": "Explain why people need to work (e.g., earn money, contribute to society, develop identity as a worker, enhance self-esteem to meet basic needs (food, clothing, shelter) and for personal satisfaction and enjoyment)."}
+        },
+        {
+            "competencyText": {"en-us": "Exploration"}
+        },
+        {
+            "competencyText": {"en-us": "Describe jobs done by employees and other individuals in the community, state and world."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe jobs within the 16 KY Career Clusters (e.g., Information Technology, Manufacturing, Health Science and Transportation, Distribution and Logistics)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow agreed-upon collaborative skills (e.g., attendance, respect, preparedness, quality of work, time-management) that are necessary for both the classroom and workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Application"}
+        },
+        {
+            "competencyText": {"en-us": "Follow classroom procedures, activities, and behavior in various settings."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Practice personal responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "Complete tasks on time."}
+        },
+        {
+            "competencyText": {"en-us": "Reliability"}
+        },
+        {
+            "competencyText": {"en-us": "Apply reading, writing and mathematics skills to authentic, real-world tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Practice ethical behavior (e.g., honesty, trust, compassion, acceptance) in various situations with minimal guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Drug-Free"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the risk associated with the inappropriate use of household products, medications and alcohol."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit self-control with minimal guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of individual interests, values and abilities on career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Learn, understand and apply responsible digital citizenship practices (e.g., privacy, communication, safe web exploration, online searching)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways people earn income (e.g., wages, salaries, tips)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how borrowing money (credit) is more expensive than paying cash (e.g., interest, fees)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that people are required to pay taxes for which they receive government services."}
+        },
+        {
+            "competencyText": {"en-us": "Grades 6-8 (Middle School)"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the costs and benefits of buying on credit that are key to making a good borrowing decision."}
+        },
+        {
+            "competencyText": {"en-us": "Credit & Debt"}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making & Money Management"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate financial management resources and how they are needed to meet the goals of individuals and families by:"}
+        },
+        {
+            "competencyText": {"en-us": "Apply decision making strategies when buying products."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and evaluate products and services based on major factors (e.g., brand name, price, quality feature, availability) when making consumer decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Insurance & Risk Management"}
+        },
+        {
+            "competencyText": {"en-us": "Research federal government depository insurance coverage and limits related to consumer bank and credit union accounts."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the use of insurance to cover risk of financial loss (e.g. liability, health, auto, renter, home)."}
+        },
+        {
+            "competencyText": {"en-us": "Careers, Education & Income"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how income can be earned (e.g., wages, commission) or unearned (e.g., interest, capital gains)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and manage financial goals for the future based on one\u2019s career choice and lifestyle expectations to meet the needs of individuals and families."}
+        },
+        {
+            "competencyText": {"en-us": "Saving & Investing"}
+        },
+        {
+            "competencyText": {"en-us": "List examples of investments for current income and investments for future growth."}
+        },
+        {
+            "competencyText": {"en-us": "Money & The Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the relationship between supply and demand and their role in meeting consumer needs."}
+        },
+        {
+            "competencyText": {"en-us": "Compare a variety of credit sources from which consumers can choose to borrow."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate resilience and perseverance by showing willingness to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Diligence"}
+        },
+        {
+            "competencyText": {"en-us": "Essential Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Adaptability"}
+        },
+        {
+            "competencyText": {"en-us": "Practice ethical behavior (e.g., honesty, trust, compassion, acceptance) in various situations."}
+        },
+        {
+            "competencyText": {"en-us": "Reliability"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate consistent punctuality in a variety of activities with minimal guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe appropriate attire for various situations."}
+        },
+        {
+            "competencyText": {"en-us": "Practice problem solving skills in a variety of situations to apply to real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Model flexibility and willingness to try new things (e.g., critical thinking, problem solving)."}
+        },
+        {
+            "competencyText": {"en-us": "Initiative"}
+        },
+        {
+            "competencyText": {"en-us": "Apply failure as a learning opportunity."}
+        },
+        {
+            "competencyText": {"en-us": "Practice on-task behaviors with minimal direction."}
+        },
+        {
+            "competencyText": {"en-us": "Practice, apply and evaluate personal responsibility and pride in assigned work (e.g., asking clarifying questions, self-directed learning, self-initiated learning)."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Respect individual differences and work collaboratively with people of diverse backgrounds, viewpoints and experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Engage effectively in a range of age appropriate collaborative discussions (one-on-one, in groups and teacher led)."}
+        },
+        {
+            "competencyText": {"en-us": "Practice effective conflict resolution strategies with minimal guidance."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Apply reading, writing, mathematics, science and technology skills to authentic, real-world tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Apply and explain important concepts in learning to an authentic audience."}
+        },
+        {
+            "competencyText": {"en-us": "Drug-Free"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the consequences of substance abuse."}
+        },
+        {
+            "competencyText": {"en-us": "Outline goals (short and long-term) and prioritize as necessary to complete task."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how skills (both academic and technical) necessary for a variety of career pathways may be gained through extracurricular activities, community experience, volunteer work, etc."}
+        },
+        {
+            "competencyText": {"en-us": "Preparation"}
+        },
+        {
+            "competencyText": {"en-us": "Careers"}
+        },
+        {
+            "competencyText": {"en-us": "Exploration"}
+        },
+        {
+            "competencyText": {"en-us": "Identify resources (technology, counselors, shadowing, mentoring, career fairs, class speakers) that can be used for locating job and career information."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how career choices impact lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the cost (monetary and time) of post-secondary and technical education, including possible sources of funding."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how roles in the workplace and community are constantly changing (e.g., librarian to media specialist, remote employment opportunities) due to supply and demand and technological impacts on industry."}
+        },
+        {
+            "competencyText": {"en-us": "Application"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow agreed-upon work skills (e.g., attendance, respect, preparedness, quality of work, time-management) that are necessary for both the classroom and workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Use various sources of career information (e.g., Career Day, guest speaker, field trips, virtual field trips, career fairs, career websites) to evaluate jobs/careers that reflect individual interests/needs."}
+        },
+        {
+            "competencyText": {"en-us": "Create and maintain an Individual Learning Plan (ILP) as a tool to explore self-knowledge and academic aptitude by relating interests, values and abilities to career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit self-control."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the need for random drug screening."}
+        },
+        {
+            "competencyText": {"en-us": "Use information from personal inventory surveys to explore and evaluate jobs within the 16 KY Career Clusters to guide educational pathway choices at the secondary level."}
+        },
+        {
+            "competencyText": {"en-us": "Identify high school and career/technical center courses and programs that support career or occupational areas of interest."}
+        },
+        {
+            "competencyText": {"en-us": "Apply responsible digital citizenship practices (e.g., intellectual property, copyright, online reputation, cyberbullying, digital footprint)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between personal behavior and employability (e.g., academic achievement, extracurricular activities, community involvement, impact of online behavior, digital citizenship)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain net income (i.e., wages and salaries minus payroll deductions equal net income or take-home pay)."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate how culture, media and technology impact the family and consumer decision making by:"}
+        },
+        {
+            "competencyText": {"en-us": "Grades 9-12 (High School)"}
+        },
+        {
+            "competencyText": {"en-us": "Develop strategies to control and manage credit and debt."}
+        },
+        {
+            "competencyText": {"en-us": "Credit & Debt"}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Decision Making & Money Management"}
+        },
+        {
+            "competencyText": {"en-us": "Identify why people make financial choices:"}
+        },
+        {
+            "competencyText": {"en-us": "Apply a formal decision-making model to make financial decisions, e.g., PACED:\r\n\r\n* Identify the Problem\r\n* List Alternatives\r\n* Explain Criteria\r\n* Evaluate\r\n* Decide"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the components of a personal budgeting process:"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major types of financial institutions and their products (e.g., certificate of deposit (CD), money market, checking/savings accounts) and services."}
+        },
+        {
+            "competencyText": {"en-us": "Insurance & Risk Management"}
+        },
+        {
+            "competencyText": {"en-us": "Identify common types of risk management strategies, including insurance, legal contracts, emergency funds and estate planning."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the costs and benefits of using various insurance management strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Careers, Education & Income"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how economic conditions can affect income and career opportunities (e.g. job outlook and cost of living)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the financial impacts of a career choice."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the costs of funding sources for post-secondary education and training."}
+        },
+        {
+            "competencyText": {"en-us": "Saving & Investing"}
+        },
+        {
+            "competencyText": {"en-us": "Examine implications of the time value of money:"}
+        },
+        {
+            "competencyText": {"en-us": "Money & The Economy"}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the role and function of money in society:"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the costs and benefits of using credit."}
+        },
+        {
+            "competencyText": {"en-us": "Use a decision-making process to develop solutions to real world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Adaptability"}
+        },
+        {
+            "competencyText": {"en-us": "Essential Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Initiative"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate failure as a learning opportunity."}
+        },
+        {
+            "competencyText": {"en-us": "Model on-task behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate and evaluate personal responsibility and pride in assigned work (e.g., asking clarifying questions, self-directed learning, self-initiated learning, quality of work)."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Initiate and participate effectively in a range of collaborative discussions with diverse partners, building on others\u2019 ideas and expressing their own clearly and persuasively."}
+        },
+        {
+            "competencyText": {"en-us": "Respect individual differences and work collaboratively with people of diverse backgrounds, viewpoints and experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Practice effective conflict resolution strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Diligence"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate resilience and perseverance by showing willingness to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Outline and examine goals and priorities necessary to complete tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge"}
+        },
+        {
+            "competencyText": {"en-us": "Apply important concepts in reading, writing, mathematics, science and technology to solve real- world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Defend important concepts in learning to an authentic audience (e.g., city council, business and community partners)."}
+        },
+        {
+            "competencyText": {"en-us": "Reliability"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate consistent punctuality in a variety of activities."}
+        },
+        {
+            "competencyText": {"en-us": "Propose appropriate attire for various situations."}
+        },
+        {
+            "competencyText": {"en-us": "Practice ethical behavior (e.g., honesty, trust, compassion, acceptance) in various situations."}
+        },
+        {
+            "competencyText": {"en-us": "Model self-control in all situations."}
+        },
+        {
+            "competencyText": {"en-us": "Drug-Free"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the consequences of substance abuse."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the need for random drug screening."}
+        },
+        {
+            "competencyText": {"en-us": "Model flexibility and willingness to try new things (e.g., critical thinking, problem solving)."}
+        },
+        {
+            "competencyText": {"en-us": "Examine a variety of resources available in selecting and planning for various occupations in a career cluster or pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Preparation"}
+        },
+        {
+            "competencyText": {"en-us": "Careers"}
+        },
+        {
+            "competencyText": {"en-us": "Application"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow agreed-upon work skills (e.g., attendance, respect, preparedness, quality of work, time-management) that are necessary for both the classroom and workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Exploration"}
+        },
+        {
+            "competencyText": {"en-us": "Explore various post-secondary options related to chosen career cluster or pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a plan for the expense of post-secondary education, including possible sources of funding (e.g., loans, scholarships, grants, military)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop common skills, e.g., academic and technical, including extracurricular activities, community experience, volunteer work, etc., that allow for a variety of opportunities in a chosen career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Assess and modify the educational plan to prepare for future career opportunities by:"}
+        },
+        {
+            "competencyText": {"en-us": "Explore opportunities to develop skills needed to obtain and retain a job/career (e.g., visiting post- secondary institutions, apprenticeships, internships)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a chosen career, including educational requirements, skills necessary to perform the job, potential earnings and job outlook in a geographical area."}
+        },
+        {
+            "competencyText": {"en-us": "Research and predict additional requirements/training that would create opportunities of growth within the career/field."}
+        },
+        {
+            "competencyText": {"en-us": "Document and reflect upon mastered skills (e.g., portfolio, resume, application packet, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Practice being a good digital citizen (e.g., intellectual property, copyright, online reputation, cyberbullying, digital footprint)."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the relationship between personal behavior and employability (e.g., academic achievement, industry certifications, extracurricular activities, community involvement, driving record, impact of online behavior)."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze components of employment compensation:"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the factors that determine net income."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to use different payment methods including checks, debit cards and digital services."}
+        },
+        {
+            "competencyText": {"en-us": "Compare various types of financial professionals (e.g., financial planners, counselors, certified public accountants (CPA), investment consultants and insurance agents), their credentials, their compensation methods, selection criteria and possible conflicts of interest."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate investment alternatives:"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the components of a prudent investment strategy compatible with personal financial goals:\r\n\r\n* Risk versus reward\r\n* Risk tolerance\r\n* Diversification\r\n* Rebalancing"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of financial intermediaries in the economy (i.e., facilitates exchange between savers and lenders)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how government uses taxation to generate revenue, manage the economy and discourage/encourage certain behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that markets determine prices and allocate scarce goods and services through the forces of supply and demand."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of the government in administering social insurance programs such as unemployment, workers\u2019 compensation, Medicare, Medicaid and Old-Age, Survivors and Disability Insurance (OASDI), otherwise known as Social Security."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of regulatory agencies, e.g.:\r\n\r\n* Federal Reserve\r\n* Federal Deposit Insurance Corporation (FDIC)\r\n* National Credit Union Administration (NCUA)\r\n* Federal Trade Commission (FTC)\r\n* Securities and Exchange Commission (SEC)\r\n* Financial Industry Regulatory Authority (FINRA)\r\n* Internal Revenue Service (IRS)\r\n* State regulatory agencies"}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies for protecting personal financial information and resources."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt speech, using both verbal and nonverbal skills, to a variety of situations using formal English when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Follow agreed-upon rules for discussions (e.g., listening to others, speaking one at a time)."}
+        },
+        {
+            "competencyText": {"en-us": "Speak clearly at an understandable pace using appropriate facts and relevant, descriptive details and complete sentences when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions about what a speaker says in order to clarify comprehension, gather additional information or deepen understanding of a topic or issue."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ideas and understanding in light of the discussion."}
+        },
+        {
+            "competencyText": {"en-us": "Stay on topic and link comments to the remarks of others when responding to others\u2019 ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Follow agreed-upon rules for discussions (e.g. practice active listening and taking turns speaking)."}
+        },
+        {
+            "competencyText": {"en-us": "Speak clearly at an understandable pace using appropriate facts and relevant, descriptive details and complete sentences when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Pose and respond to specific questions to clarify or follow up on information and make comments that contribute to the discussion and link to the remarks of others."}
+        },
+        {
+            "competencyText": {"en-us": "Use the reasons and evidence a speaker provides to refine ideas when responding to others\u2019 ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt speech, using both verbal and nonverbal skills, to a variety of situations using formal English when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "describing various types of expenses (e.g., food, clothing, entertainment) and savings (e.g., piggy bank, bank account)."}
+        },
+        {
+            "competencyText": {"en-us": "investigating goals related to money that might affect individuals and families and their values."}
+        },
+        {
+            "competencyText": {"en-us": "Work with peers to create rules for collegial discussions and decision making (e.g., informal consensus, taking votes on key issues, presentation of alternate views)."}
+        },
+        {
+            "competencyText": {"en-us": "Speak clearly at an understandable pace using appropriate facts and relevant, descriptive details and complete sentences when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Pose and respond to questions that connect the ideas of others\u2019 and comment with relevant evidence, observations and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Acknowledge new information expressed by others, and, when warranted, qualify or justify their own views in light of the evidence presented."}
+        },
+        {
+            "competencyText": {"en-us": "Present claims and findings, sequencing ideas logically and using pertinent descriptions, facts and details to accentuate main ideas or themes; using appropriate eye contact, adequate volume and clear pronunciation."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt speech, using both verbal and nonverbal skills, to a variety of situations, demonstrating command of formal English when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "prioritizing financial goals."}
+        },
+        {
+            "competencyText": {"en-us": "creating a budget including income, expenses (fixed/flexible), and savings."}
+        },
+        {
+            "competencyText": {"en-us": "developing and explaining a savings plan and budget based on specific short and long- term financial goals"}
+        },
+        {
+            "competencyText": {"en-us": "explaining ways consumer buying practices are influenced by social factors, economic principles, peer pressure, desire for status and advertising techniques."}
+        },
+        {
+            "competencyText": {"en-us": "exploring the impact of positive and negative effects of advertising techniques (e.g., bandwagon, facts and figures, emotional appeal, endorsement/testimonials, free samples, coupons, use of gimmicks, misleading/false information, social media)."}
+        },
+        {
+            "competencyText": {"en-us": "creating and continuously updating the Individual Learning Plan."}
+        },
+        {
+            "competencyText": {"en-us": "making decisions and setting goals for future plans."}
+        },
+        {
+            "competencyText": {"en-us": "demonstrating appropriate job seeking skills (e.g., college applications and scholarships, completing resume, job applications, participating in mock interviews)."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the relationship between personal financial goals and career choice."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the correlation between education, training and potential lifetime income."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages of being an employee versus being self-employed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify funding sources (e.g. loans, scholarships, grants, work-study, military) to assist in post-secondary education opportunities and applicable costs."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the process for and benefits of Free Application for Federal Student Aid (FAFSA) completion."}
+        },
+        {
+            "competencyText": {"en-us": "Compare compensation methods including hourly, salary and commission-based packages."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate benefits packages and retirement plan options and how they add value to your overall compensation."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that salaries and benefits may be negotiable."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret a paycheck stub."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between gross, net, and taxable income."}
+        },
+        {
+            "competencyText": {"en-us": "Define the purpose of IRS forms (e.g., W-4, I-9, W-2, and 1099)."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the components of a credit report."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate ways that credit scores can affect a consumer\u2019s financial options."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the organizations providing credit counseling services."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the causes of and implications of bankruptcy."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the purpose and role of credit and explain the value of building and maintaining a healthy credit rating, including elements of creditworthiness: character, capacity, capital, collateral and conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the advantages and disadvantages of basic types of credit (e.g. unsecured versus. secured credit, credit cards, installment loans, revolving credit, student loans and predatory lenders)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the risks, responsibilities and rights associated with using credit (e.g. annual percentage rate (APR), grace period, late fees, finance charges, default rates, interest and closing costs)."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the role of emotions, attitudes and behavior in making financial decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that individuals are responsible for their own financial decisions and for subsequent positive and negative consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the opportunity costs of short and long-term financial decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the opportunity costs of saving versus spending."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze inflation and its effect on purchasing power."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate compound interest and explain the benefits of investing early."}
+        },
+        {
+            "competencyText": {"en-us": "Align goals with desired lifestyle expectations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a budget based on calculated income."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and prioritize fixed, variable, and periodic expenses."}
+        },
+        {
+            "competencyText": {"en-us": "Emphasize the importance of proactive budget priorities (e.g., pay yourself first, emergency fund, insurance and charitable contributions)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare tools for tracking of a budget, income and expenditures (e.g., the envelope system, paper tracking and online or software options)."}
+        },
+        {
+            "competencyText": {"en-us": "Emphasize the importance of comparison shopping, buying strategies, negotiation, and sales/marketing strategies in purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a system for maintaining personal financial documents including proper storage and disposal."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between insured deposits and uninsured investments."}
+        },
+        {
+            "competencyText": {"en-us": "Compare traditional and Roth Individual Retirement Accounts (IRA)."}
+        },
+        {
+            "competencyText": {"en-us": "Examine various types of employer-sponsored retirement opportunities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe mutual funds, Exchange Traded Funds, stocks and bonds."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the functions of money: medium of exchange, unit of measure, and store of value."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how money facilitates trade, borrowing, saving, investing, and comparing the value of goods and services."}
+        },
+        {
+            "competencyText": {"en-us": "Explain that inflation is an increase in the overall price level that reduces the value of money."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major types of insurance:\r\n*\tliability\r\n*\tproperty and casualty (auto, motorcycle, boat, jewelry, etc.)\r\n*\thealth/dental/vision\r\n*\tlife\r\n*\thomeowners/renters\r\n*\tdisability"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the tax implications of insurance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to avoid identity theft and fraud, such as securing sensitive financial data, using care in online activities and properly disposing of sensitive documents."}
+        },
+        {
+            "competencyText": {"en-us": "Describe steps to recover from fraud and identity theft."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss ways to avoid financial scams such as Ponzi schemes and other illegal practices."}
+        },
+        {
+            "competencyText": {"en-us": "Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines and individual roles as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Speak clearly at an understandable pace using appropriate facts and relevant, descriptive details and complete sentences when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task."}
+        },
+        {
+            "competencyText": {"en-us": "Present information, findings and supporting evidence, conveying a clear and distinct perspective, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience and a range of formal and informal tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt speech, using both verbal and nonverbal skills, to a variety of situations, demonstrating command of formal English when appropriate."}
+        }
+    ]
+}

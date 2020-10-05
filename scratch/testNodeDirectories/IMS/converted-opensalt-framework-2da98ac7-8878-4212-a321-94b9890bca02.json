@@ -1,0 +1,997 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/2da98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Special Skills"},
+        "description": {"en-us": "Special Skills Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade PreK-12"}
+        },
+        {
+            "competencyText": {"en-us": "Visual Impairment"}
+        },
+        {
+            "competencyText": {"en-us": "Compensatory or Functional Skills Including Communication Modes"}
+        },
+        {
+            "competencyText": {"en-us": "Apply tactile discrimination skills, such as identifying differences in characteristics of three-dimensional objects&mdash;size, shape, texture, and weight."}
+        },
+        {
+            "competencyText": {"en-us": "Apply listening and auditory skills, such as discriminating sounds and associating concepts, actions, and ideas with expressive language."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a personal time management and organizational system for academic studies."}
+        },
+        {
+            "competencyText": {"en-us": "Perform fine motor tasks, such as handwriting/signature writing."}
+        },
+        {
+            "competencyText": {"en-us": "Use tactile discrimination skills to interpret objects, symbols, and graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Apply braille skills, including pre-braille; use of braille writing tools; braille book skills; uncontracted, contracted, and tactile graphics; and Nemeth and music code."}
+        },
+        {
+            "competencyText": {"en-us": "Apply tactile and/or visual skills for math calculation and manipulation tools, such as an abacus and three-dimensional representational objects."}
+        },
+        {
+            "competencyText": {"en-us": "Social Supports"}
+        },
+        {
+            "competencyText": {"en-us": "Maintain appropriate eye contact, body space, posture, facial expression, gestures, and socially acceptable mannerisms using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Apply interpersonal skills, such as engaging in appropriate social interactions and conversations; demonstrating respect, empathy, or sympathy; and managing criticism."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in group activities, such as cooperative learning and extracurricular activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify social, emotional, and physiological aspects of human sexuality appropriate for the student&rsquo;s developmental level."}
+        },
+        {
+            "competencyText": {"en-us": "Engage in cognitive (intentional) social behavior, such as interpreting social cues, identifying opportunities for social interactions, and generalizing social skills to a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Transition"}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a personal time management and organizational system for academic studies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a variety of jobs and careers and possible accommodations for workers who are blind or visually impaired."}
+        },
+        {
+            "competencyText": {"en-us": "Describe opportunities in selected career clusters, including the outlook for employment, qualifications, and training requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Identify elements of planning for transition, such as establishing postsecondary goals for education/training, employment, and independent living, if needed; course of study; and identifying transition service needs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the unique characteristics of training, tools, and accommodations needed for a person who is blind or visually impaired to function in a given job."}
+        },
+        {
+            "competencyText": {"en-us": "Identify local, state, and federal resources available for transition support for the general population, including students with vision impairments."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills students who are blind or visually impaired need to enter postsecondary education or training."}
+        },
+        {
+            "competencyText": {"en-us": "Participate actively in the development of the IEP with parents and school and/or agency representatives for planning for transition to adult living based on individual interests, abilities, and values."}
+        },
+        {
+            "competencyText": {"en-us": "Recreation and Leisure"}
+        },
+        {
+            "competencyText": {"en-us": "Perform fine motor tasks, such as handwriting/signature writing."}
+        },
+        {
+            "competencyText": {"en-us": "Locate school and community resources for recreation and leisure that facilitate participation by individuals who are blind or visually impaired."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and implement adaptive strategies for recreational and leisure activities to ensure active participation."}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Orientation and Mobility Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal body parts and analyze their location relative to self and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic locomotor and nonlocomotor movements, such as those needed to mobilize and/or hold and control mobility tools."}
+        },
+        {
+            "competencyText": {"en-us": "Use sighted guide techniques, trailing, and protective techniques, as appropriate for setting and the student&rsquo;s developmental level."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and locate geometric shapes in varying formats and settings, such as recognizing an octagon and placing it within the environment (stop sign)."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between permanent and transitory items in the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common auditory environmental stimuli and locations, such as the sound of a water fountain in the hallway and traffic sounds in the roads."}
+        },
+        {
+            "competencyText": {"en-us": "Identify olfactory environmental information and cues, such as scents of food (restaurant), gasoline (gas station), and animals (pet store)."}
+        },
+        {
+            "competencyText": {"en-us": "Assistive Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Apply listening and auditory skills, such as discriminating sounds and associating concepts, actions, and ideas with expressive language."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate interactive, meaningful, and functional use of augmentative or assistive technology, as needed, to initiate and maintain communication across educational settings."}
+        },
+        {
+            "competencyText": {"en-us": "Navigate and manipulate the presentation format of auditory resources as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Determination"}
+        },
+        {
+            "competencyText": {"en-us": "Explain possible coping strategies for managing stressors."}
+        },
+        {
+            "competencyText": {"en-us": "Describe goals in self-advocating using appropriate communication and assertiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Explain own visual impairment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain own visual impairment, and its functional implications, and support resources within the medical and rehabilitation fields."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal likes and dislikes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify own interests, strengths, preferences, and needs."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal strengths, competencies, and challenges."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how personal strengths and disability impact learning and other areas of life."}
+        },
+        {
+            "competencyText": {"en-us": "Sensory Efficiency Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies for using residual vision with greater efficiency, such as using low-vision devices and adaptive technologies and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to and summarize instructional level information presented in an auditory format."}
+        },
+        {
+            "competencyText": {"en-us": "Independent Living Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Manage personal hygiene and grooming using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify strategies for managing personal wellness using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate personal eating/table skills using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate garments to dress self independently using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify steps and demonstrate the ability to store and prepare food safely using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Create and maintain a schedule/calendar for personal management using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to acquire materials and services providing support for independent-living activities, such as audiobooks and playback devices and household utensils."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal/household safety and manage procedures for maintaining a safe environment, such as fire safety, storm preparedness, and obtaining available agency support."}
+        },
+        {
+            "competencyText": {"en-us": "Identify steps and demonstrate ability to care for clothing using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to maintain clothing, including cleaning and laundering using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify steps to purchase an item from a store using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate steps to purchase items from different vendors and stores using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate simple household skills including cleaning own area using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic household management skills, including cleaning, simple repairs, and budgeting, using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate household management skills, including cleaning, repairs, and financial management (insurance, utilities, etc.), using nonvisual and/or low-vision strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Deaf and Hard of Hearing"}
+        },
+        {
+            "competencyText": {"en-us": "Deaf Culture and Heritage"}
+        },
+        {
+            "competencyText": {"en-us": "Develop a list of local and national resources with a description of their purposes and contact information for individuals who are deaf and hard-of-hearing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify historical and current attitudes of the Deaf community and the impact on themselves and others."}
+        },
+        {
+            "competencyText": {"en-us": "Explain historical and current attitudes of the Deaf community and the impact on themselves and others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify contributions of past and present figures of the Deaf community."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast contributions of past and present figures of the Deaf community."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways that individuals who are deaf and hard-of-hearing provide support for each other in their community."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate ways that individuals who are deaf or hard-of-hearing provide support for each other in their community."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways that Deaf heritage and culture play an important role in the daily activities of individuals who are deaf or hard-of-hearing."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze ways that Deaf heritage and culture play an important role in the daily activities of individuals who are deaf or hard-of-hearing."}
+        },
+        {
+            "competencyText": {"en-us": "Learning Supports"}
+        },
+        {
+            "competencyText": {"en-us": "Identify steps to complete school assignments and tasks according to directions."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a time management and organizational system for academic studies."}
+        },
+        {
+            "competencyText": {"en-us": "Request clarification of school assignments from teachers, family, and peers, when needed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify previously learned academic vocabulary, skill, or content in new skills and concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how previously learned academic vocabulary, skill, or content is used in new skills and concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Produce written communication, including identifying parts of sentences, combining words to make sentences, and combining sentences to make paragraphs with the support of sign and/or voice."}
+        },
+        {
+            "competencyText": {"en-us": "Construct paragraphs and essays following English semantic and syntactic rules with the support of own preferred mode of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge of Own Hearing Loss"}
+        },
+        {
+            "competencyText": {"en-us": "Label and describe the functions of the parts of the ear (pinna, ear canal, eardrum, bones, cochlea, hearing nerve, brain, outer, middle, inner) using pictures."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain (clean, care for, and troubleshoot) own hearing aids, cochlear implants, and/or FM equipment with assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that he/she has a hearing loss, including referring to self as deaf or hard-of-hearing; stating cause of the hearing loss; and explaining that the hearing loss is stable, progressive, or irreversible."}
+        },
+        {
+            "competencyText": {"en-us": "Describe own hearing loss, including identifying self as deaf or hard-of-hearing; stating cause of the hearing loss and age of onset; explaining that the hearing loss is stable, progressive, or irreversible; and describing accommodations, preferred learning strategies, and interpreting needs to teachers, peers, and community members."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic information on an audiogram."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the meaning of information on own audiogram to parents, teachers, and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of the audiologist in supporting one&rsquo;s hearing (set up appointment for audiogram, interpret the information on the audiogram, and discuss amplification needs)."}
+        },
+        {
+            "competencyText": {"en-us": "State and apply listening and learning rules, including recognizing that hearing does not mean understanding, attending to the person who is speaking and/or signing, talking only about what he/she is learning, and requesting repetition or clarification when needed."}
+        },
+        {
+            "competencyText": {"en-us": "Request repetition or clarification appropriately from peers, teachers, and community members when needed."}
+        },
+        {
+            "competencyText": {"en-us": "Identify people who can provide assistance in the school regarding a hearing loss, such as interpreters, audiologist, and the itinerant teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the type of assistance that can be provided in the school from an interpreter, audiologist, and the itinerant teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Seek appropriate assistance from a professional regarding hearing loss needs, such as the interpreter, audiologist, itinerant teacher, and community and employment personnel."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use a variety of specialized telecommunication technology, including etiquette and procedures appropriate for his/her needs, with some assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of specialized telecommunication technology, including etiquette and procedures appropriate for his/her needs, with minimal assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of specialized telecommunication technology, including etiquette and procedures appropriate for his/her needs, independently."}
+        },
+        {
+            "competencyText": {"en-us": "Acquisition, Comprehension, and Use of Language"}
+        },
+        {
+            "competencyText": {"en-us": "Consistently and appropriately use preferred communication modality, such as American Sign Language (ASL), Conceptually Accurate Signed Exact English (CASE), Signed Exact English (SEE), or Spoken Language (Aural-Oral Communication), and recognize that communication modality may change according to individual needs and preferences."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in direct interactions with peers and adults using an appropriate mode of communication in a variety of settings independently."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate communication through motor movements, facial expressions, vocalizations, and social interactions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate nonverbal elements of communication, including proximity, turn taking, body shifting, facial expressions, and eye gaze."}
+        },
+        {
+            "competencyText": {"en-us": "Express the meaning of complex vocabulary, concepts, and figurative language through explicit strategies, such as drawing, role play, fingerspelling, and recognizing visual markers."}
+        },
+        {
+            "competencyText": {"en-us": "Apply auditory discrimination and phonological skills to enhance understanding of spoken and written language, when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Personal and Interpersonal Communication Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the elements of the communication process&mdash;speaker, listener, message, feedback&mdash;and identify situations when communication breakdowns occur."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate behavior in response to situational demands and modify behavior as needed."}
+        },
+        {
+            "competencyText": {"en-us": "Anticipate and use repair strategies to ensure communication occurs during difficult listening situations or when communication breakdowns occur."}
+        },
+        {
+            "competencyText": {"en-us": "Describe positive and negative ways the physical environment can affect communication and describe situations when it would be difficult."}
+        },
+        {
+            "competencyText": {"en-us": "Request adaptation of the physical environment or accommodations when communication is perceived to be difficult."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with others in ways appropriate for the relationship, such as friends and family."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with others in ways appropriate for the relationship, such as peers, authority figures in the school and community, and employers."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Determination and Self-Advocacy"}
+        },
+        {
+            "competencyText": {"en-us": "Explain support services available in the school, home, and community, such as Florida Relay Service, interpreters, and travel assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Request written reinforcement of instruction, including transcripts or closed captions for film/videos, when needed."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an emergency contingency plan to gather information regarding man-made or natural disasters or personal emergencies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify agencies that provide postsecondary transition services, such as Vocational Rehabilitation, and Postsecondary Education Programs Network (PEPNet)."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in the development of own Summary of Performance, maintaining a portfolio of materials and resources to prepare for and succeed in postsecondary settings."}
+        },
+        {
+            "competencyText": {"en-us": "Describe options available for postsecondary education or training, employment, and independent living that will meet personal goals and needs."}
+        },
+        {
+            "competencyText": {"en-us": "Explain considerations related to obtaining reasonable accommodations in the community, workplace, and/or postsecondary education or training, including eligibility, necessary documentation, procedures for making a request, and the appeals process."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the role and responsibility of an interpreter, including attending to the interpreter for directions and information as long as the teacher/speaker is talking and signaling the interpreter for clarification or repetition."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate interpreting needs, including describing how to work effectively with an interpreter for school and community activities, stating when services are needed/not needed, and describing the preferred mode of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate the need for specialized or a preferred mode of communication with peers, adults, community members, and employers."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use assistive technology&mdash;low-tech, high-tech, closed captioning, alerting systems&mdash;that is personally appropriate with the assistance of an adult."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use assistive technology&mdash;low-tech, high-tech, closed captioning, alerting systems&mdash;that is personally appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Locate and respond appropriately to alerting devices, such as fire or smoke alarm, doorbell, phone, and monitors in the home and school."}
+        },
+        {
+            "competencyText": {"en-us": "Locate and respond appropriately to alerting devices, such as fire or smoke alarm, doorbell, phone, and monitors in the school, community, and job site."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize knowledge of own individual educational plan (IEP), including assessment data, strengths, weaknesses, annual goals, objectives, special education and related services, and accommodations."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in the development and presentation of own IEP, including assessment data, strengths, weaknesses, annual goals, objectives, special education and related services, accommodations, course of study, transition services, and postsecondary goals."}
+        },
+        {
+            "competencyText": {"en-us": "Speech and Auditory Training"}
+        },
+        {
+            "competencyText": {"en-us": "Suprasegmental Level"}
+        },
+        {
+            "competencyText": {"en-us": "Discriminate, identify, and produce suprasegmental elements of speech, including pitch, loudness, and duration."}
+        },
+        {
+            "competencyText": {"en-us": "Phonetic Level"}
+        },
+        {
+            "competencyText": {"en-us": "Discriminate, identify, and produce vowel, diphthong, and consonant sounds by manner and place of articulation and voicing."}
+        },
+        {
+            "competencyText": {"en-us": "Phonologic Level"}
+        },
+        {
+            "competencyText": {"en-us": "Discriminate, identify, and produce sounds correctly in words and connected speech in a meaningful way."}
+        },
+        {
+            "competencyText": {"en-us": "Use of Listening Devices"}
+        },
+        {
+            "competencyText": {"en-us": "Maintain (clean, care for, and troubleshoot) personal listening device."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Advocacy"}
+        },
+        {
+            "competencyText": {"en-us": "Maintain (clean, care for, and troubleshoot) personal listening device."}
+        },
+        {
+            "competencyText": {"en-us": "Advocate for appropriate accommodations to compensate for deafness or hearing loss."}
+        },
+        {
+            "competencyText": {"en-us": "Detection Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate awareness of speech and nonspeech sounds."}
+        },
+        {
+            "competencyText": {"en-us": "Perception/Production Loop"}
+        },
+        {
+            "competencyText": {"en-us": "Listen to, retrieve, and imitate speech and spoken language."}
+        },
+        {
+            "competencyText": {"en-us": "Auditory Discrimination Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Indicate similarities and differences between two or more sounds or spoken words."}
+        },
+        {
+            "competencyText": {"en-us": "Auditory Identification Skills"}
+        },
+        {
+            "competencyText": {"en-us": "When given a set of choices, identify words, phrases, and sentences that differ by manner, voicing, and place of articulation."}
+        },
+        {
+            "competencyText": {"en-us": "Auditory Comprehension Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of spoken language by responding in a meaningful way (listening to learn)."}
+        },
+        {
+            "competencyText": {"en-us": "Therapies"}
+        },
+        {
+            "competencyText": {"en-us": "Phonology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and use of the sound systems of language and linguistic conventions to convey meaning in spoken and written language."}
+        },
+        {
+            "competencyText": {"en-us": "Morphology"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and use of the internal structure of words and construction of word forms in reading, writing, and spelling."}
+        },
+        {
+            "competencyText": {"en-us": "Syntax"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and use of the system governing the order and combination of words to form sentences in spoken and written language."}
+        },
+        {
+            "competencyText": {"en-us": "Semantics"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and use of the system that governs vocabulary acquisition and meaning of words and sentences in spoken and written language."}
+        },
+        {
+            "competencyText": {"en-us": "Pragmatics"}
+        },
+        {
+            "competencyText": {"en-us": "Use language for a variety of purposes, including greeting, informing, demanding, promising, and requesting."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and use of the system that combines language components in functional and socially appropriate communication across educational settings."}
+        },
+        {
+            "competencyText": {"en-us": "Use language based on the needs of the situation or listener, such as talking differently to peers and adults, providing background information, and adjusting voice and volume according to setting demands."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate and participate in conversations with adults and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Follow rules for conversations, including staying on topic, taking turns, and initiating and ending conversations appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Physical and Occupational Therapy"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to achieve functional outcomes as specified in the student&rsquo;s plan of treatment or care."}
+        },
+        {
+            "competencyText": {"en-us": "Phonology and Articulation"}
+        },
+        {
+            "competencyText": {"en-us": "Produce individual speech sounds and/or patterns of speech sounds necessary to be understood and communicate functionally across educational settings."}
+        },
+        {
+            "competencyText": {"en-us": "Fluency"}
+        },
+        {
+            "competencyText": {"en-us": "Produce speech with the natural flow, rate, and rhythm necessary to be understood and communicate functionally across educational settings."}
+        },
+        {
+            "competencyText": {"en-us": "Voice"}
+        },
+        {
+            "competencyText": {"en-us": "Produce the vocal quality, pitch, loudness, resonance, and/or duration of phonation necessary to be understood and communicate functionally across educational settings."}
+        },
+        {
+            "competencyText": {"en-us": "Unique Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning Skills and Strategies"}
+        },
+        {
+            "competencyText": {"en-us": "Use effective test-taking skills and strategies, such as previewing, allocating time, outlining response to essays and short and extended responses, and reviewing answers."}
+        },
+        {
+            "competencyText": {"en-us": "Select and apply effective problem-solving skills and strategies to solve personal, academic, and community-based problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies (associating icons and symbols with words and concepts, identifying sight words and decoding phonetically regular words, and paraphrasing and summarizing text) to recall and understand information from visual, print, and/or digital text or audio presentations for real-world application, such as completing work-related tasks, reading the newspaper, and locating information about possible careers."}
+        },
+        {
+            "competencyText": {"en-us": "Apply fundamental skills and strategies (associating objects, pictures, and symbols with words and concepts, recognizing and decoding words, and paraphrasing and summarizing text) to recall and understand information from visual, print, and/or digital text or audio presentations for real-world application, such as completing assignments in school, listening to stories, and following instructions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies, such as decoding multisyllabic words; analyzing vocabulary, including roots and affixes; making associations; and using visual imagery and mnemonics, to recall and understand information from a variety of media sources. &nbsp;"}
+        },
+        {
+            "competencyText": {"en-us": "Apply fundamental skills and strategies (associating objects, pictures, and symbols with words and concepts, recognizing and decoding words, and paraphrasing and summarizing text) to recall and understand information from visual, print, and/or digital text or audio presentations for real-world application, such as completing assignments in school, recognizing signs and environmental print, reading schedules and maps, and using a menu."}
+        },
+        {
+            "competencyText": {"en-us": "Use fundamental skills and strategies (dramatization, mental pictures, mnemonics, and links to prior knowledge) to connect information with cues to increase recall and comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Use skills and strategies to link information with other cues, such as mnemonics, visual imagery, and links to prior knowledge, to increase recall and comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies (scanning, predicting, paraphrasing/ summarizing, rereading, inferencing, retelling, self-questioning, note taking, outlining, and interpreting text structure) to gain information from a variety of media sources and instructional presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies to produce clear and coherent oral and written communication, such as planning, creating drafts, editing and proofing, elaborating, rehearsing, revising, and publishing or presenting."}
+        },
+        {
+            "competencyText": {"en-us": "Apply fundamental skills and strategies in written communication, such as identifying and using personal information, making basic lists and completing forms, and forming simple and complex sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Apply fundamental skills and strategies in written communication, such as using personal information, making lists and completing forms, forming sentences and organizing ideas into paragraphs, letters, or stories."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies in written communication, including setting a purpose for writing, creating complete simple and complex sentences, and organizing information into different types of paragraphs and essays."}
+        },
+        {
+            "competencyText": {"en-us": "Develop mathematical skills and/or computational fluency for everyday living, such as money skills, estimation skills, time and measurement skills, and comprehension of graphs, tables, schedules, and charts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies in mathematical concepts and processes and/or computational fluency, such as financial literacy skills, algebraic problem solving, estimation skills, measurement and geometry skills, and comprehension of graphs, tables, and charts."}
+        },
+        {
+            "competencyText": {"en-us": "Develop mathematical skills and/or computational fluency for everyday living, such as accessing a bank account online, money-management skills, estimation skills, time and measurement skills, and interpretation of graphs, tables, schedules, and charts."}
+        },
+        {
+            "competencyText": {"en-us": "Task Management"}
+        },
+        {
+            "competencyText": {"en-us": "Use effective test-taking skills and strategies, such as previewing, planning a response to open-ended questions, and reviewing answers."}
+        },
+        {
+            "competencyText": {"en-us": "Use effective task completion strategies, such as following directions, staying on task, and monitoring accuracy."}
+        },
+        {
+            "competencyText": {"en-us": "Use effecting task-completion strategies, such as identifying needed resources, planning steps for completion, and self-monitoring."}
+        },
+        {
+            "competencyText": {"en-us": "Use effective time management, and organization skills, including using a visual schedule or calendar and locating and sorting information."}
+        },
+        {
+            "competencyText": {"en-us": "Use effective time-management, planning, and organization skills and strategies, including using a visual schedule or daily planner, setting goals and priorities, and locating, organizing, and sorting information."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Determination and Self-Management"}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills that promote self-awareness and goal setting to meet educational and personal needs to increase self-determination, including use of accommodations and assistive tools, as appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Use instructional and assistive technology to locate and access information, participate in computer-based instruction or testing, solve mathematical problems, create documents or images, and communicate with others."}
+        },
+        {
+            "competencyText": {"en-us": "Use effective time management and organization skills and strategies to complete class and work assignments."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies to use technology effectively to locate reliable information and services, participate in instruction and testing programs, communicate with others, and protect confidential information."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies to solve personal and school problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills and strategies to solve personal, school, community, and work problems."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate social skills and strategies to interact with peers and adults across settings, such as cooperative learning, participating in small and large groups, accepting feedback, and resolving conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate social skills and strategies to interact with peers and adults across settings, such as cooperative learning, participating in small and large groups, giving and accepting appropriate feedback, assuming a leadership role, and resolving conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in educational planning, including but not limited to, the Individual Educational Plan (IEP)."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in academic and career planning, including, but not limited to, the IEP, course selection, course of study, post secondary goals, and the transition process."}
+        },
+        {
+            "competencyText": {"en-us": "Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Use technology and assistive devices as needed to communicate or enhance messages in a meaningful and functional manner."}
+        },
+        {
+            "competencyText": {"en-us": "Use own communication system, such as alternative/augmentative communication, assistive device, or sign language, to communicate and acquire information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding and recall of information presented orally for specific purposes, such as identifying the main idea, drawing conclusions, and forming opinions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of information presented orally by using listening skills, including paying attention to cues, linking to prior knowledge, and considering speaker&rsquo;s perspective and nonverbal messages."}
+        },
+        {
+            "competencyText": {"en-us": "Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Use speech that can be understood by adults and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate messages and ideas clearly and effectively in a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Answer different types of questions, such as yes/no, open ended, and &ldquo;wh&rdquo; questions."}
+        },
+        {
+            "competencyText": {"en-us": "Express ideas in complete sentences using correct parts of speech."}
+        },
+        {
+            "competencyText": {"en-us": "Retell and summarize a story or event."}
+        },
+        {
+            "competencyText": {"en-us": "Effectively use nonverbal language, such as proximity, eye contact, gestures, and posture."}
+        },
+        {
+            "competencyText": {"en-us": "Clarify and explain words and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Participate effectively in small and large group discussions."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and repair communication breakdowns."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate verbal and nonverbal communication when giving an individual or group presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Communication Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Use technology and assistive devices as needed to communicate or enhance messages in a meaningful and functional manner."}
+        },
+        {
+            "competencyText": {"en-us": "Use own communication system, such as alternative/augmentative communication, assistive device, or sign language, to communicate and acquire information."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use basic maintenance procedures needed by own communication system."}
+        },
+        {
+            "competencyText": {"en-us": "Identify needs and request assistance with own communication system."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Care Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Carry out personal care and hygiene routines, such as keeping clean, grooming and toileting."}
+        },
+        {
+            "competencyText": {"en-us": "Manage own clothing, such as dressing and selecting clothing items."}
+        },
+        {
+            "competencyText": {"en-us": "Perform positive health practices, including preventative health care and fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate need for medical assistance, such as indicating an illness or injury."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and perform approved medical procedures, as appropriate, such as using an inhaler."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate skills required for eating, such as using common utensils and opening packages."}
+        },
+        {
+            "competencyText": {"en-us": "Select food based on available options, preference, and nutritional value."}
+        },
+        {
+            "competencyText": {"en-us": "Follow safety procedures and routines for preparing food."}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge and skills to maintain and enhance personal safety, such as handling dangerous situations and emergencies, and preventing abuse."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and convey personal information, including determining when to keep such information confidential."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills of self-advocacy and self-determination in a variety of situations, such as communicating wants and needs."}
+        },
+        {
+            "competencyText": {"en-us": "Apply skills of self-advocacy and self-determination in a variety of situations, such as communicating interests and preferences in planning for the future."}
+        },
+        {
+            "competencyText": {"en-us": "Community Participation"}
+        },
+        {
+            "competencyText": {"en-us": "Participate in individual and group recreation/leisure activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply acceptable eating and social skills when dining in a variety of establishments or settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to use technological tools to access services and commodities in the community."}
+        },
+        {
+            "competencyText": {"en-us": "Select and engage in volunteer activities in school or community, such as recycling, litter patrol, or collecting money for a charity."}
+        },
+        {
+            "competencyText": {"en-us": "Choose and engage in volunteer activities, such as coastal cleanup, visiting elderly persons, or sorting recyclable products."}
+        },
+        {
+            "competencyText": {"en-us": "Use specific knowledge and skills when completing activities involving managing money, such as shopping and purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Use specific knowledge and skills when completing activities involving managing money, such as budgeting, shopping, and purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow rules when using transportation in the community."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and follow rules when using various modes of transportation to access the community."}
+        },
+        {
+            "competencyText": {"en-us": "Task Completion"}
+        },
+        {
+            "competencyText": {"en-us": "Use organizational strategies related to planning, scheduling, time management, self-monitoring, and managing materials."}
+        },
+        {
+            "competencyText": {"en-us": "Complete routines and tasks according to instructions and expectations."}
+        },
+        {
+            "competencyText": {"en-us": "Complete routines and tasks according to expectations, including the speed and accuracy of performance."}
+        },
+        {
+            "competencyText": {"en-us": "Sequence two or more tasks to complete activities."}
+        },
+        {
+            "competencyText": {"en-us": "Sequence multiple tasks to complete activities by establishing routines, following a schedule, prioritizing tasks, and managing resources."}
+        },
+        {
+            "competencyText": {"en-us": "Functioning within Settings"}
+        },
+        {
+            "competencyText": {"en-us": "Use tools and/or assistive technology to complete daily routines and tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Follow rules and procedures across a variety of settings."}
+        },
+        {
+            "competencyText": {"en-us": "Use materials for their intended purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to adjust to new routines and changes in tasks, settings, and locations."}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills for Orientation and Mobility"}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal body parts and analyze location relative to self and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic locomotor and nonlocomotor movements, such as those needed to mobilize and/or hold and control mobility tools."}
+        },
+        {
+            "competencyText": {"en-us": "Use sighted guide techniques, trailing, and protective techniques as appropriate for setting and student&rsquo;s developmental level."}
+        },
+        {
+            "competencyText": {"en-us": "Environmental Orienting Techniques"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and locate geometric shapes in varying formats and settings, such as recognizing an octagon and placing it within the environment (stop sign)."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between permanent and transitory items in the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common auditory environmental stimuli and locations, such as the sound of a water fountain in the hallway and traffic sounds in the roads."}
+        },
+        {
+            "competencyText": {"en-us": "Identify olfactory environmental information and cues, such as scents of food (restaurant), gasoline (gas station), and animals (pet store)."}
+        },
+        {
+            "competencyText": {"en-us": "Use environmental orienting techniques, such as using landmarks and tactual markers, for familiarizing areas in urban and rural settings."}
+        },
+        {
+            "competencyText": {"en-us": "Personal Orienting Techniques"}
+        },
+        {
+            "competencyText": {"en-us": "Use personal orienting techniques, such as squaring off, parallel alignment, and locating dropped objects."}
+        },
+        {
+            "competencyText": {"en-us": "Independent Travel Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Perform independent travel skills using landmarks and cues."}
+        },
+        {
+            "competencyText": {"en-us": "Use mobility tools, such as a pre-cane, cane, low-vision device, or electronic device, to travel independently."}
+        },
+        {
+            "competencyText": {"en-us": "Use environment-specific skills, such as crossing streets, riding in escalators and elevators, and adapting to variations in lighting."}
+        },
+        {
+            "competencyText": {"en-us": "Spatial Awareness and Directions"}
+        },
+        {
+            "competencyText": {"en-us": "Use spatial awareness skills and cardinal directions to orient oneself in the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Route Travel"}
+        },
+        {
+            "competencyText": {"en-us": "Plan and implement safe decision making when traveling in familiar and unfamiliar environments."}
+        },
+        {
+            "competencyText": {"en-us": "Soliciting and Declining Assistance"}
+        },
+        {
+            "competencyText": {"en-us": "Respond appropriately to offers of assistance when traveling."}
+        },
+        {
+            "competencyText": {"en-us": "Solicit necessary assistance when traveling."}
+        },
+        {
+            "competencyText": {"en-us": "Use nontraditional devices and adaptive mobility devices, such as wheelchair, walkers, or support canes, as required by the situation."}
+        },
+        {
+            "competencyText": {"en-us": "Plan, use, and manage private, public, and para-transit transportation for safe and efficient travel."}
+        },
+        {
+            "competencyText": {"en-us": "Self-Regulation"}
+        },
+        {
+            "competencyText": {"en-us": "Express a range of personal emotions and feelings in a socially acceptable manner."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate acceptable ways to express strong personal feelings, such as excitement, joy, frustration, fear, and anger."}
+        },
+        {
+            "competencyText": {"en-us": "Self-advocate for personal needs in a socially appropriate manner."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal emotions and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal emotions and feelings and their impact on physical and mental well-being."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal strengths and areas of need."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways that personal strengths can compensate for areas of need."}
+        },
+        {
+            "competencyText": {"en-us": "Use a systematic approach for making decisions about personal needs, including identifying need, choosing the best option, and accepting consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Use a systematic approach for making decisions about personal needs, including identifying need or problem, determining possible solutions, selecting the best option, accepting consequences and responsibility, and evaluating the effectiveness of the decision."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate self-esteem, self-confidence and pride, such as through self-affirmations and persistence."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate self-esteem, self-confidence, and pride, such as through self-affirmations, persistence, and self-monitoring."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Relationships"}
+        },
+        {
+            "competencyText": {"en-us": "Respond in a socially appropriate manner to emotions and feelings of others."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and maintain behaviors that build positive relationships with peers and adults, including friendships, family relations, and cooperating with peers."}
+        },
+        {
+            "competencyText": {"en-us": "Use basic social communication skills to build positive relationships with peers and adults, such as eye contact, facial expressions, gestures, posture, proximity, touch, appearance, and listening."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain positive relationships with peers and adults using basic social skills, such as greetings, turn-taking, sharing materials, and giving and accepting assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively in small groups to achieve common outcomes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a range of emotions and feelings of others."}
+        },
+        {
+            "competencyText": {"en-us": "Use conflict resolution strategies to resolve differences, such as communicate and negotiate."}
+        },
+        {
+            "competencyText": {"en-us": "Use conflict resolution strategies to resolve differences, such as communicate, negotiate, or mediate."}
+        },
+        {
+            "competencyText": {"en-us": "Relationships Across Settings"}
+        },
+        {
+            "competencyText": {"en-us": "Maintain appropriate behavior by following rules in classroom and school settings."}
+        },
+        {
+            "competencyText": {"en-us": "Use behaviors and social skills based on setting demands and rules when accessing and using resources in the school and community."}
+        },
+        {
+            "competencyText": {"en-us": "Use a systematic approach for problem solving and decision making to resolve problems in school, community, and work settings."}
+        },
+        {
+            "competencyText": {"en-us": "Use behaviors and skills, such as self-monitoring, accepting feedback, adjusting own actions, and self-reflection to maintain appropriate conduct in school, community, and employment settings."}
+        },
+        {
+            "competencyText": {"en-us": "Use behaviors and skills, such as accepting feedback and adjusting own actions, to maintain appropriate conduct in the classroom and school."}
+        },
+        {
+            "competencyText": {"en-us": "Identify explicit and implicit behaviors that are based on setting demands and social norms, such as acceptable tone of voice and volume, use of turn-taking behaviors, and movement."}
+        },
+        {
+            "competencyText": {"en-us": "Social Skills and Strategies"}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate social and interpersonal skills and strategies to interact with peers and adults for various purposes across settings."}
+        }
+    ]
+}

@@ -1,0 +1,2238 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/a22d0672-8316-5eec-b72e-a3664b091c41",
+        "name": {"en-us": "Chapter 115. Health Education"},
+        "description": {"en-us": "Chapter 115. Health Education"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Subchapter A. Elementary"}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Kindergarten."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.2 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "Kindergarten students are taught basic factors that contribute to health literacy. Students learn about their bodies and the behaviors necessary to protect them and keep them healthy. Students also understand how to seek help from parents and other trusted adults."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student recognizes that personal health decisions and behaviors affect health throughout life. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and practice personal health habits that help individuals stay healthy such as a proper amount of sleep and clean hands;"}
+        },
+        {
+            "competencyText": {"en-us": "identify types of foods that help the body grow such as healthy breakfast foods and snacks; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify types of exercise and active play that are good for the body."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands that behaviors result in healthy or unhealthy conditions throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the purpose of protective equipment such as a seat belt and a bicycle helmet;"}
+        },
+        {
+            "competencyText": {"en-us": "identify safe and unsafe places to play such as a back yard and a street;"}
+        },
+        {
+            "competencyText": {"en-us": "name the harmful effects of tobacco, alcohol, and other drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to avoid harming oneself or another person;"}
+        },
+        {
+            "competencyText": {"en-us": "practice safety rules during physical activity such as water safety and bike safety;"}
+        },
+        {
+            "competencyText": {"en-us": "identify how to get help from a parent and/or trusted adult when made to feel uncomfortable or unsafe by another person/adult;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate procedures for responding to emergencies including dialing 911; and"}
+        },
+        {
+            "competencyText": {"en-us": "name objects that may be dangerous such as knives, scissors, and screwdrivers and tell how they can be harmful."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student demonstrates decision-making skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate how to seek the help of parents/guardians and other trusted adults in making decisions and solving problems; and"}
+        },
+        {
+            "competencyText": {"en-us": "plan a healthy meal and/or snack."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows the basic structures and functions of the human body and how they relate to personal health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "name the five senses;"}
+        },
+        {
+            "competencyText": {"en-us": "name major body parts and their functions; and"}
+        },
+        {
+            "competencyText": {"en-us": "name and demonstrate good posture principles such as standing straight with shoulders back."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands how to recognize health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "name people who can provide helpful health information such as parents, doctors, teachers, and nurses; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of health information."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands the difference between being sick and being healthy. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "tell how germs cause illness and disease in people of all ages;"}
+        },
+        {
+            "competencyText": {"en-us": "name symptoms of common illnesses and diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "explain practices used to control the spread of germs such as washing hands; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss basic parts of the body's defense system against germs such as the skin."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands that various factors influence personal health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "tell how weather affects individual health such as dressing for warmth, protecting skin from the sun, and keeping classrooms and homes warm and cool; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to prevent the transmission of head lice such as sharing brushes and caps."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "recognize and describe individual differences and communicate appropriately and respectfully with all individuals;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of showing consideration and respect for teachers, family members, friends, peers, and other individuals; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize and explain the importance of manners and rules for healthy communication and treating others with respect."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student comprehends the skills necessary for building and maintaining healthy relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and use refusal skills to avoid unsafe behavior situations such as saying no in unsafe situations and then telling an adult if he/she is threatened; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate skills for making new acquaintances."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands that bullying behaviors result in unhealthy conditions throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify bullying behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "identify replacement behaviors to avoid bullying friends, family members, and peers;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate how to get help from a teacher, parent, or trusted adult in solving problems and conflicts with peers; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate actions to take in response to bullying."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 1."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.3 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In Grade 1, students learn more about their bodies and how to care for themselves. Students also begin to learn that relationships exist between behaviors and health, and that there are community helpers such as nurses and doctors who help them stay healthy. In Grade 1, students also learn skills to help them make friends, resolve conflicts, and solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands that personal health decisions and behaviors affect health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and practice activities that enhance individual health such as enough sleep, nutrition, and exercise; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe activities that are provided by health care professionals such as medical check-up and dental exams."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands that safe, unsafe, and/or harmful behaviors result in positive and negative consequences throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and use protective equipment to prevent injury;"}
+        },
+        {
+            "competencyText": {"en-us": "name safe play environments;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the harmful effects of, and how to avoid, alcohol, tobacco, and other drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to avoid weapons and drugs or harming oneself or another person by staying away from dangerous situations and reporting to an adult;"}
+        },
+        {
+            "competencyText": {"en-us": "identify safety rules that help to prevent poisoning;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe safe bicycle skills;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and practice safety rules during play; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify how to get help from a parent and/or trusted adult when made to feel uncomfortable or unsafe by another person/adult."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student demonstrates basic critical-thinking, decision-making, goal setting, and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain ways to seek the help of parents/guardians and other trusted adults in making decisions and solving problems;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how decisions can be reached and problems can be solved; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of goal setting and task completion."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands the basic structure and functions of the human body and how they relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate use of the five senses;"}
+        },
+        {
+            "competencyText": {"en-us": "identify major body structures and organs and describes their basic functions; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply principles of good posture for healthy growth and development."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify people who can provide helpful health information such as parents, teachers, nurses, and physicians; and"}
+        },
+        {
+            "competencyText": {"en-us": "list ways health information can be used such as knowing how to brush teeth properly."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes the influence of media and technology on health behaviors. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify examples of health information provided by various media; and"}
+        },
+        {
+            "competencyText": {"en-us": "cite examples of how media and technology can affect behaviors such as television, computers, and video games."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands the difference between sickness and health in people of all ages. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "name types of germs that cause illness and disease;"}
+        },
+        {
+            "competencyText": {"en-us": "identify common illnesses and diseases and their symptoms; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain common practices that control the way germs are spread."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands factors that influence the health of an individual. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "name various members of his/her family who help them to promote and practice health habits; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways in which a person's health may be affected by weather and pollution."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student knows healthy and appropriate ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate respectful communication;"}
+        },
+        {
+            "competencyText": {"en-us": "list unique ways that individuals use to communicate such as using body language and gestures;"}
+        },
+        {
+            "competencyText": {"en-us": "express needs, wants, and emotions in appropriate ways;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and practice techniques of self-control such as thinking before acting;"}
+        },
+        {
+            "competencyText": {"en-us": "list ways of actively discouraging bullying; and"}
+        },
+        {
+            "competencyText": {"en-us": "practice refusal skills and replacement behaviors to avoid and resolve conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student comprehends the skills necessary for building and maintaining healthy relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to build and maintain friendships; and"}
+        },
+        {
+            "competencyText": {"en-us": "practice refusal skills to avoid and resolve conflicts."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands that bullying behaviors result in negative consequences throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate how to get help from a teacher, parent, or trusted adult when made to feel bullied, uncomfortable, or unsafe by a peer or an adult; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe negative consequences for both the victim and the bully."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 2."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.4 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In Grade 2, students learn age-appropriate skills to help them stay healthy and safe. Students are taught, in a basic way, that there are external factors that influence our health, and that the students can take responsibility for protecting their health. Students are taught ways to communicate in a healthy way with friends, families, and classmates."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands that personal health decisions and behaviors affect health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain actions an individual can take when not feeling well;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and demonstrate personal health habits such as brushing and flossing teeth and exercise;"}
+        },
+        {
+            "competencyText": {"en-us": "identify food groups and describe the effects of eating too much sugar and fat such as knowing that sugar causes dental cavities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify healthy and unhealthy food choices such as a healthy breakfast and snacks and fast food choices;"}
+        },
+        {
+            "competencyText": {"en-us": "define stress and describe healthy behaviors that reduce stress such as exercise;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of individual health maintenance activities such as regular medical and dental checkups; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe how a healthy diet can help protect the body against some diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands that safe, unsafe, and/or harmful behaviors result in positive and negative consequences throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe the harmful effects of alcohol, tobacco, and other drugs on the body;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to avoid deliberate and accidental injuries;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the need to use protective equipment when engaging in certain recreational activities such as skateboarding, rollerblading, cycling, and swimming;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of avoiding dangerous substances;"}
+        },
+        {
+            "competencyText": {"en-us": "explain ways to avoid weapons and report the presence of weapons to an adult; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify a trusted adult such as a parent, teacher, or law enforcement officer and identify ways to react when approached and made to feel uncomfortable or unsafe by another person/adult."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands the basic structures and functions of the human body and how they relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe behaviors that protect the body structure and organs such as wearing a seat belt and wearing a bicycle helmet;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the major organs of the body such as the heart, lungs, and brain and describe their primary function; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the major systems of the body."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands the difference between sickness and health in persons of all ages. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain ways in which germs are transmitted, methods of preventing the spread of germs, and the importance of immunization;"}
+        },
+        {
+            "competencyText": {"en-us": "identify causes of disease other than germs such as allergies and heart disease;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how the body provides protection from disease; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply practices to control spread of germs in daily life such as hand washing and skin care."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes factors that influence the health of an individual. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify hazards in the environment that affect health and safety such as having loaded guns in the home and drinking untreated water;"}
+        },
+        {
+            "competencyText": {"en-us": "describe strategies for protecting the environment and the relationship between the environment and individual health such as air pollution and ultra-violet rays; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify personal responsibilities as a family member in promoting and practicing health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands how to recognize health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify people who can provide health information; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify various media that provide health information."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student recognizes the influence of media and technology on personal health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe how the media can influence an individual's health choices such as television ads for fast foods and breakfast cereals; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss how personal health care products have been improved by technology such as sunblock and safety equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how relationships influence personal health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe how friends can influence a person's health; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize unsafe requests made by friends such as playing in the street."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student comprehends the skills necessary for building and maintaining healthy relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify characteristics needed to be a responsible family member or friend;"}
+        },
+        {
+            "competencyText": {"en-us": "list and demonstrate good listening skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate refusal skills."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands healthy and appropriate ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe how to effectively communicate;"}
+        },
+        {
+            "competencyText": {"en-us": "express needs, wants, and emotions in healthy ways;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the benefits of practicing self-control;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how to effectively respond to bullying of oneself or others; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the benefits of treating friends, teachers, family members, and peers with respect."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student demonstrates critical-thinking, decision-making, goal-setting and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain steps in the decision-making process and the importance of following the steps;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how personal-health decisions affect self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "list the steps and describe the importance of task completion and goal setting; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain why obtaining help, especially from parents/trusted adults, can be helpful when making decisions about personal health."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands that bullying behaviors result in negative consequences throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify negative consequences that result from bullying behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to respond when made to feel uncomfortable or unsafe."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 3."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.5 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In Grade 3, students build on the knowledge and skills learned in the second grade. In addition to students learning health knowledge that can help them improve or maintain health habits, students begin to learn about body systems, growth and development, and the relationship between health and the environment. Students are also introduced to interpersonal skills that they will use to communicate and interact with friends and family."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student explains ways to enhance and maintain health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain how personal-health habits affect self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to improve personal fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "identify types of nutrients;"}
+        },
+        {
+            "competencyText": {"en-us": "describe food combinations in a balanced diet such as a food pyramid;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of too much stress and practice ways to reduce stress such as exercising and listening to music; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain strategies for maintaining a personal-health plan such as a commitment to good personal hygiene and checkups and an awareness of safety skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student recognizes and performs behaviors that reduce health risks throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the need for obeying safety rules at home, school, work, and play such as bike safety and avoidance of weapons;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the harmful effects of alcohol, tobacco, and other drugs on physical, mental, and social health and why people should not use them;"}
+        },
+        {
+            "competencyText": {"en-us": "identify reasons for avoiding violence, gangs, weapons and drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "identify examples of abuse and describe appropriate responses; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of taking personal responsibility for reducing hazards, avoiding accidents, and preventing accidental injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student knows and engages in behaviors that prevent disease and speed recovery from illness. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify health behaviors that prevent the spread of disease and avoid behaviors that cause the transmission of disease;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the body's defense systems and how they fight disease; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain actions to take when illness occurs such as informing parents/adults."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student names the basic structures and functions of the human body and explains how they relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "list and explain the stages of growth and development;"}
+        },
+        {
+            "competencyText": {"en-us": "name and locate major components of the body systems; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the interrelationships of the body systems."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows how to access health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to locate resources from parents and family members, school, and the community; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to locate school and community health helpers."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands factors that influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "relate how protecting the environment promotes individual and community health;"}
+        },
+        {
+            "competencyText": {"en-us": "identify common health problems that result from unhealthy environments such as skin cancer, poisoning, and respiratory illness;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to protect personal health from environmental hazards such as lead removal and no-smoking laws; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe roles and responsibilities of family members in promoting and practicing health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student comprehends ways in which media and technology influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe how the media can influence knowledge and health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways in which health care has improved as a result of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands how relationships can positively and negatively influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between positive and negative peer pressures and their effects on personal health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways in which peers and families can work together to build a healthy community."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student uses social skills in building and maintaining healthy and respectful relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective verbal and nonverbal communication, including when responding to a bullying issue;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for resolving conflicts;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how to be a good friend;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective listening skills;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to communicate with parents/trusted adults about health concerns;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate refusal skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to help build self-esteem for oneself, friends, and others."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student explains healthy ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate respectful communication with family members, peers, teachers, and others;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the mental-health value of respectful communication such as reducing the potential for angry behavior; and"}
+        },
+        {
+            "competencyText": {"en-us": "express needs, wants, and emotions in healthy ways."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student recognizes critical-thinking, decision-making, goal-setting, and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "practice critical-thinking skills when making health decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "gather data to help make informed health choices;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the positive and negative consequences of making a health-related choice;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of seeking assistance in making decisions about health;"}
+        },
+        {
+            "competencyText": {"en-us": "practice assertive communication and refusal skills;"}
+        },
+        {
+            "competencyText": {"en-us": "describe goal-setting skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of time passage with respect to a goal."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 4."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.6 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In addition to learning age-specific health information on a variety of health topics, students in Grade 4 learn how their behaviors affect their body systems. Students are taught the consequences of unsafe behaviors, and how to protect themselves from harm. Students also learn the value and use of social skills in dealing with peer pressure, communicating effectively, and assisting in forming healthy social relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes ways to enhance and maintain health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the benefits of six major nutrients contained in foods;"}
+        },
+        {
+            "competencyText": {"en-us": "identify information on menus and food labels;"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between aerobic and anaerobic exercise;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the physical, mental, and social benefits of fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how sleep affects academic performance; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the importance of taking personal responsibility for developing and maintaining a personal health plan such as fitness, nutrition, stress management, and personal safety."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes the basic structures and functions of the human body and how they relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe how health behaviors affect body systems; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the basic function of major body systems such as the circulatory and digestive systems."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows how to access health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify characteristics of health information; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of accessing health information through a variety of health resources."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student understands and engages in behaviors that reduce health risks throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the use and abuse of prescription and non-prescription medication such as over-the-counter;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the similarities of and the differences between medications and street drugs/substances;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the short-term and long-term harmful effects of tobacco, alcohol, and other substances such as physical, mental, social, and legal consequences;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to avoid drugs and list alternatives for the use of drugs and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how to develop a home-safety and emergency response plan such as fire safety;"}
+        },
+        {
+            "competencyText": {"en-us": "identify strategies for avoiding deliberate and accidental injuries such as gang violence and accidents at school and home; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify types of abuse such as physical, emotional, and sexual and know ways to seek help from a parent and/or trusted adult."}
+        },
+        {
+            "competencyText": {"en-us": "Health behavior. The student comprehends and practices behaviors that prevent disease and speed recovery from illness. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "set personal-health goals for preventing illness;"}
+        },
+        {
+            "competencyText": {"en-us": "identify different pathogens and explain how the body protects itself from pathogens such as viruses, bacteria, and fungi;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss ways in which prevention and transmission of disease are affected by individual behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between communicable and noncommunicable diseases."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student comprehends factors that influence individual, family, and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify similarities in which healthy environments can be promoted in homes, schools, and communities; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of a community environmental health plan."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student comprehends ways in which the media and technology can influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain how the media can influence health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways technology can influence health."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands how relationships can positively and negatively influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the influence of peer pressure on an individual's social and emotional health; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of being a positive role model for health."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student uses social skills for building and maintaining healthy relationships throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the qualities of a good friend;"}
+        },
+        {
+            "competencyText": {"en-us": "explain steps in conflict resolution;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of refusal skills and why the influence of negative peer pressure and the media should be resisted;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate healthy ways of gaining attention;"}
+        },
+        {
+            "competencyText": {"en-us": "identify critical issues that should be discussed with parents/trusted adults such as puberty, harassment, and emotions;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze strengths and weaknesses in personal communication skills;"}
+        },
+        {
+            "competencyText": {"en-us": "identify positive and negative characteristics of social groups such as gangs, clubs, and cliques; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate refusal skills."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student explains healthy ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate consideration when communicating with individuals who communicate in unique ways such as someone having a speech defect, someone not speaking English, or someone being deaf;"}
+        },
+        {
+            "competencyText": {"en-us": "describe healthy ways of responding to disrespectful behavior; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe strategies for self-control and the importance of dealing with emotions appropriately and how they affect thoughts and behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student demonstrates critical-thinking, decision-making, goal-setting, and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of seeking guidance from parents and other trusted adults in making healthy decisions and solving problems;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the advantages of setting short and long-term goals;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of parental guidance and other trusted adults in goal setting;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the dangers of yielding to peer pressures by assessing risks/consequences; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe steps in decision making and problem solving."}
+        },
+        {
+            "competencyText": {"en-us": "Bullying prevention. The student uses social skills for building and maintaining respectful relationships throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the characteristics of a bully;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate ways to deal with disrespectful behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the difference between assertive behavior and aggressive behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the negative impact bullying has on both the victim and the bully; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate consideration when interacting with individuals who communicate in unique ways such as someone who has a speech impediment, someone who does not speak English, or someone who has an exceptionally high vocabulary."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 5."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.7 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In addition to age-appropriate information about personal health habits, students in Grade 5 are taught about the human body and the changes that come with puberty. Students are taught how to maintain healthy body systems and prevent disease. Students also learn how technology and the media influence personal health and how to apply problem-solving skills to improve or protect their health."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows ways to enhance and maintain personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "examine and analyze food labels and menus for nutritional content;"}
+        },
+        {
+            "competencyText": {"en-us": "apply information from the food guide pyramid to making healthy food choices;"}
+        },
+        {
+            "competencyText": {"en-us": "identify foods that are sources of one or more of the six major nutrients;"}
+        },
+        {
+            "competencyText": {"en-us": "calculate the relationship between caloric intake and energy expenditure;"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between health-related and skill-related physical activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the components of a personal health maintenance plan for individuals and families such as stress management and personal safety."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes the basic structures and functions of the human body and how they relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the structure, functions, and interdependence of major body systems; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe changes in male and female anatomy that occur during puberty."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows how to utilize health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe methods of accessing health information; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate ways to communicate health information such as posters, videos, and brochures."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student recognizes behaviors that prevent disease and speed recovery from illness. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain how to maintain the healthy status of body systems such as avoiding smoking to protect the lungs;"}
+        },
+        {
+            "competencyText": {"en-us": "relate the importance of immunizations in disease prevention;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between myth and fact related to disease and disease prevention;"}
+        },
+        {
+            "competencyText": {"en-us": "list the effects of harmful viruses on the body such as polio, Human Immunodeficiency Virus (HIV), and the common cold; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain how to manage common minor illnesses such as colds and skin infections."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student comprehends behaviors that reduce health risks throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the use and abuse of prescription and non-prescription medications such as over-the-counter;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast the effects of medications and street drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the short-term and long-term harmful effects of alcohol, tobacco, and other substances on the functions of the body systems such as physical, mental, social, and legal consequences;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe alternatives to drug and substance use;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for preventing and responding to deliberate and accidental injuries;"}
+        },
+        {
+            "competencyText": {"en-us": "explain strategies for avoiding violence, gangs, weapons and drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe response procedures for emergency situations;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the value of seeking advice from parents and educational personnel about unsafe behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the impact of neglect and abuse."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how relationships influence individual and family health including the skills necessary for building and maintaining relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between healthy and harmful influences of friends and others;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the characteristics of healthy and unhealthy friendships;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to enhance personal communication skills;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze respectful ways to communicate with family, adults, and peers;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate ways of communicating with individuals who communicate in unique ways such as having a speech defect and not speaking English;"}
+        },
+        {
+            "competencyText": {"en-us": "apply and practice strategies for self-control; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe strategies for stress management."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student comprehends ways in which media and technology influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research the effect of media on health-promoting behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the use of health-related technology in the school such as audiometry and the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student knows how various factors influence individual, family, and community health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of communication skills as a major influence on the social and emotional health of the individual and family;"}
+        },
+        {
+            "competencyText": {"en-us": "describe daily and weekly activities that promote the health of a family;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how a safe school environment relates to a healthy community; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify environmental protection programs that promote community health such as recycling, waste disposal, or safe food packaging."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student demonstrates critical-thinking, decision-making, goal-setting and problem-solving skills for making healthy decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe health-related situations that require parent/adult assistance such as a discussion of the health-related consequences of high-risk health behaviors or going to a doctor;"}
+        },
+        {
+            "competencyText": {"en-us": "assess the role of assertiveness, refusal skills, and peer pressure on decision making and problem solving;"}
+        },
+        {
+            "competencyText": {"en-us": "utilize critical thinking in decision making and problem solving;"}
+        },
+        {
+            "competencyText": {"en-us": "describe benefits in setting and implementing short and long-term goals;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the necessity of perseverance to achieve goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of parent/trusted adult guidance in goal setting."}
+        },
+        {
+            "competencyText": {"en-us": "Bullying prevention. The student understands positive bystander prevention strategies in helping to maintain positive relationships and respect. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze respectful ways to communicate with friends, family, teachers, and others;"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate ways to address bullying on behalf of a friend or peer;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the differences among teasing, joking, playing around, and bullying;"}
+        },
+        {
+            "competencyText": {"en-us": "identify methods available through which to report bullying; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the difference between reporting and tattling."}
+        },
+        {
+            "competencyText": {"en-us": "Subchapter B. Middle School"}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grade 6."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.22 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413",
+                    " amended to be effective August 28, 2017, 42 TexReg 3371."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In middle school, students learn about health behaviors that will safeguard their health as well as information related to understanding puberty and the reproductive process. Students are taught about factors in their environment that impact, not only their health and the health of their families, but the health of their communities as well. Middle school students learn to refine their critical-thinking skills to avoid unsafe situations, analyze health information and products, and maintain healthy relationships. Students begin to investigate health in the broader context of community."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends ways to enhance and maintain personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze healthy and unhealthy dietary practices;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of a personal dietary and exercise plan;"}
+        },
+        {
+            "competencyText": {"en-us": "compare immediate and long-range effects of personal health care choices such as personal and dental hygiene;"}
+        },
+        {
+            "competencyText": {"en-us": "identify causes and effects associated with poor body image such as eating disorders and growth patterns;"}
+        },
+        {
+            "competencyText": {"en-us": "examine the concept of cost versus effectiveness of health care products;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the mental, physical, and social benefits of regular exercise and fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of establishing and implementing a periodic health-maintenance clinical assessment; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for managing stress."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes ways that body structure and function relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the relationships among the body systems;"}
+        },
+        {
+            "competencyText": {"en-us": "describe changes in male and female anatomy and physiology during puberty;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the role of hormones as they relate to growth and development and personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe menstrual health and identify the relationship to reproduction."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends and utilizes concepts relating to health promotion and disease prevention. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe various modes of disease transmission;"}
+        },
+        {
+            "competencyText": {"en-us": "compare healthy cell growth to cell growth in the disease process; and"}
+        },
+        {
+            "competencyText": {"en-us": "list noncommunicable and hereditary diseases and respective prevention and treatment techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends ways of researching, accessing, and analyzing health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "list ways to evaluate health products, practices, and services such as sunblocks, dietary aides, and over-the-counter medications; and"}
+        },
+        {
+            "competencyText": {"en-us": "use critical thinking to research and evaluate health information."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends general health information related to prescription and over-the-counter drugs. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define prescription and over-the-counter drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the purposes of prescription and over-the-counter drugs, including the intended benefits;"}
+        },
+        {
+            "competencyText": {"en-us": "explain why some drugs require a prescription;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the components of prescription and over-the-counter drug labels;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast examples of prescription and over-the-counter drug labels;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe practices used to safely store and properly dispose of prescription and over-the-counter drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the dangers associated with taking expired prescription and over-the-counter drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends ways of applying health information related to prescription and over-the-counter drugs to reduce health risks to the body functions and organs for a life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the difference between the misuse and abuse of prescription drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the misuse and abuse of prescription and over-the-counter drugs and the dangers associated with each; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe how the abuse of drugs affects the body systems and brain."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student engages in behaviors that reduce health risks throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an understanding of basic first-aid procedures;"}
+        },
+        {
+            "competencyText": {"en-us": "describe chemical dependency and addiction to tobacco, alcohol, drugs, including prescription drugs, and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship among tobacco, alcohol, drugs, and other substances and the role these items play in unsafe situations such as drinking and driving and Human Immunodeficiency Virus (HIV)/sexually transmitted disease (STD) transmission;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways such as alternative activities to prevent the use of tobacco, alcohol, drugs, and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways to prevent substance misuse, including the misuse of prescription and over-the-counter drugs, and substance use disorders;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for the prevention of and response to deliberate and accidental injuries such as using conflict resolution skills instead of fighting and wearing a seat belt;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe strategies for avoiding drugs, violence, gangs, weapons, and other harmful situations;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the consequences of sexual activity and the benefits of abstinence; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify signs and symptoms of prescription drug misuse such as using medicine prescribed for someone else or for reasons other than its intended use."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how factors in the environment influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify how environmental influences may affect an individual's substance misuse and substance use disorder;"}
+        },
+        {
+            "competencyText": {"en-us": "identify factors that affect an individual's physical, emotional, and social health such as school climate and safety measures; and"}
+        },
+        {
+            "competencyText": {"en-us": "make healthy choices from among environmental alternatives such as leaving a smoke-filled room or selecting healthy snacks from vending machines."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student recognizes how relationships influence individual health behaviors including skills necessary for building and maintaining relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between positive and negative relationships that can affect individual health such as clubs, gangs, or families;"}
+        },
+        {
+            "competencyText": {"en-us": "examine social influences on drug-taking behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "explain ways of maintaining healthy relationships such as resisting peer pressure to engage in unsafe behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "practice conflict resolution/mediation skills;"}
+        },
+        {
+            "competencyText": {"en-us": "describe strategies such as abstinence for communicating refusal to engage in unsafe behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe methods for communicating important issues with parents and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student comprehends how media and technology influence individual and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways in which media and technology influence social norms such as using prescription and over-the-counter drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and analyze various media and technologies that influence individual and community health such as computer software and the internet; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between health needs and technology development such as the development of an HIV vaccine."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student differentiates between positive and negative family influences. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for supporting and respecting all family members; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify strategies for coping with unhealthy behaviors in the family such as abuse, alcoholism, and neglect."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student describes healthy and respectful ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate ways to communicate empathy to others and have consideration for others;"}
+        },
+        {
+            "competencyText": {"en-us": "assess healthy ways of responding to disrespectful behaviors such as mediation;"}
+        },
+        {
+            "competencyText": {"en-us": "practice methods for self-control;"}
+        },
+        {
+            "competencyText": {"en-us": "describe healthy ways to express affection and love;"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to manage anxiety and grief;"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to control anger and emotions when responding to others;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for showing respect for individual differences such as race, physical appearance, and socio-economic status;"}
+        },
+        {
+            "competencyText": {"en-us": "define stress and its effects on individual health and relationships; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify stressors and their impact on the health of the individual and family."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student analyzes information and applies critical-thinking, decision-making, goal-setting, and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "seek the input of parents and other trusted adults in problem solving and goal setting;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the use of refusal skills in unsafe situations;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the impact of peer pressure on decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "compare the risks and benefits of various health behaviors such as choosing not to smoke;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the possible health implications of long-term personal and vocational goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify decision-making practices such as refusing invitations, knowing the risks of substance abuse, and reporting the abuse to a parent school administrator, teacher, or other trusted adult that reduce unsafe health behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Bullying prevention. The student engages in behaviors that reduce the risk of bullying throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the impact that bullying has on both victims and bullies;"}
+        },
+        {
+            "competencyText": {"en-us": "identify strategies for prevention and intervention of all forms of bullying such as emotional, physical, social, and sexual;"}
+        },
+        {
+            "competencyText": {"en-us": "describe healthy ways to be assertive without being aggressive; and"}
+        },
+        {
+            "competencyText": {"en-us": "assess healthy and appropriate ways of responding to bullying."}
+        },
+        {
+            "competencyText": {"en-us": "Health Education, Grades 7-8."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.23 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 26, 2013, 38 TexReg 3413",
+                    " amended to be effective August 28, 2017, 42 TexReg 3371."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In middle school, students learn about health behaviors that will safeguard their health as well as information related to understanding puberty and the reproductive process. Students are taught about factors in their environment that impact, not only their health and the health of their families, but the health of their communities as well. Middle school students learn to refine their critical-thinking skills to avoid unsafe situations, analyze health information and products, and maintain healthy relationships. Students begin to investigate health in the broader context of community."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends ways to enhance and maintain personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the interrelationships of physical, mental, and social health;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe types of eating disorders such as bulimia, anorexia, or overeating;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe lifetime strategies for prevention and early identification of disorders such as depression and anxiety that may lead to long-term disability;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the life cycle of human beings including birth, dying, and death;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe the three categories of prescription drugs and types of illegal drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine the relationship between prescription drugs and illegal drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes ways that body structure and function relate to personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain how differences in growth patterns among adolescents such as onset of puberty may affect personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the influence of the endocrine system on growth and development;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast changes in males and females;"}
+        },
+        {
+            "competencyText": {"en-us": "describe physiological and emotional changes that occur during pregnancy;"}
+        },
+        {
+            "competencyText": {"en-us": "examine physical and emotional development during adolescence; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the common side effects associated with each drug category on the body systems and brain."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends and utilizes concepts relating to health promotion and disease prevention throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the role of preventive health measures, immunizations, and treatment in disease prevention such as wellness exams and dental check-ups;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze risks for contracting specific diseases based on pathogenic, genetic, age, cultural, environmental, and behavioral factors;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish risk factors associated with communicable and noncommunicable diseases; and"}
+        },
+        {
+            "competencyText": {"en-us": "summarize the facts related to Human Immunodeficiency Virus (HIV) infection and sexually transmitted diseases (STDs)."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student knows how to research, access, analyze, and use health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use critical thinking to analyze and use health information such as interpreting media messages;"}
+        },
+        {
+            "competencyText": {"en-us": "develop evaluation criteria for health information;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate ways to use health information to help self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the legal implications regarding sexual activity as it relates to minor persons;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and explain the importance of each component of an over-the-counter drug warning label;"}
+        },
+        {
+            "competencyText": {"en-us": "identify common uses of each prescription drug category;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast examples of various packaging and forms of medicines, including prescription drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the legal consequences related to the use of drugs, including the misuse of prescription drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student comprehends ways of applying health information related to prescription and over-the-counter drugs to reduce health risks to the body systems and functions for a life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the short- and long-term health consequences of prescription and over-the-counter drug misuse and substance use disorders;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how substance misuse, including prescription drug misuse, and substance use disorders affect the body systems and brain; and"}
+        },
+        {
+            "competencyText": {"en-us": "relate medicine and other drugs to communicable and noncommunicable disease, prenatal health, health problems in later life, and other adverse consequences."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student engages in behaviors that reduce health risks throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and demonstrate strategies for preventing and responding to deliberate and accidental injuries;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the dangers associated with a variety of weapons;"}
+        },
+        {
+            "competencyText": {"en-us": "identify strategies for prevention and intervention of emotional, physical, and sexual abuse;"}
+        },
+        {
+            "competencyText": {"en-us": "identify information relating to abstinence;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance of abstinence from sexual activity as the preferred choice of behavior in relationship to all sexual activity for unmarried persons of school age;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss abstinence from sexual activity as the only method that is 100% effective in preventing pregnancy, STDs, and the sexual transmission of HIV or acquired immune deficiency syndrome, and the emotional trauma associated with adolescent sexual activity;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate basic first-aid procedures including cardiopulmonary resuscitation (CPR) and the choking rescue;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the impact of chemical dependency and addiction to tobacco, alcohol, drugs, including prescription drugs, and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and discuss efforts to prevent substance abuse, including prescription drug use, in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "apply strategies for avoiding violence, gangs, weapons, and drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of complying with rules prohibiting possession of drugs and weapons;"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between appropriate and inappropriate use of prescription and over-the-counter drugs and the resulting consequences of each; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe how substance misuse, including prescription drug misuse, can lead to addiction."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how physical and social environmental factors can influence individual and community health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "relate physical and social environmental factors to individual and community health such as climate and gangs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the application of strategies for controlling the environment such as emission control, water quality, and waste management; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the influence of physical and social environmental factors on substance misuse."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student investigates positive and negative relationships that influence individual, family, and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze positive and negative relationships that influence individual and community health such as families, peers, and role models; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for monitoring positive and negative relationships that influence health."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student researches ways in which media and technology influence individual and community health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the influence of media and technology on social norms such as using prescription drugs and the social commitment not to use illegal drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the role of media and technology in influencing individuals and community health such as watching television or reading a newspaper and billboard; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain how programmers develop media to influence buying decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how social factors impact personal, family, community, and world health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe personal health behaviors and knowledge unique to different generations and populations; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe characteristics that contribute to family health."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student recognizes and uses communication skills in building and maintaining healthy relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between positive and negative peer pressure;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the application of effective coping skills;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between effective and ineffective listening such as paying attention to the speaker versus not making eye-contact;"}
+        },
+        {
+            "competencyText": {"en-us": "summarize and relate conflict resolution/mediation skills to personal situations; and"}
+        },
+        {
+            "competencyText": {"en-us": "appraise the importance of social groups."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student understands, analyzes, and applies healthy ways to communicate consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe techniques for responding to criticism;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for coping with problems and stress;"}
+        },
+        {
+            "competencyText": {"en-us": "describe strategies to show respect for individual differences including age differences;"}
+        },
+        {
+            "competencyText": {"en-us": "describe methods of communicating emotions;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the effect of stress on personal and family health;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the relationships between emotions and stress; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss how substance misuse, including prescription drug misuse, and substance use disorders impact families and communities."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student analyzes information and applies critical-thinking, decision-making, goal-setting, and problem-solving skills for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "interpret critical issues related to solving health problems;"}
+        },
+        {
+            "competencyText": {"en-us": "relate practices and steps necessary for making health decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "appraise the risks and benefits of decision-making about personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "predict the consequences of refusal skills in various situations;"}
+        },
+        {
+            "competencyText": {"en-us": "examine the effects of peer pressure on decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for setting long-term personal and vocational goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate time-management skills."}
+        },
+        {
+            "competencyText": {"en-us": "Bullying prevention. The student analyzes bullying information and applies strategies for enhancing and maintaining healthy personal relationships throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze strategies for preventing bullying, harassment, dating violence, and sexual assault;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the seriousness of various forms of bullying such as harassment, acquaintance rape, and sexual abuse;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate empathy toward others;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze ways to show disapproval of inconsiderate and disrespectful bullying behavior; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the responsibility to report bullying behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Subchapter C. High School"}
+        },
+        {
+            "competencyText": {"en-us": "Health 1, Grades 9-10 (One-Half Credit)."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.32 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 28, 2017, 42 TexReg 3371."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In Health 1, students develop skills that will make them health-literate adults. Students gain a deeper understanding of the knowledge and behaviors they use to safeguard their health, particularly pertaining to health risks. Students are taught how to access accurate information that they can use to promote health for themselves and others. Students use problem-solving, research, goal-setting and communication skills to protect their health and that of the community."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student analyzes health information and applies strategies for enhancing and maintaining personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "relate the nation's health goals and objectives to individual, family, and community health;"}
+        },
+        {
+            "competencyText": {"en-us": "examine the relationship among body composition, diet, and fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between nutrition, quality of life, and disease;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the causes, symptoms, and treatment of eating disorders;"}
+        },
+        {
+            "competencyText": {"en-us": "examine issues related to death and grieving;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss health-related social issues such as organ donation and homelessness;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze strategies to prevent suicides;"}
+        },
+        {
+            "competencyText": {"en-us": "examine causes and effects of stress and develop strategies for managing stress and coping with anxiety and depression;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of taking responsibility for establishing and implementing health maintenance for individuals and family members of all ages;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the categories of drugs and what they are used to treat; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine examples of drug labels to determine the drug category and intended use."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student is health literate in disease prevention and health promotion throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the relationship between health promotion and disease prevention;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the influence of laws, policies, and practices on health-related issues including those related to disease prevention;"}
+        },
+        {
+            "competencyText": {"en-us": "identify, describe, and assess available health-related services in the community that relate to disease prevention and health promotion;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and analyze strategies related to the prevention of communicable and non-communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "explain why some medications require a prescription;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the connection between the proper and safe use of prescription drugs and overall health;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the potential negative effects of combining drugs, including prescription and over-the-counter drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the consequences of substance misuse of prescription and over-the-counter drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student recognizes the importance and significance of the reproductive process as it relates to the health of future generations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain fetal development from conception through pregnancy and birth;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of the role of prenatal care and proper nutrition in promoting optimal health for both the baby and the mother such as breast feeding;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the harmful effects of certain substances such as alcohol, tobacco, and prescription drugs and environmental hazards such as lead on the fetus; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the significance of genetics and its role in fetal development."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student investigates and evaluates the impact of media and technology on individual, family, community, and world health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the health messages delivered through media and technology;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how technology has impacted the health status of individuals, families, communities, and the world; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine social influences on drug-taking behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student understands how to evaluate health information for appropriateness. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "develop evaluation criteria for health information;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate ways to utilize criteria to evaluate health information for appropriateness;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the legal implications regarding sexual activity as it relates to minor persons; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate decision-making skills based on health information."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student assesses the relationship between body structure and function and personal health throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "examine the effects of health behaviors on body systems;"}
+        },
+        {
+            "competencyText": {"en-us": "relate the importance of early detection and warning signs that prompt individuals of all ages to seek health care; and"}
+        },
+        {
+            "competencyText": {"en-us": "appraise the significance of body changes occurring during adolescence."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student analyzes the relationship between unsafe behaviors and personal health and develops strategies to promote resiliency throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe forms of prescription drug misuse such as combining drugs for another effect and administering a drug improperly and substance use disorders;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the harmful effects such as the physical, mental, social, and legal consequences of alcohol, tobacco, drugs, including prescription drugs, and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between alcohol, tobacco, and other drugs and other substances used by adolescents and the role these substances play in unsafe situations such as Human Immunodeficiency Virus (HIV)/sexually transmitted disease (STD), unplanned pregnancies, and motor vehicle accidents;"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for preventing use of tobacco, alcohol, and other addictive substances;"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for preventing the misuse of prescription and over-the-counter drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance of alternatives to drug and substance use;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and apply strategies for avoiding violence, gangs, weapons, and drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze strategies for preventing and responding to deliberate and accidental injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student analyzes health information and applies decision-making skills to promote the development and practice of safe behaviors. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the relationship between the use of refusal skills and the avoidance of unsafe situations such as sexual abstinence;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance and benefits of abstinence as it relates to emotional health and the prevention of pregnancy and sexually-transmitted diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the effectiveness and ineffectiveness of barrier protection and other contraceptive methods, including the prevention of STDs, keeping in mind the effectiveness of remaining abstinent until marriage;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance of healthy strategies that prevent physical, sexual, and emotional abuse such as date rape;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance of abstinence from sexual activity as the preferred choice of behavior in relationship to all sexual activity for unmarried persons of school age; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss abstinence from sexual activity as the only method that is 100% effective in preventing pregnancy, STDs, and the sexual transmission of HIV or acquired immune deficiency syndrome and the emotional trauma associated with adolescent sexual activity."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student analyzes the effect of relationships on health behaviors. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate positive and negative effects of various relationships on physical and emotional health such as peers, family, and friends; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the benefits of positive relationships among community health professionals in promoting a healthy community."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student differentiates between positive and negative family influences. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the roles of parents, grandparents, and other family members in promoting a healthy family; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the dynamics of family roles and responsibilities relating to health behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student evaluates the effect of a variety of environmental factors on community and world health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "assess the impact of population and economy on community and world health;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the impact of the availability of health services in the community and the world; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe a variety of community and world environmental protection programs."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands how to access school and community health services for people of all ages. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways to report the suspected abuse of drugs to a parent or school administrator, teacher, or other trusted adult;"}
+        },
+        {
+            "competencyText": {"en-us": "research various school and community health services for people of all ages such as vision and hearing screenings and immunization programs; and"}
+        },
+        {
+            "competencyText": {"en-us": "compare and analyze the cost, availability, and accessibility of health services for people of all ages."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands situations in which people of all ages require professional health services. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify support systems aimed at substance use disorders and substance misuse, including prescription drug misuse;"}
+        },
+        {
+            "competencyText": {"en-us": "identify situations requiring professional health services for people of all ages such as primary, preventive, and emergency care; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain how to access health services for people of all ages."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student analyzes, designs, and evaluates communication skills for building and maintaining healthy relationships throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate communication skills in building and maintaining healthy relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between a dating relationship and a marriage;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze behavior in a dating relationship that will enhance the dignity, respect, and responsibility relating to marriage;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the effectiveness of conflict resolution techniques in various situations;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate refusal strategies;"}
+        },
+        {
+            "competencyText": {"en-us": "explore methods for addressing critical-health issues; and"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the dynamics of social groups."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student analyzes, designs, and evaluates strategies for expressing needs, wants, and emotions in healthy ways. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate strategies for communicating needs, wants, and emotions;"}
+        },
+        {
+            "competencyText": {"en-us": "examine the legal and ethical ramifications of unacceptable behaviors such as harassment, acquaintance rape, and sexual abuse; and"}
+        },
+        {
+            "competencyText": {"en-us": "communicate the importance of practicing abstinence."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student appraises communication skills that show consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply communication skills that demonstrate consideration and respect for self, family, and others;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate empathy towards others; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze ways to show disapproval of inconsiderate and disrespectful behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student synthesizes information and applies critical-thinking, decision-making, and problem-solving skills for making health-promoting decisions throughout the life span. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify individual and community protective factors and skills that prevent substance misuse and substance use disorders such as refusing invitations to misuse prescription drugs, knowing the risks associated with substance misuse, and reporting the use of drugs to a parent or school administrator, teacher, or other trusted adult;"}
+        },
+        {
+            "competencyText": {"en-us": "identify decision-making skills that promote individual, family, and community health;"}
+        },
+        {
+            "competencyText": {"en-us": "summarize the advantages of seeking advice and feedback regarding the use of decision-making and problem-solving skills;"}
+        },
+        {
+            "competencyText": {"en-us": "classify forms of communication such as passive, aggressive, or assertive; and"}
+        },
+        {
+            "competencyText": {"en-us": "associate risk-taking with consequences such as drinking and driving."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student applies strategies for advocating and evaluating outcomes for health issues. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research information about a personal health concern;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate knowledge about personal and family health concerns; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies to evaluate information relating to a variety of critical health issues."}
+        },
+        {
+            "competencyText": {"en-us": "Advanced Health, Grades 11-12 (One-Half Credit)."},
+            "comment": {
+                "en-us": [
+                    "Source: The provisions of this §115.33 adopted to be effective September 1, 1998, 22 TexReg 7740",
+                    " amended to be effective August 28, 2017, 42 TexReg 3371."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. The recommended prerequisite for this course is Health 1."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In health education, students acquire the health information and skills necessary to become healthy adults and learn about behaviors in which they should and should not participate. To achieve that goal, students will understand the following: students should first seek guidance in the area of health from their parents; personal behaviors can increase or reduce health risks throughout the lifespan; health is influenced by a variety of factors; students can recognize and utilize health information and products; and personal/interpersonal skills are needed to promote individual, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "In Advanced Health, students are provided opportunities for researching, discussing, and analyzing health issues. This higher level of involvement provides students with experiences designed to reinforce positive health behaviors. Students are given the opportunity to learn more about technology, how it affects health, and how to use electronic technology to gain health information. The emphasis in this course is less related to learning facts and more related to providing students with the skills necessary to access their own health information and services and become health literate."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student applies technology to analyze and appraise personal health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "generate a personal-health profile using appropriate technology such as stress reduction, body fat composition, and nutritional analysis; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain how technology can influence health."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student researches and analyzes information in the management of health promotion and disease prevention. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "investigate various sources in the community that promote health and prevent disease; and"}
+        },
+        {
+            "competencyText": {"en-us": "design health promotion materials."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student investigates the importance and significance of the reproductive process as it relates to the health of future generations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze problems during various stages of fetal development;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the role of prenatal care and proper nutrition in promoting optimal health for both the baby and the mother such as breast feeding;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the harmful effects of certain substances on the fetus such as alcohol, tobacco, environmental hazards such as lead, and prescription and other drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze roles of relationships and responsibilities relating to marriage; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze behavior in romantic relationships that enhance dignity, respect, and responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student evaluates the validity of health information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research current health-related standards related to health information and products from valid sources such as the Centers for Disease Control and Prevention and the Food and Drug Administration;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze health information based on health-related standards; and"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the impact of laws relating to prescription and over-the-counter drug misuse and the use of alcohol, tobacco, and other substances."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student describes the effect of marketing and advertising on health behavior. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze marketing and advertising techniques in health-product and service promotion; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply marketing and advertising techniques to health promotion."}
+        },
+        {
+            "competencyText": {"en-us": "Health information. The student evaluates and utilizes communication skills in building and maintaining healthy relationships. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply effective communication skills for building and maintaining healthy relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "design strategies for implementing effective conflict resolution/mediation strategies; and"}
+        },
+        {
+            "competencyText": {"en-us": "present a model for effective communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Health behaviors. The student generates strategies that address health-risk behaviors. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze strategies that minimize health-risk behaviors, including the misuse of prescription drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in school-related efforts to address health-risk behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a plan to participate in community efforts to address health-risk behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "develop educational-safety models for children and adults for use at home, school, and in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the impact of laws relating to tobacco, alcohol, drugs, including prescription drugs, and other substances;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate treatment plans for drug addiction, including prescription drugs; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the interrelatedness of alcohol and other drugs to health problems such as drugs and date rape, Human Immunodeficiency Virus (HIV)/sexually transmitted disease (STD), and drinking and driving."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student researches and evaluates a variety of environmental factors that impact personal and community health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "examine the influence of culture and society on the misuse and abuse of prescription drugs in school, sports, or entertainment;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the impact of environmental factors such as air, water, or noise on the health of the community such as air pollution affecting asthma and drought conditions affecting water supplies;"}
+        },
+        {
+            "competencyText": {"en-us": "formulate strategies for combating environmental factors that have a detrimental effect on the health of a community; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop strategies for aiding in the implementation of a community environmental health plan."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student assesses the impact of the economy on community and world health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "relate economic status to availability of health services within the community; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze health care costs of various health services in different countries."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student recognizes the importance of personal contributions to the health of the community. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research and/or participate in community health programs that benefit various populations such as volunteering for teen health lines and volunteering in nursing homes; and"}
+        },
+        {
+            "competencyText": {"en-us": "participate in a presentation to educate others about a variety of health issues such as panel discussions and role plays or skits to inform younger students about the dangers of drug use, including the misuse of prescription drugs, or smoking."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student understands issues related to community health services. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze how the cost, availability, and accessibility of health care services affects the community; and"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate how the selection of health care services, products, and information affects the community."}
+        },
+        {
+            "competencyText": {"en-us": "Influencing factors. The student investigates technological advances in the community that impact the health of individuals, families, and communities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe technological advances available in the community that treat health problems such as medical procedures at local hospitals for treating heart disease and cancer; and"}
+        },
+        {
+            "competencyText": {"en-us": "locate health care facilities at which members of the community can obtain medical care."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student analyzes, designs, and evaluates strategies for expressing needs, wants, and emotions in healthy ways. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "create and apply strategies for communicating emotions, needs, and wants;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate leadership skills for advocating health;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate and summarize current laws relating to unacceptable behaviors such as harassment, acquaintance and statutory rape, and sexual abuse; and"}
+        },
+        {
+            "competencyText": {"en-us": "create strategies that promote the advantages of abstinence."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student evaluates communication skills that show consideration and respect for self, family, friends, and others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "appraise effective communication skills that demonstrate consideration and respect for self, family, and others;"}
+        },
+        {
+            "competencyText": {"en-us": "associate effective communication with success in school and the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the detrimental effects of inconsiderate and disrespectful behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "apply criteria for using passive, aggressive, and assertive communication in relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the importance of abstinence from sexual activity as the preferred choice of behavior in relationship to all sexual activity for unmarried persons of school age; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss abstinence from sexual activity as the only method that is 100% effective in preventing pregnancy, STDs, and the sexual transmission of HIV or acquired immune deficiency syndrome, and the emotional trauma associated with adolescent sexual activity."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student synthesizes information and applies strategies for making health-promoting decisions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify effective skills to resist and refuse invitations to misuse substances, including prescription drugs;"}
+        },
+        {
+            "competencyText": {"en-us": "apply decision-making skills to health-promoting decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "interpret information provided by parents and other adults; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine causal connections that promote health in relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Personal/interpersonal skills. The student applies strategies for advocating and evaluating outcomes for health issues. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research information regarding personal and family health concerns;"}
+        },
+        {
+            "competencyText": {"en-us": "design materials for health advocacy; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply the concept of research and evaluation for determining health information for special populations."}
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Health Education, Elementary."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §115.1 adopted to be effective September 1, 1998, 22 TexReg 7740."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Health Education, Middle School."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §115.21 adopted to be effective September 1, 1998, 22 TexReg 7740."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Health Education, High School."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §115.31 adopted to be effective September 1, 1998, 22 TexReg 7740."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.29(a)-(f) of this title (relating to Health Education) beginning September 1, 1998."}
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.29(g) and §75.45 of this title (relating to Health Education) beginning September 1, 1998."}
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.65 of this title (relating to Health Education) beginning September 1, 1998."}
+        }
+    ]
+}

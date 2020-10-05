@@ -1,0 +1,1318 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/48a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Business Management, and Administration"},
+        "description": {"en-us": "CTE-Business Management, and Administration Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Administrative Support"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the administrative support career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Business Information Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the business information management career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the business information management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "General Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the general management career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the general management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and understand computer hardware."}
+        },
+        {
+            "competencyText": {"en-us": "Define and identify input, output, and storage devices and their functions."}
+        },
+        {
+            "competencyText": {"en-us": "Define and identify memory in a computer."}
+        },
+        {
+            "competencyText": {"en-us": "Identify information technology tools and their proper uses."}
+        },
+        {
+            "competencyText": {"en-us": "Define and identify various software applications (word processing, spreadsheets, database, presentation, digital publishing) and their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions of web browsers, and use them to access the World Wide Web and other computer resources."}
+        },
+        {
+            "competencyText": {"en-us": "Use different web search engines effectively to locate information."}
+        },
+        {
+            "competencyText": {"en-us": "Understand how email clients send simple messages and files to other internet users."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply keyboarding skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper alphanumeric keyboarding techniques using correct ergonomic habits."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safety and respect for equipment and materials in lab."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper techniques for alphanumeric keyboarding while keeping fingers on home row keys."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate speed building using techniques for numeric and symbol keyboarding."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply word processing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Start and exit word processing software."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of a word processing screen, e.g., ribbon, status bar, title bar, insertion point, scroll box and bar, and tabs."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to use the word processing window, including menus, toolbars, dialog boxes, tabs and ribbons."}
+        },
+        {
+            "competencyText": {"en-us": "Create and edit a new document."}
+        },
+        {
+            "competencyText": {"en-us": "Understand different views of document and using the zoom function."}
+        },
+        {
+            "competencyText": {"en-us": "Identify methods of moving the insertion point."}
+        },
+        {
+            "competencyText": {"en-us": "Select and edit text."}
+        },
+        {
+            "competencyText": {"en-us": "Move text in a document using the copy, cut, and paste and drag and drop text commands."}
+        },
+        {
+            "competencyText": {"en-us": "Format text by changing the font, size, color."}
+        },
+        {
+            "competencyText": {"en-us": "Align text horizontally and vertically."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the Undo and Redo commands."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the Show/Hide command."}
+        },
+        {
+            "competencyText": {"en-us": "Use basic proofreading skills including proofreader\u2019s marks."}
+        },
+        {
+            "competencyText": {"en-us": "Use spell check, grammar check and thesaurus programs properly."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the difference between Save and Save As."}
+        },
+        {
+            "competencyText": {"en-us": "Save, open and replace files."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize Print Preview and demonstrate printing capabilities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate efficient use of the Help program."}
+        },
+        {
+            "competencyText": {"en-us": "Create and format memos."}
+        },
+        {
+            "competencyText": {"en-us": "Create and format business letters using the block and modified block style."}
+        },
+        {
+            "competencyText": {"en-us": "Create and format one-page academic and business reports using Modern Language Association (MLA) style."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how to address and print envelopes."}
+        },
+        {
+            "competencyText": {"en-us": "Insert a hyperlink into a document."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and use read-only documents."}
+        },
+        {
+            "competencyText": {"en-us": "Insert page breaks in a multi-page document."}
+        },
+        {
+            "competencyText": {"en-us": "Format columns within a document."}
+        },
+        {
+            "competencyText": {"en-us": "Work with document templates."}
+        },
+        {
+            "competencyText": {"en-us": "Open and work with multiple documents."}
+        },
+        {
+            "competencyText": {"en-us": "Apply different views to a document."}
+        },
+        {
+            "competencyText": {"en-us": "Apply tabs, line spacing and paragraph indents."}
+        },
+        {
+            "competencyText": {"en-us": "Format text."}
+        },
+        {
+            "competencyText": {"en-us": "Apply styles in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Use find and replace."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize the format painter."}
+        },
+        {
+            "competencyText": {"en-us": "Highlight text."}
+        },
+        {
+            "competencyText": {"en-us": "Insert date and time."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and manipulate graphics, word art and text boxes."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and remove a manual page break in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Create bulleted and numbered lists."}
+        },
+        {
+            "competencyText": {"en-us": "Insert, move, and enter data in a table."}
+        },
+        {
+            "competencyText": {"en-us": "Insert, delete, and merge columns, rows, and cells."}
+        },
+        {
+            "competencyText": {"en-us": "Change column or row width and height."}
+        },
+        {
+            "competencyText": {"en-us": "Align table on page."}
+        },
+        {
+            "competencyText": {"en-us": "Apply cell content alignment."}
+        },
+        {
+            "competencyText": {"en-us": "Change table styles and apply borders and shading."}
+        },
+        {
+            "competencyText": {"en-us": "Set margins, page orientation, and page size."}
+        },
+        {
+            "competencyText": {"en-us": "Insert a watermark, apply a page border, and change the background color."}
+        },
+        {
+            "competencyText": {"en-us": "Create headers and footers in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Save a document."}
+        },
+        {
+            "competencyText": {"en-us": "Save a document in various formats."}
+        },
+        {
+            "competencyText": {"en-us": "Understand printing options."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the general functions and applications of word processing software."}
+        },
+        {
+            "competencyText": {"en-us": "Define and explain the benefits of cloud computing."}
+        },
+        {
+            "competencyText": {"en-us": "List and describe common word processor tools and features."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the benefits of common keyboard shortcuts used in word processing."}
+        },
+        {
+            "competencyText": {"en-us": "Format the page setup of a document."}
+        },
+        {
+            "competencyText": {"en-us": "Explain advanced printing options in word processing."}
+        },
+        {
+            "competencyText": {"en-us": "Copy, paste and move text within a document using mouse, menu and keyboard techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Copy, paste and move text among multiple documents using mouse, menu and keyboard techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Modify document view settings to display close-up, single and multiple pages."}
+        },
+        {
+            "competencyText": {"en-us": "Define format as it relates to word processing."}
+        },
+        {
+            "competencyText": {"en-us": "Format text using styles and font tools."}
+        },
+        {
+            "competencyText": {"en-us": "Format a document using multi-level heading styles to enable an outline view (e.g. document map, navigation pane) in word processing."}
+        },
+        {
+            "competencyText": {"en-us": "Create a table of contents using auto-generation tools and techniques in word processing."}
+        },
+        {
+            "competencyText": {"en-us": "Insert page breaks in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Create source citations and a bibliography in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Use word processing tools to determine the number of pages, words and characters in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Use spell check, grammar check, thesaurus, and find & replace to edit a document."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and modify sizing of images in a word processing document."}
+        },
+        {
+            "competencyText": {"en-us": "Position an image relative to text in a document, using various text-wrapping options."}
+        },
+        {
+            "competencyText": {"en-us": "Use word processing drawing tools to create pre-formatted shapes that enhance a document\u2019s content."}
+        },
+        {
+            "competencyText": {"en-us": "Use illustration tools to create a visual representation of information."}
+        },
+        {
+            "competencyText": {"en-us": "Apply a column layout to text in a document as appropriate for the content (e.g., article, newsletter)."}
+        },
+        {
+            "competencyText": {"en-us": "Apply simple numbered and bulleted lists in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Define a new multilevel list."}
+        },
+        {
+            "competencyText": {"en-us": "Use a brochure and flyer template."}
+        },
+        {
+            "competencyText": {"en-us": "Convert a body of text into a table structure in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Define collaboration and explain ways that users can collaborate."}
+        },
+        {
+            "competencyText": {"en-us": "Use the translation tool in a word processor to translate text in a document."}
+        },
+        {
+            "competencyText": {"en-us": "Add comments to a document when reviewing and editing content."}
+        },
+        {
+            "competencyText": {"en-us": "Revise a document using editing tools in word processing, and accept or reject changes."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using presentation software."}
+        },
+        {
+            "competencyText": {"en-us": "Start and exit presentation software."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of a presentation screen."}
+        },
+        {
+            "competencyText": {"en-us": "Create a new presentation document."}
+        },
+        {
+            "competencyText": {"en-us": "Select design layout, background, a template and color scheme."}
+        },
+        {
+            "competencyText": {"en-us": "Edit text."}
+        },
+        {
+            "competencyText": {"en-us": "Format text and graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Select order of frames."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to print presentations using different settings."}
+        },
+        {
+            "competencyText": {"en-us": "Spell check a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Apply fill effects. Insert lines and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Order, group, and rotate objects."}
+        },
+        {
+            "competencyText": {"en-us": "Animate graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Apply slide transitions and timings."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate transitions on text, tables, charts, and graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Add sound."}
+        },
+        {
+            "competencyText": {"en-us": "Apply action buttons."}
+        },
+        {
+            "competencyText": {"en-us": "Insert a hyperlink."}
+        },
+        {
+            "competencyText": {"en-us": "Rearrange slide order through slide sorter."}
+        },
+        {
+            "competencyText": {"en-us": "Add notes to a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Customize timing and rehearsing to coordinate with oral presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Save a presentation in various formats."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate presentation skills."}
+        },
+        {
+            "competencyText": {"en-us": "Describe presentation software and the ways it can be used."}
+        },
+        {
+            "competencyText": {"en-us": "Create and modify a slide master."}
+        },
+        {
+            "competencyText": {"en-us": "Add and format titles, subtitles and talking points in presentation slides."}
+        },
+        {
+            "competencyText": {"en-us": "Add slide numbers, date, and time to presentation slides."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and format images and graphics in presentation slides."}
+        },
+        {
+            "competencyText": {"en-us": "Insert new or duplicate slides in a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Modify slide transitions in a presentation to include animation."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and modify sound settings and timing in a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Modify the sequence of slides in a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a presentation that includes text, graphics and images, and present it."}
+        },
+        {
+            "competencyText": {"en-us": "Set up slideshow to repeat the presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply spreadsheet skills."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and delete rows and columns."}
+        },
+        {
+            "competencyText": {"en-us": "Clear and delete data."}
+        },
+        {
+            "competencyText": {"en-us": "Copy and move data."}
+        },
+        {
+            "competencyText": {"en-us": "Fill the same data in adjacent cells."}
+        },
+        {
+            "competencyText": {"en-us": "Fill data series in adjacent cells."}
+        },
+        {
+            "competencyText": {"en-us": "Hide and Unhide columns and rows."}
+        },
+        {
+            "competencyText": {"en-us": "Freeze and Unfreeze columns and rows."}
+        },
+        {
+            "competencyText": {"en-us": "Sort data."}
+        },
+        {
+            "competencyText": {"en-us": "Print the worksheet, with and without grids."}
+        },
+        {
+            "competencyText": {"en-us": "Create a chart."}
+        },
+        {
+            "competencyText": {"en-us": "Apply cell borders and shading."}
+        },
+        {
+            "competencyText": {"en-us": "Add a header and footer."}
+        },
+        {
+            "competencyText": {"en-us": "Rotate text in a cell."}
+        },
+        {
+            "competencyText": {"en-us": "Create a formula using mathematical operations."}
+        },
+        {
+            "competencyText": {"en-us": "Create a formula using more than one mathematical operation."}
+        },
+        {
+            "competencyText": {"en-us": "Create a formula finding maximum, minimum and average."}
+        },
+        {
+            "competencyText": {"en-us": "Format a chart changing the font size, component colors and rotation of charts for graphical emphasis."}
+        },
+        {
+            "competencyText": {"en-us": "Insert a picture in a worksheet."}
+        },
+        {
+            "competencyText": {"en-us": "Start and exit spreadsheet software."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of the spreadsheet screen, e.g., ribbon, status bar, title bar, insertion point, scroll box and bar, and tabs."}
+        },
+        {
+            "competencyText": {"en-us": "Create a new worksheet."}
+        },
+        {
+            "competencyText": {"en-us": "Resize column width and row height in a spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Format the contents of a cell, i.e., change fonts and font sizes, align text, and format numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Merge cells."}
+        },
+        {
+            "competencyText": {"en-us": "Use Undo and Redo commands."}
+        },
+        {
+            "competencyText": {"en-us": "AutoFormat the worksheet."}
+        },
+        {
+            "competencyText": {"en-us": "Use the AutoSum feature."}
+        },
+        {
+            "competencyText": {"en-us": "Define spreadsheet and describe ways it may be used."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the parts of the spreadsheet display, including cells, columns and rows, cell references, cell range."}
+        },
+        {
+            "competencyText": {"en-us": "Create and navigate through multiple spreadsheets in a file."}
+        },
+        {
+            "competencyText": {"en-us": "Insert and format various types of data (text, numeric, date/time) in a spreadsheet cell."}
+        },
+        {
+            "competencyText": {"en-us": "Select multiple cells, including adjacent and non-adjacent ranges, using mouse and keyboard techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Cut, copy, and paste information from one or more cells to another part of the spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Apply and modify cell formatting for currency, date and percentage values."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose of a table and how it relates to a spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Create and print a table and/or range that displays and sums the values of different data types."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain when to use various types of charts and common chart components."}
+        },
+        {
+            "competencyText": {"en-us": "Insert common functions and simple mathematical formulas into a spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between absolute and relative cell references in a spreadsheet."}
+        },
+        {
+            "competencyText": {"en-us": "Use the sort function to organize information numerically or alphabetically, including multiple levels of sorting."}
+        },
+        {
+            "competencyText": {"en-us": "Use the filter function to display spreadsheet data based on specific criteria."}
+        },
+        {
+            "competencyText": {"en-us": "Use conditional formatting."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and utilize business-related skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify good grooming and dress habits for the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate problem solving skills."}
+        },
+        {
+            "competencyText": {"en-us": "Apply teamwork in the classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of impromptu speaking ability in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of prepared speaking ability in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Compare grooming and dress standards in various workplace environments."}
+        },
+        {
+            "competencyText": {"en-us": "Perform an impromptu and a prepared presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a resume and cover letter."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a thank you letter to a potential employer."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss job searching skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment benefits."}
+        },
+        {
+            "competencyText": {"en-us": "Understand labor laws."}
+        },
+        {
+            "competencyText": {"en-us": "Understand appropriate procedures for changing jobs."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a job application."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate skills and appropriate attire necessary for a successful job interview."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of a positive attitude in obtaining and maintaining a job."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of proper grooming and appearance for the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize brainstorming techniques to solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Research sources of employment."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss employer expectations toward prospective and current employees."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the value of updating technology skills as the workplace environment changes."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a list of strategies for communicating in multicultural settings."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the importance of good work habits for success in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a quality completed job application."}
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of ethical behavior in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the importance of personal integrity in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the transferrable skills for school to work."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate teamwork."}
+        },
+        {
+            "competencyText": {"en-us": "Make an impromptu presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Make a prepared presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate and present as a team."}
+        },
+        {
+            "competencyText": {"en-us": "Develop problem-solving skills."}
+        },
+        {
+            "competencyText": {"en-us": "Perform activities using the world wide web."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the history of the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and define internet vocabulary such as hyperlink, WWW, URL, and web browser."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic principles of the Domain Name System (DNS)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform basic internet searches."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use various web browsers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use various search engines."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate websites."}
+        },
+        {
+            "competencyText": {"en-us": "Understand Favorites and Bookmarks."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and demonstrate internet safety."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss internet privacy, ethics, network etiquette and copyright laws."}
+        },
+        {
+            "competencyText": {"en-us": "Download files."}
+        },
+        {
+            "competencyText": {"en-us": "Download graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Perform advanced searches using Boolean operators."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss email, email attachment, address book, and calendar."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss instant messaging."}
+        },
+        {
+            "competencyText": {"en-us": "Copy and paste from browser to other applications."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and apply digital design skills utilizing current technology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to launch digital design software."}
+        },
+        {
+            "competencyText": {"en-us": "Create a new document from a template (e.g. newsletter, brochure, greeting card, letterhead, or flyer)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify menus and toolbars of digital design software."}
+        },
+        {
+            "competencyText": {"en-us": "Apply design layout and color scheme."}
+        },
+        {
+            "competencyText": {"en-us": "Apply styles and borders."}
+        },
+        {
+            "competencyText": {"en-us": "Insert a text box, word art and graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Apply formatting to a text box, word art and graphics."}
+        },
+        {
+            "competencyText": {"en-us": "Edit text and layouts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to spell check, save, and print a document."}
+        },
+        {
+            "competencyText": {"en-us": "Apply special formatting (e.g. add gradient, text wrapping, positioning)."}
+        },
+        {
+            "competencyText": {"en-us": "Insert graphics from files."}
+        },
+        {
+            "competencyText": {"en-us": "Create new document without using templates."}
+        },
+        {
+            "competencyText": {"en-us": "Save a graphic to file."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in advanced print layout options."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge, skill, and application of information systems to accomplish job objectives and enhance workplace performance."}
+        },
+        {
+            "competencyText": {"en-us": "Use current and emerging computer technology and software to perform personal and business related tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the use of information management tools to develop and coordinate the distribution of work."}
+        },
+        {
+            "competencyText": {"en-us": "Develop keyboarding skills to enter and manipulate text and data."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe communications and networking systems used in workplace environments."}
+        },
+        {
+            "competencyText": {"en-us": "Use reference materials such as on-line help, vendor bulletin boards, tutorials, and manuals available for application software."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ethical issues and problems associated with computers and information systems."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an awareness of business organizational structures."}
+        },
+        {
+            "competencyText": {"en-us": "Explore organizational structures in today\u2019s business environments."}
+        },
+        {
+            "competencyText": {"en-us": "Assess personal performance and identify strategies for improvement."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an awareness of the impact of the economy as it relates to the marketplace."}
+        },
+        {
+            "competencyText": {"en-us": "Assess personal strengths as they relate to business career exploration."}
+        },
+        {
+            "competencyText": {"en-us": "Survey and assess personal aptitudes and interests related to careers."}
+        },
+        {
+            "competencyText": {"en-us": "Apply mathematical strategies to business applications."}
+        },
+        {
+            "competencyText": {"en-us": "Select and implement appropriate mathematical tools to solve business financial problems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify information technology tools and their purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Define and identify various software applications (word processing, spreadsheets, database, presentation, digital publishing) and their uses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions of web browsers, and use them to access the World Wide Web and other computer resources typically used in the Business, Management and Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Use different types of web search engines effectively to locate information relevant to the Business, Management and Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using the Internet to locate information."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use web terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Define Universal Resource Locators (URLs) and associated protocols."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the types of internet domains."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using search engines, including Boolean search techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using various web tools (e.g., downloading of files, transfer of files, telnet, PDF)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the roles of web servers and web browsers."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate online information for relevance, credibility and quality using basic guidelines and indicators (e.g. authority, affiliation, purpose, bias, date)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply copyright and fair use guidelines, and explain plagiarism as an ethical and legal violation."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate results from internet searches into a research project (e.g., report, summary)."}
+        },
+        {
+            "competencyText": {"en-us": "Download images as needed to support a research project, complying with copyright notices."}
+        },
+        {
+            "competencyText": {"en-us": "Properly cite internet sources used to obtain information for a research project."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Business Management & Administration cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Business Management & Administration career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Business Management & Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Business Management & Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Business Management & Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Business Management & Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Business Management & Administration career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Business Management & Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Perform email activities."}
+        },
+        {
+            "competencyText": {"en-us": "Describe email capabilities and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify components of an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the components of an email address."}
+        },
+        {
+            "competencyText": {"en-us": "Identify when to use different email options."}
+        },
+        {
+            "competencyText": {"en-us": "Attach a file to an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Forward an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Use an address book."}
+        },
+        {
+            "competencyText": {"en-us": "Reply to an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Use the Internet to perform email activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the appropriate use of email and demonstrate related email etiquette."}
+        },
+        {
+            "competencyText": {"en-us": "Identify when to include information from an original email message in a response."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common problems associated with widespread use of email."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency navigating the Internet and the intranet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe web terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using the basic features of browsers (e.g. setting bookmarks, basic configurations, email configurations, address book)."}
+        },
+        {
+            "competencyText": {"en-us": "Define Universal Resource Locators (URLs) and associated protocols (e.g. .com, .org, .edu, .gov, .net, .mil)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using search engines (e.g. Yahoo!, Google)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency downloading files."}
+        },
+        {
+            "competencyText": {"en-us": "Identify Boolean search strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate use of email."}
+        },
+        {
+            "competencyText": {"en-us": "Define email and describe the functions and advantages as a form of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Identify components of an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the format of an email address."}
+        },
+        {
+            "competencyText": {"en-us": "Attach a file to an email message."}
+        },
+        {
+            "competencyText": {"en-us": "Reply to and forward an email message to one or more addressees."}
+        },
+        {
+            "competencyText": {"en-us": "Use the Internet to perform email activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the appropriate use of email and demonstrate related email etiquette."}
+        },
+        {
+            "competencyText": {"en-us": "Perform email organization and cleanup."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using graphics software."}
+        },
+        {
+            "competencyText": {"en-us": "Describe graphics software and its uses."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast vector and raster images."}
+        },
+        {
+            "competencyText": {"en-us": "Identify image file formats for photos and graphical art."}
+        },
+        {
+            "competencyText": {"en-us": "Define terms related to the creation and display of graphical images."}
+        },
+        {
+            "competencyText": {"en-us": "Create images with effects using different tools, brushes, adjustments and filters available in graphics software."}
+        },
+        {
+            "competencyText": {"en-us": "Copy and paste graphical images."}
+        },
+        {
+            "competencyText": {"en-us": "Modify shapes and colors in a graphical image."}
+        },
+        {
+            "competencyText": {"en-us": "Save and export a digital photograph in a format that provides the best image quality and file size for internet use."}
+        },
+        {
+            "competencyText": {"en-us": "Create a slide presentation using graphical design or layout template features (e.g., SmartArt) and animated transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Use a portable digital video device or similar online tools to shoot video files, and transfer them to a computer."}
+        },
+        {
+            "competencyText": {"en-us": "Use video-editing software to produce a slide show or movie."}
+        },
+        {
+            "competencyText": {"en-us": "Create a multimedia presentation that incorporates edited video, animation, music and narration, and that applies principles of good design, smooth transitions and effective message delivery."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of safety and privacy practices for online communication."}
+        },
+        {
+            "competencyText": {"en-us": "Define privacy as it relates to digital footprint."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the risks of communicating on social networking sites and identify ways to communicate safely."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between copyright infringement, plagiarism and fair use in an educational setting and in relation to school projects, especially with music and pictures."}
+        },
+        {
+            "competencyText": {"en-us": "Describe online communication practices that contribute to cyberbullying."}
+        },
+        {
+            "competencyText": {"en-us": "Practice safe online communication techniques with internet searches, email, and other social network web sites."}
+        },
+        {
+            "competencyText": {"en-us": "Follow an Acceptable Use Policy (AUP) when accessing the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of internet safety and ethics."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between viruses and malware and discuss their impact on personal privacy and computer operation."}
+        },
+        {
+            "competencyText": {"en-us": "Adhere to cyber safety practices with regard to conducting internet searches, email, chat rooms, and other social network websites."}
+        },
+        {
+            "competencyText": {"en-us": "Adhere to Acceptable Use Policies when accessing the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Describe risks associated with social networking sites and ways to mitigate these risks."}
+        },
+        {
+            "competencyText": {"en-us": "Define privacy and relate it to the term digital footprint."}
+        },
+        {
+            "competencyText": {"en-us": "Practice cybersafety techniques to protect your personal information when using internet searches, email, chat rooms, and social network websites."}
+        },
+        {
+            "competencyText": {"en-us": "Describe cyberbullying, its impact on perpetrators and victims and ways to respond."}
+        },
+        {
+            "competencyText": {"en-us": "Describe risks associated with sexting (including legal issues, social consequences), and discuss methods for response, reporting, and prevention."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the risks associated with online gaming and ways to mitigate these risks."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the ethics and copyright legalities of downloading music or videos from the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast rules for copyright and fair use, especially in relation to using online resources for school and educational purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between viruses and malware, specifically their sources, ploys, and impact on personal privacy and computer operation, and ways to avoid infection."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common threats used to spread malware and viruses, including phishing, pharming, Trojans, spyware, malicious sites, free downloads."}
+        },
+        {
+            "competencyText": {"en-us": "Perform an antivirus scan on a computer system to check for viruses and malware."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strong password practices."}
+        },
+        {
+            "competencyText": {"en-us": "Practice cyber safety techniques to protect a computer system when using internet searches, email and social network websites."}
+        },
+        {
+            "competencyText": {"en-us": "Identify security issues related to mobile phones, including personal information compromised if a phone is lost or stolen.  "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate use of video editing software and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to operate a portable video camera."}
+        },
+        {
+            "competencyText": {"en-us": "Write storyboards to depict a one minute video segment."}
+        },
+        {
+            "competencyText": {"en-us": "Determine appropriate lighting needs."}
+        },
+        {
+            "competencyText": {"en-us": "Create video shots sufficient to produce a one minute video."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions and benefits of the digital video software interface."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to edit, cut, erase, and insert video."}
+        },
+        {
+            "competencyText": {"en-us": "Edit video as needed to achieve desired message and length."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a first complete run-through of the video production process."}
+        },
+        {
+            "competencyText": {"en-us": "Characterize the qualities of effective communication in a completed video."}
+        },
+        {
+            "competencyText": {"en-us": "Upload finished video files to a website."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency using common software applications."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the use of various software applications (e.g., word processing, desktop publishing, graphics design, web browser, e-mail, presentation, database)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in the use of various software applications (e.g., word processing, desktop publishing, graphics design, web browser, e-mail, presentation, database)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in using audio editing software."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions and benefits of the audio editing software interface."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to edit, cut, erase, and insert audio."}
+        },
+        {
+            "competencyText": {"en-us": "Edit audio as needed to achieve desired message and length."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a 30 second to one minute audio commercial project."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency locating, gathering, and preparing textual, graphical, and image-based web content."}
+        },
+        {
+            "competencyText": {"en-us": "Define the elements of a web page and evaluate web page quality."}
+        },
+        {
+            "competencyText": {"en-us": "Describe effective text and image content for web pages based on how visitors use the web."}
+        },
+        {
+            "competencyText": {"en-us": "List guidelines and conventions for effective text on web pages."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the inverted pyramid model of newspaper journalism and how it applies to web content."}
+        },
+        {
+            "competencyText": {"en-us": "Use word-processing software to create effective written content for a web page."}
+        },
+        {
+            "competencyText": {"en-us": "Create and/or edit an image for a web page using graphics software."}
+        },
+        {
+            "competencyText": {"en-us": "Access graphics through various resources."}
+        },
+        {
+            "competencyText": {"en-us": "Plan the content and design of a basic web page using strategies for effective web communication."}
+        },
+        {
+            "competencyText": {"en-us": "Use technology to enhance the effectiveness of communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use database, spreadsheet, presentation software, scheduling, and integrated software packages to enhance communication."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to and utilize information derived from multiple sources (e.g. written documents, instructions, e-mail, voice mail) to solve problems and complete tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency of using common software applications."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the appropriate use of various software applications."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proficiency in the use of various software applications."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why different file types exist (e.g., formats for word processing, images, music, and three-dimensional drawings)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the kinds of content associated with different file types."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge, skill, and application of information systems to accomplish job objectives and enhance workplace performance."}
+        },
+        {
+            "competencyText": {"en-us": "Develop keyboarding skills to enter and manipulate text and data."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use current and emerging computer technology and software to perform personal and business related tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of operations such as sorting, filtering, and searching in a database to organize and display information in a variety of ways such as number formats (e.g., scientific notation, percentages, and exponents), charts, tables and graphs."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate comprehension and communication."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, speaking, telecommunication and nonverbal skills and strategies to communicate effectively."}
+        },
+        {
+            "competencyText": {"en-us": "Organize ideas and communicate oral and written messages."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with individuals and teams to complete tasks and solve information technology problems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an awareness of project management concepts and tools."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an ability to communicate appropriately through various online tools."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize that more than one algorithm can solve a given problem."}
+        },
+        {
+            "competencyText": {"en-us": "Create a program that implements an algorithm to achieve a given goal, individually and collaboratively."}
+        },
+        {
+            "competencyText": {"en-us": "Human Resources Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the human resources management career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the human resources management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Operations Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the operations management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the operations management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the operations management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the operations management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the operations management career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the operations management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the operations management career pathway."}
+        }
+    ]
+}

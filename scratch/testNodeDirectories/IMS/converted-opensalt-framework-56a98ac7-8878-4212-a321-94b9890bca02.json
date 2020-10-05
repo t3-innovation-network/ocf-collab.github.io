@@ -1,0 +1,2665 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/56a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Mathematics (B.E.S.T. - Effective starting 2022-2023)"},
+        "description": {"en-us": "Mathematics (B.E.S.T. - Effective starting 2022-2023) Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade K-12"}
+        },
+        {
+            "competencyText": {"en-us": "Mathematical Thinking and Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Actively participate in effortful learning both individually and collectively."}
+        },
+        {
+            "competencyText": {"en-us": "Mathematicians who participate in effortful learning both individually and with others:&nbsp;\r\n<ul><li>Analyze the problem in a way that makes sense given the task.&nbsp;<\/li><li>Ask questions that will help with solving the task.&nbsp;<\/li><li>Build perseverance by modifying methods as needed while solving a challenging task.&nbsp;<\/li><li>Stay engaged and maintain a positive mindset when working to solve tasks.&nbsp;<\/li><li>Help and support each other when attempting a new method or approach.\r\n<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding by representing problems in multiple ways."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding by representing problems in multiple ways.&nbsp;<p>Mathematicians who demonstrate understanding by representing problems in multiple ways: &nbsp;<\/p><ul><li>Build understanding through modeling and using manipulatives.<\/li><li>Represent solutions to problems in multiple ways using objects, drawings, tables, graphs and equations.<\/li><li>Progress from modeling problems with objects and drawings to using algorithms and equations.<\/li><li>Express connections between concepts and representations.<\/li><li>Choose a representation based on the given context or purpose.<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Complete tasks with mathematical fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Complete tasks with mathematical fluency.<p>Mathematicians who complete tasks with mathematical fluency:<\/p><ul><li>Select efficient and appropriate methods for solving problems within the given context.<\/li><li>Maintain flexibility and accuracy while performing procedures and mental calculations.<\/li><li>Complete tasks accurately and with confidence.<\/li><li>Adapt procedures to apply them to a new context.<\/li><li>Use feedback to improve efficiency when performing calculations.&nbsp;<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Engage in discussions that reflect on the mathematical thinking of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Engage in discussions that reflect on the mathematical thinking of self and others.<p>Mathematicians who engage in discussions that reflect on the mathematical thinking of self and others:<\/p><ul><li>Communicate mathematical ideas, vocabulary and methods effectively.<\/li><li>Analyze the mathematical thinking of others.<\/li><li>Compare the efficiency of a method to those expressed by others.<\/li><li>Recognize errors and suggest how to correctly solve the task.<\/li><li>Justify results by explaining methods and processes.<\/li><li>Construct possible arguments based on evidence.&nbsp;<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Use patterns and structure to help understand and connect mathematical concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Use patterns and structure to help understand and connect mathematical concepts.<p>Mathematicians who use patterns and structure to help understand and connect mathematical concepts:<\/p><ul><li>Focus on relevant details within a problem.<\/li><li>Create plans and procedures to logically order events, steps or ideas to solve problems.<\/li><li>Decompose a complex problem into manageable parts.<\/li><li>Relate previously learned concepts to new concepts.<\/li><li>Look for similarities among problems.<\/li><li>Connect solutions of problems to more complicated large-scale situations.&nbsp;<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Assess the reasonableness of solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the reasonableness of solutions.<p>Mathematicians who assess the reasonableness of solutions:&nbsp;<\/p><ul><li>Estimate to discover possible solutions.<\/li><li>Use benchmark quantities to determine if a solution makes sense.<\/li><li>Check calculations when solving problems.<\/li><li>Verify possible solutions by explaining the methods used.<\/li><li>Evaluate results based on the given context.&nbsp;<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Apply mathematics to real-world contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply mathematics to real-world contexts.<p>Mathematicians who apply mathematics to real-world contexts:<\/p><ul><li>Connect mathematical concepts to everyday experiences.<\/li><li>Use models and methods to understand, represent and solve problems.<\/li><li>Perform investigations to gather data or determine if a method is appropriate.\r\n&bull;\tRedesign models and methods to improve accuracy or efficiency.&nbsp;<\/li><\/ul>"}
+        },
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for counting using objects in a set. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a group of up to 20 objects, count the number of objects in that group and represent the number of objects with a written numeral. State the number of objects in a rearrangement of that group without recounting."}
+        },
+        {
+            "competencyText": {"en-us": "Given a number from 0 to 20, count out that many objects."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positions of objects within a sequence using the words &ldquo;first,&rdquo; &ldquo;second,&rdquo; &ldquo;third,&rdquo; &ldquo;fourth&rdquo; or &ldquo;fifth.&rdquo;"}
+        },
+        {
+            "competencyText": {"en-us": "Compare the number of objects from 0 to 20 in two groups using the terms less than, equal to or greater than."}
+        },
+        {
+            "competencyText": {"en-us": "Recite number names sequentially within 100 and develop an understanding for place value."}
+        },
+        {
+            "competencyText": {"en-us": "Recite the number names to 100 by ones and by tens. Starting at a given number, count forward within 100 and backward within 20."}
+        },
+        {
+            "competencyText": {"en-us": "Represent whole numbers from 10 to 20, using a unit of ten and a group of ones, with objects, drawings and expressions or equations."}
+        },
+        {
+            "competencyText": {"en-us": "Locate, order and compare numbers from 0 to 20 using the number line and terms less than, equal to or greater than."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of addition and subtraction operations with one-digit whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Explore addition of two whole numbers from 0 to 10, and related subtraction facts."}
+        },
+        {
+            "competencyText": {"en-us": "Add two one-digit whole numbers with sums from 0 to 10 and subtract using related facts with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Represent and solve addition problems with sums between 0 and 10 and subtraction problems using related facts."}
+        },
+        {
+            "competencyText": {"en-us": "For any number from 1 to 9, find the number that makes 10 when added to the given number."}
+        },
+        {
+            "competencyText": {"en-us": "Given a number from 0 to 10, find the different ways it can be represented as the sum of two numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Solve addition and subtraction real-world problems using objects, drawings or equations to represent the problem."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the equal sign."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why addition or subtraction equations are true using objects or drawings."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare measurable attributes of objects."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the attributes of a single object that can be measured such as length, volume or weight."}
+        },
+        {
+            "competencyText": {"en-us": "Directly compare two objects that have an attribute which can be measured in common. Express the comparison using language to describe the difference."}
+        },
+        {
+            "competencyText": {"en-us": "Express the length of an object, up to 20 units long, as a whole number of lengths by laying non-standard objects end to end with no gaps or overlaps."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Identify, compare and compose two- and three-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify two- and three-dimensional figures regardless of their size or orientation. Figures are limited to circles, triangles, rectangles, squares, spheres, cubes, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Compare two-dimensional figures based on their similarities, differences and positions. Sort two-dimensional figures based on their similarities and differences. Figures are limited to circles, triangles, rectangles and squares."}
+        },
+        {
+            "competencyText": {"en-us": "Compare three-dimensional figures based on their similarities, differences and positions. Sort three-dimensional figures based on their similarities and differences. Figures are limited to spheres, cubes, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Find real-world objects that can be modeled by a given two- or three-dimensional figure. Figures are limited to circles, triangles, rectangles, squares, spheres, cubes, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Combine two-dimensional figures to form a given composite figure. Figures used to form a composite shape are limited to triangles, rectangles and squares."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for collecting, representing and comparing data."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and sort objects into categories and compare the categories by counting the objects in each category. Report the results verbally, with a written numeral or with drawings."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Extend counting sequences and understand the place value of two-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Starting at a given number, count forward and backwards within 120 by ones. Skip count by 2s to 20 and by 5s to 100."}
+        },
+        {
+            "competencyText": {"en-us": "Read numbers from 0 to 100 written in standard form, expanded form and word form. Write numbers from 0 to 100 using standard form and expanded form."}
+        },
+        {
+            "competencyText": {"en-us": "Compose and decompose two-digit numbers in multiple ways using tens and ones. Demonstrate each composition or decomposition with objects, drawings and expressions or equations."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare whole numbers up to 100."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of addition and subtraction operations with one- and two-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Recall addition facts with sums to 10 and related subtraction facts with automaticity."}
+        },
+        {
+            "competencyText": {"en-us": "Add two whole numbers with sums from 0 to 20, and subtract using related facts with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the number that is one more, one less, ten more and ten less than a given two-digit number."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the addition of a two-digit number and a one-digit number with sums to 100."}
+        },
+        {
+            "competencyText": {"en-us": "Explore subtraction of a one-digit number from a two-digit number."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Solve addition problems with sums between 0 and 20 and subtraction problems using related facts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties of addition to find a sum of three or more whole numbers.&nbsp;&nbsp;"}
+        },
+        {
+            "competencyText": {"en-us": "Solve addition and subtraction real-world problems using objects, drawings or equations to represent the problem."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the relationship between addition and subtraction."}
+        },
+        {
+            "competencyText": {"en-us": "Restate a subtraction problem as a missing addend problem using the relationship between addition and subtraction."}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain if equations involving addition or subtraction are true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the unknown whole number in an addition or subtraction equation, relating three whole numbers, with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and measure the length of objects."}
+        },
+        {
+            "competencyText": {"en-us": "Estimate the length of an object to the nearest inch. Measure the length of an object to the nearest inch or centimeter."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and order the length of up to three objects using direct and indirect comparison."}
+        },
+        {
+            "competencyText": {"en-us": "Tell time and identify the value of coins and combinations of coins and dollar bills."}
+        },
+        {
+            "competencyText": {"en-us": "Using analog and digital clocks, tell and write time in hours and half-hours."}
+        },
+        {
+            "competencyText": {"en-us": "Identify pennies, nickels, dimes and quarters, and express their values using the &cent; symbol. State how many of each coin equal a dollar."}
+        },
+        {
+            "competencyText": {"en-us": "Find the value of combinations of pennies, nickels and dimes up to one dollar, and the value of combinations of one, five and ten dollar bills up to $100. Use the &cent; and $ symbols appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and analyze two- and three-dimensional figures based on their defining attributes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, compare and sort two- and three-dimensional figures based on their defining attributes. Figures are limited to circles, semi-circles, triangles, rectangles, squares, trapezoids, hexagons, spheres, cubes, rectangular prisms, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch two-dimensional figures when given defining attributes. Figures are limited to triangles, rectangles, squares and hexagons."}
+        },
+        {
+            "competencyText": {"en-us": "Compose and decompose two- and three-dimensional figures. Figures are limited to semi-circles, triangles, rectangles, squares, trapezoids, hexagons, cubes, rectangular prisms, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world object, identify parts that are modeled by two- and three-dimensional figures. Figures are limited to semi-circles, triangles, rectangles, squares and hexagons, spheres, cubes, rectangular prisms, cones and cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Collect, represent and interpret data using pictographs and tally marks."}
+        },
+        {
+            "competencyText": {"en-us": "Collect data into categories and represent the results using tally marks or pictographs."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret data represented with tally marks or pictographs by calculating the total number of data points and comparing the totals of different categories."}
+        },
+        {
+            "competencyText": {"en-us": "Fractions"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of fractions by partitioning shapes into halves and fourths."}
+        },
+        {
+            "competencyText": {"en-us": "Partition circles and rectangles into two and four equal-sized parts. Name the parts of the whole using appropriate language including halves or fourths."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the place value of three-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Read and write numbers from 0 to 1,000 using standard form, expanded form and word form."}
+        },
+        {
+            "competencyText": {"en-us": "Compose and decompose three-digit numbers in multiple ways using hundreds, tens and ones. Demonstrate each composition or decomposition with objects, drawings and expressions or equations."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare whole numbers up to 1,000."}
+        },
+        {
+            "competencyText": {"en-us": "Round whole numbers from 0 to 100 to the nearest 10."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract two- and three-digit whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Recall addition facts with sums to 20 and related subtraction facts with automaticity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the number that is ten more, ten less, one hundred more and one hundred less than a given three-digit number."}
+        },
+        {
+            "competencyText": {"en-us": "Add two whole numbers with sums up to 100 with procedural reliability. Subtract a whole number from a whole number, each no larger than 100, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the addition of two whole numbers with sums up to 1,000. Explore the subtraction of a whole number from a whole number, each no larger than 1,000."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Solve addition problems with sums between 0 and 100 and related subtraction problems."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step addition and subtraction real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of equality and addition and subtraction. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain whether equations involving addition and subtraction are true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the unknown whole number in an addition or subtraction equation, relating three or four whole numbers, with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of multiplication."}
+        },
+        {
+            "competencyText": {"en-us": "Represent an even number using two equal groups or two equal addends. Represent an odd number using two equal groups with one left over or two equal addends plus 1."}
+        },
+        {
+            "competencyText": {"en-us": "Use repeated addition to find the total number of objects in a collection of equal groups. Represent the total number of objects using rectangular arrays and equations."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Measure the length of objects and solve problems involving length."}
+        },
+        {
+            "competencyText": {"en-us": "Estimate and measure the length of an object to the nearest inch, foot, yard, centimeter or meter by selecting and using an appropriate tool."}
+        },
+        {
+            "competencyText": {"en-us": "Measure the lengths of two objects using the same unit and determine the difference between their measurements."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step real-world measurement problems involving addition and subtraction of lengths given in the same units."}
+        },
+        {
+            "competencyText": {"en-us": "Tell time and solve problems involving money."}
+        },
+        {
+            "competencyText": {"en-us": "Using analog and digital clocks, tell and write time to the nearest five minutes using a.m. and p.m. appropriately. Express portions of an hour using the fractional terms half an hour, half past, quarter of an hour, quarter after and quarter til."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step addition and subtraction real-world problems involving either dollar bills within $100 or coins within 100&cent; using $ and &cent; symbols appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and analyze two-dimensional figures and identify lines of symmetry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and draw two-dimensional figures based on their defining attributes. Figures are limited to triangles, rectangles, squares, pentagons, hexagons and octagons."}
+        },
+        {
+            "competencyText": {"en-us": "Categorize two-dimensional figures based on the number and length of sides, number of vertices, whether they are closed or not and whether the edges are curved or straight."}
+        },
+        {
+            "competencyText": {"en-us": "Identify line(s) of symmetry for a two-dimensional figure."}
+        },
+        {
+            "competencyText": {"en-us": "Describe perimeter and find the perimeter of polygons."}
+        },
+        {
+            "competencyText": {"en-us": "Explore perimeter as an attribute of a figure by placing unit segments along the boundary without gaps or overlaps. Find perimeters of rectangles by counting unit segments."}
+        },
+        {
+            "competencyText": {"en-us": "Find the perimeter of a polygon with whole-number side lengths. Polygons are limited to triangles, rectangles, squares and pentagons."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Collect, categorize, represent and interpret data using appropriate titles, labels and units."}
+        },
+        {
+            "competencyText": {"en-us": "Collect, categorize and represent data using tally marks, tables, pictographs or bar graphs. Use appropriate titles, labels and units."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret data represented with tally marks, tables, pictographs or bar graphs including solving addition and subtraction problems."}
+        },
+        {
+            "competencyText": {"en-us": "Fractions"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Partition circles and rectangles into two, three or four equal-sized parts. Name the parts using appropriate language, and describe the whole as two halves, three thirds or four fourths."}
+        },
+        {
+            "competencyText": {"en-us": "Partition rectangles into two, three or four equal-sized parts in two different ways showing that equal-sized parts of the same whole may have different shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the place value of four-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Read and write numbers from 0 to 10,000 using standard form, expanded form and word form."}
+        },
+        {
+            "competencyText": {"en-us": "Compose and decompose four-digit numbers in multiple ways using thousands, hundreds, tens and ones. Demonstrate each composition or decomposition using objects, drawings and expressions or equations."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare whole numbers up to 10,000."}
+        },
+        {
+            "competencyText": {"en-us": "Round whole numbers from 0 to 1,000 to the nearest 10 or 100."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract multi-digit whole numbers. Build an understanding of multiplication and division operations."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract multi-digit whole numbers including using a standard algorithm with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Explore multiplication of two whole numbers with products from 0 to 144, and related division facts."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply a one-digit whole number by a multiple of 10, up to 90, or a multiple of 100, up to 900, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply two whole numbers from 0 to 12 and divide using related facts with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Solve multiplication and division problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the distributive property to multiply a one-digit number and two-digit number. Apply properties of multiplication to find a product of one-digit whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step real-world problems involving any of four operations with whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of equality and multiplication and division. "}
+        },
+        {
+            "competencyText": {"en-us": "Restate a division problem as a missing factor problem using the relationship between multiplication and division."}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain whether an equation involving multiplication or division is true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the unknown whole number in a multiplication or division equation, relating three whole numbers, with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Identify numerical patterns, including multiplicative patterns. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain whether a whole number from 1 to 1,000 is even or odd."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether a whole number from 1 to 144 is a multiple of a given one-digit number."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, create and extend numerical patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Measure attributes of objects and solve problems involving measurement."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use appropriate tools to measure the length of an object, the volume of liquid within a beaker and temperature."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving any of the four operations with whole-number lengths, masses, weights, temperatures or liquid volumes."}
+        },
+        {
+            "competencyText": {"en-us": "Tell and write time and solve problems involving time."}
+        },
+        {
+            "competencyText": {"en-us": "Using analog and digital clocks tell and write time to the nearest minute using a.m. and p.m. appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step real-world problems involving elapsed time."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Describe and identify relationships between lines and classify quadrilaterals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and draw points, lines, line segments, rays, intersecting lines, perpendicular lines and parallel lines. Identify these in two-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and draw quadrilaterals based on their defining attributes. Quadrilaterals include parallelograms, rhombi, rectangles, squares and trapezoids."}
+        },
+        {
+            "competencyText": {"en-us": "Draw line(s) of symmetry in a two-dimensional figure and identify line-symmetric two-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving the perimeter and area of rectangles."}
+        },
+        {
+            "competencyText": {"en-us": "Explore area as an attribute of a two-dimensional figure by covering the figure with unit squares without gaps or overlaps. Find areas of rectangles by counting unit squares."}
+        },
+        {
+            "competencyText": {"en-us": "Find the area of a rectangle with whole-number side lengths using a visual model and a multiplication formula."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the perimeter and area of rectangles with whole-number side lengths using a visual model and a formula."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the perimeter and area of composite figures composed of non-overlapping rectangles with whole-number side lengths."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Collect, represent and interpret numerical and categorical data."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and represent numerical and categorical data with whole-number values using tables, scaled pictographs, scaled bar graphs or line plots. Use appropriate titles, labels and units."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret data with whole-number values represented with tables, scaled pictographs, circle graphs, scaled bar graphs or line plots by solving one- and two-step problems."}
+        },
+        {
+            "competencyText": {"en-us": "Fractions"}
+        },
+        {
+            "competencyText": {"en-us": "Understand fractions as numbers and represent fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and interpret unit fractions in the form 1/n as the quantity formed by one part when a whole is partitioned into n equal parts."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and interpret fractions, including fractions greater than one, in the form of&nbsp;<img align=\"middle\" alt=\"begin mathsize 12px style m over n end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mi»m«/mi»«mi»n«/mi»«/mfrac»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=dae65013acecb1f852119990edbd544a.png\" style=\"vertical-align: middle;\" />as multiples of a unit fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Read and write fractions, including fractions greater than one, using standard form, numeral-word form and word form."}
+        },
+        {
+            "competencyText": {"en-us": "Order and compare fractions and identify equivalent fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare fractional numbers with the same numerator or the same denominator."}
+        },
+        {
+            "competencyText": {"en-us": "Identify equivalent fractions and explain why they are equivalent."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Understand place value for multi-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Express how the value of a digit in a multi-digit whole number changes if the digit moves one place to the left or right."}
+        },
+        {
+            "competencyText": {"en-us": "Read and write multi-digit whole numbers from 0 to 1,000,000 using standard form, expanded form and word form."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare multi-digit whole numbers up to 1,000,000."}
+        },
+        {
+            "competencyText": {"en-us": "Round whole numbers from 0 to 10,000 to the nearest 10, 100 or 1,000."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare decimals up to the hundredths."}
+        },
+        {
+            "competencyText": {"en-us": "Build an understanding of operations with multi-digit numbers including decimals."}
+        },
+        {
+            "competencyText": {"en-us": "Recall multiplication facts with factors up to 12 and related division facts with automaticity."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply two whole numbers, up to three digits by up to two digits, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply two whole numbers, each up to two digits, including using a standard algorithm with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Divide a whole number up to four digits by a one-digit whole number with procedural reliability. Represent remainders as fractional parts of the divisor."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the multiplication and division of multi-digit whole numbers using estimation, rounding and place value."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the number that is one-tenth more, one-tenth less, one-hundredth more and one-hundredth less than a given number."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the addition and subtraction of multi-digit numbers with decimals to the hundredths."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Represent and solve problems involving the four operations with whole numbers and fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving multiplication and division of whole numbers including problems in which remainders must be interpreted within the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving addition and subtraction of fractions with like denominators, including mixed numbers and fractions greater than one."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving multiplication of a fraction by a whole number or a whole number by a fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of equality and operations with whole numbers. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain whether an equation involving any of the four operations with whole numbers is true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write an equation involving multiplication or division to determine the unknown whole number with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize numerical patterns, including patterns that follow a given rule. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine factor pairs for a whole number from 0 to 144. Determine whether a whole number from 0 to 144 is prime, composite or neither."}
+        },
+        {
+            "competencyText": {"en-us": "Generate, describe and extend a numerical pattern that follows a given rule."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Measure the length of objects and solve problems involving measurement."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use appropriate tools to measure attributes of objects."}
+        },
+        {
+            "competencyText": {"en-us": "Convert within a single system of measurement using the units: yards, feet, inches; kilometers, meters, centimeters, millimeters; pounds, ounces; kilograms, grams; gallons, quarts, pints, cups; liter, milliliter; and hours, minutes, seconds."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving time and money."}
+        },
+        {
+            "competencyText": {"en-us": "Solve two-step real-world problems involving distances and intervals of time using any combination of the four operations."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one- and two-step addition and subtraction real-world problems involving money using decimal notation."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Draw, classify and measure angles."}
+        },
+        {
+            "competencyText": {"en-us": "Informally explore angles as an attribute of two-dimensional figures. Identify and classify angles as acute, right, obtuse, straight or reflex."}
+        },
+        {
+            "competencyText": {"en-us": "Estimate angle measures. Using a protractor, measure angles in whole-number degrees and draw angles of specified measure in whole-number degrees. Demonstrate that angle measure is additive."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world and mathematical problems involving unknown whole-number angle measures. Write an equation to represent the unknown."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving the perimeter and area of rectangles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve perimeter and area mathematical and real-world problems, including problems with unknown sides, for rectangles with whole-number side lengths."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving rectangles with the same perimeter and different areas or with the same area and different perimeters."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Collect, represent and interpret data and find the mode, median and range of a data set."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and represent numerical data, including fractional values, using tables, stem-and-leaf plots or line plots."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the mode, median or range to interpret numerical data including fractional values, represented with tables, stem-and-leaf plots or line plots."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving numerical data."}
+        },
+        {
+            "competencyText": {"en-us": "Fractions"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the relationship between different fractions and the relationship between fractions and decimals. "}
+        },
+        {
+            "competencyText": {"en-us": "Model and express a fraction, including mixed numbers and fractions greater than one, with the denominator 10 as an equivalent fraction with the denominator 100."}
+        },
+        {
+            "competencyText": {"en-us": "Use decimal notation to represent fractions with denominators of 10 or 100, including mixed numbers and fractions greater than 1, and use fractional notation with denominators of 10 or 100 to represent decimals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and generate equivalent fractions, including fractions greater than one. Describe how the numerator and denominator are affected when the equivalent fraction is created."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare fractions, including mixed numbers and fractions greater than one, with different numerators and different denominators."}
+        },
+        {
+            "competencyText": {"en-us": "Build a foundation of addition, subtraction and multiplication operations with fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Decompose a fraction, including mixed numbers and fractions greater than one, into a sum of fractions with the same denominator in multiple ways. Demonstrate each decomposition with objects, drawings and equations."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract fractions with like denominators, including mixed numbers and fractions greater than one, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the addition of a fraction with denominator of 10 to a fraction with denominator of 100 using equivalent fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of multiplication to explore the multiplication of a fraction by a whole number or a whole number by a fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Understand the place value of multi-digit numbers with decimals to the thousandths place."}
+        },
+        {
+            "competencyText": {"en-us": "Express how the value of a digit in a multi-digit number with decimals to the thousandths changes if the digit moves one or more places to the left or right."}
+        },
+        {
+            "competencyText": {"en-us": "Read and write multi-digit numbers with decimals to the thousandths using standard form, word form and expanded form."}
+        },
+        {
+            "competencyText": {"en-us": "Compose and decompose multi-digit numbers with decimals to the thousandths in multiple ways using the values of the digits in each place. Demonstrate the compositions or decompositions using objects, drawings and expressions or equations."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare multi-digit numbers with decimals up to the thousandths."}
+        },
+        {
+            "competencyText": {"en-us": "Round multi-digit numbers with decimals to the thousandths to the nearest hundredth, tenth or whole number."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide multi-digit numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply multi-digit whole numbers including using a standard algorithm with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Divide multi-digit whole numbers, up to five digits by two digits, including using a standard algorithm with procedural fluency. Represent remainders as  fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract multi-digit numbers with decimals to the thousandths, including using a standard algorithm with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the multiplication and division of multi-digit numbers with decimals to the hundredths using estimation, rounding and place value."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply and divide a multi-digit number with decimals to the tenths by one-tenth and one-hundredth with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving the four operations with whole numbers and fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step real-world problems involving any combination of the four operations with whole numbers, including problems in which remainders must be interpreted within the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving the addition, subtraction or multiplication of fractions, including mixed numbers and fractions greater than 1."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving division of a unit fraction by a whole number and a whole number by a unit fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of equality, the order of operations and equivalent numerical expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Translate written real-world and mathematical descriptions into numerical expressions and numerical expressions into written mathematical descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate multi-step numerical expressions using order of operations."}
+        },
+        {
+            "competencyText": {"en-us": "Determine and explain whether an equation involving any of the four operations is true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write an equation involving any of the four operations to determine the unknown whole number with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze patterns and relationships between inputs and outputs."}
+        },
+        {
+            "competencyText": {"en-us": "Given a numerical pattern, identify and write a rule that can describe the pattern as an expression."}
+        },
+        {
+            "competencyText": {"en-us": "Given a rule for a numerical pattern, use a two-column table to record the inputs and outputs."}
+        },
+        {
+            "competencyText": {"en-us": "Measurement"}
+        },
+        {
+            "competencyText": {"en-us": "Convert measurement units to solve multi-step problems."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step real-world problems that involve converting measurement units to equivalent measurements within a single system of measurement."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving money."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step real-world problems involving money using decimal notation."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Classify two-dimensional figures and three-dimensional figures based on defining attributes."}
+        },
+        {
+            "competencyText": {"en-us": "Classify triangles or quadrilaterals into different categories based on shared defining attributes. Explain why a triangle or quadrilateral would or would not belong to a category."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and classify three-dimensional figures into categories based on their defining attributes. Figures are limited to right pyramids, right prisms, right circular cylinders, right circular cones and spheres."}
+        },
+        {
+            "competencyText": {"en-us": "Find the perimeter and area of rectangles with fractional or decimal side lengths."}
+        },
+        {
+            "competencyText": {"en-us": "Find the perimeter and area of a rectangle with fractional or decimal side lengths using visual models and formulas."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving the volume of right rectangular prisms."}
+        },
+        {
+            "competencyText": {"en-us": "Explore volume as an attribute of three-dimensional figures by packing them with unit cubes without gaps. Find the volume of a right rectangular prism with whole-number side lengths by counting unit cubes."}
+        },
+        {
+            "competencyText": {"en-us": "Find the volume of a right rectangular prism with whole-number side lengths using a visual model and a formula."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving the volume of right rectangular prisms, including problems with an unknown edge length, with whole-number edge lengths using a visual model or a formula. Write an equation with a variable for the unknown to represent the problem."}
+        },
+        {
+            "competencyText": {"en-us": "Plot points and represent problems on the coordinate plane"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the origin and axes in the coordinate system. Plot and label ordered pairs in the first quadrant of the coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Represent mathematical and real-world problems by plotting points in the first quadrant of the coordinate plane and interpret coordinate values of points in the context of the situation."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Collect, represent and interpret data and find the mean, mode, median or range of a data set."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and represent numerical data, including fractional and decimal values, using tables, line graphs or line plots."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret numerical data, with whole-number values, represented with tables or line plots by determining the mean, mode, median or range."}
+        },
+        {
+            "competencyText": {"en-us": "Fractions"}
+        },
+        {
+            "competencyText": {"en-us": "Interpret a fraction as an answer to a division problem."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world problem, represent the division of two whole numbers as a fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Perform operations with fractions."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract fractions with unlike denominators, including mixed numbers and fractions greater than 1, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of multiplication to multiply a fraction by a fraction, including mixed numbers and fractions greater than 1, with procedural reliability."}
+        },
+        {
+            "competencyText": {"en-us": "When multiplying a given number by a fraction less than 1 or a fraction greater than 1, predict and explain the relative size of the product to the given number without calculating."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of division to explore the division of a unit fraction by a whole number and a whole number by a unit fraction."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Extend knowledge of numbers to negative numbers and develop an understanding of absolute value."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of numbers to define rational numbers. Plot, order and compare rational numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, represent quantities that have opposite direction using rational numbers. Compare them on a number line and explain the meaning of zero within its context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, interpret the absolute value of a number as the distance from zero on a number line. Find the absolute value of rational numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving absolute value, including the comparison of absolute value."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide positive rational numbers. "}
+        },
+        {
+            "competencyText": {"en-us": "Multiply and divide positive multi-digit numbers with decimals to the thousandths, including using a standard algorithm with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of multiplication and division to compute products and quotients of positive fractions by positive fractions, including mixed numbers, with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step real-world problems involving any of the four operations with positive multi-digit decimals or positive fractions, including mixed numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties of operations to rewrite numbers in equivalent forms. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, find the greatest common factor and least common multiple of two whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite the sum of two composite whole numbers having a common factor, as a common factor multiplied by the sum of two whole numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate positive rational numbers with natural number exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Express composite whole numbers as a product of prime factors with natural number exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite positive rational numbers in different but equivalent forms including fractions, terminating decimals and percentages."}
+        },
+        {
+            "competencyText": {"en-us": "Extend understanding of operations with integers."}
+        },
+        {
+            "competencyText": {"en-us": "Apply and extend previous understandings of operations with whole numbers to add and subtract integers with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Apply and extend previous understandings of operations with whole numbers to multiply and divide integers with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of arithmetic expressions to algebraic expressions. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, translate written descriptions into algebraic expressions and translate algebraic expressions into written descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Translate a real-world written description into an algebraic inequality in the form of <img align=\"middle\" alt=\"begin mathsize 12px style x greater than a comma space x less than a comma space x greater or equal than a space o r space x less or equal than a end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Verdana¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mi»x«/mi»«mo»§gt;«/mo»«mi»a«/mi»«mo»,«/mo»«mo»§#xA0;«/mo»«mi»x«/mi»«mo»§lt;«/mo»«mi»a«/mi»«mo»,«/mo»«mo»§#xA0;«/mo»«mi»x«/mi»«mo»§#x2265;«/mo»«mi»a«/mi»«mo»§#xA0;«/mo»«mi»o«/mi»«mi»r«/mi»«mo»§#xA0;«/mo»«mi»x«/mi»«mo»§#x2264;«/mo»«mi»a«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=b36084a0c174a7c94ee9b85dcc5e4c5e.png\" style=\"vertical-align: middle;\" /><p>. Represent the inequality on a number line.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate algebraic expressions using substitution and order of operations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the properties of operations to generate equivalent algebraic expressions with integer coefficients."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for solving equations and inequalities. Write and solve one-step equations in one variable. "}
+        },
+        {
+            "competencyText": {"en-us": "Given an equation or inequality and a specified set of integer values, determine which values make the equation or inequality true or false."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve one-step equations in one variable within a mathematical or real-world context using addition and subtraction, where all terms and solutions are integers."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve one-step equations in one variable within a mathematical or real-world context using multiplication and division, where all terms and solutions are integers."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the unknown decimal or fraction in an equation involving any of the four operations, relating three numbers, with the unknown in any position."}
+        },
+        {
+            "competencyText": {"en-us": "Understand ratio and unit rate concepts and use them to solve problems. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, write and interpret ratios to show the relative sizes of two quantities using appropriate notation: <img align=\"middle\" alt=\"begin mathsize 12px style a over b end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mi»a«/mi»«mi»b«/mi»«/mfrac»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=4cf52fea6ac321a2f03c22b909408702.png\" style=\"vertical-align: middle;\" />, a to b, or a:b where b &ne; 0."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, determine a rate for a ratio of quantities with different units. Calculate and interpret the corresponding unit rate."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of fractions and numerical patterns to generate or complete a two- or three-column table to display equivalent part-to-part ratios and part-to-part-to-whole ratios."}
+        },
+        {
+            "competencyText": {"en-us": "Apply ratio relationships to solve mathematical and real-world problems involving percentages using the relationship between two quantities."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving ratios, rates and unit rates, including comparisons, mixtures, ratios of lengths and conversions within the same measurement system."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of the coordinate plane to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of the coordinate plane to plot rational number ordered pairs in all four quadrants and on both axes. Identify the x- or y-axis as the line of reflection when two ordered pairs have an opposite x- or y-coordinate."}
+        },
+        {
+            "competencyText": {"en-us": "Find distances between ordered pairs, limited to the same x-coordinate or the same y-coordinate, represented on the coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems by plotting points on a coordinate plane, including finding the perimeter or area of a rectangle."}
+        },
+        {
+            "competencyText": {"en-us": "Model and solve problems involving two-dimensional figures and three-dimensional figures. "}
+        },
+        {
+            "competencyText": {"en-us": "Derive a formula for the area of a right triangle using a rectangle. Apply a formula to find the area of a triangle."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the area of quadrilaterals and composite figures by decomposing them into triangles or rectangles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the volume of right rectangular prisms with positive rational number edge lengths using a visual model and a formula."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, find the surface area of right rectangular prisms and right rectangular pyramids using the figure&rsquo;s net."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of statistics and determine measures of center and measures of variability. Summarize statistical distributions graphically and numerically."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and formulate a statistical question that would generate numerical data."}
+        },
+        {
+            "competencyText": {"en-us": "Given a numerical data set within a real-world context, find and interpret mean, median, mode and range."}
+        },
+        {
+            "competencyText": {"en-us": "Given a box plot within a real-world context, determine the minimum, the lower quartile, the median, the upper quartile and the maximum. Use this summary of the data to describe the spread and distribution of the data."}
+        },
+        {
+            "competencyText": {"en-us": "Given a histogram or line plot within a real-world context, qualitatively describe and interpret the spread and distribution of the data, including any symmetry, skewness, gaps, clusters, outliers and the range."}
+        },
+        {
+            "competencyText": {"en-us": "Create box plots and histograms to represent sets of numerical data within real-world contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world scenario, determine and describe how changes in data values impact measures of center and variation."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite numbers in equivalent forms."}
+        },
+        {
+            "competencyText": {"en-us": "Know and apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions, limited to whole-number exponents and rational number bases."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite rational numbers in different but equivalent forms including fractions, mixed numbers, repeating decimals and percentages to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide rational numbers. "}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical problems using multi-step order of operations with rational numbers including grouping symbols, whole-number exponents and absolute value."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide rational numbers with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving any of the four operations with rational numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite algebraic expressions in equivalent forms. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties of operations to add and subtract linear expressions with rational coefficients."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether two linear expressions are equivalent."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve equations and inequalities in one variable. "}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve one-step inequalities in one variable within a mathematical context and represent solutions algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve two-step equations in one variable within a mathematical or real-world context, where all terms are rational numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Use percentages and proportional reasoning to solve problems. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of percentages and ratios to solve multi-step real-world percent problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of ratios to solve real-world problems involving proportions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the conversion of units across different measurement systems."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and represent two-variable proportional relationships. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether two quantities have a proportional relationship by examining a table, graph or written description."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the constant of proportionality within a mathematical or real-world context given a table, graph or written description of a proportional relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, graph proportional relationships from a table, equation or a written description."}
+        },
+        {
+            "competencyText": {"en-us": "Given any representation of a proportional relationship, translate the representation to a written description, table or equation."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving proportional relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving two-dimensional figures, including circles. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply formulas to find the areas of trapezoids, parallelograms and rhombi."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical or real-world problems involving the area of polygons or composite figures by decomposing them into triangles or quadrilaterals."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the proportional relationship between circumferences and diameters of circles. Apply a formula for the circumference of a circle to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and apply a formula to find the area of a circle to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving dimensions and areas of geometric figures, including scale drawings and scale factors."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving three-dimensional figures, including right circular cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, find the surface area of a right circular cylinder using the figure&rsquo;s net."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving surface area of right circular cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving volume of right circular cylinders."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Represent and interpret numerical and categorical data."}
+        },
+        {
+            "competencyText": {"en-us": "Determine an appropriate measure of center or measure of variation to summarize numerical data, represented numerically or graphically, taking into consideration the context and any outliers."}
+        },
+        {
+            "competencyText": {"en-us": "Given two numerical or graphical representations of data, use the measure(s) of center and measure(s) of variability to make comparisons, interpret results and draw conclusions about the two populations."}
+        },
+        {
+            "competencyText": {"en-us": "Given categorical data from a random sample, use proportional relationships to make predictions about a population."}
+        },
+        {
+            "competencyText": {"en-us": "Use proportional reasoning to construct, display and interpret data in circle graphs."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world numerical or categorical data set, choose and create an appropriate graphical representation."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of probability. Find and compare experimental and theoretical probabilities. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine the sample space for a simple experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Given the probability of a chance event, interpret the likelihood of it occurring. Compare the probabilities of chance events."}
+        },
+        {
+            "competencyText": {"en-us": "Find the theoretical probability of an event related to a simple experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Use a simulation of a simple experiment to find experimental probabilities and compare them to theoretical probabilities."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving rational numbers, including numbers in scientific notation, and extend the understanding of rational numbers to irrational numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of rational numbers to define irrational numbers within the real number system. Locate an approximate value of a numerical expression involving irrational numbers on a number line."}
+        },
+        {
+            "competencyText": {"en-us": "Plot, order and compare rational and irrational numbers, represented in various forms."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of the Laws of Exponents to include integer exponents. Apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions, limited to integer exponents and rational number bases, with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Express numbers in scientific notation to represent and approximate very large or very small quantities. Determine how many times larger or smaller one number is compared to a second number."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide numbers expressed in scientific notation with procedural fluency."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving operations with numbers expressed in scientific notation."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step mathematical and real-world problems involving the order of operations with rational numbers including exponents and radicals."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Generate equivalent algebraic expressions. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Laws of Exponents to generate equivalent algebraic expressions, limited to integer exponents and monomial bases."}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties of operations to multiply two linear expressions with rational coefficients."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite the sum of two algebraic expressions having a common monomial factor as a common factor multiplied by the sum of two algebraic expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step one-variable equations and inequalities. "}
+        },
+        {
+            "competencyText": {"en-us": "Solve multi-step linear equations in one variable, with rational number coefficients. Include equations with variables on both sides."}
+        },
+        {
+            "competencyText": {"en-us": "Solve two-step linear inequalities in one variable and represent solutions algebraically and graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Given an equation in the form of x&sup2;=p  and x&sup3;=q, where p is a whole number and q is an integer, determine the real solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Extend understanding of proportional relationships to two-variable linear equations. "}
+        },
+        {
+            "competencyText": {"en-us": "Determine if a linear relationship is also a proportional relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, graph or written description of a linear relationship, determine the slope."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, graph or written description of a linear relationship, write an equation in slope-intercept form."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, graph a two-variable linear equation from a written description, a table or an equation in slope-intercept form."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, determine and interpret the slope and y-intercept of a two-variable linear equation from a written description, a table, a graph or an equation in slope-intercept form."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of two-variable systems of equations."}
+        },
+        {
+            "competencyText": {"en-us": "Given a system of two linear equations and a specified set of possible solutions, determine which ordered pairs satisfy the system of linear equations."}
+        },
+        {
+            "competencyText": {"en-us": "Given a system of two linear equations represented graphically on the same coordinate plane, determine whether there is one solution, no solution or infinitely many solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, solve systems of two linear equations by graphing."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the Pythagorean Theorem and angle relationships involving triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Pythagorean Theorem to solve mathematical and real-world problems involving unknown side lengths in right triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Pythagorean Theorem to solve mathematical and real-world problems involving the distance between two points in a coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Use the Triangle Inequality Theorem to determine if a triangle can be formed from a given set of sides. Use the Pythagorean Theorem to determine if a right triangle can be formed from a given set of sides."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical problems involving the relationships between supplementary, complementary, vertical or adjacent angles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving the relationships of interior and exterior angles of a triangle."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and use formulas for the sums of the interior angles of regular polygons by decomposing them into triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Understand similarity and congruence using models and transformations. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a preimage and image generated by a single transformation, identify the transformation that describes the relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Given a preimage and image generated by a single dilation, identify the scale factor that describes the relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and apply the effect of a single transformation on two-dimensional figures using coordinates and the coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving proportional relationships between similar triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Represent and investigate numerical bivariate data. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a set of real-world bivariate numerical data, construct a scatter plot or a line graph as appropriate for the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a scatter plot within a real-world context, describe patterns of association."}
+        },
+        {
+            "competencyText": {"en-us": "Given a scatter plot with a linear association, informally fit a straight line."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and find probabilities of repeated experiments."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the sample space for a repeated experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Find the theoretical probability of an event related to a repeated experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving probabilities related to single or repeated experiments, including making predictions based on theoretical probability."}
+        },
+        {
+            "competencyText": {"en-us": "Functions"}
+        },
+        {
+            "competencyText": {"en-us": "Define, evaluate and compare functions. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a set of ordered pairs, a table, a graph or mapping diagram, determine whether the relationship is a function. Identify the domain and range of the relation."}
+        },
+        {
+            "competencyText": {"en-us": "Given a function defined by a graph or an equation, determine whether the function is a linear function. Given an input-output table, determine whether it could represent a linear function."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze a real-world written description or graphical representation of a functional relationship between two quantities and identify where the function is increasing, decreasing or constant."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Number Sense and Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Generate equivalent expressions and perform operations with expressions involving exponents, radicals or logarithms."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of the Laws of Exponents to include rational exponents. Apply the Laws of Exponents to evaluate numerical expressions and generate equivalent numerical expressions involving rational exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Generate equivalent algebraic expressions using the properties of exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Generate equivalent algebraic expressions involving radicals or rational exponents using the properties of exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of operations with rational numbers to add, subtract, multiply and divide numerical radicals."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract, multiply and divide algebraic expressions involving radicals."}
+        },
+        {
+            "competencyText": {"en-us": "Given a numerical logarithmic expression, evaluate and generate equivalent numerical expressions using the properties of logarithms or exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and perform operations with expressions within the complex number system."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of the real number system to include the complex number system. Add, subtract, multiply and divide complex numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Represent addition, subtraction, multiplication and conjugation of complex numbers geometrically on the complex plane."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate the distance and midpoint between two numbers on the complex coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving complex numbers represented algebraically or on the coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Represent complex numbers on the complex plane in rectangular and polar forms."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite complex numbers to trigonometric form. Multiply complex numbers in trigonometric form."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and perform operations with vectors."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate notation and symbols to represent vectors in the plane as directed line segments. Determine the magnitude and direction of a vector in component form."}
+        },
+        {
+            "competencyText": {"en-us": "Represent vectors in component form, linear form or trigonometric form. Rewrite vectors from one form to another."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving velocity and other quantities that can be represented by vectors."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving vectors in two dimensions using the dot product and vector projections."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving vectors in three dimensions using the dot product and cross product."}
+        },
+        {
+            "competencyText": {"en-us": "Multiply a vector by a scalar algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Compute the magnitude and direction of a vector scalar multiple."}
+        },
+        {
+            "competencyText": {"en-us": "Add and subtract vectors algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Given the magnitude and direction of two or more vectors, determine the magnitude and direction of their sum."}
+        },
+        {
+            "competencyText": {"en-us": "Represent and perform operations with matrices."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, represent and manipulate data using matrices."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, represent and solve a system of two- or three-variable linear equations using matrices."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving addition, subtraction and multiplication of matrices."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems using the inverse and determinant of matrices."}
+        },
+        {
+            "competencyText": {"en-us": "Algebraic Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and rewrite algebraic expressions and equations in equivalent forms."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and interpret parts of an equation or expression that represent a quantity in terms of a mathematical or real-world context, including viewing one or more of its parts as a single entity."}
+        },
+        {
+            "competencyText": {"en-us": "Rearrange equations or formulas to isolate a quantity of interest."}
+        },
+        {
+            "competencyText": {"en-us": "Add, subtract and multiply polynomial expressions with rational number coefficients."}
+        },
+        {
+            "competencyText": {"en-us": "Divide a polynomial expression by a monomial expression with rational number coefficients."}
+        },
+        {
+            "competencyText": {"en-us": "Divide polynomial expressions using long division, synthetic division or algebraic manipulation."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving addition, subtraction, multiplication or division of polynomials."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite a polynomial expression as a product of polynomials over the real number system."}
+        },
+        {
+            "competencyText": {"en-us": "Rewrite a polynomial expression as a product of polynomials over the real or complex number system."}
+        },
+        {
+            "competencyText": {"en-us": "Apply previous understanding of rational number operations to add, subtract, multiply and divide rational algebraic expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving addition, subtraction, multiplication or division of rational algebraic expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Binomial Theorem to create equivalent polynomial expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Write, solve and graph linear equations, functions and inequalities in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, write and solve one-variable multi-step linear equations."}
+        },
+        {
+            "competencyText": {"en-us": "Write a linear two-variable equation to represent the relationship between two quantities from a graph, a written description or a table of values within a mathematical or real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Write a linear two-variable equation for a line that is parallel or perpendicular to a given line and goes through a given point."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a linear function, graph that function, and determine and interpret its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with linear functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable linear inequalities, including compound inequalities. Represent solutions algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Write two-variable linear inequalities to represent relationships between quantities from a graph or a written description within a mathematical or real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, graph the solution set to a two-variable linear inequality."}
+        },
+        {
+            "competencyText": {"en-us": "Write, solve and graph quadratic equations, functions and inequalities in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real number system."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable quadratic equations over the real and complex number systems."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable quadratic inequalities over the real number system. Represent solutions algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Write a quadratic function to represent the relationship between two quantities from a graph, a written description or a table of values within a mathematical or real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given the x-intercepts and another point on the graph of a quadratic function, write the equation for the function."}
+        },
+        {
+            "competencyText": {"en-us": "Given an expression or equation representing a quadratic function, determine the vertex and zeros and interpret them in terms of a real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a quadratic function, graph that function, and determine and interpret its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with quadratic functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write two-variable quadratic inequalities to represent relationships between quantities from a graph or a written description."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, graph the solution set to a two-variable quadratic inequality."}
+        },
+        {
+            "competencyText": {"en-us": "Write, solve and graph absolute value equations, functions and inequalities in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable absolute value equations."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve one-variable absolute value inequalities. Represent solutions algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of an absolute value function, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with absolute value functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Write, solve and graph exponential and logarithmic equations and functions in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one-variable exponential equations using the properties of exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one-variable equations involving logarithms or exponential expressions. Interpret solutions as viable in terms of the context and identify any extraneous solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, classify an exponential function as representing growth or decay."}
+        },
+        {
+            "competencyText": {"en-us": "Write an exponential function to represent a relationship between two quantities from a graph, a written description or a table of values within a mathematical or real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given an expression or equation representing an exponential function, reveal the constant percent rate of change per unit interval using the properties of exponents. Interpret the constant percent rate of change in terms of a real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of an exponential function, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with exponential functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a logarithmic function, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with logarithmic functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph polynomial equations and functions in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, when suitable factorization is possible, solve one-variable polynomial equations of degree 3 or higher over the real and complex number systems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and apply the Remainder Theorem to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and apply theorems for polynomials to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a polynomial function of degree 3 or higher, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch a rough graph of a polynomial function of degree 3 or higher using zeros, multiplicity and knowledge of end behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph radical equations and functions in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Solve one-variable radical equations. Interpret solutions as viable in terms of context and identify any extraneous solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a square root or cube root function, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with square root or cube root functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with radical functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph rational equations and functions in one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve one-variable rational equations. Interpret solutions as viable in terms of the context and identify any extraneous solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a rational function, graph that function and determine its key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with rational functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Write and solve a system of two- and three-variable equations and inequalities that describe quantities or relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve a system of two-variable linear equations algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, solve a system consisting of a two-variable linear equation and a non-linear equation algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, solve a system consisting of two-variable linear or non-linear equations algebraically or graphically."}
+        },
+        {
+            "competencyText": {"en-us": "Graph the solution set of a system of two-variable linear inequalities."}
+        },
+        {
+            "competencyText": {"en-us": "Graph the solution set of a system of two-variable inequalities."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, represent constraints as systems of linear equations or inequalities. Interpret solutions to problems as viable or non-viable options."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world context, represent constraints as systems of linear and non-linear equations or inequalities. Interpret solutions to problems as viable or non-viable options."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving linear programming in two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, solve a system of three-variable linear equations algebraically."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with piecewise functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving sequences and series. "}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve problems involving arithmetic sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write and solve problems involving geometric sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and apply the formula for the sum of a finite arithmetic series to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and apply the formula for the sum of a finite or an infinite geometric series to solve mathematical and real-world problems."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, write a sequence using function notation, defined explicitly or recursively, to represent relationships between quantities from a written description."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, find the domain of a given sequence defined recursively or explicitly."}
+        },
+        {
+            "competencyText": {"en-us": "Geometric Reasoning"}
+        },
+        {
+            "competencyText": {"en-us": "Prove and apply geometric theorems to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Prove relationships and theorems about lines and angles. Solve mathematical and real-world problems involving postulates, relationships and theorems of lines and angles."}
+        },
+        {
+            "competencyText": {"en-us": "Prove triangle congruence or similarity using Side-Side-Side, Side-Angle-Side, Angle-Side-Angle, Angle-Angle-Side, Angle-Angle and Hypotenuse-Leg."}
+        },
+        {
+            "competencyText": {"en-us": "Prove relationships and theorems about triangles. Solve mathematical and real-world problems involving postulates, relationships and theorems of triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Prove relationships and theorems about parallelograms. Solve mathematical and real-world problems involving postulates, relationships and theorems of parallelograms."}
+        },
+        {
+            "competencyText": {"en-us": "Prove relationships and theorems about trapezoids. Solve mathematical and real-world problems involving postulates, relationships and theorems of trapezoids."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving congruence or similarity in two-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties of transformations to describe congruence or similarity."}
+        },
+        {
+            "competencyText": {"en-us": "Given a preimage and image, describe the transformation and represent the transformation algebraically using coordinates."}
+        },
+        {
+            "competencyText": {"en-us": "Identify transformations that do or do not preserve distance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify a sequence of transformations that will map a given figure onto itself or onto another congruent or similar figure."}
+        },
+        {
+            "competencyText": {"en-us": "Determine symmetries of reflection, symmetries of rotation and symmetries of translation of a geometric figure."}
+        },
+        {
+            "competencyText": {"en-us": "Given a geometric figure and a sequence of transformations, draw the transformed figure on a coordinate plane."}
+        },
+        {
+            "competencyText": {"en-us": "Apply rigid transformations to map one figure onto another to justify that the two figures are congruent."}
+        },
+        {
+            "competencyText": {"en-us": "Justify the criteria for triangle congruence using the definition of congruence in terms of rigid transformations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply an appropriate transformation to map one figure onto another to justify that the two figures are similar."}
+        },
+        {
+            "competencyText": {"en-us": "Use coordinate geometry to solve problems or prove relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the weighted average of two or more points on a line."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical context, use coordinate geometry to classify or justify definitions, properties and theorems involving circles, triangles or quadrilaterals."}
+        },
+        {
+            "competencyText": {"en-us": "Use coordinate geometry to solve mathematical and real-world geometric problems involving lines, circles, triangles and quadrilaterals."}
+        },
+        {
+            "competencyText": {"en-us": "Use coordinate geometry to solve mathematical and real-world problems on the coordinate plane involving perimeter or area of polygons."}
+        },
+        {
+            "competencyText": {"en-us": "Use geometric measurement and dimensions to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the shapes of two-dimensional cross-sections of three-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify three-dimensional objects generated by rotations of two-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous understanding of scale drawings and scale factors to determine how dilations affect the area of two-dimensional figures and the surface area or volume of three-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the area of two-dimensional figures."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the volume of three-dimensional figures limited to cylinders, pyramids, prisms, cones and spheres."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the surface area of three-dimensional figures limited to cylinders, pyramids, prisms, cones and spheres."}
+        },
+        {
+            "competencyText": {"en-us": "Make formal geometric constructions with a variety of tools and methods."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a copy of a segment or an angle."}
+        },
+        {
+            "competencyText": {"en-us": "Construct the bisector of a segment or an angle, including the perpendicular bisector of a line segment."}
+        },
+        {
+            "competencyText": {"en-us": "Construct the inscribed and circumscribed circles of a triangle."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a regular polygon inscribed in a circle. Regular polygons are limited to triangles, quadrilaterals and hexagons."}
+        },
+        {
+            "competencyText": {"en-us": "Given a point outside a circle, construct a line tangent to the circle that passes through the given point."}
+        },
+        {
+            "competencyText": {"en-us": "Use properties and theorems related to circles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the length of a secant, tangent, segment or chord in a given circle."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the measures of arcs and related angles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical problems involving triangles and quadrilaterals inscribed in a circle."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving the arc length and area of a sector in a given circle."}
+        },
+        {
+            "competencyText": {"en-us": "Apply transformations to prove that all circles are similar."}
+        },
+        {
+            "competencyText": {"en-us": "Apply geometric and algebraic representations of conic sections."}
+        },
+        {
+            "competencyText": {"en-us": "Given a conic section, describe how it can result from the slicing of two cones."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, derive and create the equation of a circle using key features."}
+        },
+        {
+            "competencyText": {"en-us": "Graph and solve mathematical and real-world problems that are modeled with an equation of a circle. Determine and interpret key features in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, derive and create the equation of a parabola using key features."}
+        },
+        {
+            "competencyText": {"en-us": "Graph and solve mathematical and real-world problems that are modeled with an equation of a parabola. Determine and interpret key features in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, derive and create the equation of an ellipse using key features."}
+        },
+        {
+            "competencyText": {"en-us": "Graph and solve mathematical and real-world problems that are modeled with an equation of an ellipse. Determine and interpret key features in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, derive and create the equation of a hyperbola using key features."}
+        },
+        {
+            "competencyText": {"en-us": "Graph and solve mathematical and real-world problems that are modeled with an equation of a hyperbola. Determine and interpret key features in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Data Analysis and Probability"}
+        },
+        {
+            "competencyText": {"en-us": "Summarize, represent and interpret categorical and numerical data with one and two variables."}
+        },
+        {
+            "competencyText": {"en-us": "Given a set of data, select an appropriate method to represent the data, depending on whether it is numerical or categorical data and on whether it is univariate or bivariate."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret data distributions represented in various ways. State whether the data is numerical or categorical, whether it is univariate or bivariate and interpret the different components and quantities in the display."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between correlation and causation in the contexts of both numerical and categorical data."}
+        },
+        {
+            "competencyText": {"en-us": "Estimate a population total, mean or percentage using data from a sample survey; develop a margin of error through the use of simulation."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the margin of error of a mean or percentage from a data set. Interpret the confidence level corresponding to the margin of error."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving univariate and bivariate numerical data."}
+        },
+        {
+            "competencyText": {"en-us": "For two or more sets of numerical univariate data, calculate and compare the appropriate measures of center and measures of variability, accounting for possible effects of outliers. Interpret any notable features of the shape of the data distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Estimate population percentages from data that has been fit to the normal distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Fit a linear function to bivariate numerical data that suggests a linear association and interpret the slope and y-intercept of the model. Use the model to solve real-world problems in terms of the context of the data."}
+        },
+        {
+            "competencyText": {"en-us": "Given a scatter plot that represents bivariate numerical data, assess the fit of a given linear function by plotting and analyzing residuals."}
+        },
+        {
+            "competencyText": {"en-us": "Given a scatter plot with a line of fit and residuals, determine the strength and direction of the correlation. Interpret strength and direction within a real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Compute the correlation coefficient of a linear model using technology. Interpret the strength and direction of the correlation coefficient."}
+        },
+        {
+            "competencyText": {"en-us": "Fit a quadratic function to bivariate numerical data that suggests a quadratic association and interpret any intercepts or the vertex of the model. Use the model to solve real-world problems in terms of the context of the data."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving categorical data."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a two-way frequency table summarizing bivariate categorical data. Interpret joint and marginal frequencies and determine possible associations in terms of a real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given marginal and conditional relative frequencies, construct a two-way relative frequency table summarizing categorical bivariate data."}
+        },
+        {
+            "competencyText": {"en-us": "Given a two-way relative frequency table or segmented bar graph summarizing categorical bivariate data, interpret joint, marginal and conditional relative frequencies in terms of a real-world context."}
+        },
+        {
+            "competencyText": {"en-us": "Given a relative frequency table, construct and interpret a segmented bar graph."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving univariate and bivariate categorical data."}
+        },
+        {
+            "competencyText": {"en-us": "Use and interpret independence and probability."}
+        },
+        {
+            "competencyText": {"en-us": "Describe events as subsets of a sample space using characteristics, or categories, of the outcomes, or as unions, intersections or complements of other events."}
+        },
+        {
+            "competencyText": {"en-us": "Determine if events A and B are independent by calculating the product of their probabilities."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate the conditional probability of two events and interpret the result in terms of its context."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the independence of two events using conditional probability."}
+        },
+        {
+            "competencyText": {"en-us": "Given a two-way table containing data from a population, interpret the joint and marginal relative frequencies as empirical probabilities and the conditional relative frequencies as empirical conditional probabilities. Use those probabilities to determine whether characteristics in the population are approximately independent."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the addition rule for probability, taking into consideration whether the events are mutually exclusive, and interpret the result in terms of the model and its context."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the general multiplication rule for probability, taking into consideration whether the events are independent, and interpret the result in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the addition and multiplication rules for counting to solve mathematical and real-world problems, including problems involving probability."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world situation, calculate the appropriate permutation or combination."}
+        },
+        {
+            "competencyText": {"en-us": "Determine methods of data collection and make inferences from collected data."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between a population parameter and a sample statistic."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how random sampling produces data that is representative of a population."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast sampling methods."}
+        },
+        {
+            "competencyText": {"en-us": "Generate multiple samples or simulated samples of the same size to measure the variation in estimates or predictions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine if a specific model is consistent within a given process by analyzing the data distribution from a data-generating process."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the appropriate design, survey, experiment or observational study, based on the purpose. Articulate the types of questions appropriate for each type of design."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast surveys, experiments and observational studies."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how randomization relates to sample surveys, experiments and observational studies."}
+        },
+        {
+            "competencyText": {"en-us": "Draw inferences about two populations using data and statistical analysis from two random samples."}
+        },
+        {
+            "competencyText": {"en-us": "Compare two treatments from an experiment using data from a randomized experiment."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether differences between parameters are significant using simulations."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate reports based on data from diverse media, print and digital resources by interpreting graphs and tables; evaluating data-based arguments; determining whether a valid sampling method was used; or interpreting provided statistics."}
+        },
+        {
+            "competencyText": {"en-us": "Use probability distributions to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Define a random variable for a quantity of interest by assigning a numerical value to each individual outcome in a sample space; graph the corresponding probability distribution using the same graphical displays as for data distributions."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a probability distribution for a discrete random variable using theoretical probabilities. Find the expected value and interpret it as the mean of the discrete distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a probability distribution for a discrete random variable using empirical probabilities. Find the expected value and interpret it as the mean of the discrete distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Given a binomial distribution, calculate and interpret the expected value. Solve real-world problems involving binomial distributions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving geometric distributions."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving Poisson distributions."}
+        },
+        {
+            "competencyText": {"en-us": "Functions"}
+        },
+        {
+            "competencyText": {"en-us": "Understand, compare and analyze properties of functions."}
+        },
+        {
+            "competencyText": {"en-us": "Given an equation or graph that defines a function, determine the function type. Given an input-output table, determine a function type that could represent it."}
+        },
+        {
+            "competencyText": {"en-us": "Given a function represented in function notation, evaluate the function for an input in its domain. For a real-world context, interpret the output."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate and interpret the average rate of change of a real-world situation represented graphically, algebraically or in a table over a specified interval."}
+        },
+        {
+            "competencyText": {"en-us": "Write an algebraic expression that represents the difference quotient of a function. Calculate the numerical value of the difference quotient at a given pair of points."}
+        },
+        {
+            "competencyText": {"en-us": "Compare key features of linear functions each represented algebraically, graphically, in tables or written descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare key features of linear and nonlinear functions each represented algebraically, graphically, in tables or written descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare key features of two functions each represented algebraically, graphically, in tables or written descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether a linear, quadratic or exponential function best models a given real-world situation."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether a function is even, odd or neither when represented algebraically, graphically or in a table."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether a function is even, odd or neither when represented algebraically, graphically or in a table."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the effects of transformations on functions. Create new functions given transformations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the effect on the graph or table of a given function after replacing <i>f(x)<\/i> by <i>f(x)<\/i>+<i>k<\/i>,<i>kf(x)<\/i>, <i>f(kx)<\/i>  and <i>f(x+k)<\/i> for specific values of <i>k<\/i>."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the effect on the graph of a given function of two or more transformations defined by adding a real number to the x- or y- values or multiplying the x- or y- values by a real number."}
+        },
+        {
+            "competencyText": {"en-us": "Given the graph or table of f(x) and the graph or table of f(x)+k,kf(x), f(kx) and f(x+k), state the type of transformation and find the value of the real number k."}
+        },
+        {
+            "competencyText": {"en-us": "Given the graph or table of values of two or more transformations of a function, state the type of transformation and find the values of the real number that defines the transformation."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or graph that represents a function, create a corresponding table, equation or graph of the transformed function defined by adding a real number to the ??- or ??-values or multiplying the ??- or ??-values by a real number."}
+        },
+        {
+            "competencyText": {"en-us": "Create new functions from existing functions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, combine two functions, limited to linear and quadratic, using arithmetic operations. When appropriate, include domain restrictions for the new function."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, combine two or more functions, limited to linear, quadratic, exponential and polynomial, using arithmetic operations. When appropriate, include domain restrictions for the new function."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving functions that have been combined using arithmetic operations."}
+        },
+        {
+            "competencyText": {"en-us": "Represent the composition of two functions algebraically or in a table. Determine the domain and range of the composite function."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving composite functions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether an inverse function exists by analyzing tables, graphs and equations."}
+        },
+        {
+            "competencyText": {"en-us": "Represent the inverse of a function algebraically, graphically or in a table. Use composition of functions to verify that one function is the inverse of the other."}
+        },
+        {
+            "competencyText": {"en-us": "Produce an invertible function from a non-invertible function by restricting the domain."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving inverse functions."}
+        },
+        {
+            "competencyText": {"en-us": "Financial Literacy"}
+        },
+        {
+            "competencyText": {"en-us": "Build mathematical foundations for financial literacy. "}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous knowledge of operations of fractions, percentages and decimals to solve real-world problems involving money and business."}
+        },
+        {
+            "competencyText": {"en-us": "Extend previous knowledge of ratios and proportional relationships to solve real-world problems involving money and business."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving weighted averages using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between compound interest and exponential growth and the relationship between continuously compounded interest and exponential growth."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the consumer price index (CPI) for goods. Interpret its value in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving potential profit and actual cost."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the advantages and disadvantages of short-term and long-term purchases."}
+        },
+        {
+            "competencyText": {"en-us": "Compare simple, compound and continuously compounded interest over time."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving simple, compound and continuously compounded interest."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving present value and future value of money"}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between simple interest and linear growth. Explain the relationship between compound interest and exponential growth and the relationship between continuously compounded interest and exponential growth."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages of using cash versus personal financing options."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate the finance charges and total amount due on a bill using various forms of credit using estimation, spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages of different types of student loans by manipulating a variety of variables and calculating the total cost using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate using spreadsheets and other technology the total cost of purchasing consumer durables over time given different monthly payments, down payments, financing options and fees."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages of different types of mortgage loans by manipulating a variety of variables and calculating fees and total cost using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze credit scores qualitatively. Explain how short-term and long-term purchases, including deferred payments, may increase or decrease credit scores. Explain how credit scores influence buying power."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world scenario, establish a plan to pay off debt."}
+        },
+        {
+            "competencyText": {"en-us": "Given fixed costs, per item costs and selling price, determine the break-even point for sales volume."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the advantages and disadvantages of financial and investment plans, including insurances."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate and compare various options, deductibles and fees for various types of insurance policies using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages for adding on a one-time warranty to a purchase using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the advantages and disadvantages of various retirement savings plans using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Collect, organize and interpret data to determine an effective retirement savings plan to meet personal financial goals using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different ways that portfolios can be diversified in investments."}
+        },
+        {
+            "competencyText": {"en-us": "Simulate the purchase of a stock portfolio with a set amount of money, and evaluate its worth over time considering gains, losses and selling, taking into account any associated fees."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate and compare various options and fees for medical, car, homeowners and life insurance."}
+        },
+        {
+            "competencyText": {"en-us": "Collect, organize and interpret data to determine an effective retirement savings plan to meet personal financial goals."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving different types of retirement plans, including traditional IRA, Roth, IRA, 401K, 403B and annuities."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different ways that portfolios can be diversified in both investments and investment vehicles."}
+        },
+        {
+            "competencyText": {"en-us": "Purchase stock with a set amount of money, and evaluate its worth over time considering gains, losses and selling, taking into account any associated fees."}
+        },
+        {
+            "competencyText": {"en-us": "Compare income from purchase of common stock, preferred stock and bonds."}
+        },
+        {
+            "competencyText": {"en-us": "Given current exchange rates, convert between currencies."}
+        },
+        {
+            "competencyText": {"en-us": "Apply data to compare historical rates of return on investments with investment claims to make informed decisions and identify potential fraud."}
+        },
+        {
+            "competencyText": {"en-us": "Trigonometry"}
+        },
+        {
+            "competencyText": {"en-us": "Define and use trigonometric ratios, identities or functions to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Define trigonometric ratios for acute angles in right triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving right triangles using trigonometric ratios and the Pythagorean Theorem."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Law of Sines and the Law of Cosines to solve mathematical and real-world problems involving triangles."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical problems involving finding the area of a triangle given two sides and the included angle."}
+        },
+        {
+            "competencyText": {"en-us": "Prove Pythagorean Identities. Apply Pythagorean Identities to calculate trigonometric ratios and to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Prove the Double-Angle, Half-Angle, Angle Sum and Difference formulas for sine, cosine, and tangent. Apply these formulas to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Simplify expressions using trigonometric identities."}
+        },
+        {
+            "competencyText": {"en-us": "Solve mathematical and real-world problems involving one-variable trigonometric ratios."}
+        },
+        {
+            "competencyText": {"en-us": "Extend trigonometric functions to the unit circle."}
+        },
+        {
+            "competencyText": {"en-us": "Given any positive or negative angle measure in degrees or radians, identify its corresponding angle measure between 0&deg; and 360&deg; or between 0 and 2&pi;. Convert between degrees and radians."}
+        },
+        {
+            "competencyText": {"en-us": "Define the six basic trigonometric functions for all real numbers by identifying corresponding angle measures and using right triangles drawn in the unit circle."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the values of the six basic trigonometric functions for 0,<img align=\"middle\" alt=\"begin mathsize 12px style straight pi over 6 end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mi mathvariant=¨normal¨»§#x3C0;«/mi»«mn»6«/mn»«/mfrac»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=d81fa3e69ddb7d6bb5678ac32f87f493.png\" style=\"vertical-align: middle;\" />, <img align=\"middle\" alt=\"begin mathsize 12px style straight pi over 3 end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mi mathvariant=¨normal¨»§#x3C0;«/mi»«mn»3«/mn»«/mfrac»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=1abbb3a94feb11771902a1d6c873e5a4.png\" style=\"vertical-align: middle;\" />&nbsp;and <img align=\"middle\" alt=\"begin mathsize 12px style straight pi over 4 end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mi mathvariant=¨normal¨»§#x3C0;«/mi»«mn»4«/mn»«/mfrac»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=39fd6459106e34f1c34b4f058594c504.png\" style=\"vertical-align: middle;\" /> and their multiples using special triangles."}
+        },
+        {
+            "competencyText": {"en-us": "<p>Use the unit circle to express the values of sine, cosine and tangent for &pi;-<i>x<\/i>,&nbsp;&pi;+<i>x<\/i>, and 2&pi;-<i>x<\/i> in terms of their values for <i>x<\/i>, where <i>x<\/i> is any real number.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Given angles measured in radians or degrees, calculate the values of the six basic trigonometric functions using the unit circle, trigonometric identities or technology."}
+        },
+        {
+            "competencyText": {"en-us": "Graph and apply trigonometric relations and functions."}
+        },
+        {
+            "competencyText": {"en-us": "Given a mathematical or real-world context, choose sine, cosine or tangent trigonometric functions to model periodic phenomena with specified amplitude, frequency, horizontal shift and midline."}
+        },
+        {
+            "competencyText": {"en-us": "Given a table, equation or written description of a trigonometric function, graph that function and determine key features."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with trigonometric functions. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Extend rectangular coordinates and equations to polar and parametric forms."}
+        },
+        {
+            "competencyText": {"en-us": "Define and plot polar coordinates. Convert between polar coordinates and rectangular coordinates with and without the use of technology."}
+        },
+        {
+            "competencyText": {"en-us": "Represent equations given in rectangular coordinates in terms of polar coordinates. Represent equations given in polar coordinates in terms of rectangular coordinates."}
+        },
+        {
+            "competencyText": {"en-us": "Graph equations in the polar coordinate plane with and without the use of graphing technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and graph special polar equations, including circles, cardioids, limacons, rose curves and lemniscates."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch the graph of a curve in the plane represented parametrically, indicating the direction of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Convert from a parametric representation of a plane curve to a rectangular equation, and convert from a rectangular equation to a parametric representation of a plane curve."}
+        },
+        {
+            "competencyText": {"en-us": "Apply parametric equations to model applications involving motion in the plane."}
+        },
+        {
+            "competencyText": {"en-us": "Logic and Discrete Theory"}
+        },
+        {
+            "competencyText": {"en-us": "Apply recursive methods to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply recursive and iterative thinking to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving recurrence relations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply mathematical induction in a variety of applications."}
+        },
+        {
+            "competencyText": {"en-us": "Apply optimization and techniques from Graph Theory to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Define and explain the basic concepts of Graph Theory."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving paths in graphs."}
+        },
+        {
+            "competencyText": {"en-us": "Solve scheduling problems using critical path analysis and Gantt charts. Create a schedule using critical path analysis."}
+        },
+        {
+            "competencyText": {"en-us": "Apply graph coloring techniques to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply spanning trees, rooted trees, binary trees and decision trees to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Apply techniques from Election Theory and Fair Division Theory to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Define and explain the basic concepts of Election Theory and voting."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze election data using election theory techniques. Explain how Arrow&rsquo;s Impossibility Theorem may be related to the fairness of the outcome of the election."}
+        },
+        {
+            "competencyText": {"en-us": "Decide voting power within a group using weighted voting techniques. Provide real-world examples of weighted voting and its pros and cons."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems using fair division and apportionment techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of the fundamentals of propositional logic, arguments and methods of proof."}
+        },
+        {
+            "competencyText": {"en-us": "Translate propositional statements into logical arguments using propositional variables and logical connectives."}
+        },
+        {
+            "competencyText": {"en-us": "Determine truth values of simple and compound statements using truth tables."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and accurately interpret &ldquo;if&hellip;then,&rdquo; &ldquo;if and only if,&rdquo; &ldquo;all&rdquo; and &ldquo;not&rdquo; statements. Find the converse, inverse and contrapositive of a statement."}
+        },
+        {
+            "competencyText": {"en-us": "Represent logic operations, such as AND, OR, NOT, NOR, and XOR, using logical symbolism to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Determine whether two propositions are logically equivalent."}
+        },
+        {
+            "competencyText": {"en-us": "Apply methods of direct and indirect proof and determine whether a logical argument is valid."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and give examples of undefined terms; axioms; theorems; proofs, including proofs using mathematical induction; and inductive and deductive reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "Construct proofs, including proofs by contradiction."}
+        },
+        {
+            "competencyText": {"en-us": "Construct logical arguments using laws of detachment, syllogism, tautology, contradiction and Euler Diagrams."}
+        },
+        {
+            "competencyText": {"en-us": "Judge the validity of arguments and give counterexamples to disprove statements."}
+        },
+        {
+            "competencyText": {"en-us": "Apply properties from Set Theory to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Given two sets, determine whether the two sets are equivalent and whether one set is a subset of another. Given one set, determine its power set."}
+        },
+        {
+            "competencyText": {"en-us": "Given a relation on two sets, determine whether the relation is a function, determine the inverse of the relation if it exists and identify if the relation is bijective."}
+        },
+        {
+            "competencyText": {"en-us": "Partition a set into disjoint subsets and determine an equivalence class given the equivalence relation on a set."}
+        },
+        {
+            "competencyText": {"en-us": "Perform the set operations of taking the complement of a set and the union, intersection, difference and product of two sets."}
+        },
+        {
+            "competencyText": {"en-us": "Explore relationships and patterns and make arguments about relationships between sets using Venn Diagrams."}
+        },
+        {
+            "competencyText": {"en-us": "Prove set relations, including DeMorgan&rsquo;s Laws and equivalence relations."}
+        },
+        {
+            "competencyText": {"en-us": "Calculus"}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for limits and continuity. Determine limits and continuity."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the concept of a limit and estimate limits from graphs and tables of values."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the value of a limit if it exists algebraically using limits of sums, differences, products, quotients and compositions of continuous functions."}
+        },
+        {
+            "competencyText": {"en-us": "Find limits of rational functions that are undefined at a point."}
+        },
+        {
+            "competencyText": {"en-us": "Find one-sided limits."}
+        },
+        {
+            "competencyText": {"en-us": "Find limits at infinity."}
+        },
+        {
+            "competencyText": {"en-us": "Decide when a limit is infinite and use limits involving infinity to describe asymptotic behavior."}
+        },
+        {
+            "competencyText": {"en-us": "Find special limits by using the Squeeze Theorem or algebraic manipulation."}
+        },
+        {
+            "competencyText": {"en-us": "Find limits of indeterminate forms using L'H&ocirc;pital's Rule."}
+        },
+        {
+            "competencyText": {"en-us": "Define continuity in terms of limits."}
+        },
+        {
+            "competencyText": {"en-us": "Given the graph of a function, identify whether a function is continuous at a point. If not, identify the type of discontinuity for the given function."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Intermediate Value Theorem and the Extreme Value Theorem."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Intermediate Value Theorem and the Extreme Value Theorem."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for and determine derivatives."}
+        },
+        {
+            "competencyText": {"en-us": "State, understand and apply the definition of derivative. Apply and interpret derivatives geometrically and numerically."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret the derivative as an instantaneous rate of change or as the slope of the tangent line."}
+        },
+        {
+            "competencyText": {"en-us": "Prove the rules for finding derivatives of sums, products, quotients and the Chain Rule."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the rules for finding derivatives of constants, sums, products, quotients and the Chain Rule to solve problems with functions limited to algebraic, trigonometric, inverse trigonometric, logarithmic and exponential."}
+        },
+        {
+            "competencyText": {"en-us": "Prove the rules for finding derivatives of constant, multiple and power."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the rules for finding derivatives of constant, multiple and power to solve problems with functions limited to algebraic, trigonometric, inverse trigonometric, logarithmic and exponential."}
+        },
+        {
+            "competencyText": {"en-us": "Find the derivatives of composite functions using the Chain Rule."}
+        },
+        {
+            "competencyText": {"en-us": "Find the derivatives of implicitly defined functions."}
+        },
+        {
+            "competencyText": {"en-us": "Find derivatives of inverse functions."}
+        },
+        {
+            "competencyText": {"en-us": "Find second derivatives and derivatives of higher order."}
+        },
+        {
+            "competencyText": {"en-us": "Find derivatives using logarithmic differentiation."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate and use the relationship between differentiability and continuity."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the Mean Value Theorem."}
+        },
+        {
+            "competencyText": {"en-us": "Apply derivatives to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Find the slope of a curve at a point, including points at which there are vertical tangent lines."}
+        },
+        {
+            "competencyText": {"en-us": "Find an equation for the tangent line to a curve at a point and use it to make local linear approximation."}
+        },
+        {
+            "competencyText": {"en-us": "Determine where a function is decreasing and increasing using its derivative."}
+        },
+        {
+            "competencyText": {"en-us": "Find local and absolute maximum and minimum points of a function."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the concavity and points of inflection of a function using its second derivative."}
+        },
+        {
+            "competencyText": {"en-us": "Sketch graphs by using first and second derivatives. Compare the corresponding characteristics of the graphs of f, f' and f\"."}
+        },
+        {
+            "competencyText": {"en-us": "Solve optimization problems using derivatives."}
+        },
+        {
+            "competencyText": {"en-us": "Find average and instantaneous rates of change. Explain the instantaneous rate of change as the limit of the average rate of change. Interpret a derivative as a rate of change in applications, including velocity, speed and acceleration."}
+        },
+        {
+            "competencyText": {"en-us": "Find the velocity and acceleration of a particle moving in a straight line."}
+        },
+        {
+            "competencyText": {"en-us": "Model and solve problems involving rates of change, including related rates."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding for and determine integrals."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret a definite integral as a limit of Riemann sums. Calculate the values of Riemann sums over equal subdivisions using left, right and midpoint evaluation points."}
+        },
+        {
+            "competencyText": {"en-us": "Apply Riemann sums, the Trapezoidal Rule and technology to approximate definite integrals of functions represented algebraically, geometrically and by tables of values."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret a definite integral of the rate of change of a quantity over an interval as the change of the quantity over the interval."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate definite integrals by using the Fundamental Theorem of Calculus."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze function graphs by using derivative graphs and the Fundamental Theorem of Calculus."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate or solve problems using the properties of definite integrals. \r\nProperties are limited to the following:&nbsp;<div><br /><\/div><div><ul><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b left square bracket f left parenthesis x right parenthesis space plus thin space g left parenthesis x right parenthesis right square bracket d x space equals space integral subscript a superscript b f left parenthesis x right parenthesis d x space plus thin space integral subscript a superscript b g left parenthesis x right parenthesis d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mo»[«/mo»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mo»§#xA0;«/mo»«mo»+«/mo»«mo»§#x2009;«/mo»«mi»g«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mo»]«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»=«/mo»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»+«/mo»«mo»§#x2009;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»g«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=54d57932824aacff92a3ef0b5533d8be.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b k. f left parenthesis x right parenthesis d x space equals space k space integral subscript a superscript b f left parenthesis x right parenthesis d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»k«/mi»«mo».«/mo»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»=«/mo»«mo»§#xA0;«/mo»«mi»k«/mi»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=33e1c2f8f91ba416d070e97beadd1d36.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript a f left parenthesis x right parenthesis d x space equals space 0 end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»a«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»=«/mo»«mo»§#xA0;«/mo»«mn»0«/mn»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=54508d692aba874eae5b1f9b6f820c7e.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b f left parenthesis x right parenthesis d x space equals space minus space integral subscript b superscript a f left parenthesis x right parenthesis d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»=«/mo»«mo»§#xA0;«/mo»«mo»-«/mo»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»b«/mi»«mi»a«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=8dd2da798861e81e89a1b88393d1db26.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b f left parenthesis x right parenthesis d x space plus thin space integral subscript b superscript c f left parenthesis x right parenthesis d x space equals space integral subscript a superscript c f left parenthesis x right parenthesis d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»+«/mo»«mo»§#x2009;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»b«/mi»«mi»c«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»=«/mo»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»c«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=55c586ec70ea00582085e53190523a0f.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style I f space f left parenthesis x right parenthesis space less or equal than space g left parenthesis x right parenthesis space o n space left square bracket a comma b right square bracket comma space t h e n space integral subscript a superscript b f left parenthesis x right parenthesis d x space less or equal than space integral subscript a superscript b g left parenthesis x right parenthesis d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mi»I«/mi»«mi»f«/mi»«mo»§#xA0;«/mo»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mo»§#xA0;«/mo»«mo»§#x2264;«/mo»«mo»§#xA0;«/mo»«mi»g«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mo»§#xA0;«/mo»«mi»o«/mi»«mi»n«/mi»«mo»§#xA0;«/mo»«mo»[«/mo»«mi»a«/mi»«mo»,«/mo»«mi»b«/mi»«mo»]«/mo»«mo»,«/mo»«mo»§#xA0;«/mo»«mi»t«/mi»«mi»h«/mi»«mi»e«/mi»«mi»n«/mi»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«mo»§#xA0;«/mo»«mo»§#x2264;«/mo»«mo»§#xA0;«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»g«/mi»«mo»(«/mo»«mi»x«/mi»«mo»)«/mo»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=6dcc7631de05d3640b76d67f0fe55457.png\" style=\"vertical-align: middle;\" /><\/li><\/ul><\/div><div><br /><\/div>"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate definite and indefinite integrals by using integration by substitution."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate or solve problems using the properties of definite integrals. Properties are limited to the following:&nbsp;<p>&nbsp;<\/p><ul><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b open square brackets f open parentheses x close parentheses plus g open parentheses x close parentheses close square brackets d x equals integral subscript a superscript b f open parentheses x close parentheses d x plus integral subscript a superscript b g open parentheses x close parentheses d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mfenced open=¨[¨ close=¨]¨»«mrow»«mi»f«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mo»+«/mo»«mi»g«/mi»«mfenced»«mi»x«/mi»«/mfenced»«/mrow»«/mfenced»«mi»d«/mi»«mi»x«/mi»«mo»=«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mi»d«/mi»«mi»x«/mi»«mo»+«/mo»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»g«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=ec2c6b74bfb13df26380908ce505bcdf.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b k times f open parentheses x close parentheses d x equals k integral subscript a superscript b f open parentheses x close parentheses d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»k«/mi»«mo»§#xB7;«/mo»«mi»f«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mi»d«/mi»«mi»x«/mi»«mo»=«/mo»«mi»k«/mi»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»b«/mi»«/msubsup»«mi»f«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mi»d«/mi»«mi»x«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=def3076d8ec2b6ef7b718a9f49d13ef4.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript a f open parentheses x close parentheses d x equals 0 end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msubsup»«mo»§#x222B;«/mo»«mi»a«/mi»«mi»a«/mi»«/msubsup»«mi»f«/mi»«mfenced»«mi»x«/mi»«/mfenced»«mi»d«/mi»«mi»x«/mi»«mo»=«/mo»«mn»0«/mn»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=17704c60e160779cd0f4dd598027a76f.png\" style=\"vertical-align: middle;\" /><\/li><li><img align=\"middle\" alt=\"begin mathsize 12px style integral subscript a superscript b f open parentheses x close parentheses d x equals negative integral subscript b superscript a f open parentheses x close parentheses d x end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathM"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate definite and indefinite integrals by using integration by substitution."}
+        },
+        {
+            "competencyText": {"en-us": "Apply Riemann sums, the Trapezoidal Rule and technology to approximate definite integrals of functions represented algebraically, geometrically and by tables of values."}
+        },
+        {
+            "competencyText": {"en-us": "Apply integrals to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Find specific antiderivatives using initial conditions, including finding velocity functions from acceleration functions, finding position functions from velocity functions and solving applications related to motion along a line."}
+        },
+        {
+            "competencyText": {"en-us": "Solve separable differential equations."}
+        },
+        {
+            "competencyText": {"en-us": "Solve differential equations of the form <img align=\"middle\" alt=\"begin mathsize 12px style fraction numerator d y over denominator d t end fraction equals k y end style\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mfrac»«mrow»«mi»d«/mi»«mi»y«/mi»«/mrow»«mrow»«mi»d«/mi»«mi»t«/mi»«/mrow»«/mfrac»«mo»=«/mo»«mi»k«/mi»«mi»y«/mi»«/mrow»«/mstyle»«/math»\" src=\"https://www.cpalms.org/radeditor_wiris/integration/showimage.aspx?formula=d89669512374410daa2fce6cf9dd9e62.png\" style=\"vertical-align: middle;\" /> as applied to growth and decay problems."}
+        },
+        {
+            "competencyText": {"en-us": "Display a graphic representation of the solution to a differential equation by using slope fields, and locate particular solutions to the equation."}
+        },
+        {
+            "competencyText": {"en-us": "Find the area between a curve and the x-axis or between two curves by using definite integrals."}
+        },
+        {
+            "competencyText": {"en-us": "Find the average value of a function over a closed interval by using definite integrals."}
+        },
+        {
+            "competencyText": {"en-us": "Find the volume of a figure with known cross-sectional area, including figures of revolution, by using definite integrals."}
+        },
+        {
+            "competencyText": {"en-us": "Given an algebraic logarithmic expression, generate an equivalent algebraic expression using the properties of logarithms or exponents."}
+        },
+        {
+            "competencyText": {"en-us": "Solve and graph mathematical and real-world problems that are modeled with polynomial functions of degree 3 or higher. Interpret key features and determine constraints in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Justify the criteria for triangle similarity using the definition of similarity in terms of non-rigid transformations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an understanding of basic accounting and economic principles. "}
+        },
+        {
+            "competencyText": {"en-us": "Given assets and liabilities, calculate net worth using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Solve real-world problems involving profits, costs and revenues using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how consumer price index (CPI), gross domestic product (GDP), stock indices, unemployment rate and trade deficit are calculated. Interpret their value in terms of the context."}
+        },
+        {
+            "competencyText": {"en-us": "Given current exchange rates, convert between currencies. Solve real-world problems involving exchange rates."}
+        },
+        {
+            "competencyText": {"en-us": "Develop budgets that fit within various incomes using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Given a real-world scenario, complete and calculate federal income tax using spreadsheets and other technology."}
+        },
+        {
+            "competencyText": {"en-us": "Fit an exponential function to bivariate numerical data that suggests an exponential association. Use the model to solve real-world problems in terms of the context of the data."}
+        },
+        {
+            "competencyText": {"en-us": "Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values and standard deviations. Evaluate and compare strategies on the basis of the calculated expected values and standard deviations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply probabilities to make fair decisions, such as drawing from lots or using a random number generator."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems concerning optimizing resource usage using bin-packing techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Solve problems involving optimal strategies in Game Theory."}
+        }
+    ]
+}

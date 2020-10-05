@@ -1,0 +1,1183 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/8893e3dd-e602-5c6f-859a-49212ec5e830",
+        "name": {"en-us": "Capítulo 112. Conocimientos y destrezas esenciales en Texas (TEKS) para ciencias"},
+        "description": {"en-us": "Capítulo 112. Conocimientos y destrezas esenciales en Texas (TEKS) para ciencias"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Subcapítulo A. Primaria"}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, Kindergarten, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología prevalecen ciertos temas recurrentes. Estas ideas trascienden los límites disciplinarios e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de investigaciones en el salón de clases y al aire libre usando procesos científicos, incluyendo métodos de investigación, análisis de la información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los principales conceptos y el vocabulario de las ciencias físicas, las ciencias de la Tierra y las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 80% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En Kindergarten, los estudiantes observan y describen la naturaleza usando sus sentidos. Los estudiantes estudian las ciencias por medio de investigaciones para desarrollar y enriquecer su capacidad de comprensión de procesos y conceptos científicos. Los estudiantes desarrollan el vocabulario a través de sus experiencias al investigar las propiedades de objetos comunes, materiales terrestres y organismos."}
+        },
+        {
+            "competencyText": {"en-us": "Un tema central en el estudio de la investigación y el razonamiento científicos; en el de la materia y la energía; en el de la fuerza, el movimiento y la energía; en el de la Tierra y el espacio; y en el de los organismos y el medio ambiente es la participación activa al formular preguntas, crear un método para responder esas preguntas, responder esas preguntas, comunicar ideas y explorar con instrumentos científicos. La investigación y el razonamiento científicos implican practicar procedimientos de manera segura, formular preguntas sobre la naturaleza y buscar respuestas a esas preguntas a través de observaciones simples llevadas a cabo en investigaciones descriptivas."}
+        },
+        {
+            "competencyText": {"en-us": "La materia es descrita en términos de sus propiedades físicas, incluyendo tamaño, peso, forma, color y textura relativos. La importancia de la energía luminosa, térmica y del sonido es identificada al relacionarla con la vida diaria de los estudiantes. La ubicación y el movimiento de los objetos también se exploran."}
+        },
+        {
+            "competencyText": {"en-us": "El estado del tiempo se anota y se discute diariamente para que los estudiantes puedan empezar a reconocer sus patrones. Otros patrones pueden observarse en la apariencia de objetos en el cielo."}
+        },
+        {
+            "competencyText": {"en-us": "En las ciencias biológicas, los estudiantes reconocen la interdependencia de los organismos en la naturaleza. Entienden que todos los organismos tienen necesidades básicas que se pueden satisfacer mediante la interacción con seres vivos y objetos inertes. Los estudiantes investigarán el ciclo de vida de las plantas e identificarán las semejanzas entre los padres y sus descendientes."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza investigaciones dentro y fuera del salón de clases siguiendo los procedimientos de seguridad del hogar y de la escuela, y usa prácticas ambientales adecuadas y responsables. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique, discuta y demuestre prácticas seguras y saludables como se señalan en los estándares de seguridad aprobados por la Agencia de Educación de Texas durante las investigaciones en el salón de clases y al aire libre, incluyendo usar lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, lavarse las manos y usar apropiadamente los materiales; y"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre cómo usar, conservar y desechar los recursos naturales y materiales, tales como al conservar el agua y reutilizar o reciclar papel, plástico y metal."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante desarrolla habilidades para formular preguntas y buscar respuestas en las investigaciones dentro del salón de clases y al aire libre. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "haga preguntas acerca de organismos, objetos y eventos observados en la naturaleza;"}
+        },
+        {
+            "competencyText": {"en-us": "planifique y realice investigaciones descriptivas simples;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna datos y haga observaciones con instrumentos simples;"}
+        },
+        {
+            "competencyText": {"en-us": "anote y organice la información y las observaciones usando dibujos, números y palabras; y"}
+        },
+        {
+            "competencyText": {"en-us": "comunique sus observaciones acerca de investigaciones descriptivas simples."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende que la información y el razonamiento crítico se usan en la resolución científica de problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique un problema, tal como el impacto de arrojar basura, y proponga una solución;"}
+        },
+        {
+            "competencyText": {"en-us": "haga predicciones basadas en patrones observables en la naturaleza; y"}
+        },
+        {
+            "competencyText": {"en-us": "explore que los científicos investigan diferentes cosas en la naturaleza y usan instrumentos que les ayudan en sus investigaciones."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa instrumentos y modelos apropiados para su edad para investigar la naturaleza. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "reúna información usando instrumentos, incluyendo instrumentos de cómputo, lupas, balanzas, tazas, tazones, imanes, redes y cuadernos; medidores de tiempo; objetos no usuales para medir; instrumentos meteorológicos, tales como termómetros para demostración; y materiales que apoyen las observaciones del hábitat de organismos, tales como terrarios y acuarios; y"}
+        },
+        {
+            "competencyText": {"en-us": "use los sentidos como un instrumento de observación para identificar propiedades y patrones de organismos, objetos y eventos en el medio ambiente."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que los objetos tienen propiedades y patrones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe y anote las propiedades de los objetos, incluyendo más grande o más pequeño, más pesado o más liviano, forma, color y textura; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe, anote y discuta cómo los materiales pueden cambiar al calentarse o enfriarse."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la energía, la fuerza y el movimiento están relacionados y son parte de su vida diaria. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use los sentidos para explorar las diferentes formas de energía, tales como la energía luminosa, térmica y del sonido;"}
+        },
+        {
+            "competencyText": {"en-us": "explore la interacción entre imanes y distintos materiales;"}
+        },
+        {
+            "competencyText": {"en-us": "observe y describa la ubicación de un objeto con relación a otro, tal como arriba, abajo, detrás, enfrente y al lado; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe y describa las maneras en que los objetos se pueden mover, tales como en línea recta, en zigzag, hacia arriba y hacia abajo, hacia atrás y hacia adelante, en círculo, rápida y lentamente."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que en la naturaleza hay materiales terrestres. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe, describa y clasifique las rocas por su tamaño, forma, color y textura;"}
+        },
+        {
+            "competencyText": {"en-us": "observe y describa las propiedades físicas de las fuentes naturales de agua, incluyendo color y claridad; y"}
+        },
+        {
+            "competencyText": {"en-us": "dé ejemplos de las maneras en que las rocas, el suelo y el agua son útiles."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que hay patrones reconocibles en la naturaleza y entre los objetos en el cielo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe y describa los cambios en el estado del tiempo de un día para otro y de una estación del año a otra;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique eventos que tienen patrones que se repiten, incluyendo las estaciones del año, el día y la noche; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe, describa y dibuje los objetos en el cielo, tales como las nubes, la Luna y las estrellas, incluyendo al Sol."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que las plantas y los animales tienen necesidades básicas y que dependen de los seres vivos y los objetos inertes que hay a su alrededor para sobrevivir. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "pueda diferenciar entre los seres vivos y los objetos inertes basándose en si éstos tienen necesidades básicas y si pueden tener descendientes; y"}
+        },
+        {
+            "competencyText": {"en-us": "examine la evidencia de que los organismos vivos tienen necesidades básicas, tales como alimento, agua y refugio para los animales, y agua, aire, nutrientes, luz del sol y espacio para las plantas."}
+        },
+        {
+            "competencyText": {"en-us": "Los organismos y el medio ambiente. El estudiante entiende que los organismos se parecen a sus padres y tienen estructuras y procesos que los ayudan a sobrevivir dentro de su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "clasifique plantas y animales en grupos basándose en características físicas, tales como color, tamaño, cubierta del cuerpo o forma de la hoja;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique partes básicas de las plantas y animales;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las maneras en que los brotes de plantas se parecen a sus padres; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe los cambios que son parte de un ciclo de vida simple de una planta: semilla, brote, planta, flor y fruto."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, primer grado, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología prevalecen ciertos temas recurrentes. Estas ideas trascienden los límites disciplinarios e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de investigaciones en el salón de clases y al aire libre usando procesos científicos, incluyendo métodos de investigación, análisis de la información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los principales conceptos y el vocabulario de las ciencias físicas, las ciencias de la Tierra y las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 80% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En primer grado, los estudiantes observan y describen la naturaleza usando sus sentidos. Los estudiantes practican la investigación científica para desarrollar y enriquecer su capacidad de comprensión del mundo que los rodea en el contexto de los procesos y conceptos científicos. Los estudiantes desarrollan el vocabulario a través de sus experiencias al investigar las propiedades de objetos comunes, materiales terrestres y organismos."}
+        },
+        {
+            "competencyText": {"en-us": "Un tema central en ciencias en primer grado es la participación activa al hacer preguntas, crear un método para responder esas preguntas, responder esas preguntas, comunicar ideas y explorar con instrumentos científicos con el fin de explicar conceptos y procesos científicos, como la investigación y el razonamiento científicos; la materia y la energía; la fuerza, el movimiento y la energía; la Tierra y el espacio; y los organismos y el medio ambiente. La investigación y el razonamiento científicos implican practicar procedimientos de manera segura, formular preguntas acerca de la naturaleza y buscar respuestas a esas preguntas a través de observaciones simples llevadas a cabo en investigaciones descriptivas."}
+        },
+        {
+            "competencyText": {"en-us": "La materia es descrita en términos de sus propiedades físicas, incluyendo tamaño, peso, forma, color y textura relativos. La importancia de la energía luminosa, térmica y del sonido es identificada al relacionarla con la vida diaria de los estudiantes. La ubicación y el movimiento de los objetos también se exploran."}
+        },
+        {
+            "competencyText": {"en-us": "El estado del tiempo se anota y se discute diariamente para que los estudiantes puedan empezar a reconocer sus patrones. Además, se pueden observar otros patrones en la apariencia de objetos en el cielo."}
+        },
+        {
+            "competencyText": {"en-us": "En las ciencias biológicas, los estudiantes reconocen la interdependencia de los organismos en la naturaleza. Entienden que todos los organismos tienen necesidades básicas que se pueden satisfacer mediante la interacción con seres vivos y objetos inertes. Los estudiantes investigarán el ciclo de vida de los animales e identificarán las semejanzas entre los padres y sus descendientes."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza investigaciones dentro y fuera del salón de clases siguiendo los procedimientos de seguridad del hogar y de la escuela, y usa prácticas ambientales adecuadas y responsables. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique, discuta y demuestre prácticas seguras y saludables, como se señala en los estándares de seguridad aprobados por la Agencia de Educación de Texas durante las investigaciones en el salón de clases y al aire libre, incluyendo usar lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, lavarse las manos y usar apropiadamente los materiales; y"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y aprenda cómo usar los recursos naturales y materiales, incluyendo la conservación y la reutilización o reciclaje de papel, plástico y metal."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante desarrolla habilidades para formular preguntas y buscar respuestas en las investigaciones dentro del salón de clases y al aire libre. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "haga preguntas acerca de organismos, objetos y eventos observados en la naturaleza;"}
+        },
+        {
+            "competencyText": {"en-us": "planifique y lleve a cabo investigaciones descriptivas simples;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna datos y haga observaciones con instrumentos simples;"}
+        },
+        {
+            "competencyText": {"en-us": "anote y organice la información usando dibujos, números y palabras; y"}
+        },
+        {
+            "competencyText": {"en-us": "comunique observaciones y provea las razones de sus explicaciones usando datos reunidos por estudiantes durante investigaciones descriptivas simples."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende que la información y el razonamiento crítico se usan en la resolución científica de problemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique un problema y proponga una solución;"}
+        },
+        {
+            "competencyText": {"en-us": "haga predicciones basadas en patrones observables; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa qué hacen los científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa instrumentos y modelos apropiados para su edad para investigar la naturaleza. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "reúna, anote y compare información usando instrumentos, incluyendo computadoras, lupas, balanzas, tazas, tazones, imanes, redes, cuadernos y lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor; medidores de tiempo; instrumentos de medición no usuales; instrumentos meteorológicos, tales como termómetros para demostración y mangas de viento; y materiales que apoyen las observaciones del hábitat de los organismos, tales como terrarios y acuarios; y"}
+        },
+        {
+            "competencyText": {"en-us": "mida y compare los organismos y los objetos usando unidades no usuales."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que los objetos tienen propiedades y patrones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "clasifique los objetos siguiendo propiedades observables, tales como más grande y más pequeño, más pesado y más liviano, forma, color y textura; y"}
+        },
+        {
+            "competencyText": {"en-us": "pronostique e identifique cambios en los materiales causados por el calentamiento o el enfriamiento; y"}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la energía, la fuerza y el movimiento están relacionados y son parte de su vida diaria. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y discuta cómo las diferentes formas de energía, tales como la energía luminosa, térmica y del sonido, son importantes en la vida diaria;"}
+        },
+        {
+            "competencyText": {"en-us": "pronostique y describa cómo se puede usar un imán para repeler o atraer un objeto; y"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre y anote las maneras en que los objetos se pueden mover, tales como en línea recta, en zigzag, hacia arriba y hacia abajo, hacia atrás y hacia adelante, en círculo, rápida y lentamente."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la naturaleza incluye rocas, suelo y agua que se pueden observar en ciclos, patrones y sistemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe, compare, describa y clasifique los componentes del suelo por tamaño, textura y color;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa una variedad de fuentes naturales de agua, incluyendo arroyos, lagos y océanos; y"}
+        },
+        {
+            "competencyText": {"en-us": "identifique cómo las rocas, el suelo y el agua se utilizan para hacer productos."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la naturaleza incluye el aire que nos rodea y los objetos en el cielo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "anote información sobre el estado del tiempo, incluyendo la temperatura relativa, como el calor o el frío, despejado o nublado, calmado o con viento y lluvioso o helado;"}
+        },
+        {
+            "competencyText": {"en-us": "observe y anote los cambios en la apariencia de objetos que observa en el cielo, tales como la Luna y las estrellas, incluyendo al Sol;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las características de las estaciones del año, y del día y la noche; y"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que el aire nos rodea y observe que el viento es aire en movimiento."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y el medio ambiente. El estudiante entiende que el medio ambiente está formado por las relaciones entre los organismos y los ciclos de vida que ocurren. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "ordene y clasifique los seres vivos y los objetos inertes basándose en si tienen necesidades básicas y si pueden tener descendencia;"}
+        },
+        {
+            "competencyText": {"en-us": "analice y anote los ejemplos de interdependencia encontrados en diferentes situaciones, tales como terrarios y acuarios o entre una mascota y su dueño; y"}
+        },
+        {
+            "competencyText": {"en-us": "reúna evidencia de la interdependencia entre los organismos vivos, tales como la transferencia de energía a través de cadenas alimenticias o del uso que hacen los animales de las plantas para obtener refugio."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y el medio ambiente. El estudiante entiende que los organismos se parecen a sus padres y tienen estructuras y procesos que les ayudan a sobrevivir dentro de su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "investigue cómo las características externas de un animal están relacionadas con el lugar donde vive, cómo se mueve y qué come;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las partes de las plantas;"}
+        },
+        {
+            "competencyText": {"en-us": "compare las maneras en que los animales jóvenes se parecen a sus padres; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe y anote los ciclos de vida de los animales, tales como los de la rana, la gallina y el pez."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, segundo grado, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología prevalecen ciertos temas recurrentes. Estas ideas trascienden los límites disciplinarios e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de investigaciones en el salón de clases y al aire libre usando procesos científicos, incluyendo métodos de investigación, análisis de la información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los principales conceptos y el vocabulario de las ciencias físicas, las ciencias de la Tierra y las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 60% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En segundo grado, la observación y la investigación cuidadosa se usan para aprender acerca de la naturaleza y revelar sus patrones, cambios y ciclos. Los estudiantes deben entender que cierto tipo de preguntas se pueden contestar usando la observación y las investigaciones, y que la información reunida por medio de estas investigaciones puede cambiar al realizarse nuevas observaciones. A medida que los estudiantes participan en investigaciones, desarrollan las destrezas necesarias y también desarrollan nuevos conceptos de ciencias."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del ambiente físico, los estudiantes expanden sus conocimientos en cuanto a las propiedades de los objetos, tales como la forma, temperatura y flexibilidad; luego usan estas propiedades para comparar, clasificar, y después combinar los objetos para hacer algo que antes no podían hacer. Los estudiantes manipulan los objetos para demostrar un cambio en el movimiento y la posición."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del ambiente natural, los estudiantes observarán las propiedades de los materiales terrestres, así como también los patrones predecibles que ocurren en la Tierra y en el cielo. Los estudiantes entienden que esos patrones se usan para tomar decisiones relacionadas con qué ropa usar, actividades diarias y transporte."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del ambiente de los seres vivos, los estudiantes exploran patrones, sistemas y ciclos investigando las características de los organismos, los ciclos de vida y las interacciones entre todos los componentes de su hábitat. Los estudiantes examinan cómo los organismos vivos dependen unos de otros y de su medio ambiente."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante lleva a cabo investigaciones dentro y fuera del salón de clases siguiendo los procedimientos de seguridad del hogar y de la escuela. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "Identifique, describa y demuestre prácticas seguras, como se señala en los estándares de seguridad aprobados por la Agencia de Educación de Texas durante las investigaciones en el salón de clases y al aire libre, incluyendo usar de lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, lavarse las manos y usar apropiadamente los materiales; y"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y aprenda cómo usar, conservar y desechar los recursos naturales y materiales, tales como al conservar el agua y reutilizar o reciclar papel, plástico y metal."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante desarrolla las habilidades necesarias para hacer investigaciones científicas dentro y fuera del salón de clases. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "haga preguntas acerca de organismos, objetos y eventos durante las observaciones y las investigaciones;"}
+        },
+        {
+            "competencyText": {"en-us": "planifique y lleve a cabo investigaciones descriptivas;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna datos mediante observaciones usando instrumentos científicos;"}
+        },
+        {
+            "competencyText": {"en-us": "anote y organice la información usando dibujos, números y palabras;"}
+        },
+        {
+            "competencyText": {"en-us": "comunique las observaciones y justifique las explicaciones usando la información reunida por estudiantes durante investigaciones descriptivas simples; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare los resultados de las investigaciones con lo que los estudiantes y los científicos saben acerca del mundo."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende que la información y el razonamiento crítico, la resolución científica de problemas y las contribuciones de científicos se usan para la toma de decisiones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y explique un problema y proponga una tarea y una solución para el problema;"}
+        },
+        {
+            "competencyText": {"en-us": "haga predicciones basadas en patrones observables; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique que es un científico e investigue qué hacen diferentes científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa los instrumentos y modelos apropiados para su edad para investigar la naturaleza. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "reúna, anote y compare información usando instrumentos, incluyendo computadoras, reglas, lupas, vasos de precipitados de plástico, imanes, redes, cuadernos y lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor; medidores de tiempo; instrumentos meteorológicos, tales como termómetros, mangas de viento y pluviómetros; y materiales que apoyen las observaciones del hábitat de los organismos, tales como terrarios y acuarios; y"}
+        },
+        {
+            "competencyText": {"en-us": "mida y compare organismos y objetos."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que la materia tiene propiedades físicas y estas propiedades determinan la forma como se describe, clasifica, cambia y utiliza la materia. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "clasifique la materia por sus propiedades físicas, incluyendo temperatura, textura y flexibilidad relativas, y si el material es sólido o líquido;"}
+        },
+        {
+            "competencyText": {"en-us": "compare los cambios en los materiales causados por calentamiento o enfriamiento;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que hay cosas que pueden hacerse a los materiales, como cortar, doblar, lijar y derretir, para cambiar sus propiedades físicas; y"}
+        },
+        {
+            "competencyText": {"en-us": "combine materiales para que al juntarlos puedan hacer cosas que no podían hacer por sí mismos, como construir una torre o un puente, y justifique la selección de esos materiales basándose en sus propiedades físicas."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que las fuerzas causan cambios y que la energía existe en muchas formas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "investigue qué efectos tiene sobre los objetos aumentar o disminuir la cantidad de luz, calor y energía del sonido, por ejemplo, cómo el color de un objeto se ve diferente bajo una luz tenue o cómo el calor derrite la mantequilla;"}
+        },
+        {
+            "competencyText": {"en-us": "observe e identifique cómo se usan los imanes en la vida diaria; y"}
+        },
+        {
+            "competencyText": {"en-us": "siga y compare patrones de movimiento de objetos, tales como deslizar, rodar y girar por un periodo de tiempo."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la naturaleza incluye materiales terrestres. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe, describa y compare las rocas por su tamaño, textura y color;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las propiedades de las fuentes naturales de agua dulce y agua salada; y"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre los recursos naturales y los creados por el hombre."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que hay patrones reconocibles en la naturaleza y entre los objetos en el cielo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "mida, anote y haga gráficas sobre la información del estado del tiempo, incluyendo la temperatura, las condiciones del viento, precipitación y nubosidad, para identificar los patrones en esa información;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la importancia de la información sobre el estado del tiempo y la que es de temporada para tomar decisiones relacionadas con qué ropa usar, actividades diarias y el transporte; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe, describa y anote los patrones de los objetos en el cielo, incluyendo la apariencia de la Luna."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que los organismos vivos tienen necesidades básicas que tienen que satisfacer para sobrevivir dentro de su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las necesidades básicas de las plantas y de los animales;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los factores en el medio ambiente, incluyendo la temperatura y la precipitación, que afectan el crecimiento y el comportamiento, tal como la migración, hibernación y el letargo de los seres vivos; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare las maneras en que los organismos vivos dependen unos de otros y de su medio ambiente, tales como a través de las cadenas alimenticias."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que los organismos se parecen a sus padres y tienen estructuras y procesos que les ayudan a sobrevivir dentro de su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe, anote y compare cómo las características físicas y el comportamiento de los animales les ayudan a satisfacer sus necesidades básicas;"}
+        },
+        {
+            "competencyText": {"en-us": "observe, anote y compare cómo las características físicas de las plantas les ayudan a satisfacer sus necesidades básicas, por ejemplo, cómo el tallo conduce agua por toda la planta; e"}
+        },
+        {
+            "competencyText": {"en-us": "investigue y anote algunas de las etapas específicas que los insectos, tales como los saltamontes y las mariposas, experimentan durante su ciclo de vida."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, tercer grado, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología prevalecen ciertos temas recurrentes. Estas ideas trascienden los límites disciplinarios e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de las investigaciones en el salón de clases y al aire libre mediante prácticas científicas, analizando información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los conceptos principales y el vocabulario de las ciencias físicas, de las ciencias de la Tierra y de las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 60% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En tercer grado, los estudiantes aprenden que el estudio de las ciencias usa instrumentos apropiados y prácticas seguras al planificar e implementar investigaciones, al formular y contestar preguntas, al reunir información a través de la observación y medición, y a través del uso de modelos para apoyar las investigaciones científicas acerca de la naturaleza."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente físico, los estudiantes reconocen que existen patrones, relaciones y ciclos en la materia. Los estudiantes investigarán las propiedades físicas de la materia y aprenderán que ocurren cambios. Exploran mezclas e investigan la energía luminosa, del sonido y térmica en la vida diaria. Los estudiantes manipulan objetos al empujarlos y jalarlos para demostrar cambios en el movimiento y la posición."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente natural, los estudiantes investigan cómo la superficie de la Tierra cambia y provee recursos que el hombre usa. Al explorar los objetos en el cielo, los estudiantes describen cómo las relaciones afectan los patrones y los ciclos en la Tierra. Los estudiantes construirán modelos para demostrar las relaciones del sistema entre el Sol, la Tierra y la Luna."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente de los seres vivos, los estudiantes exploran los patrones, sistemas y ciclos del medio ambiente al investigar las características de los organismos, los ciclos de vida y las interacciones entre todos los componentes del medio ambiente natural. Los estudiantes examinan cómo el medio ambiente juega un papel clave en la sobrevivencia. Los estudiantes entienden que cuando se producen cambios en el medio ambiente los organismos pueden prosperar, enfermarse o perecer."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante lleva a cabo investigaciones dentro y fuera del salón de clases siguiendo los procedimientos de seguridad del hogar y de la escuela, y prácticas ambientales adecuadas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre las prácticas seguras que se describen en los estándares de seguridad aprobados por la Agencia de Educación de Texas durante las investigaciones al aire libre y en el salón de clases usando equipo de seguridad según se requiera, incluyendo lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, y guantes; y"}
+        },
+        {
+            "competencyText": {"en-us": "tome decisiones informadas sobre el uso y conservación de los recursos naturales a través del reciclaje y reutilización de materiales, tales como papel, latas de aluminio y plásticos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza prácticas científicas durante investigaciones en el laboratorio y al aire libre. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "planifique e implemente investigaciones descriptivas, incluyendo formular y contestar preguntas, hacer inferencias, y seleccionar y usar el equipo y la tecnología que se necesite, para resolver un problema específico en la naturaleza;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna y anote datos al observar y medir usando el sistema métrico, y reconozca la diferencia entre datos observados y datos medidos;"}
+        },
+        {
+            "competencyText": {"en-us": "construya mapas, organizadores gráficos, tablas simples, carteles y gráficas de barras usando instrumentos y tecnología actual para organizar, examinar y evaluar los datos medidos;"}
+        },
+        {
+            "competencyText": {"en-us": "analice e interprete patrones en la información y elabore explicaciones razonables basadas en las evidencias obtenidas en las investigaciones;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que repetir las investigaciones puede aumentar la confiabilidad de los resultados; y"}
+        },
+        {
+            "competencyText": {"en-us": "comunique conclusiones válidas apoyadas en información escrita, en dibujos y a través de la discusión oral."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende que la información, el razonamiento crítico, la resolución científica de problemas y las contribuciones de los científicos se usan para tomar decisiones. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice, evalúe y critique las explicaciones científicas a través del uso de evidencia, del razonamiento lógico, y pruebas de experimentación y de observación;"}
+        },
+        {
+            "competencyText": {"en-us": "represente la naturaleza usando modelos, tales como los volcanes o el sistema formado por el Sol, la Tierra y la Luna e identifique sus limitaciones, incluyendo el tamaño, las propiedades y los materiales; y"}
+        },
+        {
+            "competencyText": {"en-us": "relacione los conceptos de ciencias apropiados al nivel del grado con la historia de las ciencias, las carreras científicas y las contribuciones de científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende cómo usar una variedad de instrumentos y métodos para realizar investigaciones científicas. Se espera que el estudiante reúna, anote y analice información usando instrumentos, incluyendo cámaras, computadoras, lupas, reglas métricas, termómetros en grados Celsius, mangas de viento, pluviómetros, balanza de platillos, cilindros graduados, vasos de precipitados, básculas, hornillas, metros, imanes, redes, cuadernos, y modelos del sistema del Sol, la Luna y la Tierra; medidores de tiempo; y materiales que apoyen las observaciones del hábitat de los organismos, tales como terrarios y acuarios."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que la materia tiene propiedades físicas que se pueden medir y estas propiedades determinan cómo la materia es clasificada, cambiada y usada. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "mida, ponga a prueba y anote las propiedades físicas de la materia, incluyendo la temperatura, la masa, el magnetismo y la habilidad para hundirse o flotar;"}
+        },
+        {
+            "competencyText": {"en-us": "describa y clasifique ejemplos de materia, tales como sólidos, líquidos y gases, y demuestre que los sólidos tienen una forma definida, y que los líquidos y los gases toman la forma de su recipiente;"}
+        },
+        {
+            "competencyText": {"en-us": "pronostique, observe y anote los cambios en el estado de la materia causados por el calentamiento o el enfriamiento, tales como se ve en el hielo que pasa a ser agua líquida, la condensación que se forma en el exterior de un vaso de agua con hielo o el agua líquida que se calienta hasta el punto de convertirse en vapor de agua; y"}
+        },
+        {
+            "competencyText": {"en-us": "explore y reconozca que una mezcla se crea cuando dos materiales son combinados, tales como grava y arena, o clips de metal y de plástico."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que las fuerzas producen cambios y que la energía existe en muchas formas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explore diferentes formas de energía, incluyendo la energía mecánica, luminosa, del sonido y térmica, en la vida diaria;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre y observe cómo la posición y el movimiento pueden cambiar al empujar y jalar objetos, tales como columpios, pelotas y carritos; y"}
+        },
+        {
+            "competencyText": {"en-us": "observe fuerzas, tales como el magnetismo y la gravedad, actuando sobre los objetos."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la Tierra está formada por recursos naturales y que su superficie cambia constantemente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explore y anote cómo se forman los suelos a través de la degradación de las rocas y la descomposición de restos de plantas y animales;"}
+        },
+        {
+            "competencyText": {"en-us": "investigue los cambios rápidos en la superficie de la Tierra, tales como erupciones volcánicas, terremotos y derrumbes de tierra; y"}
+        },
+        {
+            "competencyText": {"en-us": "explore las características de los recursos naturales que los hacen útiles como productos y materiales, tales como ropa y muebles, y cómo los recursos se pueden conservar."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que hay patrones reconocibles en la naturaleza y entre los objetos en el cielo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe, mida, anote y compare los cambios diarios en el estado del tiempo en distintos lugares al mismo tiempo, incluyendo la temperatura del aire, la dirección del viento y la precipitación;"}
+        },
+        {
+            "competencyText": {"en-us": "describa y dibuje al Sol como una estrella compuesta por gases que provee energía luminosa y térmica;"}
+        },
+        {
+            "competencyText": {"en-us": "construya modelos que demuestren la relación del Sol, la Tierra y la Luna, incluyendo órbitas y posiciones; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los planetas en nuestro sistema solar y sus posiciones con relación al Sol."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende y puede describir patrones, ciclos, sistemas y relaciones dentro del medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe y describa las características físicas del medio ambiente y cómo éstas sustentan a poblaciones y comunidades de plantas y animales dentro de un ecosistema;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa el flujo de energía en una cadena alimenticia y pronostique cómo los cambios en la cadena alimenticia, tales como quitar las ranas de un estanque o las abejas de un campo, afectan al ecosistema; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa los cambios en el medio ambiente, tales como inundaciones y sequías, donde algunos organismos prosperan y otros perecen o se van a un nuevo lugar."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que los organismos pasan por procesos de vida similares y tienen estructuras que les ayudan a sobrevivir en su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "examine cómo las estructuras y las funciones de las plantas y animales les permiten sobrevivir en un medio ambiente en particular; y"}
+        },
+        {
+            "competencyText": {"en-us": "investigue y compare cómo animales y plantas sufren una serie de cambios ordenados en sus diversos ciclos de vida, tales como los de las plantas de tomate, las ranas y los escarabajos."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, cuarto grado, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología son comunes ciertos temas recurrentes. Estas ideas trascienden los límites de esas disciplinas e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de investigaciones en el salón de clases y al aire libre usando procesos científicos, incluyendo métodos de investigación, análisis de la información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los principales conceptos y el vocabulario de las ciencias físicas, las ciencias de la Tierra y las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 50% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En cuarto grado, se usan investigaciones para aprender acerca de la naturaleza. Los estudiantes deben entender que ciertos tipos de preguntas pueden ser contestadas mediante las investigaciones y que las conclusiones, los métodos y modelos obtenidos a través de estas investigaciones cambian a medida que se hacen nuevas observaciones. Los modelos de objetos y eventos son recursos para entender la naturaleza y pueden demostrar cómo funcionan los sistemas. Estos modelos tienen limitaciones y están siendo modificados constantemente gracias a nuevos descubrimientos para reflejar con mayor precisión la naturaleza."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente natural, los estudiantes saben que los materiales terrestres tienen propiedades que constantemente están cambiando debido a las fuerzas de la Tierra. Los estudiantes aprenden que la naturaleza está formada por recursos, incluyendo los renovables y los no renovables, y entienden su responsabilidad para conservar nuestros recursos naturales para las futuras generaciones. También explorarán las relaciones entre el Sol, la Tierra y la Luna. Los estudiantes reconocerán que nuestra mayor fuente de energía es el Sol."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente de los seres vivos, los estudiantes saben y entienden que los organismos vivos en un ecosistema interactúan entre sí y con su ambiente. Los estudiantes reconocerán que las plantas y animales tienen necesidades básicas y que éstas se satisfacen mediante el flujo de energía conocido como redes alimenticias. Los estudiantes explorarán cómo todos los organismos vivos pasan por un ciclo de vida y tienen estructuras que les permiten sobrevivir en su ecosistema."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante lleva a cabo investigaciones dentro y fuera del salón de clases siguiendo procedimientos de seguridad de la escuela y del hogar, y prácticas ambientales adecuadas y éticas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre las prácticas seguras y el uso del equipo de seguridad que se describen en los estándares de seguridad aprobados por la Agencia de Educación de Texas durante las clases y las investigaciones al aire libre usando equipo de seguridad según se requiera, incluyendo lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, y guantes, según sea apropiado; y"}
+        },
+        {
+            "competencyText": {"en-us": "tome decisiones informadas sobre el uso y la conservación de los recursos naturales a través del reciclaje y reutilización de materiales, tales como papel, aluminio, vidrio, latas y plástico."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza prácticas científicas en el laboratorio y al aire libre. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "planifique e implemente investigaciones descriptivas, incluyendo formular preguntas bien definidas, hacer inferencias, y seleccionar y usar el equipo o la tecnología apropiados para contestar sus preguntas;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna y anote datos al observar y medir usando el sistema métrico, y usando palabras descriptivas y números, tales como dibujos rotulados, escritos y mapas conceptuales;"}
+        },
+        {
+            "competencyText": {"en-us": "construya tablas simples, carteles, gráficas de barras y mapas usando herramientas y tecnología actual para organizar, examinar y evaluar la información;"}
+        },
+        {
+            "competencyText": {"en-us": "analice datos e interprete patrones para elaborar explicaciones razonables por medio de datos que pueden ser observados y medidos;"}
+        },
+        {
+            "competencyText": {"en-us": "repita investigaciones para aumentar la confiabilidad de los resultados; y"}
+        },
+        {
+            "competencyText": {"en-us": "comunique resultados válidos, oralmente y por escrito, que estén apoyados en datos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa el razonamiento crítico y la resolución científica de problemas para tomar decisiones informadas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice, evalúe y critique las explicaciones científicas a través del uso de evidencia, razonamiento lógico y pruebas de experimentación y de observación;"}
+        },
+        {
+            "competencyText": {"en-us": "represente la naturaleza usando modelos, tales como el ciclo del agua y modelos de corrientes de agua, e identifique sus limitaciones, incluyendo su exactitud y tamaño; y"}
+        },
+        {
+            "competencyText": {"en-us": "relacione los conceptos de ciencias apropiados al nivel del grado con la historia de las ciencias, las carreras científicas y las contribuciones de científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende cómo usar una variedad de instrumentos, materiales, equipos y modelos para realizar investigaciones científicas. Se espera que el estudiante reúna, anote y analice la información usando instrumentos, incluyendo calculadoras, microscopios, cámaras, computadoras, lupas, reglas métricas, termómetros en grados Celsius, espejos, básculas, balanzas, cilindros graduados, vasos de precipitados, hornillas, cintas métricas, imanes, redes y cuadernos; medidores de tiempo; y materiales que apoyen las observaciones del hábitat de los organismos, tales como terrarios y acuarios."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que la materia tiene propiedades físicas que se pueden medir y estas propiedades determinan cómo la materia es clasificada, cambiada y usada. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "mida, compare y contraste las propiedades físicas de la materia, incluyendo masa, volumen, estados (sólido, líquido y gaseoso), temperatura, magnetismo y la capacidad para hundirse o flotar; y"}
+        },
+        {
+            "competencyText": {"en-us": "compare y contraste una variedad de mezclas, incluyendo soluciones."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la energía existe en muchas formas y que se puede observar en ciclos, patrones y sistemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre las formas de energía, incluyendo la energía del sonido, mecánica, eléctrica, luminosa y térmica;"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre conductores y aislantes de energía térmica y eléctrica;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que la electricidad viaja en un circuito cerrado al crear un circuito eléctrico; y"}
+        },
+        {
+            "competencyText": {"en-us": "diseñe una investigación descriptiva para explorar el efecto de la fuerza sobre un objeto, tal como al empujarlo o jalarlo, la fuerza de gravedad, la fricción o el magnetismo."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la Tierra está formada por recursos útiles y que su superficie cambia constantemente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "examine las propiedades de los suelos, incluyendo color y textura, capacidad de retener agua y capacidad para sustentar el crecimiento de las plantas;"}
+        },
+        {
+            "competencyText": {"en-us": "observe e identifique los cambios lentos que ocurren en la superficie de la Tierra causados por la degradación, la erosión y la sedimentación del agua, el viento y el hielo; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y clasifique los recursos renovables de la Tierra, incluyendo el aire, plantas, agua y animales, así como los recursos no renovables, incluyendo el carbón mineral, petróleo y gas natural, y la importancia de la conservación."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que hay patrones reconocibles en la naturaleza y entre el sistema formado por el Sol, la Tierra y la Luna. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "mida, anote y pronostique los cambios en el estado del tiempo;"}
+        },
+        {
+            "competencyText": {"en-us": "describa e ilustre el movimiento continuo del agua en la tierra, en la superficie y por encima de esta, durante el ciclo del agua y explique el papel del Sol como fuente principal de energía en este proceso; y"}
+        },
+        {
+            "competencyText": {"en-us": "reúna y analice datos para identificar secuencias y pronosticar los patrones de cambio en las sombras, estaciones del año y en la apariencia observable de la Luna a través del tiempo."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante sabe y entiende que los organismos vivos dentro de un ecosistema interactúan entre sí y con su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "investigue que la mayoría de los productores necesitan luz solar, agua y dióxido de carbono para producir su alimento, mientras que los consumidores dependen de otros organismos para alimentarse; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa el flujo de energía a través de las redes alimenticias, comenzando con el Sol, y pronostique cómo los cambios en el ecosistema afectan la red alimenticia."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que los organismos pasan por procesos de vida similares y tienen estructuras y comportamientos que les ayudan a sobrevivir en su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explore cómo las estructuras y las funciones permiten a los organismos sobrevivir en su medio ambiente;"}
+        },
+        {
+            "competencyText": {"en-us": "explore y describa ejemplos de características que son heredadas de padres a hijos, tales como el color de ojos o la forma de las hojas, y comportamientos aprendidos, tales como leer un libro y una manada de lobos enseñando a cazar a sus crías con eficacia; y"}
+        },
+        {
+            "competencyText": {"en-us": "explore, dibuje y compare los ciclos de vida en los organismos vivos, tales como los de los escarabajos, grillos, rábanos o frijoles."}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, quinto grado, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d."}
+        },
+        {
+            "competencyText": {"en-us": "En ciencias, matemáticas y tecnología son comunes ciertos temas recurrentes. Estas ideas trascienden los límites de esas disciplinas e incluyen patrones, ciclos, sistemas, modelos, así como el cambio y la constancia."}
+        },
+        {
+            "competencyText": {"en-us": "El estudio de las ciencias al nivel de educación primaria incluye la planificación y la implementación en condiciones seguras de investigaciones en el salón de clases y al aire libre usando procesos científicos, incluyendo métodos de investigación, análisis de la información, toma de decisiones informadas y uso de instrumentos para reunir y anotar información considerando al mismo tiempo los principales conceptos y el vocabulario de las ciencias físicas, las ciencias de la Tierra y las ciencias biológicas. Se recomienda que los distritos asignen por lo menos un 50% del tiempo de la instrucción a la realización de investigaciones en el salón de clases y al aire libre."}
+        },
+        {
+            "competencyText": {"en-us": "En quinto grado, se usan investigaciones científicas para aprender acerca de la naturaleza. Los estudiantes deben entender que ciertos tipos de preguntas se pueden contestar mediante investigaciones y que las conclusiones, los métodos y modelos obtenidos a través de estas investigaciones cambian a medida que se hacen nuevas observaciones. Los modelos de objetos y eventos son recursos para entender la naturaleza y pueden demostrar cómo funcionan los sistemas. Sin embargo, estos modelos tienen limitaciones y están siendo modificados constantemente gracias a nuevos descubrimientos para reflejar con mayor precisión la naturaleza."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente físico, los estudiantes aprenden acerca de las propiedades físicas de la materia, incluyendo magnetismo, masa, estados físicos de la materia, densidad relativa, solubilidad en el agua y la capacidad de conducir o aislar la energía eléctrica y térmica. Los estudiantes exploran el uso de la energía luminosa, térmica, eléctrica y del sonido."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente natural, los estudiantes aprenden cómo ocurren cambios sobre la superficie de la Tierra y qué patrones predecibles se producen en el cielo. Los estudiantes aprenden que la naturaleza está formada por recursos naturales, incluyendo los no renovables, los renovables y las fuentes alternativas de energía."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente de los seres vivos, los estudiantes aprenden que la estructura y la función de los organismos puede incrementar la capacidad de sobrevivir de los miembros de una especie. Los estudiantes aprenden a diferenciar entre características heredadas y comportamientos aprendidos."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y Destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante lleva a cabo investigaciones dentro y fuera del salón de clases siguiendo procedimientos de seguridad aprendidos en la escuela y el hogar, así como prácticas ambientales adecuadas y éticas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre prácticas seguras y el uso del equipo de seguridad que se señala en los estándares aprobados por la Agencia de Educación de Texas durante investigaciones en la clase y al aire libre utilizando equipo de seguridad, incluyendo lentes de seguridad o lentes protectores contra salpicaduras, lo que sea mejor, y guantes, según sea apropiado; y"}
+        },
+        {
+            "competencyText": {"en-us": "tome decisiones informadas sobre la conservación, el desecho y el reciclaje de materiales."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza prácticas científicas durante las investigaciones en el laboratorio y al aire libre. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa, planifique e implemente investigaciones experimentales sencillas probando una variable;"}
+        },
+        {
+            "competencyText": {"en-us": "formule preguntas bien definidas, formule hipótesis comprobables y seleccione y use apropiadamente el equipo y la tecnología;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna y anote información a través de observaciones detalladas y medición precisa;"}
+        },
+        {
+            "competencyText": {"en-us": "analice e interprete información para elaborar explicaciones razonables usando evidencia directa (observable) y la indirecta (inferida);"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que repetir investigaciones puede aumentar la confiabilidad de los resultados;"}
+        },
+        {
+            "competencyText": {"en-us": "comunique conclusiones válidas en forma escrita y oral; y"}
+        },
+        {
+            "competencyText": {"en-us": "construya gráficas, tablas, mapas y carteles simples y apropiados usando tecnología, incluyendo computadoras, para organizar, examinar y evaluar la información."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa el razonamiento crítico y la resolución científica de problemas para tomar decisiones informadas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice, evalúe y critique las explicaciones científicas usando evidencia, razonamiento lógico y pruebas de experimentación y de observación;"}
+        },
+        {
+            "competencyText": {"en-us": "dibuje o desarrolle un modelo que represente cómo algo que no se puede ver, tal como el sistema que forman el Sol, la Tierra y la Luna, y la formación de rocas sedimentarias, funciona o se ve; y"}
+        },
+        {
+            "competencyText": {"en-us": "relacione los conceptos de ciencias apropiados al nivel del grado con la historia de las ciencias, las carreras científicas y las contribuciones de científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende cómo usar una variedad de instrumentos y métodos para realizar una investigación científica. Se espera que el estudiante reúna, anote y analice información usando instrumentos, incluyendo calculadoras, microscopios, cámaras, computadoras, lupas, reglas métricas, termómetros en grados Celsius, prismas, espejos, balanzas, básculas, cilindros graduados, vasos de precipitados, hornillas, metros, imanes, redes, cuadernos; medidores de tiempo; y materiales que apoyen observaciones de los hábitats u organismos, tales como terrarios y acuarios."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que la materia tiene propiedades físicas que se pueden medir y estas propiedades determinan cómo la materia es clasificada, cambiada y usada. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "clasifique la materia basándose en propiedades físicas que sean medibles, comprobables y observables, incluyendo masa, magnetismo, estado físico (sólido, líquido y gaseoso), densidad relativa (capacidad de hundirse y flotar usando el agua como punto de referencia), solubilidad en agua y la capacidad para conducir o aislar la energía térmica o eléctrica;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que algunas mezclas mantienen propiedades físicas de sus componentes, tales como las limaduras de hierro y la arena, y la arena y el agua; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique los cambios que ocurren en las propiedades físicas de los componentes de las soluciones, tales como al disolver sal en agua o añadir jugo de limón al agua."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la energía existe en muchas formas y que se puede observar en ciclos, patrones y sistemas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explore los usos de la energía, incluyendo la energía mecánica, luminosa, térmica, eléctrica y del sonido;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que el flujo de energía eléctrica en los circuitos cerrados puede producir luz, calor o sonido;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que la luz viaja en línea recta hasta que choca con un objeto y es reflejada o viaja de un medio a otro y es refractada; y"}
+        },
+        {
+            "competencyText": {"en-us": "diseñe una investigación experimental simple que ponga a prueba el efecto de la fuerza sobre un objeto."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que la superficie de la Tierra cambia constantemente y está formada por recursos útiles. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "explore los procesos que llevaron a la formación de rocas sedimentarias y combustibles fósiles; y"}
+        },
+        {
+            "competencyText": {"en-us": "reconozca que los accidentes geográficos, tales como deltas, cañones y dunas de arena, son el resultado de los cambios en la superficie terrestre causados por el viento, el agua o el hielo."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende que hay patrones reconocibles en la naturaleza y en el sistema formado por el Sol, la Tierra y la Luna. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre el estado del tiempo y el clima;"}
+        },
+        {
+            "competencyText": {"en-us": "explique cómo el Sol y los océanos interactúan en el ciclo del agua;"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre que la Tierra gira sobre su propio eje una vez cada 24 horas causando el ciclo día/noche y el movimiento aparente del Sol en el cielo; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y compare las características físicas del Sol, la Tierra y la Luna."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que hay relaciones, sistemas y ciclos en distintos ambientes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "observe la manera en que viven y sobreviven los organismos en su ecosistema al interactuar con componentes vivos y con objetos inertes;"}
+        },
+        {
+            "competencyText": {"en-us": "describa el flujo de energía en una red alimenticia, incluyendo el papel del Sol, de los productores, los consumidores y los descomponedores;"}
+        },
+        {
+            "competencyText": {"en-us": "pronostique los efectos de los cambios en los ecosistemas causados por organismos vivos, incluyendo a los seres humanos, tales como el pastoreo excesivo o la construcción de carreteras; e"}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que los organismos tienen estructuras y comportamientos que les ayudan a sobrevivir en su medio ambiente. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare las estructuras y funciones de diferentes especies que les ayudan a vivir y sobrevivir en un medio ambiente particular, tales como las pezuñas en los animales de las praderas o los pies palmeados de los animales acuáticos; y"}
+        },
+        {
+            "competencyText": {"en-us": "distinga entre las características heredadas de plantas y animales, tales como las espinas en los cactus o la forma del pico en las aves, y los comportamientos aprendidos, como cuando un animal aprende trucos o un niño aprende a manejar una bicicleta."}
+        },
+        {
+            "competencyText": {"en-us": "Implementación de los conocimientos y destrezas esenciales para ciencias de primaria, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Las estipulaciones §§112.11-112.16 de este subcapítulo serán implementadas por los distritos escolares empezando con el año escolar 2018-2019."}
+        },
+        {
+            "competencyText": {"en-us": "Subcapítulo B. Escuela intermedia"}
+        },
+        {
+            "competencyText": {"en-us": "Ciencias, sexto grado, empezando en el año escolar 2010-2011."}
+        },
+        {
+            "competencyText": {"en-us": "Introducción."}
+        },
+        {
+            "competencyText": {"en-us": "La ciencia, según la define la Academia Nacional de las Ciencias, es el \u201cuso de evidencias para elaborar explicaciones comprobables y hacer predicciones de los fenómenos naturales, así como el conocimiento generado a través de este proceso\u201d. Este enorme campo de conocimientos que cambia y se incrementa constantemente es descrito por modelos físicos, matemáticos y conceptuales. Los estudiantes deben saber que algunas preguntas se ubican fuera del campo de las ciencias porque se refieren a fenómenos que no se pueden investigar científicamente."}
+        },
+        {
+            "competencyText": {"en-us": "Las hipótesis científicas son afirmaciones tentativas y comprobables que deben tener la posibilidad de ser apoyadas, o no, por evidencias obtenidas mediante la observación. Las hipótesis con una capacidad duradera de explicación y que han sido sometidas a pruebas en condiciones muy variadas, se convierten en teorías. Las teorías científicas se basan en fenómenos naturales y físicos, y pueden ser sometidas a prueba por múltiples investigadores independientes. Los estudiantes deben saber que las teorías científicas, a diferencia de las hipótesis, están firmemente establecidas y son altamente confiables, pero aún pueden cambiar a medida que surge nueva información y se desarrollan nuevas tecnologías. Los estudiantes deben ser capaces de distinguir entre métodos científicos para tomar decisiones y las decisiones éticas/sociales que implican la aplicación de información científica."}
+        },
+        {
+            "competencyText": {"en-us": "Las ciencias en sexto grado tienen un carácter interdisciplinario; sin embargo, gran parte del enfoque de su contenido está en las ciencias físicas. Los estándares nacionales de ciencias están organizados en grupos que incluyen múltiples grados, por ejemplo, de quinto a octavo, en lugar de por grados individuales. Para seguir el formato por grados que se usa en Texas, los diferentes estándares nacionales se pueden encontrar en los grados sexto, séptimo y octavo. En ciencias, matemáticas y tecnología, son comunes ciertos temas recurrentes. Estas ideas trascienden los límites de esas disciplinas e incluyen el cambio y la constancia, así como patrones, ciclos, sistemas, modelos y escalas. Las áreas generales de sexto grado incluyen:"}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos."}
+        },
+        {
+            "competencyText": {"en-us": "Para desarrollar un rico conocimiento de las ciencias y la naturaleza, los estudiantes deben familiarizarse con diferentes formas de la investigación científica, reglas de evidencia, maneras de formular preguntas, maneras de proponer explicaciones y las diferentes maneras en que los científicos estudian la naturaleza y proponen explicaciones basadas en las evidencias que derivan de su trabajo."}
+        },
+        {
+            "competencyText": {"en-us": "Las investigaciones científicas se realizan por diferentes razones. Todas las investigaciones requieren de una pregunta de investigación, de observaciones cuidadosas, recopilación de datos y análisis de los datos para identificar los patrones que explicarán los resultados. Se usan investigaciones descriptivas para explorar nuevos fenómenos, tales como llevar a cabo un registro de la cantidad y variedad de organismos o medir los componentes abióticos de un hábitat determinado. Las estadísticas descriptivas incluyen frecuencia, rango, media, mediana y moda. En una investigación descriptiva no se requiere de una hipótesis. Por otra parte, cuando se pueden controlar las condiciones para enfocarse en una sola variable, se usa la investigación experimental para determinar las causas. Los estudiantes deben experimentar con los dos tipos de investigaciones y entender que preguntas de investigación diferentes requieren de diferentes diseños de investigación."}
+        },
+        {
+            "competencyText": {"en-us": "Las investigaciones científicas se usan para aprender sobre la naturaleza. Los estudiantes deben entender que ciertos tipos de preguntas pueden contestarse mediante investigaciones, y los métodos, modelos y conclusiones que surjan de estas investigaciones van cambiando a medida que se hacen nuevas observaciones. Los modelos de objetos y eventos son recursos para entender la naturaleza y pueden mostrar cómo funcionan los sistemas. Los modelos tienen limitaciones y se modifican constantemente debido a nuevos descubrimientos que reflejan con más exactitud la naturaleza."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía."}
+        },
+        {
+            "competencyText": {"en-us": "La materia puede ser clasificada como elementos, compuestos o mezclas. Los estudiantes ya han experimentado con mezclas en quinto grado, por lo que en sexto grado se concentrarán en desarrollar su entendimiento de los elementos y los compuestos. Es importante que los estudiantes entiendan las diferencias entre los elementos y los compuestos basándose en la observación, la descripción de las propiedades físicas y las reacciones químicas. Los elementos se representan con símbolos químicos, mientras que los compuestos se representan con fórmulas químicas. En los grados siguientes aprenderán sobre las diferencias a nivel molecular y atómico."}
+        },
+        {
+            "competencyText": {"en-us": "Los elementos se clasifican en metales, no metales y metaloides a partir de sus propiedades físicas. Los elementos se dividen en tres grupos en la tabla periódica. Cada sustancia diferente generalmente tiene una densidad diferente, así que se puede usar la densidad como una propiedad distintiva. Por lo tanto, calcular la densidad ayuda en la clasificación de las sustancias."}
+        },
+        {
+            "competencyText": {"en-us": "Los recursos de energía pueden ser renovables o no renovables. Entender los orígenes y usos de estos recursos permite tomar decisiones informadas. Los estudiantes deben considerar los aspectos éticos y sociales relacionados con los recursos de energía naturales de la Tierra, y tomar en cuenta las ventajas y desventajas de su uso en el largo plazo."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. Existen dos tipos de energía: potencial y cinética. Estas pueden tomar varias formas. La energía térmica puede transferirse por conducción, convección o radiación. También puede cambiar de una forma a otra. Los estudiantes deben investigar la relación entre fuerza y movimiento usando una variedad de medios, incluyendo cálculos y mediciones."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El punto central de esta área es la introducción de los procesos que suceden en la Tierra. Los estudiantes deben desarrollar su comprensión de la Tierra como parte de nuestro sistema solar. Los temas incluyen la organización de nuestro sistema solar, el papel de la gravedad y la exploración del espacio."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. Los estudiantes alcanzarán un entendimiento de las clasificaciones taxonómicas más amplias de los organismos y de cómo sus características determinan la forma en que se les clasifica. Los otros temas principales en esta área incluyen la interdependencia entre los organismos y su medio ambiente, y los niveles de organización dentro de un ecosistema."}
+        },
+        {
+            "competencyText": {"en-us": "Conocimientos y destrezas."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante lleva a cabo investigaciones de campo y en el laboratorio por lo menos durante el 40% del tiempo de instrucción siguiendo procedimientos de seguridad y prácticas ambientales adecuadas y éticas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre prácticas seguras y el uso del equipo de seguridad que se señala en los estándares aprobados por la Agencia de Educación de Texas; y"}
+        },
+        {
+            "competencyText": {"en-us": "practique el uso apropiado y conservación de recursos, incluyendo el desecho, reutilización o reciclaje de materiales."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante realiza prácticas científicas durante investigaciones en el laboratorio e investigaciones de campo. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "planifique e implemente investigaciones comparativas y descriptivas haciendo observaciones, haciendo preguntas bien definidas y usando equipo y tecnología apropiados;"}
+        },
+        {
+            "competencyText": {"en-us": "diseñe e implemente investigaciones experimentales haciendo observaciones, haciendo preguntas bien definidas, formulando hipótesis que pueden someterse a prueba y usando equipo y tecnología apropiados;"}
+        },
+        {
+            "competencyText": {"en-us": "reúna y anote datos usando el Sistema Internacional de Unidades (SI) y medios cualitativos, tales como dibujos rotulados, escritos y organizadores gráficos;"}
+        },
+        {
+            "competencyText": {"en-us": "elabore tablas y gráficas usando la repetición de pruebas y diferentes medios para organizar datos e identificar patrones; y"}
+        },
+        {
+            "competencyText": {"en-us": "analice datos para formular explicaciones razonables, comunicar conclusiones válidas apoyadas por los datos y predecir tendencias."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante usa el razonamiento crítico, el razonamiento científico y la resolución de problemas para tomar decisiones informadas y conocer las contribuciones de científicos importantes. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "analice, evalúe y critique las explicaciones científicas usando la evidencia empírica, el razonamiento lógico y pruebas de experimentación y de observación, de tal manera que se fomente el razonamiento crítico en el estudiante;"}
+        },
+        {
+            "competencyText": {"en-us": "use modelos para representar aspectos de la naturaleza, tales como un modelo de las capas de la Tierra;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique ventajas y limitaciones de los modelos, tales como tamaño, escala, propiedades y materiales; y"}
+        },
+        {
+            "competencyText": {"en-us": "relacione el impacto de la investigación en el pensamiento científico y en la sociedad, incluyendo la historia de la ciencia y las contribuciones de los científicos en cada tema."}
+        },
+        {
+            "competencyText": {"en-us": "Investigación y razonamiento científicos. El estudiante entiende cómo usar una variedad de instrumentos y equipos de seguridad para realizar investigaciones científicas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "use instrumentos apropiados, incluyendo diarios, cuadernos, vasos de precipitados, cajas de Petri, metros, cilindros graduados, hornillas, tubos de ensayo, balanzas, microscopios, termómetros, calculadoras, computadoras, medidores de tiempo y equipo adicional que sea necesario para recopilar, anotar y analizar información; y"}
+        },
+        {
+            "competencyText": {"en-us": "use equipo de seguridad de prevención, incluyendo lentes de seguridad, mandiles y guantes, y este preparado para usar equipo de emergencia, incluyendo la unidad de lavaojos, una manta apaga fuegos y un extinguidor de fuego."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende las diferencias entre elementos y compuestos. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "sepa que un elemento es una sustancia pura representada con un símbolo químico y que un compuesto es una sustancia pura representada con una fórmula química;"}
+        },
+        {
+            "competencyText": {"en-us": "reconozca que un número limitado de los muchos elementos conocidos forman la parte más grande de los sólidos de la Tierra, material viviente, los océanos y la atmósfera; e"}
+        },
+        {
+            "competencyText": {"en-us": "identifique la formación de una nueva sustancia usando la evidencia de un posible cambio químico, tal como la producción de gas, un cambio de temperatura, la producción de un precipitado o un cambio de color."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que la materia tiene propiedades físicas que se pueden usar para clasificarla. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare metales, no metales y metaloides usando propiedades físicas, tales como el brillo, la conductividad o la maleabilidad;"}
+        },
+        {
+            "competencyText": {"en-us": "calcule la densidad para identificar una sustancia desconocida; y"}
+        },
+        {
+            "competencyText": {"en-us": "ponga a prueba las propiedades físicas de los minerales, incluyendo su dureza, color, brillo y el color que deja al usar el método de la raya."}
+        },
+        {
+            "competencyText": {"en-us": "Materia y energía. El estudiante entiende que algunos recursos de energía de la Tierra son casi inagotables, mientras que otros pueden ser renovados en un periodo de tiempo relativamente corto. Algunos recursos de energía, una vez que se agotan, se vuelven básicamente no renovables. Se espera que el estudiante investigue y discuta sobre las ventajas y desventajas de usar carbón mineral, petróleo, gas natural, energía nuclear, biomasa, viento, energía hidroeléctrica, y recursos geotérmicos y solares."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la fuerza y el movimiento están relacionados con la energía potencial y cinética. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "compare y contraste la energía potencial y la cinética;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique y describa los cambios en posición, dirección y velocidad de un objeto cuando actúan sobre él fuerzas que no están en equilibrio;"}
+        },
+        {
+            "competencyText": {"en-us": "calcule la velocidad promedio usando mediciones de la distancia y el tiempo;"}
+        },
+        {
+            "competencyText": {"en-us": "mida y haga graficas de cambios en el movimiento; e"}
+        },
+        {
+            "competencyText": {"en-us": "investigue cómo pueden usarse planos inclinados para cambiar la cantidad de fuerza necesaria para mover un objeto."}
+        },
+        {
+            "competencyText": {"en-us": "Fuerza, movimiento y energía. El estudiante entiende que la Ley de Conservación de la Energía dice que la energía no puede ser creada ni destruida, sino que sólo cambia de forma. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "investigue métodos de transferencia de energía térmica, incluyendo la conducción, la convección y la radiación;"}
+        },
+        {
+            "competencyText": {"en-us": "verifique a través de investigaciones que la energía térmica se mueve siguiendo un patrón predecible de más caliente a más fría hasta que todas las sustancias tengan la misma temperatura, tal como un cubo de hielo al derretirse; y"}
+        },
+        {
+            "competencyText": {"en-us": "demuestre transformaciones de la energía, tales como la energía en la batería de una linterna que cambia de energía química a energía eléctrica y luego a energía luminosa."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende la estructura de la Tierra, el ciclo de las rocas y las placas tectónicas. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "elabore un modelo para ilustrar la composición y la mecánica de las capas de la Tierra, incluyendo el núcleo interno, el núcleo externo, el manto, la corteza, la astenósfera y la litósfera;"}
+        },
+        {
+            "competencyText": {"en-us": "clasifique las rocas como metamórficas, ígneas o sedimentarias según su proceso de formación;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las principales placas tectónicas, incluyendo la eurasiática, la africana, la indo-australiana, la del Pacífico, la de Norteamérica y la de Sudamérica; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa cómo las placas tectónicas son la causa de grandes eventos geológicos, tales como la formación de cuencas oceánicas, terremotos, erupciones volcánicas y la formación de montañas."}
+        },
+        {
+            "competencyText": {"en-us": "La Tierra y el espacio. El estudiante entiende la organización de nuestro sistema solar y las relaciones entre los diferentes cuerpos que lo forman. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "describa las propiedades físicas, ubicaciones y movimientos del Sol, los planetas, las lunas, los meteoritos, los asteroides y los cometas;"}
+        },
+        {
+            "competencyText": {"en-us": "entienda que la fuerza de gravedad gobierna el movimiento en nuestro sistema solar; y"}
+        },
+        {
+            "competencyText": {"en-us": "describa la historia y el futuro de la exploración espacial, incluyendo los tipos de equipo y transporte necesarios para los viajes espaciales."}
+        },
+        {
+            "competencyText": {"en-us": "Organismos y medio ambiente. El estudiante entiende que todos los organismos se clasifican en dominios y reinos. Los organismos dentro de estos grupos taxonómicos tienen características similares que les permiten interactuar con los organismos vivos y la materia inerte de su ecosistema. Se espera que el estudiante:"}
+        },
+        {
+            "competencyText": {"en-us": "entienda que todos los organismos están formados por una o más células;"}
+        },
+        {
+            "competencyText": {"en-us": "reconozca que la presencia del núcleo es un factor clave que se usa para determinar si la célula es procariótica o eucariótica;"}
+        },
+        {
+            "competencyText": {"en-us": "reconozca que la clasificación taxonómica más amplia de organismos vivos se divide en dominios que son reconocidos actualmente;"}
+        },
+        {
+            "competencyText": {"en-us": "identifique las características básicas de los organismos, incluyendo procariótico o eucariótico, unicelular o multicelular, autotrófico o heterotrófico y la forma de reproducirse, que luego serán clasificados en los reinos reconocidos actualmente;"}
+        },
+        {
+            "competencyText": {"en-us": "describa las partes bióticas y abióticas de un ecosistema en el que los organismos interactúan; y"}
+        },
+        {
+            "competencyText": {"en-us": "haga diagramas de los niveles de organización dentro de un ecosistema, incluyendo organismo, población, comunidad y ecosistema."}
+        },
+        {
+            "competencyText": {"en-us": "Implementación de los conocimientos y destrezas esenciales para ciencias de nivel intermedio, adoptado en 2017."}
+        },
+        {
+            "competencyText": {"en-us": "Las estipulaciones §§112.18-112.20 de este subcapítulo serán implementadas por los distritos escolares empezando con el año escolar 2018-2019."}
+        },
+        {
+            "competencyText": {"en-us": "clasifique objetos a partir del material del que están hechos."}
+        },
+        {
+            "competencyText": {"en-us": "identifique fósiles como evidencia de organismos vivos del pasado y las características del medio ambiente de esa época usando modelos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Un tema central en el estudio de la investigación y el razonamiento científicos; materia y energía; fuerza, movimiento y energía; la Tierra y el espacio; y organismos y el medio ambiente es la participación activa al hacer preguntas, crear un método para responder esas preguntas, responder esas preguntas, comunicar ideas y explorar con instrumentos científicos. La investigación y el razonamiento científicos implican practicar procedimientos de manera segura, formular preguntas acerca de la naturaleza y buscar respuestas a esas preguntas a través de observaciones simples llevadas a cabo en investigaciones descriptivas."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Dentro del medio ambiente físico, los estudiantes entienden que las propiedades físicas de la materia incluyen masa, volumen, estados de la materia, temperatura, magnetismo y la capacidad para hundirse o flotar. Los estudiantes diferenciarán entre distintas formas de energía, incluyendo la energía mecánica, luminosa, del sonido y térmica. Los estudiantes explorarán circuitos eléctricos y diseñarán investigaciones descriptivas para explorar el efecto de la fuerza sobre los objetos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        },
+        {
+            "competencyText": {"en-us": "Los enunciados que tienen la palabra \u201cincluyendo\u201d se refieren a contenidos que tienen que dominarse muy bien; aquéllos que tienen la expresión \u201ctales como\u201d tienen la intención de ser posibles ejemplos ilustrativos."}
+        }
+    ]
+}

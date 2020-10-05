@@ -1,0 +1,406 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/55a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Transportation, Distribution, and Logistics"},
+        "description": {"en-us": "CTE-Transportation, Distribution, and Logistics Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Facility and Mobile Equipment Maintenance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the facility and mobile equipment maintenance career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the facility and mobile equipment maintenance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Transportation, Distribution & Logistics cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Transportation, Distribution & Logistics career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Transportation, Distribution & Logistics career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Transportation, Distribution & Logistics career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Transportation, Distribution & Logistics career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Transportation, Distribution & Logistics career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Transportation, Distribution & Logistics career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Transportation, Distribution & Logistics career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Health, Safety and Environmental Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the health, safety and environmental management career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the health, safety and environmental management career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Logistics Planning and Management Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the logistics planning and management services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the logistics planning and management services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Sales and Service"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the sales and service career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the sales and service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Transportation Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the transportation operations career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the transportation operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Transportation Systems/Infrastructure Planning, Management and Regulation"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the transportation systems/infrastructure planning, management and regulation career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the transportation systems/infrastructure planning, management and regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the societal impact of transportation."}
+        },
+        {
+            "competencyText": {"en-us": "Track the evolution of transportation and its impact on society."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the educational requirements and professional expectations associated with a career in transportation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of governmental and political systems on transportation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the interaction between transportation industries and social change."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how transportation made the United States a world leader."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between transportation and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of a technologically literate workforce to the transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Trace the development of transportation in the United States from a historical perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the economic impact of the transportation industry at the local and national levels."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of transportation on a global scale."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the differences and similarities between ground, air, and maritime travels."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of service publications by selecting the correct source and locating information found in each."}
+        },
+        {
+            "competencyText": {"en-us": "Identify aerospace, ground and maritime service publications such as: owner\u2019s manuals, manufacturer\u2019s manuals and electronic service publications and Federal Aviation Regulations."}
+        },
+        {
+            "competencyText": {"en-us": "Read service publications to retrieve desired information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic types of troubleshooting charts found in service publications."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the major components of ground, air and maritime transportation vehicles."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and locate important parts of ground, air, and maritime transportation vehicles."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the purpose of the fundamental transportation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how each transportation system works dependent and independently of each other."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the merchant marine and marine transportation system."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of safety, OSHA, EPA issues and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Define OSHA and how it oversees and provides safety guidelines to the transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the typical layout and sections of a ground, air and maritime transportation lab."}
+        },
+        {
+            "competencyText": {"en-us": "List the types of accidents that can occur in a ground, air and maritime transportation lab."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to prevent ground, air and maritime transportation lab accidents."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the general rules for the ground, air and maritime transportation lab."}
+        },
+        {
+            "competencyText": {"en-us": "Explain federal, state, and local rules and regulations regarding environmental issues related to the work of the ground, air and maritime transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and measure fasteners used in the aerospace, ground and maritime transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the different fasteners (e.g. screws, bolts, washers, nuts, rivets, etc.) that are used in the aerospace, ground and maritime transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the functions and applications of various fasteners."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to measure fasteners."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the proper hand tools and safe uses when working with fasteners used in the aerospace, ground, and maritime transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, select and use the proper tool for a given fastener or job."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common ground, air and maritime transportation hand and power tools and proper uses."}
+        },
+        {
+            "competencyText": {"en-us": "List safety rules for common ground, air and maritime transportation hand and power tools."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to maintain and store tools properly."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and measure components of an engine used in the aerospace, ground and maritime transportation industry."}
+        },
+        {
+            "competencyText": {"en-us": "Introduce and explain the major components of an aerospace engine."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to properly measure each component."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the different instruments used for engine measurements."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss various propulsion systems for maritime vessels."}
+        },
+        {
+            "competencyText": {"en-us": "Inspect an aerospace, ground and maritime transportation vehicle for maintenance needed for safe operation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of vehicle maintenance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to check fluid levels, belts, hoses, tires, etc."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safe practices while working with fluids."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of basic electricity and electronics."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the principles of electricity."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the basic electrical circuits."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic electrical and electronic terms and components."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate and measure voltage, resistance and amperage."}
+        },
+        {
+            "competencyText": {"en-us": "Explain different kinds of aerospace vehicle wiring."}
+        },
+        {
+            "competencyText": {"en-us": "Repair and build electrical circuits."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate fundamental electrical testing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of current and alternative fuel sources."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize how crude oil is converted to gasoline and diesel fuels."}
+        },
+        {
+            "competencyText": {"en-us": "Describe properties of gasoline and diesel fuels."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize properties of alternative fuels."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast benefits of green fuels and energy production."}
+        },
+        {
+            "competencyText": {"en-us": "Use visual and verbal communication to present employment and career opportunities in transportation."}
+        },
+        {
+            "competencyText": {"en-us": "Present a technical report to an audience regarding a researched transportation related career using multimedia."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and produce a portfolio representing experiences throughout the course of study."}
+        },
+        {
+            "competencyText": {"en-us": "Warehousing and Distribution Center Operations"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the warehousing and distribution center operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the warehousing and distribution center operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the warehousing and distribution center operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the warehousing and distribution center operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the warehousing and distribution center operations career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the warehousing and distribution center operations career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the warehousing and distribution center operations career pathway."}
+        }
+    ]
+}

@@ -1,0 +1,1273 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/22a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Music"},
+        "description": {"en-us": "Music Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to music from various sound sources to show awareness of steady beat.  "}
+        },
+        {
+            "competencyText": {"en-us": "Identify various sounds in a piece of music."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, visually and aurally, pitched and unpitched classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Identify singing, speaking, and whispering voices."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Identify similarities and/or differences in a performance."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Share opinions about selected pieces of music."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise a response to a musical question sung or played by someone else."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Sing or play songs from memory."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing songs of limited range appropriate to the young child and use the head voice."}
+        },
+        {
+            "competencyText": {"en-us": "Perform simple songs and accompaniments."}
+        },
+        {
+            "competencyText": {"en-us": "Match pitches in a song or musical phrase in one or more keys."}
+        },
+        {
+            "competencyText": {"en-us": "Imitate simple rhythm patterns played by the teacher or a peer."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to beat, rhythm, and melodic line through imitation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify similarities and differences in melodic phrases and/or rhythm patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to music to demonstrate how it makes one feel."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to music from diverse cultures through singing and movement."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to and/or perform folk music of American cultural sub-groups."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Perform simple songs, finger plays, and rhymes to experience connections among music, language, and numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to and explore music through creative play and found sounds in the music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit age-appropriate music and life skills that will add to the success in the music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to specific, teacher-selected musical characteristics in a song or instrumental piece."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to music from various sound sources to show awareness of differences in musical ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Classify instruments into pitched and unpitched percussion families.  "}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between music performed by one singer and music performed by a group of singers."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the similarities and differences between two performances of a familiar song."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Share different thoughts or feelings people have about selected pieces of music."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise a four-beat response to a musical question sung or played by someone else."}
+        },
+        {
+            "competencyText": {"en-us": "Create short melodic and rhythmic patterns based on teacher-established guidelines."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Sing or play songs, which may include changes in verses or repeats, from memory."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing simple songs in a group, using head voice and maintaining pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Play three- to five-note melodies and/or accompaniments on classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Sing simple la-sol-mi patterns at sight."}
+        },
+        {
+            "competencyText": {"en-us": "Match simple aural rhythm patterns in duple meter with written patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Show visual representation of simple melodic patterns performed by the teacher or a peer."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to contrasts in music as a foundation for understanding structure."}
+        },
+        {
+            "competencyText": {"en-us": "Identify patterns of a simple, four-measure song or speech piece.  "}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to changes in tempo and/or dynamics within musical examples."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform simple songs, dances, and musical games from a variety of cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the work of a composer."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and perform folk music used to remember and honor America and its cultural heritage."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Explore the use of instruments and vocal sounds to replace or enhance specified words or phrases in children's songs, choral readings of poems and stories, and/or chants."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create sounds or movement freely with props, instruments, and/or found sounds in response to various music styles and/or elements.  "}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how he or she likes to participate in music."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate manners and teamwork necessary for success in a music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate listening skills for learning about musical examples selected by the teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to a piece of music and discuss individual interpretations."}
+        },
+        {
+            "competencyText": {"en-us": "Classify unpitched instruments into metals, membranes, shakers, and wooden categories."}
+        },
+        {
+            "competencyText": {"en-us": "Identify child, adult male, and adult female voices by timbre."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Identify strengths and needs in classroom performances of familiar songs."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss why musical characteristics are important when forming and discussing opinions about music."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise short phrases in response to a given musical question."}
+        },
+        {
+            "competencyText": {"en-us": "Create simple ostinati to accompany songs or poems."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Sing or play songs, which may include changes in dynamics, lyrics, and form, from memory."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing songs in an appropriate range, using head voice and maintaining pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Play simple melodies and/or accompaniments on classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Sing simple la-sol-mi-do patterns at sight."}
+        },
+        {
+            "competencyText": {"en-us": "Compare aural melodic patterns with written patterns to determine whether they are the same or different."}
+        },
+        {
+            "competencyText": {"en-us": "Show visual, gestural, and traditional representation of simple melodic patterns performed by someone else."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic elements of music in a song or instrumental excerpt."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the form of a simple piece of music."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Describe changes in tempo and dynamics within a musical work."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform songs, musical games, dances, and simple instrumental accompaniments from a variety of cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the primary differences between composed and folk music."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how music is used for celebrations in American and other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Perform and compare patterns, aurally and visually, found in songs, finger plays, or rhymes to gain a foundation for exploring patterns in other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create a musical performance that brings a story or poem to life."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how people participate in music."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others in a music presentation and discuss what was successful and what could be improved."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Describe listening skills and how they support appreciation of musical works.  "}
+        },
+        {
+            "competencyText": {"en-us": "Respond to a musical work in a variety of ways and compare individual interpretations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify families of orchestral and band instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Discriminate between unison and two-part singing."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate performances of familiar music using teacher-established criteria."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify musical characteristics and elements within a piece of music when discussing the value of the work."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise rhythms or melodies over ostinati."}
+        },
+        {
+            "competencyText": {"en-us": "Create an alternate ending to a familiar song."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Identify patterns in songs to aid the development of sequencing and memorization skills."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing rounds, canons, or ostinati in an appropriate range, using head voice and maintaining pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Play melodies and layered ostinati, using proper instrumental technique, on pitched and unpitched instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Sing simple la-sol-mi-re-do patterns at sight."}
+        },
+        {
+            "competencyText": {"en-us": "Match simple aural rhythm patterns in duple and triple meter with written patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Notate simple rhythmic and melodic patterns using traditional notation."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, using correct music vocabulary, the elements in a musical work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the musical form of a familiar song."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Rearrange melodic or rhythmic patterns to generate new phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how tempo and dynamics can change the mood or emotion of a piece of music."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare indigenous instruments of specified cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify significant information about specified composers and one or more of their musical works."}
+        },
+        {
+            "competencyText": {"en-us": "Identify timbre(s) in music from a variety of cultures."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how music in America was influenced by people and events in its history."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Experience and discuss, using correct music and other relevant content-area vocabulary, similarities in the use of pattern, line, and form in music and other teacher-selected contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Enhance the meaning of a story or poem by creating a musical interpretation using voices, instruments, movement, and/or found sounds."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify musicians in the school, community, and media."}
+        },
+        {
+            "competencyText": {"en-us": "Describe opportunities for personal music-making."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to create a musical presentation and acknowledge individual contributions as an integral part of the whole."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Develop effective listening strategies and describe how they can support appreciation of musical works.  "}
+        },
+        {
+            "competencyText": {"en-us": "Describe, using correct music vocabulary, what is heard in a specific musical work."}
+        },
+        {
+            "competencyText": {"en-us": "Classify orchestral and band instruments as strings, woodwinds, brass, percussion, or keyboard."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the four primary voice parts, i.e., soprano, alto, tenor, bass."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe basic music performance techniques to provide a foundation for critiquing one's self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Critique specific techniques in one's own and others performances using teacher-established criteria."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Describe characteristics that make various musical works appealing."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise phrases, using familiar songs."}
+        },
+        {
+            "competencyText": {"en-us": "Create melodic patterns using a variety of sound sources."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange a familiar song for voices or instruments by manipulating form."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of musical structure to aid in sequencing and memorization and to internalize details of rehearsal and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing rounds, canons, and/or partner songs in an appropriate range, using proper vocal technique and maintaining pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Play rounds, canons, or layered ostinati on classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Perform extended pentatonic melodies at sight."}
+        },
+        {
+            "competencyText": {"en-us": "Play simple ostinati, by ear, using classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Notate simple rhythmic phrases and extended pentatonic melodies using traditional notation."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare musical elements in different types of music, using correct music vocabulary, as a foundation for understanding the structural conventions of specific styles."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Create variations for selected melodies."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how expressive elements and lyrics affect the mood or emotion of a song."}
+        },
+        {
+            "competencyText": {"en-us": "Apply expressive elements to a vocal or instrumental piece and, using correct music vocabulary, explain one's choices."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and describe a cultural tradition, other than one's own, learned through its musical style and/or use of authentic instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of selected composers on the musical works and practices or traditions of their time."}
+        },
+        {
+            "competencyText": {"en-us": "Identify pieces of music that originated from cultures other than one's own."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Perform, listen to, and discuss music related to Florida's history."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways in which individuals of varying ages and cultures experience music.  "}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify connections among music and other contexts, using correct music and other relevant content-area vocabulary, and explore how learning in one academic area can help with knowledge or skill acquisition in a different academic area."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create new interpretations of melodic or rhythmic pieces by varying or adding dynamics, timbre, tempo, lyrics, and/or movement."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe roles and careers of selected musicians."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the characteristics and behaviors displayed by successful student musicians, and discuss how these qualities will contribute to success beyond the music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the safe, legal way to download songs and other media."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss and apply listening strategies to support appreciation of musical works.  "}
+        },
+        {
+            "competencyText": {"en-us": "Hypothesize and discuss, using correct music vocabulary, the composer's intent for a specific musical work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, aurally, selected instruments of the band and orchestra."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, aurally, the four primary voice parts, i.e., soprano, alto, tenor, bass, of a mixed choir."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Define criteria, using correct music vocabulary, to critique one's own and others performance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe changes, using correct music vocabulary, in one's own and/or others performance over time."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Develop criteria to evaluate an exemplary musical work from a specific period or genre."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise rhythmic and melodic phrases to create simple variations on familiar melodies."}
+        },
+        {
+            "competencyText": {"en-us": "Compose short vocal or instrumental pieces using a variety of sound sources."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange a familiar song by manipulating specified aspects of music."}
+        },
+        {
+            "competencyText": {"en-us": "Sing or play simple melodic patterns by ear with support from the teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Use expressive elements and knowledge of musical structure to aid in sequencing and memorization and to internalize details of rehearsals and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Apply performance techniques to familiar music."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing part songs in an appropriate range, using proper vocal technique and maintaining pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Play melodies and accompaniments, using proper instrumental technique, on pitched and unpitched instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Perform simple diatonic melodies at sight."}
+        },
+        {
+            "competencyText": {"en-us": "Play melodies and accompaniments, by ear, using classroom instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Notate rhythmic phrases and simple diatonic melodies using traditional notation."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze, using correct music vocabulary, the use of musical elements in various styles of music as a foundation for understanding the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Create a new melody from two or more melodic motifs."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and explain how expressive elements, when used in a selected musical work, affect personal response."}
+        },
+        {
+            "competencyText": {"en-us": "Perform expressive elements in a vocal or instrumental piece as indicated by the score and/or conductor."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the purposes for which music is used within various cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and describe the compositional characteristics used by two or more composers whose works are studied in class."}
+        },
+        {
+            "competencyText": {"en-us": "Compare stylistic and musical features in works originating from different cultures.  "}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the contributions of musicians and composers for a specific historical period."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how technology has changed the way audiences experience music."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Examine critical-thinking processes in music and describe how they can be transferred to other disciplines.  "}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create a performance, using visual, kinesthetic, digital, and/or acoustic means to manipulate musical elements."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe jobs associated with various types of concert venues and performing arts centers."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why live performances are important to the career of the artist and the success of performance venues."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and discuss the characteristics and behaviors displayed by successful student musicians that can be applied outside the music classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Practice safe, legal, and responsible acquisition and use of music media, and describe why it is important to do so."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Develop strategies for listening to unfamiliar musical works."}
+        },
+        {
+            "competencyText": {"en-us": "Compare, using correct music vocabulary, the aesthetic impact of a performance to one\u2019s own hypothesis of the composer\u2019s intent."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, aurally, instrumental styles and a variety of instrumental ensembles."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, aurally, a variety of vocal styles and ensembles."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Critique personal performance, experiment with a variety of solutions, and make appropriate adjustments with guidance from teachers and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Critique, using correct music vocabulary, changes in one\u2019s own or others\u2019 musical performance resulting from practice or rehearsal."}
+        },
+        {
+            "competencyText": {"en-us": "Critique personal composition and/or improvisation, using simple criteria, to generate improvements with guidance from teachers and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Apply specific criteria to evaluate why a musical work is an exemplar in a specific style or genre."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise rhythmic and melodic phrases to accompany familiar songs and/or standard harmonic progressions."}
+        },
+        {
+            "competencyText": {"en-us": "Compose a short musical piece."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange a short musical piece by manipulating melody, form, rhythm, and/or voicing."}
+        },
+        {
+            "competencyText": {"en-us": "Sing or play melodies by ear with support from the teacher and/or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Perform melodies with chord progressions."}
+        },
+        {
+            "competencyText": {"en-us": "Compose a melody, with or without lyrics, over a standard harmonic progression."}
+        },
+        {
+            "competencyText": {"en-us": "Explain and employ basic functions of MIDI for sequencing and/or editing, including interface options and types of controllers."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate specified mixing and editing techniques using selected software and hardware."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the function and purposes of various types of microphones and demonstrate correct set-up and use of two or more microphones for recording a music performance."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Perform music from memory to demonstrate knowledge of the musical structure."}
+        },
+        {
+            "competencyText": {"en-us": "Transfer performance techniques from familiar to unfamiliar pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Sing and/or play age-appropriate repertoire expressively."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper vocal or instrumental technique."}
+        },
+        {
+            "competencyText": {"en-us": "Sight-read standard exercises and simple repertoire."}
+        },
+        {
+            "competencyText": {"en-us": "Compare written notation to aural examples and analyze for accuracy of rhythm and pitch."}
+        },
+        {
+            "competencyText": {"en-us": "Notate rhythmic phrases and/or melodies, in varying simple meters, performed by someone else."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and demonstrate efficient rehearsal strategies to apply skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare performances of a musical work to identify artistic choices made by performers."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Create a composition, manipulating musical elements and exploring the effects of those manipulations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of major and minor tonalities through performance and composition."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the combination of instrumentation and expressive elements in a musical work can convey a specific thought, idea, mood, and/or image."}
+        },
+        {
+            "competencyText": {"en-us": "Perform the expressive elements of a musical work indicated by the musical score and/or conductor, and transfer new knowledge and experiences to other musical works."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the functions of music from various cultures and time periods."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the works of representative composers within a specific style or time period."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how American music has been influenced by other cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Classify authentic stylistic features in music originating from various cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Using representative musical works by selected composers, classify compositional characteristics common to a specific time period and/or genre."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the influence of historical events and periods on music composition and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how technology has changed the way music is created, performed, acquired, and experienced."}
+        },
+        {
+            "competencyText": {"en-us": "Classify the literature being studied by genre, style, and/or time period."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify connections among music and other content areas and/or contexts through interdisciplinary collaboration."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how the absence of music would affect other content areas and contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create a composition and/or performance, using visual, kinesthetic, digital, and/or acoustic means to manipulate musical elements."}
+        },
+        {
+            "competencyText": {"en-us": "Create an original composition that reflects various performances that use \"traditional\" and contemporary technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe several routes a composition or performance could travel from creator to consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how concert attendance can financially impact a community."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how studying music can enhance citizenship, leadership, and global thinking.  "}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and discuss laws that protect intellectual property, and practice safe, legal, and responsible acquisition and use of musical media."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the tasks involved in the compositional process and discuss how the process might be applied in the work place."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Apply listening strategies to promote appreciation and understanding of unfamiliar musical works."}
+        },
+        {
+            "competencyText": {"en-us": "Compare, using correct music vocabulary, the aesthetic impact of two or more performances of a musical work to one\u2019s own hypothesis of the composer\u2019s intent."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze instruments of the world and classify them by common traits."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and perform a variety of vocal styles and ensembles."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate and make appropriate adjustments to personal performance in solo and ensembles."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate performance quality in recorded and/or live performances."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate one\u2019s own or other\u2019s compositions and/or improvisations and generate improvements independently or cooperatively."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Make critical evaluations, based on exemplary models, of the quality and effectiveness of performances and apply the criteria to personal development in music."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise rhythmic and melodic phrases over harmonic progressions."}
+        },
+        {
+            "competencyText": {"en-us": "Compose music for voices and/or acoustic, digital, or electronic instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange a musical work by manipulating two or more aspects of the composition."}
+        },
+        {
+            "competencyText": {"en-us": "Perform and notate, independently and accurately, melodies by ear.  "}
+        },
+        {
+            "competencyText": {"en-us": "Research and report on the impact of MIDI as an industry-standard protocol."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize music, MIDI, pod-casting, webpage-development, and/or similar technology-based skills to share knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Combine and/or create virtual and audio instruments."}
+        },
+        {
+            "competencyText": {"en-us": "Record, mix, and edit a recorded performance."}
+        },
+        {
+            "competencyText": {"en-us": "Score music and use Foley art for a video segment or full video."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the ability to memorize and internalize musical structure, accurate and expressive details, and processing skills to the creation or performance of music literature."}
+        },
+        {
+            "competencyText": {"en-us": "Transfer expressive elements and performance techniques from one piece of music to another."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize a broad range of musical skills by performing a varied repertoire with expression, appropriate stylistic interpretation, technical accuracy, and kinesthetic energy."}
+        },
+        {
+            "competencyText": {"en-us": "Sight-read music accurately and expressively to show synthesis of skills."}
+        },
+        {
+            "competencyText": {"en-us": "Transcribe aurally presented songs into melodic and/or rhythmic notation to show synthesis of aural and notational skills."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and describe the effect of rehearsal sessions and/or strategies on refinement of skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and demonstrate proper vocal or instrumental technique."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the organizational principles and conventions in musical works and discuss their effect on structure."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Transfer accepted composition conventions and performance practices of a specific style to a contrasting style of music."}
+        },
+        {
+            "competencyText": {"en-us": "Transpose melodies into different modalities through performance and composition."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze expressive elements in a musical work and describe how the choices and manipulations of the elements support, for the listener, the implied meaning of the composer/performer."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and perform expressive elements indicated by the musical score and/or conductor."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and discuss how a culture\u2019s traditions are reflected through its music."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the work of, and influences on, two or more exemplary composers in the performance medium studied in class."}
+        },
+        {
+            "competencyText": {"en-us": "Compare two or more works of a composer across performance media."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how Western music has been influenced by historical and current world cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze music within cultures to gain understanding of authentic performance practices."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the social impact of music on specific historical periods."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze current musical trends, including audience environments and music acquisition, to predict possible directions of music.  "}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the evolution of a music genre."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the effects of developing technology on composition, performance, and acquisition of music."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields. "}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of science, math, and music to demonstrate, through an acoustic or digital performance medium, how sound production affects musical performance."}
+        },
+        {
+            "competencyText": {"en-us": "Combine personal interest with skills and knowledge from a non-music class to explore, design, and present a music-based or music-enhanced topic of interest to demonstrate the ability to make transfers across contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and evaluate the effect of \"traditional\" and contemporary technologies on the development of music."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate or adapt new, emerging, or previously unfamiliar technology to create an innovative composition, music project, or related product."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Design or refine a résumé for application to higher education or the workforce that highlights marketable skills and knowledge gained through music training."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the effect of the arts and entertainment industry on the economic and social health of communities and regions."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the organizational structure of a professional orchestra, chorus, quintet, or other ensemble to that of a business."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and describe how meeting one\u2019s responsibilities in music offers opportunities to develop leadership skills, and identify personal examples of leadership in school and/or non-school settings."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize copyright laws that govern printed, recorded, and on-line music to promote legal and responsible use of intellectual property and technology."}
+        },
+        {
+            "competencyText": {"en-us": "Define, prioritize, monitor, and successfully complete tasks related to individual musical performance or project presentation, without direct oversight, demonstrating skills for use in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Design and implement a personal learning plan, related to the study of music, which demonstrates self-assessment, brain-storming, decision-making, and initiative to advance skills and/or knowledge."}
+        }
+    ]
+}

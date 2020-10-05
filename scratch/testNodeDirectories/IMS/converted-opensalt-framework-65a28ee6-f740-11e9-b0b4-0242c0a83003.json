@@ -1,0 +1,1845 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/65a28ee6-f740-11e9-b0b4-0242c0a83003",
+        "name": {"en-us": "Montana Health and Physical Education Content Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFLicenses/9b516ff5-1cd2-41aa-8618-f20eee60b06d",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "HEALTH CONTENT STANDARDS"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The content standards for health are that students:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety;"}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health;"}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks; and"}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR KINDERGARTEN"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for kindergarten are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying healthy and unhealthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying characteristics of physical, mental, and emotional health;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying characteristics of family and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying ways germs are spread;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) showing ways to prevent the spread of germs;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) identifying environmental factors that can affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) identifying safety practices at school and in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying common childhood injuries;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) giving examples of health care; and"}
+        },
+        {
+            "competencyText": {"en-us": "(x) identifying body parts and their function."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying family practices that promote health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying healthy practices at school."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying adults who help promote health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying school and community health and safety resources."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying feelings and emotions;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding that listening is a respectful and caring behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using refusal skills in risky situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying risky situations; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying dangerous situations."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) giving examples of safe and healthy decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying persons who can assist with safety and health-related decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying ways to solve safety and health-related issues or problems; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying possible consequences of choices when making safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying healthy habits; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying ways family members model healthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying personal health practices and behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying behaviors that are harmful or risky to health."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying ways to ask others to assist in promoting health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying positive health choices that can be made by peers and self; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying health-related messages."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR FIRST GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for first grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing healthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) giving examples of physical, mental, emotional, family, and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying ways to prevent the spread of germs;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying environmental factors that can affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying ways to be safe and healthy at school and in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) identifying common childhood injuries and their treatment;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) identifying reasons for seeing a health care professional; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying basic body systems such as circulatory, respiratory, cardiovascular, skeletal, muscular, digestive, and nervous systems."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing ways a family practices health promotion;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying ways that peers influence behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying ways in which schools promote personal health practices and behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying examples from different media sources that influence health."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing ways adults can help promote health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing school and community health and safety resources."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) showing how to share feelings in a healthy way;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing ways listening is a respectful and caring behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing and demonstrating how to use a variety of refusal skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing how to get help in a dangerous situation."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying steps in making safe and healthy decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying examples of responsible safety and health-related decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying ways to solve safety and health-related issues or problems; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying possible consequences of choices when making safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explaining types of healthy habits; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying a goal and who can help achieve that goal."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying examples of healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) telling ways to maintain or improve personal health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) explaining harmful or risky behaviors to health."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) expressing how to ask others to assist in promoting health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) showing how peers can make positive health choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) listing a variety of health-related messages."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR SECOND GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for second grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying and explaining how health behaviors affect personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) recognizing that there are multiple dimensions of health, such as physical, mental, and emotional, as well as family and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing some ways to prevent childhood communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing common environmental factors that can affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) giving examples of how to be safe at school and in the community;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) identifying ways to prevent and treat common childhood injuries;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) describing why it is important to seek health care; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying basic body systems and their function such as the circulatory, respiratory, cardiovascular, skeletal, muscular, digestive, and nervous systems."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying how family and culture influence personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying ways that peers influence behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying what the school can do to support personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing how the media can influence health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) giving examples of school or community policies that promote health and safety."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying trusted adults and professionals who can help promote health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying ways to locate school and community health and safety resources."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying healthy ways to express needs, wants, and feelings;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using listening skills to enhance health;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) exhibiting ways to respond in an unwanted, threatening, or dangerous situation; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) expressing ways to tell a trusted adult if threatened or harmed."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying situations when a safety and health-related decision is needed;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) differentiating between situations when a safety and health-related decision can be made individually or when assistance is needed;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing ways to solve safety and health-related issues or problems; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing possible consequences of choices when making safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying short-term personal health goals and taking action towards achieving goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying who can help when assistance is needed to achieve a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) exhibiting healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) exhibiting healthy practices and behaviors to maintain or improve personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) discussing behaviors that avoid or reduce health risk."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) making requests to promote health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying ways to encourage others to make positive health choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing health messages and communication techniques."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR THIRD GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for third grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying links between healthy choices and personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) defining life skills that improve health and wellness;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using goal-setting to practice healthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing various characteristics of physical, mental, emotional, family, and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) explaining the difference between childhood communicable and non-communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) identifying the potential sources of environmental factors that affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) describing how health can be affected by school and community environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying common childhood health problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) identifying situations that require health care; and"}
+        },
+        {
+            "competencyText": {"en-us": "(x) identifying body systems and their function including circulatory, respiratory, cardiovascular, skeletal, muscular, digestive, and nervous systems."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing ways family and culture influence personal health practices and behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing ways that peers influence behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) explaining ways the school can support personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing ways the media can influence thoughts, feelings, and health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying types of technology that influence personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) describing ways that school and community policies promote health and safety."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) giving examples of valid health information, products, and services; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying resources available at home, school, tribe, and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) expressing ways to show respect for self and others, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying verbal and nonverbal refusal skills;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) recognizing conflict and applying nonviolent strategies to manage or resolve conflict; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing situations when it is necessary to seek assistance for the health and safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying routine safety and health-related situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing situations when support is needed in making safety and health-related decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) discussing various options to safety and health-related issues or problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing possible consequences of choices when making safety and health-related decisions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying outcomes for various safety, healthy, and unhealthy decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing ways to set personal health goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) explaining how friends, adults, and resources help in achieving a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing practices of healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing reasons for responsible personal health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying healthy and unhealthy behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) sharing accurate information about a health issue;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) encouraging peers to make positive health choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) discussing health-related messages and communication techniques."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR FOURTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for fourth grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying life skills that improve health and wellness;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing healthy and unhealthy behaviors and their effect on health;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying personal health-enhancing strategies that encompass substance abuse prevention, nutrition, exercise, injury and disease prevention, and stress management, including traditional and contemporary strategies from American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing risky behaviors and their potential consequences;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) discussing various characteristics of physical, mental, emotional, family, and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) describing how universal precautions and other hygienic practices reduce the risk for contracting disease;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) describing the potential sources of environmental factors that affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) discussing practices for safe school and community environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) describing common childhood health problems and potential treatments;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) describing when it is important to seek health care; and"}
+        },
+        {
+            "competencyText": {"en-us": "(xi) discussing the structure and function of each of the following major systems: circulatory, respiratory, cardiovascular, skeletal, muscular, digestive, and nervous."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explaining ways family and culture influence personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing ways that peers influence behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying how the school, tribe, and community can support personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing why the media influences thoughts, feelings, and health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying ways technology can influence personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) discussing ways that school and community policies promote health, safety, and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying qualities of valid health information, products, and services; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing resources from home, school, tribe, and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrating ways to communicate care, consideration, and respect of self and others, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying reasons to use refusal skills to avoid or reduce health risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying strategies to control angry feelings; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing reasons for seeking assistance to enhance the health and safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing options of what to do in potential safety and health-risk situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying situations when assistance is needed to make safety and health-related decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying positive alternatives to resolving safety and health-related issues or problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) explaining possible consequences of health-related decisions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) creating a list of positive and negative outcomes related to various safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing reasons for setting personal health goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing personal health goal-setting and the resources that can assist in achieving goals."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing practices of healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying responsible personal health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) explaining personal health practices and behaviors that maintain or improve personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing reasons for healthy behaviors that avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing accurate information about a health issue;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing ways that encourage others to make positive health choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) comparing and contrasting health messages and communication techniques."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR FIFTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for fifth grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explaining the relationship between healthy behaviors and personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing personal health-enhancing strategies that encompass substance abuse prevention, nutrition, exercise, injury and disease prevention and stress management, including traditional and contemporary strategies from American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying potential consequences of engaging in risky behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying examples of physical, mental, emotional, family and social health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) explaining practices used to prevent or reduce the risk of spreading or contracting communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) discussing ways environmental factors affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) describing ways in which safe and healthy school and community environments can promote personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) describing ways to prevent and treat common childhood injuries and health problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) giving examples of health care and their benefits, including the unique issues regarding American Indians and health care benefits; and"}
+        },
+        {
+            "competencyText": {"en-us": "(x) identifying the basic structure and function of the major human body systems, including growth and development and the reproductive system."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) examining how family and culture influence personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying how peers can influence healthy and unhealthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing how the school, tribe, and community can support personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) explaining how media influences thoughts, feelings, and health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) discussing ways that technology can influence personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) explaining how school, public, and tribal health policies can influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying characteristics of valid health information, products, and services; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) locating resources from home, school, tribe, and community that provide valid health information."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) using effective verbal and nonverbal communication skills to enhance health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using refusal skills that avoid or reduce health risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using nonviolent strategies to manage or resolve conflict; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing how to ask for assistance to enhance the health and safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying health-related situations that might require thoughtful decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) analyzing when assistance is needed in making safety and health-related decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) comparing and contrasting healthy options to safety and health-related issues or problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) predicting the potential outcomes of options when making safety and health-related decisions; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) describing the outcomes of safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) setting a personal health goal and tracking progress toward its achievement; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying resources to assist in achieving a personal health goal."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explaining benefits of healthy behaviors toward self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) practicing responsible personal health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using a variety of healthy practices and behaviors to maintain or improve personal health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) using a variety of behaviors to avoid or reduce health risks."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) expressing opinions and giving accurate information about health issues;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) practicing and rationalizing reasons for positive health choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) evaluating various health messages and communication techniques."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR SIXTH THROUGH EIGHTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for sixth through eighth grades are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing the relationship between healthy behaviors and personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing the benefits of and barriers to practicing healthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) analyzing behaviors that promote health enhancing strategies for issues such as substance abuse prevention, nutrition, sexual activity, exercise, injury and disease prevention, and stress management, including traditional and contemporary strategies from American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) analyzing the potential consequences of engaging in risky behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying characteristics of physical, mental, emotional, family, and social health including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) explaining practices used to prevent or reduce the risk of spreading or contracting communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) discussing ways environmental factors affect health;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) analyzing ways in which safe and healthy school and community environments can promote personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) describing ways to reduce or prevent injuries and other adolescent health problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) explaining how appropriate health care can promote personal health, including the unique issues regarding American Indians and health care benefits;"}
+        },
+        {
+            "competencyText": {"en-us": "(xi) defining human body systems, their function, and their interrelationship with one another; and"}
+        },
+        {
+            "competencyText": {"en-us": "(xii) identifying basic structures and functions of the male and female reproductive health systems."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) explaining how family and culture influence the health of adolescents;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) explaining how the perception of societal norms influence healthy and unhealthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) explaining the influence of personal values and beliefs on individual health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing how peers influence healthy and unhealthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) explaining how the school, tribe, and community can affect personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) explaining how messages from media influence health behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) explaining the influence of technology on personal and family health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) comparing and contrasting how school, public, and tribal health policies can influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyzing the validity of health information, products, and services;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) accessing valid health information from home, school, tribe, and community;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) determining the accessibility of products that enhance health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing situations that may require professional health services."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) applying effective verbal and nonverbal communication skills to enhance health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using refusal and negotiation skills that avoid or reduce health risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using effective conflict management or resolution strategies; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing how to ask for assistance to enhance the health and safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying circumstances that can help or hinder safe and healthy decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) determining when safety and health-related situations require the application of a thoughtful decision-making process;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) determining when individual or collaborative decision making is appropriate;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) distinguishing between safe, healthy, and unhealthy alternatives to health-related issues or problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) predicting the potential short-term and long-term impact of health and safety-related options on self and others; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) analyzing the outcomes of safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) developing a goal to adopt, maintain, or improve personal health practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) assessing personal health practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) applying strategies and skills needed to attain a personal health goal; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing how personal health goals can vary with changing abilities, priorities, and responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyzing healthy practices and behaviors that will maintain or improve the health of self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) explaining the importance of assuming responsibility for personal health behaviors; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing behaviors to avoid or reduce health risks to self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) stating a health-enhancing position on a topic and support it with accurate information;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing how to influence and support others to make positive health choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) working cooperatively to advocate for healthy individuals, families, tribes, and schools; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying ways in which health-related messages and communication techniques can be altered for different audiences."}
+        },
+        {
+            "competencyText": {"en-us": "HEALTH STANDARDS FOR NINTH THROUGH TWELFTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The health standards for ninth through twelfth grades are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) comprehend concepts related to health promotion and disease prevention to enhance personal health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) predicting how health behaviors can affect health status;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) comparing and contrasting the benefits of and barriers to practicing a variety of healthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) developing personal health-enhancing strategies for issues such as substance abuse prevention, nutrition, exercise, sexual activity, injury and disease prevention, and stress management, including traditional and contemporary strategies from American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) comparing and contrasting the potential consequences of engaging in risky behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) analyzing the interrelationships of physical, mental, emotional, family and social health or personal health, including those of American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) comparing and contrasting various ways to prevent communicable diseases;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) analyzing how environmental factors and personal health are interrelated;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) analyzing how genetics and family history can impact personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) comparing and contrasting ways to advocate for safe and healthy school and community environments to promote personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(x) proposing ways to reduce or prevent injuries and health problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(xi) analyzing the relationship between access to health care and health status, including the unique issues regarding American Indians and health care benefits resulting from treaty obligations;"}
+        },
+        {
+            "competencyText": {"en-us": "(xii) analyzing human body systems, their function, and their interrelationship with one another;"}
+        },
+        {
+            "competencyText": {"en-us": "(xiii) explaining the natural body changes of reproductive health;"}
+        },
+        {
+            "competencyText": {"en-us": "(xiv) explaining fertilization, conception, and how the baby's sex and inherited traits are determined; and"}
+        },
+        {
+            "competencyText": {"en-us": "(xv) comparing and contrasting how physical, mental, social, spiritual, and cultural factors influence attitudes about sexuality."}
+        },
+        {
+            "competencyText": {"en-us": "(b) analyze the influence of family, peers, culture, media, technology, and other factors on health behaviors by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) comparing and contrasting how the family and culture influence the health of individuals;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) explaining how the perception of societal norms influence healthy and unhealthy behaviors, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) explaining the influence of personal values and beliefs on individual health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) explaining how peers influence healthy and unhealthy behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) evaluating how the school, tribe, and community can affect personal health practices and behaviors;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) evaluating the effect of media on personal and family health;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) evaluating the impact of technology on personal, family, and community health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) explaining how public health policies and governmental regulations, including tribal, can influence health promotion and disease prevention."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the ability to access valid information, products, and services to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) evaluating the validity of health information, products, and services;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using resources from home, school, tribe, and community that provide valid health information;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) determining the accessibility of products and services that enhance health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) determining when professional health services may be required."}
+        },
+        {
+            "competencyText": {"en-us": "(d) demonstrate the ability to use interpersonal communication skills to enhance health and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) using skills for communicating effectively with family, peers, and others to enhance health, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using refusal, negotiation, and collaboration skills to enhance health and avoid or reduce health risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using strategies to prevent, manage, or resolve interpersonal conflicts without harming self or others; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) discussing how to ask for and offer assistance to enhance the health and safety of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(e) demonstrate the ability to use decision-making skills to enhance health and safety by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) examining barriers that can hinder safe and healthy decision making;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) determining the value of applying a thoughtful decision-making process in safety and health-related situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) justifying when individual or collaborative decision making is appropriate;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) generating alternatives to safety and health-related issues or problems;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) analyzing the potential short-term and long term impact of health and safety alternatives on self and others; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) evaluating the effectiveness of safety and health-related decisions."}
+        },
+        {
+            "competencyText": {"en-us": "(f) demonstrate the ability to use goal-setting skills to enhance health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) developing a plan to attain a personal health goal that addresses strengths, needs, and risks;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) assessing personal health practices and overall health status;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) implementing strategies and monitoring progress in achieving a personal health goal; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) formulating an effective long-term personal health plan."}
+        },
+        {
+            "competencyText": {"en-us": "(g) demonstrate the ability to practice health-enhancing behaviors and avoid or reduce health risks by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing ways to advocate for a variety of healthy practices and behaviors that will maintain or improve the health of self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) analyzing the role of individual responsibility for enhancing health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) discussing ways to advocate for a variety of behaviors to avoid or reduce health risks to self and others."}
+        },
+        {
+            "competencyText": {"en-us": "(h) demonstrate the ability to advocate for personal, family, and community health by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) using accurate peer and societal norms to formulate a health-enhancing message;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) advocating for behaviors and practices that will support others in making positive health choices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) working cooperatively as an advocate for improving personal, family, and community health; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) adapting health messages and communication techniques to target audiences."}
+        },
+        {
+            "competencyText": {"en-us": "CONTENT STANDARDS FOR PHYSICAL EDUCATION"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The content standards for physical education are that students:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns;"}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance;"}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and/or social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR KINDERGARTEN"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for kindergarten are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) performing basic locomotor, nonlocomotor, and manipulative skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) performing locomotor skills in response to teacher-led creative dance."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) moving in different pathways, general space with different speeds, and in personal space to a rhythm."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) recognizing that food provides energy for physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying active play opportunities outside health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) actively participating in health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) recognizing that physical activity causes physical changes; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) practicing warm-ups and cool-downs relative to vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) following directions in group settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) acknowledging responsibility for behavior when prompted;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) following instruction and direction when prompted;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) recognizing the established protocol for class activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) sharing equipment and space with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) recognizing differences in ideas, cultures, and body types; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) following teacher directions for safe participation and proper use of equipment with minimal reminders."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) understanding that physical activity is important for good health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) acknowledging that some physical activities are challenging or difficult; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying physical activities that result in a positive personal experience while playing with friends."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR FIRST GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for first grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) performing most basic locomotor, nonlocomotor, and manipulative skills using mature patterns;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) combining locomotor and nonlocomotor skills in a teacher-designed dance."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) moving in self-space; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) differentiating between fast and slow speeds, strong and light force."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) differentiating between healthy and unhealthy foods;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing the benefits of being active and exercising or playing;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) actively engaging in health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) understanding that muscles grow stronger with physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying warm-up and cool-down activities related to vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) accepting personal responsibility by using equipment and space appropriately;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) following the rules or parameters of the learning environment;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) responding appropriately to general feedback from a teacher;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) exhibiting the established protocols for class activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) working independently with others in a variety of class environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) discussing ways to accept others' ideas, cultural diversity, and body types; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) following teacher directions for safe participation and proper use of equipment without teacher reminders."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying physical activity as a component of good health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding challenges in physical activities can lead to success; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing positive results gained from participating in physical activities with others."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR SECOND GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for second grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) performing basic locomotor, nonlocomotor, and manipulative skills in mature patterns; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) performing rhythmic activity with correct response to simple rhythms."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying games, sports, or dances performed in other cultures; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) combining locomotor skills in general space to rhythm or beat."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills needed to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) recognizing the balance of good nutrition with physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) describing physical activities outside health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) actively engaging in health enhancement class in response to instruction and practice;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying physical activities which contribute to developing strength and fitness; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) describing warm-up and cool-down activities related to vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) practicing skills with minimal teacher prompting;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) accepting responsibility for class protocols with behavior and performance actions;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) accepting specific corrective feedback from a teacher;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) recognizing the role of rules and etiquette in teacher-designed physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) working independently with others in partner environments;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) recognizing ways to accept others' ideas, cultural diversity, and body types during games and physical activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) working independently and safely in physical activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing the value of \"good health balance\";"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) comparing physical activities that bring confidence and challenges; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) discussing positive results gained from participating in physical activities with others."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR THIRD GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for third grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) performing a combination of motor skills in various contexts; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) performing developmentally appropriate dance steps and movement patterns."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing the origin of a game, sport, or dance, including traditional and contemporary American Indian contributions and cultures; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) recognizing the concept of open space in movement context."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills needed to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying foods that are beneficial for pre- and post-physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) charting participation in physical activities outside health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) engaging in the activities of health enhancement class without teacher prompting;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) describing the concept of physical fitness and provide examples of physical activity that enhances fitness; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) recognizing the importance of warm-up and cool-down activities related to vigorous physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) practicing personal responsibility in teacher-directed activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) working independently for extended periods of time;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) accepting and implementing specific corrective teacher feedback;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) recognizing the role of rules and etiquette in physical activity with peers;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) supporting and working cooperatively with others;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) discussing ways to accept others' ideas, cultural diversity, and body types during games and physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) working independently and safely in physically active settings."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing the relationship between physical activity and good health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) discussing the challenge that comes from learning a new physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing the positive social interactions that come when engaged with others in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR FOURTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for fourth grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) using a combination of motor skills to engage in a variety of activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) combining locomotor movement patterns and dance steps used in an original dance."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing the origin of a variety of games, sports, or dances, including traditional and contemporary American Indian contributions and cultures; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) understanding the concept of open spaces to activities such as combination skills, small-sided practice tasks, gymnastics, and dance environments."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) discussing the importance of hydration and hydration choices relative to physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) analyzing opportunities for participating in physical activities outside health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) actively engaging in the activities of health enhancement class, both teacher-directed and independent;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying the components of health-related fitness; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) engaging in warm-up and cool-down activities related to cardio-respiratory fitness assessment."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) demonstrating responsible behavior in independent group situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) reflecting on personal social behavior in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) listening respectfully to corrective feedback from others;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) adhering to rules of etiquette in a variety of physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) recognizing and supporting individual differences in movement performance at all skill levels;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) describing ways to accept others' ideas, cultural diversity, and body types during games and physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) working safely with peers and equipment in physical activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) examining the health benefits of participating in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) rating the enjoyment of participating in challenging and mastered physical activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing and comparing the positive social interactions when engaged in partner, small-group, and large-group physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR FIFTH GRADE"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for fifth grade are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) exhibiting competency in fundamental motor skills and selected combinations of skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) combining locomotor skills in cultural as well as creative dances (self and group), including those of traditional and contemporary American Indian cultures, with correct rhythm and pattern."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) recognizing that many different countries and cultures have been the origin of games, sports, and dance, including those of traditional and contemporary American Indian cultures; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) combining spatial concepts with locomotor and nonlocomotor movements for small groups in gymnastics, dance, and games environments."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyzing the impact of food choices related to physical activity, youth sports, and personal health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) charting and analyzing fitness benefits of physical activity outside health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) actively participating in all activities of health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) differentiating between skill-related and health-related fitness; and"}
+        },
+        {
+            "competencyText": {"en-us": "(v) identifying the need for warm-up and cool-down activities related to various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) participating in physical activity with responsible interpersonal behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) participating with responsible personal behavior in a variety of physical activity contexts, environments, and facilities;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) giving corrective feedback respectfully to peers;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) critiquing the etiquette involved in rules of various activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) accepting, recognizing, and actively involving others with both higher and lower skill abilities into physical activities and group projects;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) accepting others' ideas, cultural diversity, and body types by engaging in cooperative and collaborative movement projects; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) applying safety principles with physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) comparing the health benefits of participating in selected physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) expressing, through various media, the enjoyment and challenge of participating in a favorite physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) analyzing the social benefits gained from participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR SIXTH THROUGH EIGHTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for sixth through eighth grades are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) performing, with mature form, locomotor, nonlocomotor, and manipulative skills necessary for participating in games and sports, outdoor pursuits, and individual performance activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying correct rhythm and pattern for a different dance form among folk, social, creative, line, and world dance, including those of traditional and contemporary American Indian cultures."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) researching the history and origin of various games, sports, and dance, including those of traditional and contemporary American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) using tactics to create open space and close space during small-side play by combining locomotor movements; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) describing and applying a variety of movement concepts."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) describing the relationship between poor nutrition and health risk factors;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) identifying the five components of health-related fitness and explaining the connections between fitness and overall physical and mental health;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) identifying forms of technology and social media that support a healthy, active lifestyle;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) participating in a variety of self-selected aerobic fitness activities, and lifetime activities outside of health enhancement class;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) planning and implementing a program to enhance personal fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) comparing and contrasting health-related fitness components;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) describing the role of stretching and flexibility in injury prevention; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) explaining how body systems interact with one another during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) accepting responsibility for improving one's own levels of physical activity and fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) explaining practices that promote responsible behavior of self and others in a variety of physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) providing encouragement and feedback to peers without prompting from teacher;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) applying rules and etiquette by acting as an official during modified games, dance, and rhythm;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) cooperating with classmates on problem-solving initiatives during adventure activities, large-group initiatives, and game play;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) responding appropriately to participant's ethical and unethical behavior during physical activity by using roles and guidelines for resolving conflicts;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) providing ways to accept others' ideas, cultural diversity, and body types by engaging in cooperative and collaborative movement projects; and"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying safety concerns and using physical activity and fitness equipment appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and/or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying the five components of health-related fitness and explaining the connection between fitness and overall physical and mental health;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) developing a plan of action and making appropriate decisions based on that plan when faced with an individual challenge; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) comparing and contrasting various physical activities for their social benefit."}
+        },
+        {
+            "competencyText": {"en-us": "PHYSICAL EDUCATION STANDARDS FOR NINTH THROUGH TWELFTH GRADES"}
+        },
+        {
+            "competencyText": {"en-us": "(1) The physical education standards for ninth through twelfth grades are that each student will be able to:"}
+        },
+        {
+            "competencyText": {"en-us": "(a) demonstrate competency in a variety of motor skills and movement patterns by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) refining activity-specific movement skills in one or more lifetime activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) exhibiting competency in two or more specialized skills in health-related fitness activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) choreographing or participating in a form of dance."}
+        },
+        {
+            "competencyText": {"en-us": "(b) apply knowledge of concepts, principles, strategies, and tactics related to movement and performance by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) identifying and discussing the historical and cultural roles of games, sports, and dance, including those of traditional and contemporary American Indian cultures;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) comparing similarities and differences in various dance forms, including those of traditional and contemporary American Indian cultures and practices;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) using spatial concepts of locomotor and nonlocomotor movements in outdoor pursuits; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) identifying the stages of learning a motor skill."}
+        },
+        {
+            "competencyText": {"en-us": "(c) demonstrate the knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) creating a healthy snack plan for before, during, and after exercise that addresses nutrition needs for each phase;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) investigating the relationships among physical activity, nutrition, and body composition;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) analyzing and applying technology and social media as tools to support a healthy, active lifestyle;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) analyzing the impact of life choices, economics, motivation, and accessibility on maintaining physical activity in college or career settings;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) creating a plan, training for and participating in a community event with a focus on physical activity, including those of American Indian cultural traditions;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) designing and implementing a strength and conditioning program;"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) evaluating the importance of stretching and flexibility in lifetime activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(viii) identifying the structure of skeletal muscle and fiber types as they relate to muscle development; and"}
+        },
+        {
+            "competencyText": {"en-us": "(ix) identifying the different energy systems used in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "(d) exhibit responsible personal and social behavior that respects self and others by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) accepting differences between personal characteristics and the idealized body images and elite performance levels portrayed in various media;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) advocating for responsible behavior of self and others in a variety of physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) analyzing the benefits of a variety of feedback techniques;"}
+        },
+        {
+            "competencyText": {"en-us": "(iv) examining moral and ethical conduct in specific competitive situations;"}
+        },
+        {
+            "competencyText": {"en-us": "(v) assuming a leadership role in a physical activity setting such as coach, referee, or group leader;"}
+        },
+        {
+            "competencyText": {"en-us": "(vi) advocating for acceptance of others' ideas, cultural diversity, and body types by engaging in cooperative and collaborative movement projects; and"}
+        },
+        {
+            "competencyText": {"en-us": "(vii) applying best practices for participating safely in physical activity, exercise, and dance."}
+        },
+        {
+            "competencyText": {"en-us": "(e) recognize the value of physical activity for health, enjoyment, self-expression, and or social interaction by:"}
+        },
+        {
+            "competencyText": {"en-us": "(i) analyzing the health benefits of a self-selected physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "(ii) choosing an appropriate level of challenge to experience success while participating in a self-selected physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "(iii) evaluating social interactions and supports in a variety of physical activities."}
+        }
+    ]
+}

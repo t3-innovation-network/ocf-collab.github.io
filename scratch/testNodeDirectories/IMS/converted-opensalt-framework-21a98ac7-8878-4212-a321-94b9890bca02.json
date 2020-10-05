@@ -1,0 +1,1444 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/21a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "Dance"},
+        "description": {"en-us": "Dance Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Associate and identify words of action or feeling with watching or performing simple dances."}
+        },
+        {
+            "competencyText": {"en-us": "Perform creative movement in a specific order."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Explore movement possibilities to solve problems by experiencing tempo, level, and directional changes."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Express preferences from among a teacher-selected set of dances."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Discover movement through exploration, creativity, and imitation."}
+        },
+        {
+            "competencyText": {"en-us": "Discover new ways to move by using imitation and imagery."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Follow classroom directions."}
+        },
+        {
+            "competencyText": {"en-us": "Retain simple sequences and accurate dance terminology over time."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Refine gross-  and fine-locomotor skills through repetition."}
+        },
+        {
+            "competencyText": {"en-us": "Imitate simple exercises for strengthening and stretching the body."}
+        },
+        {
+            "competencyText": {"en-us": "Develop kinesthetic awareness by maintaining personal space and moving in pathways through space."}
+        },
+        {
+            "competencyText": {"en-us": "Move to various musical and rhythmic accompaniments, responding to changes in tempo and dynamics."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise a short phrase based on the elements of dance."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise a short dance phrase with a clear beginning and ending."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Use movement to express a feeling, idea, or story."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to a dance through movement and words."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Dance to music from a wide range of cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create free-form dances, using manipulatives, which are personally pleasing and show exploration and imagination."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Follow classroom instructions given by the teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and respond to the feelings expressed in movement pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Repeat simple movements from verbal cueing."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Make movement choices, using one or more given elements, to complete a short phrase."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Share personal opinions on selected movement pieces, recognizing that individual opinions often vary."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Discover movement through exploration, creativity, self-discovery, and experimentation in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how body parts move by using imitation and imagery."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Listen attentively and follow directions when learning movement skills and sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Practice simple dance sequences with assistance."}
+        },
+        {
+            "competencyText": {"en-us": "Perform simple movements on both sides of the body."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Imitate basic body postures and maintain a pose in a held stance."}
+        },
+        {
+            "competencyText": {"en-us": "Repeat simple body movements to strengthen and stretch the body."}
+        },
+        {
+            "competencyText": {"en-us": "Practice moving body parts in and through space to develop coordination."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate acuity in transferring given rhythmic patterns from the aural to the kinesthetic."}
+        },
+        {
+            "competencyText": {"en-us": "Explore, manipulate, and manage concepts of personal and general space by moving in different levels and directions."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Experiment with given elements to develop knowledge of their characteristics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate awareness of expectations in class and at informal performances."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Select and apply a change in tempo or level to transform the meaning, feeling, or look of a movement or phrase."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Create movement phrases to express a feeling, idea, or story."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance terminology to describe specified movements and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Practice children's dances from around the world."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Perform movement that infuses music, language, and numbers."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create dances, with or without manipulatives, which imitate animated shapes, letters, animals, and/or storybook characters."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Follow directions given by the teacher or by peers in small groups."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Explain, using accurate dance terminology, how teacher-specified elements of dance are used in a phrase or dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate listening, observing, and following skills while learning dance movements; and perform them with the teacher and alone."}
+        },
+        {
+            "competencyText": {"en-us": "Express the meaning or feeling of a dance piece creatively, using pictures, symbols, and/or words."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Decide which of two movements will express a desired result."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Share personal opinions about a dance piece, using a mix of accurate dance and non-dance terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic movement through kinesthetic exploration."}
+        },
+        {
+            "competencyText": {"en-us": "Explore dance sequences by creating and imitating images that move through space."}
+        },
+        {
+            "competencyText": {"en-us": "Follow body-part initiation through space to increase kinesthetic awareness."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate focus and concentration while listening to instructions and observing others' movement."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate simple dance sequences to show memorization and presentation skills."}
+        },
+        {
+            "competencyText": {"en-us": "Follow and repeat movement on opposite sides of the body."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Replicate basic positions with clear body lines and correct alignment."}
+        },
+        {
+            "competencyText": {"en-us": "Perform bending and reaching exercises to increase strength, stamina, flexibility, and range of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Repeat given movements to show coordination between body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a demonstrated rhythm in time to musical accompaniment."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain balance in basic positions and in shifting weight through plie."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the elements of dance in planned and improvised dance pieces to show early awareness of structure."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and practice specified procedures and etiquette in dance class and at performances."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Change the feeling, meaning, or look of a movement phrase by altering the elements of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Use movement to interpret feelings, stories, pictures, and songs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a dancer or dance piece using words, pictures, or movements."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of dances to explore their origins, cultures, and themes."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Create a dance phrase using numbers, shapes, and patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Describe connections between creating in dance and creating in other content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create dances that interpret animals and storybook or other imagined characters."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Follow directions given by the teacher or peers, and work successfully in small-group, cooperative settings."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Identify one or more elements and, using accurate dance terminology, discuss how they are used to shape a piece into a dance."}
+        },
+        {
+            "competencyText": {"en-us": "Learn movement quickly and accurately through application of learning strategies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate changes made in various elements of a movement piece."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of basic elements of dance to identify examples in a dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Share and apply feedback to improve the quality of dance movement."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Examine one element of a dance piece and judge how well it expressed or supported the given intent."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Create movement to express feelings, images, and stories."}
+        },
+        {
+            "competencyText": {"en-us": "Respond to improvisation prompts, as an individual or in a group, to explore new ways to move."}
+        },
+        {
+            "competencyText": {"en-us": "Explore positive and negative space to increase kinesthetic awareness."}
+        },
+        {
+            "competencyText": {"en-us": "Create dance sequences, based on expanded, everyday gestures and/or movements."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why focus and cooperation are important in class and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Learn and repeat movement using observation and listening skills."}
+        },
+        {
+            "competencyText": {"en-us": "Practice simple dance movements on both sides and facing in different directions."}
+        },
+        {
+            "competencyText": {"en-us": "Use learning strategies to remember movement between classes and rehearsals."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate posture with strength in the abdomen and length in the spine."}
+        },
+        {
+            "competencyText": {"en-us": "Perform safe practice exercises for increasing strength, flexibility, and range of motion."}
+        },
+        {
+            "competencyText": {"en-us": "Perform far-reach exercises to demonstrate knowledge of the use of line in movement."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate an understanding of the elements of time."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain center line of balance in place, in transfer of weight, and while changing levels."}
+        },
+        {
+            "competencyText": {"en-us": "Execute a movement sequence, in and through space, with a specific expression."}
+        },
+        {
+            "competencyText": {"en-us": "Rehearse movements and dance sequences to develop coordination and agility in muscular groups."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Relate how the elements of dance are applied in classwork to how they are used in dance pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the procedures and structures common to dance classes."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Select an element to change within a phrase and discuss the results."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Translate words, pictures, or movements into dance to express ideas or feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance terminology to respond to and communicate about dance."}
+        },
+        {
+            "competencyText": {"en-us": "Share, using accurate dance terminology, ways in which dance communicates its meaning to the audience."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Practice and perform social, cultural, or folk dances, using associated traditional music, to identify commonalities and differences."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the roles that dance has played in various social, cultural, and folk traditions."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Create and perform a dance, inspired by developmentally appropriate literature, stories, or poems, that has a beginning, middle, and end."}
+        },
+        {
+            "competencyText": {"en-us": "Identify connections between the skills required to learn dance and the skills needed in other learning environments."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Create dance pieces that interpret characters from stories, poems, and other literature sources."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Be on time and prepared for classes, and work successfully in small- and large-group cooperative settings, following directions given by the teacher or peers."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Create a tableau, theme, or main idea in a dance piece to explore the potential of shapes and space."}
+        },
+        {
+            "competencyText": {"en-us": "Learn and produce short movement sequences, assisted by the teacher, using observation, imitation, and musical cues."}
+        },
+        {
+            "competencyText": {"en-us": "Identify points within a dance piece at which mood, character, or meaning change abruptly or evolve."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of the basic elements of dance to suggest changes in a movement piece."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to participate in objective feedback sessions as a means of evaluating one's own and others' work."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a dance by examining how effectively two or more elements were used in the piece."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Create movement sequences that are personally meaningful and/or express an idea."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise to music, using choreographic principles, and match tempo, phrasing, style, and emotion."}
+        },
+        {
+            "competencyText": {"en-us": "Use kinesthetic awareness to explore movement in personal space and relative to other dancers."}
+        },
+        {
+            "competencyText": {"en-us": "Change isolations, level, direction, or tempo to explore movement choices."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Display attention, cooperation, and focus during class and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Recall and perform movement in short sequences to improve memorization and speed of replication."}
+        },
+        {
+            "competencyText": {"en-us": "Replicate movement sequences on opposite sides of the body or in the opposite direction."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate application and memorization of corrections given by the teacher."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and practice appropriate alignment of the torso, arms, and legs in a given dance sequence, using assisted correction, allegory, and/or imagery to support understanding and successful repetition."}
+        },
+        {
+            "competencyText": {"en-us": "Identify weaknesses in personal strength, flexibility, and range of motion, and apply basic, safe practice exercises to address the need.  "}
+        },
+        {
+            "competencyText": {"en-us": "Practice weight shift and transitions through plie, elevation, pique, and chasse."}
+        },
+        {
+            "competencyText": {"en-us": "Replicate timing, rhythm, and accents demonstrated by the teacher and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain center of balance in various positions.  "}
+        },
+        {
+            "competencyText": {"en-us": "Practice varying expression and intention by moving in dance sequences using direct and indirect space and active and passive energy."}
+        },
+        {
+            "competencyText": {"en-us": "Repeat dance sequences with increasing speed and articulation to develop agility and coordination."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the elements of dance are used in class and in dance pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the procedures and structures in a dance class help create a positive and healthful environment for learning."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the positions, initiations, and movements within a given step."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Experiment with a dance phrase by using a variety of elements to create a variation on the original work."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the contributions of one or more selected innovators changed a particular genre or dance form."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Express ideas through movements, steps, and gestures."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance terminology as a means of asking questions, discussing dances, and learning new dance pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Respect varying interpretations of a dance, recognizing that viewer perspectives may be different."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Perform dances from different cultures, emulating the essential movement characteristics and traditions."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss why people of various ages and cultures dance and how they benefit from doing so."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and examine important figures, historical events, and trends that have helped shape dance."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Create a dance with student-selected components from other content areas and/or personal interests."}
+        },
+        {
+            "competencyText": {"en-us": "Use improvisation and movement studies to explore concepts from other content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how dance and music can each be used to interpret and support the other."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to create dance pieces that show innovative movement options."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the various roles and responsibilities associated with careers in dance."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Be on time, prepared, and focused in classes, and share skills and ideas with peers appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and discuss, using background knowledge of structure and personal experience, concepts and themes in dance pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Learn and produce movement sequences, assisted by the teacher, with speed and accuracy.  "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the use of time, space, effort, and energy to express feelings and ideas through movement."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Visualize and experiment with a variety of potential solutions to a given dance problem and explore the effects of each option."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to share objective, positive feedback and constructive criticism, and apply suggested changes with the guidance of others."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Critique a dance piece using established criteria."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Apply choreographic principles to create dance steps or sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate dynamic changes in response to one or more sources."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate given elements of a phrase to produce variations and expand movement choices."}
+        },
+        {
+            "competencyText": {"en-us": "Use kinesthetic awareness to respond to shared movement with one or more dancers."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to focus and maintain presence during dance classes and performances."}
+        },
+        {
+            "competencyText": {"en-us": "Practice purposefully, over time, to improve technique and performance in a choreographed piece."}
+        },
+        {
+            "competencyText": {"en-us": "Follow and repeat movement on the opposite side of the body or in reverse order."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt and apply ensemble corrections to personal work."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic posture, engage abdominal muscles, lengthen the spine, and show awareness of shoulder-to-hip line.  "}
+        },
+        {
+            "competencyText": {"en-us": "Increase strength, flexibility, and range of motion in the joints based on an awareness of safe practices and knowledge of basic anatomy and physiology."}
+        },
+        {
+            "competencyText": {"en-us": "Practice shifting weight from one leg to another using space and various levels and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a phrase that uses complex changes in rhythms and meters."}
+        },
+        {
+            "competencyText": {"en-us": "Apply understanding of support, weight placement, and center of gravity to attain balance."}
+        },
+        {
+            "competencyText": {"en-us": "Change the expression or intention of a given dance sequence by applying two contrasting dynamic elements."}
+        },
+        {
+            "competencyText": {"en-us": "Dissect dance sequences to understand how movement is initiated, articulated, and practiced, and to develop agility and coordination.  "}
+        },
+        {
+            "competencyText": {"en-us": "Explore the use of sagittal, vertical, and horizontal line."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze individual elements of a choreographic work to determine how they comprise the structure of a dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Review and apply the procedures and structures of class and performance to gain respect for their purposes and the traditions of the discipline."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the positions and movements within a given step or combination."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Make one or more revisions to a given dance phrase and explain how the meaning or feeling was altered."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways in which dance innovators contributed to new directions in the art form."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Practice movements, steps, pantomime, and gestures as a means of communicating ideas or intent without using words."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance terminology as a means of identifying, communicating, and documenting movement vocabulary."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance terminology and/or movement vocabulary to respond to movement based on personal ideas, values, or point of view."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Share and perform dances from diverse cultural or historical backgrounds and describe their significance within their original context."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the dances, music, and authentic costumes from specified world cultures."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Describe historical developments and the continuing evolution of various dance forms."}
+        },
+        {
+            "competencyText": {"en-us": "Classify a dance performance or repertoire piece by origin, genre, or period."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Create a dance, inspired by another art form, which shows one or more connections between the two disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how math and science concepts may be used in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how the self-discipline required in dance training can be applied to other areas of study."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a movement study based on a personal interpretation of a work of art."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the use of world languages in various dance genres."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effectiveness of combining other works of art with specified works of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the impact of technology on a specified work of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate creative risk-taking when improvising or developing a dance phrase."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Identify dance and dance-related businesses in the community and describe their impact."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Show leadership by sharing ideas or by demonstrating or teaching skills to others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Examine and discuss exemplary works to gain ideas for creating dance studies with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Process, sequence, and demonstrate new material quickly and accurately with energy, expression, and clarity."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate, using personal and established criteria, how choreographic structures and/or production elements were designed to impact mood or aesthetic value within a dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and discuss the function and importance of physical and cognitive rehearsal in the retention, recall, and performance of movement."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Solve challenges in technique and composition by visualizing and applying creative solutions."}
+        },
+        {
+            "competencyText": {"en-us": "Reflect on critiques from a variety of sources to improve technique and the creative process, and to make decisions about one\u2019s work."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze an artist\u2019s work, using selected criteria, and describe its effectiveness in communicating meaning and specific intent."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate key elements observed in historically significant, exemplary works of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Explore dance phrases to investigate choreographic principles and structures."}
+        },
+        {
+            "competencyText": {"en-us": "Experiment with improvisational exercises to develop creative risk-taking capacities."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the possibilities and limitations of the body through short dance sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Use kinesthetic knowledge to demonstrate comprehension of partnering and movement relationships between two or more dancers."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Sustain focused attention, respect, and discipline during classes and performances."}
+        },
+        {
+            "competencyText": {"en-us": "Memorize and replicate movement sequences with speed and accuracy in class or audition settings."}
+        },
+        {
+            "competencyText": {"en-us": "Explore the complexity of sequencing through reversing and reordering movement sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Transfer corrections or concepts from the execution of one class exercise to another."}
+        },
+        {
+            "competencyText": {"en-us": "Rehearse to improve the performance quality of dance pieces."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Use and maintain principles of alignment in locomotor and non-locomotor movements."}
+        },
+        {
+            "competencyText": {"en-us": "Develop strength, stamina, flexibility, and range of motion through safe practices and knowledge of basic anatomy and physiology."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the mechanics of movement transitions and weight changes."}
+        },
+        {
+            "competencyText": {"en-us": "Perform, using dance technique, with musical accuracy and expression."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a variety of movements while vertical, off-vertical, or balancing on one leg."}
+        },
+        {
+            "competencyText": {"en-us": "Change the expression or intention of a dance sequence by manipulating one or more dynamic elements."}
+        },
+        {
+            "competencyText": {"en-us": "Practice a variety of dance sequences to increase agility and coordination in movement patterns."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and demonstrate a sense of line that is appropriate to the style of a given dance form."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare characteristics of two dance forms."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate, without prompting, procedures expected in class, rehearsal, and performance with independence."}
+        },
+        {
+            "competencyText": {"en-us": "Dissect a dance step or combination to reveal the underlying steps, positions, related steps, and possible variations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the order and purpose of a logical and healthful dance class."}
+        },
+        {
+            "competencyText": {"en-us": "Identify, define, and give examples of the elements of dance and/or principles of design to show how they give structure to a dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Create a dance phrase and revise one or more elements to add interest and diversity to the piece."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the innovations of selected dance pioneers transformed specified dance genres."}
+        },
+        {
+            "competencyText": {"en-us": "Research and discuss examples of dance performed in venues other than the conventional proscenium theater and analyze how they were adapted to fit the space."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Express concrete and abstract concepts through dance."}
+        },
+        {
+            "competencyText": {"en-us": "Create physical images to communicate the intent of a movement, phrase, or dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Record dance sequences using accurate dance terminology to identify movements, positions, and shapes."}
+        },
+        {
+            "competencyText": {"en-us": "Research existing methods of recording or documenting dance as a way of sharing and preserving it."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance, theatre, and anatomical terminology to communicate with others in and related to the field of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and execute characteristic rhythms in dances representing one or more cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Research and discuss the influence that social dances have had on the development of classical, theatrical, modern, and contemporary dance genres."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss issues related to plagiarism and appropriation of choreographic works and other intellectual property."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze dance in various cultural and historical periods, and discuss how it has changed over time."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the roles of dance in various cultures."}
+        },
+        {
+            "competencyText": {"en-us": "Predict, using one\u2019s imagination and knowledge of history and technology, how dance may be designed and/or presented in the future."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate response and reaction, through movement sequences, to various sources of inspiration."}
+        },
+        {
+            "competencyText": {"en-us": "Compare elements and principles of composition with elements and principles of other art forms."}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of the body, acquired in dance, science, and/or physical education, to improve health and strength."}
+        },
+        {
+            "competencyText": {"en-us": "Create or perform a dance piece using ideas and principles common to dance and another art form."}
+        },
+        {
+            "competencyText": {"en-us": "Practice using world languages and accurate dance terminology suitable to each dance genre."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and respond to works by master choreographers who have used innovative technology and integrated information from non-dance content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Explore use of technology as a tool for creating, refining, and responding to dance."}
+        },
+        {
+            "competencyText": {"en-us": "Practice creative risk-taking through dance improvisation and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the roles of dance production personnel."}
+        },
+        {
+            "competencyText": {"en-us": "Identify local or regional resources to understand their importance to dancers."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership, preparedness, and adaptability by sharing ideas or teaching skills to others in small and large groups."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and make use of a broad array of resources to update and strengthen skills and/or knowledge in the field."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare auditions and audition skills for schools, companies, and/or commercial work in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain documentation of dance-related activities, including a repertory sheet, to prepare for résumé-writing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe basic functions of skeletal and muscular systems."}
+        },
+        {
+            "competencyText": {"en-us": "Research and reference common dance injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "Critical Thinking and Reflection"}
+        },
+        {
+            "competencyText": {"en-us": "Cognition and reflection are required to appreciate, interpret, and create with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Research and reflect on historically significant and/or exemplary works of dance as inspiration for creating with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Apply replication, physical rehearsal, and cognitive rehearsal to aid in the mental and physical retention of patterns, complex steps, and sequences performed by another dancer."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and articulate criteria for use in critiquing dance, drawing on background knowledge and personal experience, to show independence in one&rsquo;s response."}
+        },
+        {
+            "competencyText": {"en-us": "Weigh and discuss the personal significance of using both physical and cognitive rehearsal over time to strengthen one&rsquo;s own retention of patterns, complex steps, and sequences for rehearsal and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Assessing our own and others\u2019 artistic work, using critical-thinking, problem-solving, and decision-making skills, is central to artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze movement from varying perspectives and experiment with a variety of creative solutions to solve technical or choreographic challenges."}
+        },
+        {
+            "competencyText": {"en-us": "Make informed critical assessments of the quality and effectiveness of one&rsquo;s own technique and performance quality, based on criteria developed from a variety of sources, to support personal competence and artistic growth."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a plan to improve technique, performance quality, and/or compositional work with artistic intent."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate nuances of movement and their relationship to style, choreographic elements, and/or other dancers, and apply this knowledge to alter personal performance."}
+        },
+        {
+            "competencyText": {"en-us": "The processes of critiquing works of art lead to development of critical-thinking skills transferable to other contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Critique the quality and effectiveness of performances based on exemplary models and self-established criteria."}
+        },
+        {
+            "competencyText": {"en-us": "Assess artistic or personal challenges, holistically and in parts, to explore and weigh potential solutions to problems in technique or composition."}
+        },
+        {
+            "competencyText": {"en-us": "Skills, Techniques, and Processes"}
+        },
+        {
+            "competencyText": {"en-us": "The arts are inherently experiential and actively engage learners in the processes of creating, interpreting, and responding to art."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize a variety of choreographic principles and structures to create a dance."}
+        },
+        {
+            "competencyText": {"en-us": "Generate choreographic ideas through improvisation and physical brainstorming."}
+        },
+        {
+            "competencyText": {"en-us": "Identify muscular and skeletal structures that facilitate or inhibit rotation, flexion, and/or extension."}
+        },
+        {
+            "competencyText": {"en-us": "Create dance studies using dance vocabulary and innovative movement."}
+        },
+        {
+            "competencyText": {"en-us": "Development of skills, techniques, and processes in the arts strengthens our ability to remember, focus on, process, and sequence information."}
+        },
+        {
+            "competencyText": {"en-us": "Sustain focused attention, respect, and discipline during class, rehearsal, and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Apply corrections and concepts from previously learned steps to different material to improve processing of new information."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to manipulate, reverse, and reorganize combinations to increase complexity of sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate retention of directions, corrections, and memorization of dance from previous rehearsals and classes."}
+        },
+        {
+            "competencyText": {"en-us": "Through purposeful practice, artists learn to manage, master, and refine simple, then complex, skills and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate and consistently apply principles of alignment to axial, locomotor, and non-locomotor movement."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and maintain flexibility, strength, and stamina for wellness and performance."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate movement transitions and change of weight, in and through space, with clear intention and expression appropriate to one or more dance forms."}
+        },
+        {
+            "competencyText": {"en-us": "Perform dance vocabulary with musicality and sensitivity."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain balance while performing movements that are vertical, off-vertical, or use a reduced base of support."}
+        },
+        {
+            "competencyText": {"en-us": "Use resistance, energy, time, and focus to vary expression and intent."}
+        },
+        {
+            "competencyText": {"en-us": "Move with agility, alone and relative to others, to perform complex dance sequences."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate and apply a stylistically appropriate sense of line to enhance artistry in one or more dance forms."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate mastery of dance technique to perform technical skills in complex patterns with rhythmic acuity, musicality, and clear intent, purpose, expression, and accuracy."}
+        },
+        {
+            "competencyText": {"en-us": "Articulate and consistently apply principles of alignment to ballet barre, center, and across-the-floor combinations."}
+        },
+        {
+            "competencyText": {"en-us": "Move with agility and coordination, alone and relative to others, to perform developmentally and technically appropriate ballet vocabulary in combinations."}
+        },
+        {
+            "competencyText": {"en-us": "Organizational Structure"}
+        },
+        {
+            "competencyText": {"en-us": "Understanding the organizational structure of an art form provides a foundation for appreciation of artistic works and respect for the creative process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare dances of different styles, genres, and forms to show understanding of how the different structures and movements give the dance identity."}
+        },
+        {
+            "competencyText": {"en-us": "Apply standards of class and performance etiquette consistently to attain optimal working conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Dissect or assemble a step, pattern, or combination to show understanding of the movement, terminology, and progression."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze, design, and facilitate an instructional sequence to show understanding of how the structure of dance classes relates to the overall development of the dancer."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a dance that uses specific choreographic structures to express an idea and show understanding of continuity and framework."}
+        },
+        {
+            "competencyText": {"en-us": "The structural rules and conventions of an art form serve as both a foundation and departure point for creativity."}
+        },
+        {
+            "competencyText": {"en-us": "Manipulate elements, principles of design, or choreographic devices creatively to make something new, and evaluate the effectiveness of the changes."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and research innovative artists and their bodies of work to identify and analyze how they departed from convention."}
+        },
+        {
+            "competencyText": {"en-us": "Create or adapt a dance piece for potential installation in a variety of venues or with a different set of performers."}
+        },
+        {
+            "competencyText": {"en-us": "Every art form uses its own unique language, verbal and non-verbal, to document and communicate with the world."}
+        },
+        {
+            "competencyText": {"en-us": "Perform dance pieces to express feelings, ideas, cultural identity, music, and other abstract concepts through movements, steps, pantomime, and gestures."}
+        },
+        {
+            "competencyText": {"en-us": "Use imagery, analogy, and metaphor to improve body alignment and/or enhance the quality of movements, steps, phrases, or dances."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and describe, using accurate dance terminology, the purposes, possible variations, and connections of dance vocabulary."}
+        },
+        {
+            "competencyText": {"en-us": "Devise and/or use a method of recording or documenting choreography to remember and archive works."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate dance and theatre terminology to communicate effectively with teachers, directors, dancers, and technical crews."}
+        },
+        {
+            "competencyText": {"en-us": "Historical and Global Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Through study in the arts, we learn about and honor others and the worlds in which they live(d)."}
+        },
+        {
+            "competencyText": {"en-us": "Explore and select music from a broad range of cultures to accompany, support, and/or inspire choreography."}
+        },
+        {
+            "competencyText": {"en-us": "Study dance works created by artists of diverse backgrounds, and use their work as inspiration for performance or creating new works."}
+        },
+        {
+            "competencyText": {"en-us": "Adhere to copyright laws for choreography and music licensing to show respect for the intellectual property of others."}
+        },
+        {
+            "competencyText": {"en-us": "Observe, practice, and/or discuss a broad range of historical, cultural, or social dances to broaden a personal perspective of the world."}
+        },
+        {
+            "competencyText": {"en-us": "Research the purposes, past and present, of dance in varied cultures and document its social and political impact on cultures over time."}
+        },
+        {
+            "competencyText": {"en-us": "Survey specific, exemplary repertory and summarize why it has been judged, over time, as having a high level of technique, aesthetic appeal, cultural influence, and/or social value."}
+        },
+        {
+            "competencyText": {"en-us": "The arts reflect and document cultural trends and historical events, and help explain how new directions in the arts have emerged."}
+        },
+        {
+            "competencyText": {"en-us": "Survey cultural trends and historically significant events, in parallel with the history of dance, to understand how each helped shape dance as an art form."}
+        },
+        {
+            "competencyText": {"en-us": "Explore how perceptions of gender, race, age, and physical ability have challenged dance artists in various cultures, and how changing perceptions have affected dance as an art form."}
+        },
+        {
+            "competencyText": {"en-us": "Hypothesize how dance will look in the future and defend that hypothesis, based on history and social trends, to show understanding of their importance to the development of dance."}
+        },
+        {
+            "competencyText": {"en-us": "Connections among the arts and other disciplines strengthen learning and the ability to transfer knowledge and skills to and from other fields.  "}
+        },
+        {
+            "competencyText": {"en-us": "Compare the creative processes used by a choreographer with those used by other creative individuals, noting the connections in the way they conceive, create, and/or present their work."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of story or internal logic in dance and identify commonalities with other narrative formats."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of proper nutrition, injury prevention, and safe practices to optimal performance and the life-long health of a dancer."}
+        },
+        {
+            "competencyText": {"en-us": "Improvise or choreograph and share a dance piece that demonstrates and kinesthetically reinforces understanding of a process studied in another content area."}
+        },
+        {
+            "competencyText": {"en-us": "Use, proficiently and accurately, the world language(s) appropriate to the study of a dance genre."}
+        },
+        {
+            "competencyText": {"en-us": "Innovation, Technology, and the Future"}
+        },
+        {
+            "competencyText": {"en-us": "Creating, interpreting, and responding in the arts stimulate the imagination and encourage innovation and creative risk-taking."}
+        },
+        {
+            "competencyText": {"en-us": "Study and/or perform exemplary works by choreographers who use new and emerging technology to stimulate the imagination."}
+        },
+        {
+            "competencyText": {"en-us": "Imagine, then describe and/or demonstrate, ways to incorporate new, emerging, or familiar technology in the creation of an innovative dance project or product."}
+        },
+        {
+            "competencyText": {"en-us": "Employ acquired knowledge to stimulate creative risk-taking and broaden one&rsquo;s own dance technique, performance, and choreography."}
+        },
+        {
+            "competencyText": {"en-us": "Careers in and related to the arts significantly and positively impact local and global economies."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and report potential careers, requirements for employment, markets, potential salaries, and the degree of competition in dance and dance-related fields."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate local, regional, state, national, and global resources to support dance-related work and study."}
+        },
+        {
+            "competencyText": {"en-us": "Research the breadth and depth to which a dance company or performing arts center enhances the local and regional economy."}
+        },
+        {
+            "competencyText": {"en-us": "The 21st-century skills necessary for success as citizens, workers, and leaders in a global economy are embedded in the study of the arts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership and responsibility through designing choreography, planning rehearsals, or directing a dance piece."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize information and make use of a variety of experiences and resources from outside dance class to inform and inspire one&rsquo;s work as a dancer."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate preparedness to audition for schools, companies, and/or commercial work in dance."}
+        },
+        {
+            "competencyText": {"en-us": "Design a repertory list and/or r&eacute;sum&eacute; for application to higher education or the workforce that highlights marketable skills and knowledge gained through dance training."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of basic anatomy, the vertebral structure, physiology, and kinesiology related to dance technique and conditioning."}
+        },
+        {
+            "competencyText": {"en-us": "Practice conditioning methods that complement the physical instrument, and determine the degree of personal improvement in established dance techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Create and follow a plan to meet deadlines for projects to show initiative and self-direction."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective teamwork and accountability, using compromise, collaboration, and conflict resolution, to set and achieve goals as required in the work environment."}
+        },
+        {
+            "competencyText": {"en-us": "Choreograph, plan rehearsals, direct, and produce a concert piece; and evaluate the results to demonstrate artistic ability, leadership, and responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "Use accurate anatomical terminology to identify planes, regions, bones, muscles, and tissues."}
+        }
+    ]
+}

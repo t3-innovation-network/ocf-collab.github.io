@@ -1,0 +1,505 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/54a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Marketing, Sales, and Service"},
+        "description": {"en-us": "CTE-Marketing, Sales, and Service Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "General"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Marketing, Sales & Service cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Marketing, Sales & Service career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Marketing, Sales & Service career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Marketing, Sales & Service career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Marketing, Sales & Service career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Marketing, Sales & Service career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Marketing, Sales & Service career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Marketing, Sales & Service career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify general marketing activities."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of marketing in the economy."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and define selected marketing terms."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major marketing activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities available in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve selling."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve promotion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve risk management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve pricing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve finance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve marketing information management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve product and service planning."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities which involve distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career opportunities at the entry, career sustaining, specialist, and manager and entrepreneur level for marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements for marketing careers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of selling."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of promotion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of risk management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of pricing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of finance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of marketing information management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of product and service planning."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements in the area of distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment requirements at the entry, career sustaining, specialist, and manager and entrepreneur level for marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify programs instrumental in developing career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify senior high school marketing education programs available to students who desire a career in marketing (e.g., fashion marketing, travel and tourism, finance, entrepreneurship, international marketing)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify post-secondary education opportunities in marketing (e.g., real estate, insurance, hospitality, customer service, travel)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify human relations skills that will enable students to succeed in their career goals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify acceptable grooming and health habits."}
+        },
+        {
+            "competencyText": {"en-us": "State the importance of dependability and responsible behavior."}
+        },
+        {
+            "competencyText": {"en-us": "State the importance of a positive attitude."}
+        },
+        {
+            "competencyText": {"en-us": "State the importance of getting along with co-workers, employers, and other business associates."}
+        },
+        {
+            "competencyText": {"en-us": "Identify advantages of Distributive Education Clubs of America (DECA) and Collegiate DECA, associations of marketing students."}
+        },
+        {
+            "competencyText": {"en-us": "Identify DECA and Collegiate DECA and the role of each organization in marketing education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the purposes of DECA and Collegiate DECA."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the advantages of student involvement in DECA and Collegiate DECA."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the leadership opportunities available through DECA and Collegiate DECA."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the competitive event opportunities available through DECA and Collegiate DECA."}
+        },
+        {
+            "competencyText": {"en-us": "Identify local DECA and Collegiate DECA chapters."}
+        },
+        {
+            "competencyText": {"en-us": "Identify foundational skills required in marketing careers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify economic skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify marketing, business, and entrepreneurship skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify communication and interpersonal skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify professional development skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify human resource skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify computer skills used in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions of marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of risk management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of selling."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of promotion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of pricing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of purchasing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of marketing information management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of product and service management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the role of finance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic economic environment in marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Explain private enterprise."}
+        },
+        {
+            "competencyText": {"en-us": "Explain profit motive."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the relationships between people's wants and needs and marketing activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the education needed, tasks performed, and employment opportunities for individuals who wish to enter marketing services occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify marketing services occupations (e.g. food service, hospitality, travel and tourism, finance, international marketing, insurance, real estate, entrepreneurship)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic tasks performed by employees within each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment opportunities available for each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "State the educational requirements to prepare students for entry-level employment in marketing services occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify educational programs available in the state for advanced training in specific occupations related to marketing services in secondary through postsecondary education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify procedures involved in choosing, applying for, keeping and progressing in marketing occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the tasks involved in choosing a marketing occupation (self-inventory, interest survey, research, aptitude test batteries)."}
+        },
+        {
+            "competencyText": {"en-us": "List the steps in applying for a job, including the aspects of online job searches."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a sample job application form using digital apps."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the necessary communication skills involved in online, virtual or video conferences, and in-person interviews."}
+        },
+        {
+            "competencyText": {"en-us": "Identify those characteristics that help people obtain, hold, and progress in marketing-related occupations (e.g. digital citizenship, personal branding, and social media etiquette)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an individual career plan including a four to six year plan for advanced training in a marketing career."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate social media sites and online portfolios."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the impact of technology on marketing occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology, including interactive social media and video storytelling strategies, has changed the way retail businesses operate."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology, including interactive social media and video storytelling strategies, has changed the way wholesale businesses operate."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology, including interactive social media and video storytelling strategies, has changed the way product merchandising businesses operate."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how technology, including interactive social media and video storytelling strategies, has changed the way marketing services businesses operate."}
+        },
+        {
+            "competencyText": {"en-us": "Develop individualized education and career plans related to marketing occupational goals."}
+        },
+        {
+            "competencyText": {"en-us": "Complete self-assessments and career analysis activities to determine potential success in marketing career fields."}
+        },
+        {
+            "competencyText": {"en-us": "Research a marketing-related career; identify employment opportunities and educational requirements for advancement."}
+        },
+        {
+            "competencyText": {"en-us": "Project the career level and earnings required to obtain a desired standard of living."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize career information to develop an individualized career plan; include a plan to meet educational requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use the terminology associated with the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the e-marketing career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the e-marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Merchandising"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the buying and merchandising career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the buying and merchandising career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the education needed, tasks performed, and employment opportunities for individuals who wish to enter occupations related to product merchandising and the online marketplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify product merchandising related occupations (e.g., fashion, retailing, food marketing, home furnishings, sporting goods, parts marketing, specialty products, wholesaling, business ownership)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic tasks performed by employees within each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment opportunities available in each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "State the educational requirements to prepare a student for entry-level employment in occupations related to product merchandising."}
+        },
+        {
+            "competencyText": {"en-us": "Identify educational programs available in the state for advanced training in occupations related to product merchandising in secondary through postsecondary education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the education needed, tasks performed, and employment opportunities for individuals who wish to enter wholesaling occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify wholesaling occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic tasks performed by employees within each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employment opportunities available for each of the occupations."}
+        },
+        {
+            "competencyText": {"en-us": "State the educational requirements to prepare a student for entry-level employment in wholesaling occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify educational programs available in the state for advanced training in occupations related to wholesaling in secondary through postsecondary education."}
+        },
+        {
+            "competencyText": {"en-us": "Marketing Communications"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the marketing communications and promotion career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the marketing communications and promotion career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Marketing Management"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the management and entrepreneurship career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the management and entrepreneurship career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the distribution and logistics career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the distribution and logistics career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Marketing Research"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the marketing information management and research career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the marketing information management and research career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Professional Sales"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the professional sales and marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use terminology associated with the professional sales and marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers available in the professional sales and marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the professional sales and marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the professional sales and marketing career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the professional sales and marketing career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in the professional sales and marketing career pathway."}
+        }
+    ]
+}

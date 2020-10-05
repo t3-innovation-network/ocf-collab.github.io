@@ -1,0 +1,1921 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/09876a91-a9a1-50a8-a99f-6a1dd0435b91",
+        "name": {"en-us": "Chapter 116. Physical Education"},
+        "description": {"en-us": "Chapter 116. Physical Education"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Subchapter A. Elementary"}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Kindergarten."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.2 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "In Grades K-2, children learn fundamental movement skills and begin to understand how the muscles, bones, heart, and lungs function in relation to physical activity. Students begin to develop a vocabulary for movement and apply concepts dealing with space and body awareness. Students are engaged in activities that develop basic levels of strength, endurance, and flexibility. In addition, students learn to work safely in group and individual movement settings. A major objective is to present activities that complement their natural inclination to view physical activity as challenging and enjoyable."}
+        },
+        {
+            "competencyText": {"en-us": "The focus for kindergarten students is on learning basic body control while moving in a variety of settings. Students become aware of strength, endurance and flexibility in different parts of their bodies and begin to learn ways to increase health-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "travel in different ways in a large group without bumping into others or falling;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate clear contrasts between slow and fast movement when traveling;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate non-locomotor (axial) movements such as bend and stretch;"}
+        },
+        {
+            "competencyText": {"en-us": "maintain balance while bearing weight on a variety of body parts;"}
+        },
+        {
+            "competencyText": {"en-us": "walk forward and sideways the length of a beam without falling;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate a variety of relationships such as under, over, behind, next to, through, right, left, up, down, forward, backward, and in front of;"}
+        },
+        {
+            "competencyText": {"en-us": "roll sideways (right or left) without hesitating; and"}
+        },
+        {
+            "competencyText": {"en-us": "toss a ball and catch it before it bounces twice."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify selected body parts such as head, back, chest, waist, hips, arms, elbows, wrists, hands, fingers, legs, knees, ankles, feet, and toes; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate movement forms of various body parts such as head flexion, extension, and rotation."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide opportunities for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis that cause increased heart rate, breathing rate, and perspiration;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in appropriate exercises for flexibility in shoulders, legs, and trunk;"}
+        },
+        {
+            "competencyText": {"en-us": "lift and support his/her own weight in selected activities that develop muscular strength and endurance of the arms, shoulders, abdomen, back, and legs such as hanging, hopping, and jumping; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the benefits from involvement in daily physical activity such as feel better and sleep better."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from being involved in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "observe and describe the immediate effect of physical activity on the heart and breathing rate and perspiration;"}
+        },
+        {
+            "competencyText": {"en-us": "locate the lungs and explain their purpose; and"}
+        },
+        {
+            "competencyText": {"en-us": "state that rest and sleep are important in caring for the body."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands safety practices associated with physical activity and space. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment and space properly;"}
+        },
+        {
+            "competencyText": {"en-us": "know and apply safety practices associated with physical activity such as not pushing in line and drinking water during activity;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how proper shoes and clothing promotes safe play and prevent injury;"}
+        },
+        {
+            "competencyText": {"en-us": "explain appropriate water safety rules such as never swim alone, never run around pools, look before you jump, enter feet first, and know the role of the lifeguard; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain appropriate reactions during emergencies in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "respond appropriately to starting and stopping signals; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to play within boundaries during games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "follow rules, procedures, and safe practices;"}
+        },
+        {
+            "competencyText": {"en-us": "work in a group setting in cooperation with others; and"}
+        },
+        {
+            "competencyText": {"en-us": "share space and equipment with others."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 1."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.3 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "First grade students continue to develop basic body control, fundamental movement skills, and health-related fitness components such as strength, endurance, and flexibility. Students can state key performance cues for basic movement patterns such as throwing and catching. Students continue to learn rules and procedures for simple games and apply safety practices associated with physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an awareness of personal and general space while moving at different directions and levels such as high, medium, and low;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate proper foot patterns in hopping, jumping, skipping, leaping, galloping, and sliding;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate control in balancing and traveling activities;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to work with a partner such as leading and following;"}
+        },
+        {
+            "competencyText": {"en-us": "clap in time to a simple rhythmic beat;"}
+        },
+        {
+            "competencyText": {"en-us": "create and imitate movement in response to selected rhythms;"}
+        },
+        {
+            "competencyText": {"en-us": "jump a long rope; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate on cue key elements in overhand throw, underhand throw, and catch."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "recognize that motor skill development requires correct practice; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate a base of support and explain how it affects balance."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health-enhancing, physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide opportunities for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis that cause increased heart rate, breathing rate, and perspiration;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in appropriate exercises for flexibility in shoulders, legs, and trunk; and"}
+        },
+        {
+            "competencyText": {"en-us": "lift and support his/her own weight in selected activities that develop muscular strength and endurance of the arms, shoulders, abdomen, back, and legs such as hanging, hopping, and jumping."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from being involved in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between active and inactive lifestyles;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the location and function of the heart;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how muscles and bones work together to produce movement;"}
+        },
+        {
+            "competencyText": {"en-us": "describe food as a source of energy; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the negative effects of smoking, lack of sleep, and poor dietary habits on physical performance and on the body."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment and space safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of protective equipment in preventing injury such as helmets, elbow/knee pads, wrist guards, proper shoes, and clothing;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how to protect himself/herself from harmful effects of the sun;"}
+        },
+        {
+            "competencyText": {"en-us": "list water safety rules and demonstrate simple extension rescue; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe and demonstrate appropriate reactions to emergency situations common to physical activity settings such as universal safety precautions, and calling 911."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate starting and stopping signals; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain boundaries and rules for simple games."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "follow directions and apply safe movement practices;"}
+        },
+        {
+            "competencyText": {"en-us": "interact, cooperate, and respect others; and"}
+        },
+        {
+            "competencyText": {"en-us": "resolve conflicts in socially acceptable ways such as talking and asking the teacher for help."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 2."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.4 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Second grade students learn to demonstrate key elements of fundamental movement skills and mature form in locomotive skills. Students learn to describe the function of the heart, lungs, and bones as they relate to movement. Students are introduced to basic concepts of health promotion such as the relationship between a physically-active lifestyle and the health of the heart. Students learn to work in a group and demonstrate the basic elements of socially responsible conflict resolution."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "travel independently in a large group while safely and quickly changing speed and direction;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate skills of chasing, fleeing, and dodging to avoid or catch others;"}
+        },
+        {
+            "competencyText": {"en-us": "combine shapes, levels, and pathways into simple sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate mature form in walking, hopping, and skipping;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate balance in symmetrical and non-symmetrical shapes from different basis of support;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate a variety of relationships in dynamic movement situations such as under, over, behind, next to, through, right, left, up, or down;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate simple stunts that exhibit personal agility such as jumping-one and two foot takeoffs and landing with good control;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate smooth transition from one body part to the next in rolling activities such as side roll, log roll, balance/curl, and roll/balance in a new position;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate control weight transfers such as feet to hands with controlled landing and feet to back;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to mirror a partner;"}
+        },
+        {
+            "competencyText": {"en-us": "walk in time to a 4/4 underlying beat;"}
+        },
+        {
+            "competencyText": {"en-us": "perform rhythmical sequences such as simple folk, creative, and ribbon routines;"}
+        },
+        {
+            "competencyText": {"en-us": "jump a self-turned rope repeatedly; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate on cue key elements of hand dribble, foot dribble, kick and strike such as striking balloon or ball with hand."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "recognize that attention to the feeling of movement is important in motor skill development; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify similar movement concepts and terms in a variety of skills such as straddle position, ready position, and bending knees to absorb force."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide opportunities for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis that cause increased heart rate, breathing rate, and perspiration;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in appropriate exercises for flexibility in shoulders, legs, and trunk; and"}
+        },
+        {
+            "competencyText": {"en-us": "lift and support his/her weight in selected activities that develop muscular strength and endurance of the arms, shoulders, abdomen, back, and legs such as hanging, hopping, and jumping."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from involvement in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify how regular physical activity strengthens the heart, lungs, and muscular system;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how the blood carries oxygen and nutrients through the body;"}
+        },
+        {
+            "competencyText": {"en-us": "identify foods that enhance a healthy heart;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the need for foods as a source of nutrients that provide energy for physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the negative effects of smoking on the lungs and the ability to exercise; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the need for rest and sleep in caring for the body."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment and space safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use appropriate protective equipment in preventing injuries such as helmets, elbow/knee pads, wrist guards, proper shoes, and clothing;"}
+        },
+        {
+            "competencyText": {"en-us": "list the effects the sun has on the body and describe protective measures such as sunscreen, hat, and long sleeves;"}
+        },
+        {
+            "competencyText": {"en-us": "list water safety rules and describe their importance;"}
+        },
+        {
+            "competencyText": {"en-us": "identify safe cycling and road practices; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate reactions to emergency situations common to physical activity settings such as universal safety precautions and dialing 911."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify goals to be accomplished during simple games such as not getting tagged; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify strategies in simple games and activities such as dodging to avoid being tagged."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "display good sportsmanship; and"}
+        },
+        {
+            "competencyText": {"en-us": "treat others with respect during play."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 3."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.5 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "In Grades 3-5, students continue to develop strength, endurance, and flexibility. Students can demonstrate mature form in fundamental locomotor and manipulative skills and can often maintain that form while participating in dynamic game situations. Identifying personal fitness goals for themselves and beginning to understand how exercise affects different parts of the body is an important part of the instructional process."}
+        },
+        {
+            "competencyText": {"en-us": "In Grade 3, students begin to learn and demonstrate more mature movement forms. Students also learn age-specific skills and the health benefits of physical activity. Students begin to learn game strategies, rules, and etiquette."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "travel in forward, sideways, and backwards and change direction quickly and safely in dynamic situations;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate proper form and smooth transitions during combinations of fundamental locomotor and body control skills such as running and jumping safely in dynamic situations;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate mature form in jogging, running, and leaping;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate moving in and out of a balanced position with control;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate proper body alignment in lifting, carrying, pushing, and pulling;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate control and appropriate form such as curled position and protection of neck in rolling activities such as forward roll, shoulder roll, and safety rolls;"}
+        },
+        {
+            "competencyText": {"en-us": "transfer on and off equipment with good body control such as boxes, benches, stacked mats, horizontal bar, and balance beam;"}
+        },
+        {
+            "competencyText": {"en-us": "clap echoes in a variety of one measure rhythmical patterns;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate various step patterns and combinations of movement in repeatable sequences; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate key elements in manipulative skills such as underhand throw, overhand throw, catch and kick such as position your side to the target."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify similar positions in a variety of movements such as straddle positions, ready position, and bending knees to absorb force; and"}
+        },
+        {
+            "competencyText": {"en-us": "know that practice, attention and effort are required to improve skills."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis that cause increased heart rate, breathing rate, and perspiration;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in appropriate exercises for developing flexibility;"}
+        },
+        {
+            "competencyText": {"en-us": "lift and support his/her own weight in selected activities that develop muscular strength and endurance of the arms, shoulders, abdomen, back, and legs such as hanging, hopping, and jumping; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify opportunities for participation in physical activity in the community such as little league and parks and recreation."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from involvement in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the long term effects of physical activity on the heart;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between aerobic and anaerobic activities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify foods that increase or reduce bodily functions; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify principles of good posture and its impact on physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply safety precautions when walking, jogging, and skating in the community such as use sidewalks, walk on the left side of street when facing traffic, wear lights/reflective clothing, and be considerate of other pedestrians; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify exercise precautions such as awareness of temperature and weather conditions and need for warm-up and cool-down activities."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify components of games that can be modified to make the games and participants more successful; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of basic rules in games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "follow rules, procedures, and etiquette;"}
+        },
+        {
+            "competencyText": {"en-us": "persevere when not successful on the first try in learning movement skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "accept and respect differences and similarities in physical abilities of self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 4."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.6 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Fourth grade students learn to identify the components of health-related fitness. Students combine locomotor and manipulative skills in dynamic situations with body control. Students begin to identify sources of health fitness information and continue to learn about appropriate clothing and safety precautions in exercise settings."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate changes in speed during straight, curved, and zig zag pathways in dynamic situations;"}
+        },
+        {
+            "competencyText": {"en-us": "catch an object while traveling such as catch a football pass on the run;"}
+        },
+        {
+            "competencyText": {"en-us": "combine shapes, levels, pathways, and locomotor patterns smoothly into repeatable sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "jump and land for height and distance using key elements for creating and absorbing force such as bending knees, swinging arms, and extending;"}
+        },
+        {
+            "competencyText": {"en-us": "perform sequences that include traveling, showing good body control combined with stationary balances on various body parts;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate body control in jumping and landing such as land on feet, bend knees, and absorb force;"}
+        },
+        {
+            "competencyText": {"en-us": "transfer weight along and over equipment with good body control;"}
+        },
+        {
+            "competencyText": {"en-us": "create a movement sequence with a beginning, middle, and end;"}
+        },
+        {
+            "competencyText": {"en-us": "perform basic folk dance steps such as grapevine, schottische, and step-together-step;"}
+        },
+        {
+            "competencyText": {"en-us": "travel into and out of a rope turned by others without hesitating; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate key elements in manipulative skills such as volleying, hand dribble, foot dribble, punt, striking with body part, racquet, or bat."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify similar movement elements in sports skills such as underhand throwing and underhand volleyball serving;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ways movement concepts such as time, space, effort, and relationships can be used to refine movement skills;"}
+        },
+        {
+            "competencyText": {"en-us": "make appropriate changes in performance based on feedback; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe key elements of mature movement patterns of throw for distance or speed such as catch, kick, strike, and jump."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "name the components of health-related fitness such as strength, endurance, and flexibility;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate a variety of exercises that promote flexibility;"}
+        },
+        {
+            "competencyText": {"en-us": "improve flexibility in shoulders, trunk, and legs;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in activities that develop and maintain muscular strength and endurance; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify opportunities for participation in physical activity in the community such as little league and parks and recreation."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from being involved in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the effects of exercise on heart rate through the use of manual pulse checking or heart rate monitors;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis;"}
+        },
+        {
+            "competencyText": {"en-us": "identify methods for measuring cardiovascular endurance, muscular strength and endurance, and flexibility;"}
+        },
+        {
+            "competencyText": {"en-us": "identify major muscle groups and the movements they cause;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the relationship between food intake and physical activity such as calories consumed and calories expended;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the link between physical activity/inactivity and health such as reduce stress and burn calories;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between physical activity and stress relief and demonstrate stress relief activities such as brisk walking, gentle stretching, and muscle tension and release;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the need for rest and sleep in recovering from exercise; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify sources of information on skill improvement, fitness, and health such as books and technology."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and apply safety precautions when cycling and skating; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify potential risks associated with physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between compliance and noncompliance with rules and regulations; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze potential risks associated with unsafe movement and improper use of equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "follow rules, procedures, and etiquette;"}
+        },
+        {
+            "competencyText": {"en-us": "respond to winning and losing with dignity and understanding;"}
+        },
+        {
+            "competencyText": {"en-us": "work independently and stay on task; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective communication, consideration and respect for the feelings of others during physical activities such as encourage others, allow others equal turns, and invite others to participate."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 5."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.7 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Fifth grade students demonstrate competence such as improved accuracy in manipulative skills in dynamic situations. Basic skills such as jumping rope, moving to a beat, and catching and throwing should have been mastered in previous years and can now be used in game-like situations. Students continue to assume responsibility for their own safety and the safety of others. Students can match different types of physical activities to health-related fitness components and explain ways to improve fitness based on the principle of frequency, intensity, and time. Students continue to learn the etiquette of participation and can resolve conflicts during games and sports in acceptable ways."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate use of levels in dynamic movement situations such as jumping high for a rebound and bending knees and lowering center of gravity when guarding an opponent;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate smooth combinations of fundamental locomotor skills such as running and dodging and hop-step-jump;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate attention to form, power, accuracy, and follow-through in performing movement skills;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate controlled balance on a variety of objects such as balance board, stilts, scooters, and skates;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate simple stunts that exhibit agility such as jumping challenges with proper landings;"}
+        },
+        {
+            "competencyText": {"en-us": "combine traveling and rolling with smooth transitions;"}
+        },
+        {
+            "competencyText": {"en-us": "combine weight transfer and balance on mats and equipment;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to contrast a partner's movement;"}
+        },
+        {
+            "competencyText": {"en-us": "perform selected folk dances;"}
+        },
+        {
+            "competencyText": {"en-us": "jump a rope using various rhythms and foot patterns repeatedly;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate competence in manipulative skills in dynamic situations such as overhand throw, catch, shooting, hand dribble, foot dribble, kick, and striking activities such as hitting a softball; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate combinations of locomotor and manipulative skills in complex and/or game-like situations such as pivoting and throwing, twisting and striking, and running and catching."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify common phases such as preparation, movement, follow through, or recovery in a variety of movement skills such as tennis serve, handstand, and free throw;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the importance of various elements of performance for different stages during skill learning such as form, power, accuracy, and consistency; and"}
+        },
+        {
+            "competencyText": {"en-us": "choose appropriate drills/activities to enhance the learning of a specific skill."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health-enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activities on a daily basis that develop health-related fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "identify appropriate personal fitness goals in each of the components of health-related fitness; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the value of participation in community physical activities such as little league and parks and recreation."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from involvement in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "relate ways that aerobic exercise strengthens and improves the efficiency of the heart and lungs;"}
+        },
+        {
+            "competencyText": {"en-us": "self-monitor the heart rate during exercise;"}
+        },
+        {
+            "competencyText": {"en-us": "match different types of physical activity with health-related fitness components;"}
+        },
+        {
+            "competencyText": {"en-us": "define the principle of frequency, intensity, and time and describe how to incorporate these principles to improve fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the structure and function of the muscular and skeletal system as they relate to physical performance such as muscles pull on bones to cause movement, muscles work in pairs, and muscles work by contracting and relaxing;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the relationship between optimal body function and a healthy eating plan such as eating a variety of foods in moderation according to U. S. dietary guidelines;"}
+        },
+        {
+            "competencyText": {"en-us": "describe common skeletal problems and their effect on the body such as spinal curvatures;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the changes that occur in the cardiorespiratory system as a result of smoking and how those changes affect the ability to perform physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe how movement and coordination are effected by alcohol and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of taking personal responsibility for reducing hazards, avoiding accidents, and preventing injuries during physical activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify potentially dangerous exercises and their adverse effects on the body."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe fundamental components and strategies used in net/wall, invasion, target, and fielding games such as basic positions-goalie, offense, or defense; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the concept and importance of team work."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "follow rules, procedures, and etiquette;"}
+        },
+        {
+            "competencyText": {"en-us": "use sportsmanship skills for settling disagreements in socially acceptable ways such as remaining calm, identifying the problem, listening to others, generating solutions, or choosing a solution that is acceptable to all; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe how physical activity with a partner or partners can increase motivation and enhance safety."}
+        },
+        {
+            "competencyText": {"en-us": "Subchapter B. Middle School"}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 6."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.22 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the life span."}
+        },
+        {
+            "competencyText": {"en-us": "In Grades 6-8, students understand in greater detail the function of the body, learn to measure their own performance more accurately, and develop plans for improvement. They learn to use technology such as heart rate monitors to assist in measuring and monitoring their own performance. Identifying the types of activities that provide them with enjoyment and challenge and that will encourage them to be physically active throughout life is reinforced during instruction in these grades."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "perform locomotor skills in dynamic fitness, sport, and rhythmic activities;"}
+        },
+        {
+            "competencyText": {"en-us": "use relationships, levels, speed, direction, and pathways effectively in complex group and individual physical activities such as crouching low for volleyball digs, stretching high during lay-ups, positioning for a soccer pass, or passing ahead of a receiver;"}
+        },
+        {
+            "competencyText": {"en-us": "perform sequences that combine traveling, rolling, balancing, and weight transfer into smooth, flowing sequences;"}
+        },
+        {
+            "competencyText": {"en-us": "move in time to complex rhythmical patterns such as 3/4 time or 6/8 time;"}
+        },
+        {
+            "competencyText": {"en-us": "design and refine a jump rope routine to music;"}
+        },
+        {
+            "competencyText": {"en-us": "throw a variety of objects demonstrating both accuracy and distance such as frisbee, softball, and basketball;"}
+        },
+        {
+            "competencyText": {"en-us": "strike a ball to a wall or a partner with a paddle/racquet using forehand and backhand strokes continuously;"}
+        },
+        {
+            "competencyText": {"en-us": "strike a ball using a golf club or a hockey stick consistently so it travels in an intended direction and height;"}
+        },
+        {
+            "competencyText": {"en-us": "hand and foot dribble while preventing an opponent from stealing the ball;"}
+        },
+        {
+            "competencyText": {"en-us": "keep an object in the air without catching it in a small group such as volleyball and football; and"}
+        },
+        {
+            "competencyText": {"en-us": "throw and catch a ball consistently while guarded by an opponent."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "know that appropriate practice in static and dynamic setting, attention, and effort are required when learning movement skills;"}
+        },
+        {
+            "competencyText": {"en-us": "make appropriate changes in performance based on feedback to improve skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "practice in ways that are appropriate for learning skills such as whole/part/whole, shorter practice distributed over time is better than one long session, or practicing is best in game-like conditions."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify opportunities in the school and community for regular participation in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous health-related physical activities on a regular basis;"}
+        },
+        {
+            "competencyText": {"en-us": "establish and monitor progress toward appropriate personal fitness goals in each of the components of health-related fitness such as personal logs, group projects, and no space/or criterion referenced tests; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify and know how to use technological tools used for measuring and monitoring fitness parameters such as computer programs, heart rate monitors, skin-fold calipers, and impedance testing equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from involvement in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe selected long-term benefits of regular physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "classify activities as being aerobic or anaerobic;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the effects of aerobic exercise on the heart and overall health;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze effects of exercise on heart rate through the use of manual pulse checking and recovery rates, heart rate monitors, perceived exertion scales, and/or computer generated data;"}
+        },
+        {
+            "competencyText": {"en-us": "identify each health-related fitness component and describe how participating in cardiovascular endurance, muscular strength and endurance, and flexibility actions impact personal fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "identify specific foods that contain protein, vitamins, and minerals that are key elements to optimal body function;"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the effects of substance abuse on personal health and performance in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze ways outside influences affect decisions about care of the body such as alcohol and tobacco advertising and peer pressure; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize that idealized images of the human body and performance as presented by the media may not be appropriate to imitate."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "include warm-up and cool-down procedures regularly during exercise; monitor potentially dangerous environmental conditions such as wind, cold, heat, and insects; and recommend prevention and treatment;"}
+        },
+        {
+            "competencyText": {"en-us": "identify potentially dangerous exercises and their adverse effects on the body; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain water safety and basic rescue procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "know basic rules for sports played such as setting up to start, restarting, violating rules; and"}
+        },
+        {
+            "competencyText": {"en-us": "keep accurate score during a contest."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "participate in establishing rules, procedures, and etiquette that are safe and effective for specific activity situations;"}
+        },
+        {
+            "competencyText": {"en-us": "handle conflicts that arise with others without confrontation;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and follow rules while playing sports and games;"}
+        },
+        {
+            "competencyText": {"en-us": "accept decisions made by game officials such as student, teachers, and officials outside the school;"}
+        },
+        {
+            "competencyText": {"en-us": "accept successes and performance limitations of self and others, exhibit appropriate behavior responses, and recognize that improvement is possible with appropriate practice; and"}
+        },
+        {
+            "competencyText": {"en-us": "modify games/activities to improve the game/activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 7."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.23 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Seventh grade students apply similar concepts from one sport or movement setting to another. Students can observe another individual's performance and notice key elements for success. At this grade level, students participate in physical activity both in and out of school while maintaining a healthy level of fitness as their bodies grow and change. Their knowledge of safety and the ability to manage their own behavior is reinforced. Instruction is directed more toward encouraging the incorporation of physical activity into a daily routine and less toward fundamental skill development."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "coordinate movements with teammates to achieve team goals;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate relationships to an opponent in dynamic game situations such as staying between opponent and goal and moving between opponent and the ball;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate speed and generation of force such as running sprints, running distance, throwing a disc, jumping, kicking;"}
+        },
+        {
+            "competencyText": {"en-us": "perform selected folk, country, square, line, creative, and/or aerobic dances;"}
+        },
+        {
+            "competencyText": {"en-us": "design and perform sequences of dance steps/movements in practiced sequences with intentional changes in speed, direction, and flow;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate, without cue, critical elements in specialized skills related to sports such as overhand throw for distance/force, serving and bumping, volleyball, shooting a basketball, shooting a lay-up, forehand and backhand, striking with a racket or club, or batting;"}
+        },
+        {
+            "competencyText": {"en-us": "combine skills competently to participate in modified versions of team and individual sports; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate introductory outdoor pursuit skills such as backpacking, rock climbing, orienteering, hiking, canoeing, cycling, or ropes courses."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "create and modify activities that provide practice of selected skills to improve performance such as practice with non-dominant hand, practice specific game situations, or practice jumps or cartwheels in both directions;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply similar movement concepts and elements in a variety of sport skills such as throwing and tennis serving;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of goal setting in improving skill;"}
+        },
+        {
+            "competencyText": {"en-us": "detect and correct errors in personal or partner's skill performance;"}
+        },
+        {
+            "competencyText": {"en-us": "make appropriate changes in performance based on feedback;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply basic biomechanical principles such as lowering the center of gravity and widening the base of support; and"}
+        },
+        {
+            "competencyText": {"en-us": "use basic offensive and defensive strategies while playing a modified version of a sport."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "participate in games, sports, dance, and/or outdoor pursuits in and outside of school based on individual interests and/or capabilities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify favorite lifelong physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous health-related physical activities on a regular basis;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal fitness goals and make appropriate changes for improvement; and"}
+        },
+        {
+            "competencyText": {"en-us": "select and use appropriate technology tools to evaluate, monitor, and improve physical development."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from involvement in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "list long term physiological and psychological benefits that may result from regular participation in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "assess physiological effects of exercise during and after physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "match personal physical activities to health-related fitness components;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the strength and weaknesses of selected physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify proteins, fats, carbohydrates, water, vitamins, and minerals as key elements found in foods that are necessary for optimal body function;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply basic weight training principles and safety practices such as appropriate goals, appropriate weight and repetitions, body alignment, principle of frequency, intensity, and time, and importance of balance in muscle pairs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and predict the effects of fitness-related stress management techniques on the body;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of eating and exercise patterns on weight control, self-concept and physical performance; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the effects of substance abuse on personal health and performance in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "include warm-up and cool-down procedures regularly during exercise; monitor potentially dangerous environmental conditions such as wind, cold, heat, and insects; and recommend prevention and treatment;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze exercises for their effects on the body such as beneficial/potentially dangerous; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize harmful effects of the sun such as sunburn, heatstroke, heat exhaustion, and heat cramps and recommend prevention methods."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between compliance and noncompliance with rules and regulations and apply agreed upon consequences when officiating; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe fundamental components and strategies used in net/wall, invasion, target, and fielding games such as net/wall alternating the speed and direction of the ball, invasion-fakes, give and go, target-concentration, feel the movement, and fielding-back up other players."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems in physical activities by analyzing causes and potential solutions;"}
+        },
+        {
+            "competencyText": {"en-us": "work cooperatively in a group to achieve group goals in competitive as well as cooperative settings;"}
+        },
+        {
+            "competencyText": {"en-us": "accept decisions made by game officials such as student, teachers, and officials outside the school;"}
+        },
+        {
+            "competencyText": {"en-us": "use peer interaction positively to enhance personal physical activity and safety such as encourage friends and joins teams; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the role of games, sport, and dance in getting to know and understand others."}
+        },
+        {
+            "competencyText": {"en-us": "Physical Education, Grade 8."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.24 adopted to be effective September 1, 1998, 22 TexReg 7759"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "In Grade 8, although the acquisition of physical fitness and skill development is important, emphasis is placed more on participation for enjoyment and challenge, both in and out of school. Understanding the need to remain physically active throughout life by participating in enjoyable lifetime activities is the basis for eighth grade instruction."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in fundamental movement patterns and proficiency in a few specialized movement forms. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "coordinate movements with team mates to achieve team goals;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate relationships of the body to an opponent in dynamic game situations such as staying between opponent and goal and moving between opponent and the ball;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate speed and generation of force such as running sprints, running distance, throwing a disc, jumping, or kicking;"}
+        },
+        {
+            "competencyText": {"en-us": "perform selected folk, country, square, line, creative, and/or aerobic dances;"}
+        },
+        {
+            "competencyText": {"en-us": "design and perform sequences of dance steps/movements into practiced sequences with intentional changes in speed, direction, and flow;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate without cue critical elements in specialized skills related to sports such as overhand throw for distance/force, serving and bumping, volleyball, shooting a basketball, shooting a lay-up, forehand and backhand striking with a racket or club, or batting;"}
+        },
+        {
+            "competencyText": {"en-us": "combine skills competently to participate in modified versions of team and individual sports; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate introductory outdoor pursuit skills such as backpacking, rock climbing, orienteering, hiking, canoeing, cycling, or ropes courses."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "create and modify activities that provide practice of selected skills to improve performance such as practice with non-dominant hand, practice specific game situations, and practice jumps or cartwheels in both directions;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply similar movement concepts and elements in a variety of sport skills such as throwing and tennis serving;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the importance of goal setting in improving skill;"}
+        },
+        {
+            "competencyText": {"en-us": "detect and correct errors in his/her or partner's skill performance;"}
+        },
+        {
+            "competencyText": {"en-us": "make appropriate changes in performance based on feedback;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply basic biomechanical principles such as lowering the center of gravity and widening the base of support to increase stability; and"}
+        },
+        {
+            "competencyText": {"en-us": "use basic offensive and defensive strategies while playing a modified version of a sport."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a health enhancing, physically-active lifestyle that provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe and select physical activities that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "identify opportunities in the school and community for regular participation in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in games, sports, dance, and/or outdoor pursuits in and outside of school based on individual interests and/or capabilities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify favorite lifelong physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in moderate to vigorous physical activity for a sustained period of time on a regular basis;"}
+        },
+        {
+            "competencyText": {"en-us": "maintain healthy levels of flexibility;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and maintain muscular strength and endurance of the arms, shoulders, abdomen, back, and legs;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal fitness goals and make appropriate changes for improvement; and"}
+        },
+        {
+            "competencyText": {"en-us": "select and use appropriate technology tools to evaluate, monitor, and improve physical development."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the benefits from being involved in daily physical activity and factors that affect physical performance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "list long term physiological and psychological benefits that may result from regular participation in physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "select aerobic exercises and describe the effects on the heart and overall health;"}
+        },
+        {
+            "competencyText": {"en-us": "assess physiological effects of exercise during and after physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "identify proteins, fats, carbohydrates, water, vitamins, and minerals as key elements found in foods that are necessary for optimal body function;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply basic weight training principles and safety practices such as appropriate goals, appropriate weight and repetitions, body alignment, principle of frequency, intensity and time, and importance of balance in muscle pairs;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and predict the effects of stress management techniques on the body;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of eating and exercise patterns on weight control, self-concept, and physical performance; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the effects of substance abuse on personal health and performance in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use equipment safely and properly;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use proper attire that promotes participation and prevents injury;"}
+        },
+        {
+            "competencyText": {"en-us": "include warm-up and cool-down procedures regularly during exercise; monitor potentially dangerous environmental conditions such as wind, cold, heat, and insects; and recommend prevention and treatment;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze exercises for their effects on the body such as beneficial/potentially dangerous; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize harmful effects of the sun such as sunburn, heatstroke, heat exhaustion, and heat cramps and recommend prevention methods."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands basic components such as strategies and rules of structured physical activities including, but not limited to, games, sports, dance, and gymnastics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between compliance and noncompliance rules and regulations and apply agreed upon consequences when officiating; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe fundamental components and strategies used in net/wall, invasion, target, and fielding games such as alternating the speed and direction of the ball, invasion-fakes, give and go, target-concentration, feeling the movement, and fielding-back up other players."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in physical activity settings. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems in physical activities by analyzing causes and potential solutions;"}
+        },
+        {
+            "competencyText": {"en-us": "work cooperatively in a group to achieve group goals in competitive as well as cooperative settings;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and follow rules while playing sports and games;"}
+        },
+        {
+            "competencyText": {"en-us": "accept decisions made by game officials including student, teachers, and officials outside the school; and"}
+        },
+        {
+            "competencyText": {"en-us": "use peer interaction positively to enhance personal physical activity and safety such as encourage friends and join teams."}
+        },
+        {
+            "competencyText": {"en-us": "Subchapter C. High School"}
+        },
+        {
+            "competencyText": {"en-us": "Foundations of Personal Fitness (One-Half Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.52 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is the recommended prerequisite for all other physical education courses."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Foundations of Personal Fitness represents a new approach in physical education and the concept of personal fitness. The basic purpose of this course is to motivate students to strive for lifetime personal fitness with an emphasis on the health-related components of physical fitness. The knowledge and skills taught in this course include teaching students about the process of becoming fit as well as achieving some degree of fitness within the class. The concept of wellness, or striving to reach optimal levels of health, is the corner stone of this course and is exemplified by one of the course objectives-students designing their own personal fitness program."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. While participating in physical activity, the student applies physiological and biomechanical principles to improve health-related fitness. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply physiological principles related to exercise and training such as warm-up/cool down, overload, frequency, intensity, specificity, or progression; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply biomechanical principles related to exercise and training such as force, leverage, and type of contraction."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. During physical activity, the student develops positive self-management and social skills needed to work independently and with others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply rules, procedures, and etiquette; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize and resolve conflicts during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student applies safety practices associated with physical activity. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate safety procedures such as spotting during gymnastics and using non-skid footwear;"}
+        },
+        {
+            "competencyText": {"en-us": "describe examples and exercises that may be harmful or unsafe;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between fluid balance, physical activity, and environmental conditions such as loss of water and salt during exercise; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the effects of substance abuse on physical performance."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student applies fitness principles during a personal fitness program. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the relationship between physical fitness and health;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in a variety of activities that develop health-related physical fitness activities including aerobic exercise to develop cardiovascular efficiency;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the skill-related components of physical fitness such as agility, balance, coordination, power, reaction time, and speed;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast health-related and skill-related fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "describe methods of evaluating health-related fitness such as Cooper's 1.5 mile run test;"}
+        },
+        {
+            "competencyText": {"en-us": "list and describe the components of exercise prescription such as overload principle, type, progression, or specificity;"}
+        },
+        {
+            "competencyText": {"en-us": "design and implement a personal fitness program; and"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate consumer issues related to physical fitness such as marketing claims promoting fitness products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student comprehends practices that impact daily performance, physical activity, and health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "investigate positive and negative attitudes towards exercise and physical activities;"}
+        },
+        {
+            "competencyText": {"en-us": "describe physical fitness activities that can be used for stress reduction;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how over training may contribute to negative health problems such as bulimia and anorexia;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the relationship between sound nutritional practices and physical activity;"}
+        },
+        {
+            "competencyText": {"en-us": "explain myths associated with physical activity and nutritional practices;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze methods of weight control such as diet, exercise, or combination of both; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify changeable risk factors such as inactivity, smoking, nutrition, and stress that affect physical activity and health."}
+        },
+        {
+            "competencyText": {"en-us": "Adventure/Outdoor Education (One-Half Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.53 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. The recommended prerequisite for this course is Foundations of Personal Fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Students enrolled in adventure outdoor education are expected to develop competency in outdoor education activities that provide opportunities for enjoyment and challenge. Emphasis is placed upon student selection of activities that also promote a respect for the environment and that can be enjoyed for a lifetime."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student demonstrates competency in two or more outdoor education activities such as backpacking, boating, camping, hiking, orienteering, water sports, or water safety certification. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate consistency in the execution of the basic skills of adventure/outdoor education activities;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate understanding of the rules, skills, and strategies of an activity and can apply them appropriately; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop an appropriate conditioning program for the selected activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use internal and external information to modify movement during performance;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an appropriate conditioning program for the selected activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify correctly the critical elements for successful performance within the context of the activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "select and participate in adventure/outdoor education activities that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and compare health and fitness benefits derived from participation in adventure/outdoor education activities;"}
+        },
+        {
+            "competencyText": {"en-us": "establish realistic yet challenging health-related fitness goals;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and participate in a personal fitness program that has the potential to meet identified goals;"}
+        },
+        {
+            "competencyText": {"en-us": "describe two training principles appropriate for enhancing flexibility, muscular strength and endurance, and cardiorespiratory endurance; and"}
+        },
+        {
+            "competencyText": {"en-us": "select and use appropriate technology tools to evaluate, monitor, and improve physical development."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the relationship between outdoor activities and health. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply the health-related fitness principles to outdoor activities;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the strengths and weaknesses of adventure/outdoor education activities and their effects on a personal fitness program;"}
+        },
+        {
+            "competencyText": {"en-us": "show evidence of developing and maintaining health-related fitness;"}
+        },
+        {
+            "competencyText": {"en-us": "explain and follow safety procedures during adventure/outdoor education activities;"}
+        },
+        {
+            "competencyText": {"en-us": "list and describe safety equipment used in outdoor activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "design safe and appropriate practices/procedures to improve skill in an activity."}
+        },
+        {
+            "competencyText": {"en-us": "Aerobic Activities (One-Half Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.54 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. The recommended prerequisite for this course is Foundations of Personal Fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical-activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Students in aerobic activities are exposed to a variety of activities that promote health-related fitness. A major expectation of this course is for the student to design a personal fitness program that uses aerobic activities as a foundation."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student develops the ability to perform a level of competency in aerobic activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "exhibit a level of competency in two or more aerobic activities that may include aerobic dance, aqua aerobics, cycling, jogging, power walking, recreational dance, and step aerobics; and"}
+        },
+        {
+            "competencyText": {"en-us": "consistently perform skills, strategies, and rules at a basic level of competency."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use internal and external information to modify movement during performance;"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate practices and procedures to improve skill and strategy in an activity;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an appropriate conditioning program for the selected activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify correctly the critical elements for successful performance within the context of the activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge through aerobic activity. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "select and participate in aerobic activities that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and evaluate personal fitness status in terms of cardiovascular endurance, muscular strength and endurance, flexibility, and body composition;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and compare health and fitness benefits derived from participating in selected aerobic activities;"}
+        },
+        {
+            "competencyText": {"en-us": "establish realistic yet challenging health-related fitness goals;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and participate in a personal fitness program that has the potential to provide identified goals;"}
+        },
+        {
+            "competencyText": {"en-us": "describe two training principles appropriate for enhancing flexibility, muscular strength and endurance, and cardiorespiratory endurance;"}
+        },
+        {
+            "competencyText": {"en-us": "select and use appropriate technology tools to evaluate, monitor, and improve physical development; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of substance abuse on personal health and performance in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with aerobic activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate risks and safety factors that may effect aerobic activity preferences throughout the life span;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply rules and procedures that are designed for safe participation;"}
+        },
+        {
+            "competencyText": {"en-us": "explain why and how a rule provides safe practices in participation; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe equipment and practices that decrease the likelihood of injury such as proper footwear."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive personal and social skills needed to work independently and with others in aerobic activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal skills and set realistic goals for improvement;"}
+        },
+        {
+            "competencyText": {"en-us": "respond to challenges, successes, and failures in physical activities in socially appropriate ways;"}
+        },
+        {
+            "competencyText": {"en-us": "accept successes and performance limitations of self and others, exhibit appropriate behavior/responses, and recognize that improvement is possible with appropriate practice; and"}
+        },
+        {
+            "competencyText": {"en-us": "anticipate potentially dangerous consequences of participating in selected aerobic activities."}
+        },
+        {
+            "competencyText": {"en-us": "Individual Sports (One-Half Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.55 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. The recommended prerequisite for this course is Foundations of Personal Fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire movement knowledge and skills that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Students in Individual Sports are expected to participate in a wide range of individual sports that can be pursued for a lifetime. The continued development of health-related fitness and the selection of individual sport activities that are enjoyable is a major objective of this course."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student develops the ability to participate confidently in individual sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "exhibit a level of competency in two or more individual sports that include aquatics, archery, badminton, bicycling, bowling, gymnastics, golf, handball, racquetball, self-defense, table tennis, track and field, weight training, or wrestling; and"}
+        },
+        {
+            "competencyText": {"en-us": "consistently perform skills and strategies and follow rules at a basic level of competency."}
+        },
+        {
+            "competencyText": {"en-us": "Movement. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use internal and external information to modify movement during performance;"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate practice procedures to improve skill and strategy in a sport;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an appropriate conditioning program for the selected sport; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify correctly the critical elements for successful performance of a sport skill."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands the basic components such as strategies, protocol, and rules of individual sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "acknowledge good play from an opponent during competition;"}
+        },
+        {
+            "competencyText": {"en-us": "accept the roles and decisions of officials;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate officiating techniques; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and describe the historical development of an individual sport."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge during individual sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "select and participate in individual sports that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and evaluate personal fitness status in terms of cardiovascular endurance, muscular strength and endurance, flexibility, and body composition;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and compare health and fitness benefits derived from participating in selected individual sports;"}
+        },
+        {
+            "competencyText": {"en-us": "establish realistic yet challenging health-related fitness goals for selected individual sports;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the interrelatedness between selected individual sports and a personal fitness program;"}
+        },
+        {
+            "competencyText": {"en-us": "describe two training principles appropriate for enhancing flexibility, muscular strength and endurance, and cardiorespiratory endurance; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of substance abuse on personal health and performance in physical activity such as side effects of steroid use."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with individual sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate risks and safety factors that may affect individual sport preferences;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and follow safety procedures when participating in individual sports; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe equipment and practices that prevent or reduce injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive personal and social skills needed to work independently and with others in individual sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal skills and set realistic goals for improvement;"}
+        },
+        {
+            "competencyText": {"en-us": "respond to challenges, successes, and failures in physical activities in socially appropriate ways;"}
+        },
+        {
+            "competencyText": {"en-us": "accept successes and performance limitations of self and others;"}
+        },
+        {
+            "competencyText": {"en-us": "anticipate potentially dangerous consequences of participating in selected individual sports; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate responsible behavior in individual sports such as playing by the rules, accepting lack of skill in others."}
+        },
+        {
+            "competencyText": {"en-us": "Team Sports (One-Half Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.56 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. The recommended prerequisite for this course is Foundations of Personal Fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "In Physical Education, students acquire the knowledge and skills for movement that provide the foundation for enjoyment, continued social development through physical activity, and access to a physically-active lifestyle. The student exhibits a physically-active lifestyle and understands the relationship between physical activity and health throughout the lifespan."}
+        },
+        {
+            "competencyText": {"en-us": "Students enrolled in Team Sports are expected to develop health-related fitness and an appreciation for team work and fair play. Like the other high school physical education courses, Team Sports is less concerned with the acquisition of physical fitness during the course than reinforcing the concept of incorporating physical activity into a lifestyle beyond high school."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Movement skills. The student demonstrates competency in many movement forms and proficiency in two or more team sports such as basketball, field hockey, flag football, floor hockey, soccer, softball, team handball, or volleyball. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate consistency using all the basic offensive skills of a sport while participating in a game such as dribbling, batting, or spiking competently in a dynamic setting; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate consistency using all the basic defensive skills of a sport while participating in a game such as guarding, trapping, blocking, fielding, tackling, or goalkeeping competently in a dynamic setting."}
+        },
+        {
+            "competencyText": {"en-us": "Movement skills. The student applies movement concepts and principles to the learning and development of motor skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use internal and external information to modify movement during performance;"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate practice procedures to improve skill and strategy in an activity;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an appropriate conditioning program for the selected activity;"}
+        },
+        {
+            "competencyText": {"en-us": "identify correctly the critical elements for successful performance within the context of the activity; and"}
+        },
+        {
+            "competencyText": {"en-us": "recognize that improvement is possible with appropriate practice."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student understands the basic components such as strategies, protocol, and rules of structured physical activities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "acknowledge good play from an opponent during competition;"}
+        },
+        {
+            "competencyText": {"en-us": "accept the roles and decisions of officials;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate officiating techniques; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and describe the historical development of an individual sport."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student exhibits a physically-active lifestyle that improves health and provides opportunities for enjoyment and challenge through team sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "select and participate in individual sports that provide for enjoyment and challenge;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and evaluate personal fitness status in terms of cardiovascular endurance, muscular strength and endurance, flexibility, and body composition;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the health and fitness benefits derived from participating in selected team sports;"}
+        },
+        {
+            "competencyText": {"en-us": "establish realistic yet challenging health-related fitness goals;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and participate in a personal fitness program that has the potential to provide identified goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe two training principles appropriate for enhancing flexibility, muscular strength and endurance, and cardiorespiratory endurance."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student knows the implications and benefits from being involved in daily physical activity. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "discuss training principles appropriate for enhancing flexibility, muscular strength and endurance, and cardiorespiratory endurance;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of eating and exercise patterns on weight control, self-concept, and physical performance; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the effects of substance abuse on personal health and performance in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Physical activity and health. The student understands and applies safety practices associated with team sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate risks and safety factors that may affect sport preferences;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply rules and procedures that are designed for safe participation in team sports;"}
+        },
+        {
+            "competencyText": {"en-us": "identify team sports that achieve health-related fitness goals in both school and community settings; and"}
+        },
+        {
+            "competencyText": {"en-us": "participate regularly in team sports."}
+        },
+        {
+            "competencyText": {"en-us": "Social development. The student develops positive self-management and social skills needed to work independently and with others in team sports. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal skills and set realistic goals for improvement;"}
+        },
+        {
+            "competencyText": {"en-us": "respond to challenges, successes, and failures in physical activities in socially appropriate ways;"}
+        },
+        {
+            "competencyText": {"en-us": "accept successes and performance limitations of self and others and exhibit appropriate behavior/responses;"}
+        },
+        {
+            "competencyText": {"en-us": "anticipate potentially dangerous consequences of participating in selected team sports; and"}
+        },
+        {
+            "competencyText": {"en-us": "display appropriate etiquette while participating in a sport."}
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Physical Education, Elementary."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.1 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Physical Education, Middle School."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.21 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Physical Education, High School."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §116.51 adopted to be effective September 1, 1998, 22 TexReg 7759."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.30(a)-(l) of this title (relating to Physical Education) beginning September 1, 1998."}
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.30(m) and §75.46 of this title (relating to Physical Education) beginning September 1, 1998."}
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall supersede §75.66 of this title (relating to Physical Education) beginning September 1, 1998."}
+        }
+    ]
+}

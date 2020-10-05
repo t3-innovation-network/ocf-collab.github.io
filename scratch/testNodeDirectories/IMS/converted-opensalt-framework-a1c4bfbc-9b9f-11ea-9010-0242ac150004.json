@@ -1,0 +1,512 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://case.georgiastandards.org/uri/a1c4bfbc-9b9f-11ea-9010-0242ac150004",
+        "name": {"en-us": "National Standards for Quality Online Programs"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "A mission statement of a quality program clearly conveys its purpose and goals. It serves as the basis for the program\u2019s day-to-day operations, as well as a guide for its strategic plans for the future. Communication between\u2014 and buy-in from\u2014stakeholders is a critical component of a mission statement."}
+        },
+        {
+            "competencyText": {"en-us": "A quality program will have a clear governance structure with transparent roles and responsibilities designed to ensure long-term success and sustainability."}
+        },
+        {
+            "competencyText": {"en-us": "The leadership of a quality online program is accountable to the program\u2019s governance body and is responsible for setting and meeting the operational and strategic goals in support of the program\u2019s mission and vision statements."}
+        },
+        {
+            "competencyText": {"en-us": "A quality program engages in regular strategic planning in order to reflect upon and improve organizational effectiveness."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program has appropriate levels of qualified, well-trained, and supported staff who have the resources needed to achieve personal and organizational goals."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program plans for and expends financial and material resources using sound business practices to accomplish the organization\u2019s mission and vision."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program\u2019s policies and practices support students\u2019 ability to access the program. Accommodations are available to meet a variety of student needs."}
+        },
+        {
+            "competencyText": {"en-us": "In a quality online program, leadership is transparent in its management of the program, providing regular and timely information on progress towards attainment of goals, alignment with policies and standards, and achievement of student learning outcomes to all stakeholders."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program will adopt and implement instructional design methods that enable effective online instruction for both institutionally developed courses as well as licensed content from other sources."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program takes a comprehensive and integrated approach to ensuring excellent teaching for its students."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online learning program values positive learner outcomes and takes a comprehensive, integrated approach to measuring and monitoring progress toward defined learning objectives."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program supports faculty and staff by providing mentoring, technical assistance, and timely professional development."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program provides learner and parent/guardian support services to address the various needs of learners at different levels within the organization. The levels of support are appropriate and adequate for learner success."}
+        },
+        {
+            "competencyText": {"en-us": "A quality online program recognizes the value of program evaluation. Program evaluation is both internal and external and informs all processes that affect teaching and learning. Internal evaluations often are more informal in nature and may provide immediate feedback on a targeted area of inquiry. External program evaluations typically look at the entire program from an objective perspective that will bring additional credibility to the results."}
+        },
+        {
+            "competencyText": {"en-us": "The mission statement gives the purpose of the program or organization, is clear and concise in articulating who the program or organization is, what it does, and whom it serves."},
+            "comment": {
+                "en-us": ["EXPLANATIONS: A well-articulated program or organizational purpose is essential in providing clear direction for individuals to follow as they serve the intended audience.\n\nEXAMPLES: For example, a clear and concise mission statement provides individuals within the program or organization a meaningful guide that is easy to follow as they carry out the program or organization\u2019s short-term and long-term objectives and goals. In addition, a clearly stated mission articulates who the program or organization is, what it does, and whom it serves enabling others to understand the purpose of the program or organization."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The mission statement indicates that learning is the focus of the program or organization."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe focus is on learning and not a delivery method.\n\nEXAMPLES\tRegardless of whether they are online, blended, or personalized, all programs or organizations should emphasize learning rather than delivery format in their mission statement."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The mission statement demonstrates a commitment to measurable quality and accountability to stakeholders."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tMeasurable quality and accountability features help to gauge program or organizational success and point to areas that need to be improved.\n\nEXAMPLES\tMaking a commitment to quality and accountability in a program or organization mission statement provides the foundation for fulfilling this commitment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The mission statement is made available to the public."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tTo aid in transparency and accountability efforts, a program or organization\u2019s mission statement should be publicly available and easily accessible.\n\nEXAMPLES\tA mission statement could be included on the organization\u2019s website, disseminated to all stakeholders and staff, and highlighted in communications such as newsletters and welcome and orientation messages."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The mission statement is reviewed periodically by program leadership."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPlanned and timely review of the mission statement will aid the program or organization in keeping it current and meaningful for all parties involved.\n\nEXAMPLES\tAs part of the organizational structure, the review cycle could be established based on three or five years or the requirements of the program or organization\u2019s accrediting agency."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Governance members are knowledgeable about K-12 online learning."},
+            "comment": {
+                "en-us": ["EXPLANATIONS: It is critical that board members who are governing any program be familiar with what the program is, how it works, and who it serves.\n\nEXAMPLES:\t A supplemental school system\u2019s program may provide updates to a school board subcommittee to keep the members informed of the program\u2019s success, needs, and goals. Governance members are provided professional development opportunities to enhance their knowledge of K-12 online learning."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Governance members ensure the program or organization is adequately resourced through securing and/or approving resource allocations in a manner that aligns with the mission, vision, and strategic goals of the program or organization."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tGoverning board members have a duty to ensure that programs can secure the necessary resources recommended for the program or organization\u2019s success.\n\nEXAMPLES\tIn a public-school system, this may be completed by approval of a proposed fiscal year budget."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Programmatic or organizational bylaws clearly define the unique roles of the governance and leadership teams. Each of these groups works within the established guidelines."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tExplicitly stated guidelines for roles of both governing board members and for program or organizational leadership will enable members to understand their place within the team and the function they serve in supporting the program.\n\nEXAMPLES\tRoles of a governing board and for leadership positions may be described on a website, in an operations guide, or in written handbooks."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Governance members collaborate with the leadership team who implements the policies and procedures that are in compliance with state educational statutes and/or regional accrediting agencies."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tGoverning boards create the policies and regulations that support the learning community to include students, staff, and additional employees and ensure that program leadership is following those policies.\n\nEXAMPLES\tPublic school systems develop school board policies, covering all programs within their districts."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program bylaws articulate the organization to which it belongs, the roles and responsibilities of its board and leadership, and comply with all state and federal regulations."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tOrganizational transparency helps to clarify for community members whether programs are private or public and non-profit or for-profit organizations.\n\nEXAMPLES\tA supplemental program may have a web page that is linked from the district of origin, enabling visitors to access the general district and school board information."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The leadership team establishes annual program or organizational goals, implements action plans designed to meet or exceed goals, and monitors and communicates progress on goals to stakeholders."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is essential that organizations engage in continuous program improvement. As they reflect on their successes and areas for growth, leadership is able to establish goals for program improvement.\n\nEXAMPLES\tSchool district supplemental programs may engage in the process of Comprehensive Needs Assessment, followed by creating a School Improvement Plan."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The leadership team maintains a disciplined knowledge of trends in its educational and business environment in order to inform budget projections."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tTo have a successful program, leadership needs to budget and plan for all monetary and instructional needs. The leadership team should maintain a knowledge of its future with projections of enrollment, income, and expenses.\n\nEXAMPLES\tProgram leadership may write a proposed fiscal year budget requesting additional funding for potential increases in student enrollment based on trend data."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The leadership team provides a productive collaborative environment for learning and work."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tLeadership should work to ensure that both on-site and virtual employees feel safe and secure in order to provide an environment conducive to learning and growth. The leadership team should provide guidance necessary to plan both day-to-day operations and the long-term future of the program in order to create a productive and collaborative environment. The leadership team should the provide resources, tools, and organizational policies necessary for a productive and collaborative environment.\n\nEXAMPLES\tTeachers might be organized in a Collaborative Learning Team (CLT) or Professional Learning Community (PLC) to ensure collaboration, reflection, and improvement in both day-to-day operations and long term plans for the program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The leadership team verifies that measures are in place to ensure the quality, integrity, and validity of information."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrograms should be reviewed using a variety of methodologies.\n\nEXAMPLES\tLeadership may choose to reflect on the program with the use of a checklist from an outside organization or external peer reviews."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The leadership team develops and implements program policies and procedures that are reviewed and updated regularly."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPolicies and procedures are living documents that should grow and adapt with an organization. A regularly scheduled review ensures that documents and policies are consistent and effective.\n\nEXAMPLES\tSchools should regularly assess whether their enrollment and withdrawal policies create unintended barriers impacting students\u2019 ability to access and complete online education."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "A strategic plan is developed and updated regularly to address long-term actions."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tProgram leadership should gather data from all stakeholders regarding the systems in place. This should include historical data, baseline information, trend data, and projections, allowing for data-driven decision making. Review of this data may happen more than once a year.\n\nThe plan should be approved by the program or organization\u2019s leadership and governance.\n\nEXAMPLES\tA team of teachers, students, board members, and program leadership may meet at the start of a school year and at the end to review and update an established strategic plan for program effectiveness and update accordingly. The team may take the goals related to enrollment growth, gather the enrollment growth data, and revise the goals in a strategic plan to reflect more accurate growth percentages(all data driven)."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The strategic plan addresses the requirements for resources that effectively and efficiently serve learners and faculty, including curriculum, technology, academic support, professional development, and fiscal viability."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe priorities of the program should be supported by the resources available.\n\nEXAMPLES\tA program leader may determine that additional curriculum is necessary to support learners and that the allocation of funds should include the purchase of the course(s) or access to them.\n\nThe online teacher communicates with individual learners to review progress in the class and learn from the learner perspective about personal interests and barriers to learning that can inform the support that is provided to the learner."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Organizational goals are aligned to the approved strategic plan and updated annually."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\t The goals of an organization should be written as steps/action items leading to the desired outcomes of the strategic plan.\n\nProgram leadership should engage the help of faculty and staff to collect data related to strategic goals.\n\nEXAMPLES\t If the strategic plan includes expansion of project-based learning experiences for students, SMART goals (which are written to be Specific, Measurable, Attainable, Realistic, and Timely). should be written to work toward that improvement over time.\n\nIn a supplemental program, if a goal is established to improve student success rates, data might be collected related to student final grades, assessment results, or the number of students who drop a course once yearly. The goal may continue with adjusted success rates as the target."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Organizational goals are shared and supported throughout the organization."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tTransparency is key in moving goals forward and creating momentum among the staff.\n\nEXAMPLES\tStrategic goals may be posted in a shared space, on a website, or communicated via meeting/electronic messaging."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Sufficient qualified professional, administrative, and support staff are provided to achieve the organization\u2019s mission and annual goals."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is essential that the appropriate human resources (in terms of number and qualifications) are available to help ensure the organization achieves its mission. Staff must be qualified and have the level of experience needed to help the organization achieve its goals. Faculty will hold necessary certification or licensure that is applicable to their content area of instruction.\n\nEXAMPLES\tSufficient numbers of teachers must be in place to provide support and instruction to students, and teachers must be qualified to instruct, as evidenced by holding a valid state teaching license in their subject area. Check with the state Department of Education for certification requirements."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Sufficient organizational staff are provided to oversee the instructional learning environment."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is essential that appropriate staff and support are available to ensure the instructional learning environment is maintained and secured in accordance with applicable state and federal laws.\n\nEXAMPLES\tSome organizational support services may be distributed between the program and other entities, depending on the physical location where the students are taking their online courses."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Ongoing training and support are provided to the staff to carry out the mission, vision, and goals of the program."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIn addition to training on the mission of the program, training and support should be given to help staff members meet individual goals, which roll up to team goals and help the organization achieve its mission and vision. A culture of ongoing improvement should be apparent throughout all levels of the organization.\n\nEXAMPLES\tThe organization should have clearly articulated annual professional development goals for each staff member regardless of level within the organization. Each team member should understand and be able to explain the organization\u2019s mission and vision."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Clearly defined individual and team roles and responsibilities are evident to help create a collegial team that provides effective delivery of quality education."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tEach person within the organization should understand how he or she contributes to the success of the organization, with a focus on collaboration, and with all team members working toward common goals.\n\nEXAMPLES\tFrequent cross-team activities and brainstorming sessions can help create a collegial team atmosphere and also help team members understand the value they bring to the organization. They can develop workflows and standard operating procedures that support organizational goals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluations of staff and faculty occur on a regularly scheduled basis."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tEvaluations of staff and faculty against performance standards, job description, and/or individual employee goals occur on a regularly scheduled basis.\n\nStaff and faculty should understand performance standards and whether or not they are meeting the standards. If standards are not met, individuals should understand what must be done to meet expectations.\n\nEXAMPLES\tThe organization\u2019s performance evaluation plans and processes, which include individual staff members\u2019 goals and performance plans, are available to all staff and faculty."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Resources are managed in a responsible manner according to local, state, and/or federal budget regulations and accounting principles."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tSound financial management is fundamental to a program\u2019s success. Monthly financials should be reviewed by the governance and leadership team with annual audits performed.\n\nEXAMPLES\tAnnual independent audits are conducted, and internal audit results are made available to stakeholders. A budget and staffing plan is implemented to ensure that organizational goals are met or exceeded."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Resources are adequate and allocated to help ensure sustainability over time, according to the organization\u2019s strategic plan, mission, and vision."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tManagement should seek to align resources in ways that make it possible to accomplish organizational objectives.\n\nEXAMPLES\tA clear connection exists between the organizational mission and vision and allocation of human and material resources. Annual budgets are established and made available through annual reports."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Policies clearly state learner eligibility requirements for the program and are communicated to stakeholders."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tSchools should have the appropriate policies adopted and made available to all stakeholders that explicitly state who is eligible to participate in the program.\n\nEXAMPLES\tInformation is published through program guides, the organization\u2019s website, student handbooks, and general information sessions."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Program faculty and staff work with students and families to personalize programs and adhere to accommodations as dictated by local policies and laws."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is important for all schools to be aware of and comply with the laws that govern students with disabilities and the requirements for the school.\n\nEXAMPLES\tSchool board policies, state policies, and federal law reflect the need for accommodations for students with disabilities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "All learners are ensured equitable access to the program."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tStudents should have equitable access to the program regardless of race, gender, age, location, income, or disability.\n\nEXAMPLES\tThe program offers options (personal wi-fi access, access to physical locations with hardware and internet access, community partnerships, etc.) for students to access technology and internet in order to engage fully in the learning experience."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Accurate information is disclosed to prospective and current stakeholders."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tInformation regarding the program\u2019s mission, vision, accreditation status, courses, learning outcomes, services, policies, fees, and other factors is considered important to students and other stakeholders. The online program\u2019s values, goals, and achievements should be transparent, so stakeholders can compare programs to determine the best fit for them. Parents and/or guardians are provided information about the program, successful online student practices, and supportive learning environments.\n\nEXAMPLES\tOutcomes of the program \u2013 related to standard industry measures \u2013 are frequently published. The program is accredited by a nationally recognized agency. The organization\u2019s mission and vision are clearly visible to all stakeholders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program meets or exceeds industry standards related to course rigor and diploma-completion requirements."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tLearning programs must be rigorous enough to prepare students adequately for post-secondary education and careers.\n\nStakeholders must be confident in a program\u2019s ability to teach students and help them not only achieve credit but also learn the skills they need to be successful in college, careers, and life.\n\nEXAMPLES\tDiploma requirements are equivalent to those found in most states. Courses meet NCAA requirements. Courses meet the requirements of sufficient length and breadth for course credit to be granted."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program has clearly stated educational goals."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIn order for program goals to be measurable, they must be specific and clearly stated.\n\nEXAMPLES\tCourses are aligned to the program goals, and that alignment is communicated via course syllabi and in program communications. The goals need to be quantifiable, measurable, and outcome-based."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program clearly organizes course offerings in a way that stakeholders can easily navigate."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\tStudents, parents, guardians, and/or guidance counselors are able to easily locate and select appropriate courses that meet individual educational goals and/or academic requirements.\n\nEXAMPLES\tCourse offerings are organized by grade bands and within grade bands by subject area. For example, high school courses are listed by grades (9-12) and subject area",
+                    " English and Language Arts, math, social studies, science, and electives. A course catalog is easily accessible from the program\u2019s website and/or student handbook."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses included in the program integrate quality instructional materials to enable and enrich student learning."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\t\nMaterials and technology should align with instructional goals. The materials are current, meet accessibility standards (WCAG 2.0 AA/Section 508), are without bias, and represent different points of view.\n\nCriteria for quality instructional materials must be clearly defined. Criteria should incorporate alignment to goals and assessments, inclusion of learner personalization and engagement features, support for multiple representations of information, evidence of being bias-free, attention to copyright restrictions, and accessibility for students with disabilities.\n\nEXAMPLES\t\nThe program utilizes an instructional materials review process for vetting both print and digital instructional materials according to clearly defined high quality criteria. Programs may use the Universal Design for Learning (UDL) Guidelines for procedures related to aligning materials with goals, methods, assessments, and standards for accessibility.\n\nSee the State Educational Technology Directors Association (SETDA) Guide to Quality Instructional Materials for definitions of quality materials.\n\nMaterials are:\n\n\t* Aligned to relevant content standards\n\t* Current and accurate\n\t* Offer multiple representations of information\n\t* Of high interest and age-appropriate\n\t* Responsive to personalization strategies",
+                    "\n\t* Free of bias\n\t* Accessible to all learners, including students with disabilities, through compliance  with Section 508 of the Rehabilitation Act"
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses offered through the program utilize regularly evaluated technology that supports the learning goals and enhances the learning experience."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tTo meet the needs of all learners, selected technology must meet current standards for accessibility (WCAG 2.0 AA/Section 508) and interoperability. In order for selected digital materials to be effectively and uniformly used across the program, the technology must be complementary and interoperable. Appropriate technology maximizes delivery of a material\u2019s high-quality features and secures student privacy.\n\nEXAMPLES\tA program may choose to use IMS Global\u2019s Directory to identify products that have passed tests for interoperability and use resources from the National Center on Accessible Educational Materials for guidance on selecting technologies that are accessible for students with disabilities. Technology selection and review includes software approval and data sharing processes where appropriate."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses included in the program contain content that aligns with appropriate learning standards and includes provisions for both intervention and accelerated learning opportunities."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tGrade-level standards are essential for ensuring student readiness for post-secondary learning. To meet those standards, some students may require interventions. Other students may require advanced learning opportunities to remain engaged and progress at an accelerated rate. Evaluation of curriculum and instruction as it relates to student achievement should be conducted when developing strategies for course improvement.\n\nEXAMPLES\tThe program provides course-level alignment documents that show on- and above-grade level standards. Course-level alignment can include prior and future courses in the sequence to provide options for instructional supports and acceleration."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses included in the program provide opportunities for interaction that support active learning."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrograms that offer facilitated courses, non-independent study, will require several types of interactions among students, teachers, and content. Effective teacher presence can assure students that the teacher is deeply invested in their learning.\n\nEXAMPLES\tTeachers may utilize several communication strategies to support learning: a \u201cwelcome letter\u201d through which a teacher introduces him or herself and sets a tone that is consistent across the course, routine check-ins and reminders, engagement in online discussions, opportunities for synchronous activities, thought-provoking discussion prompts, and facilitation of collaborative learning activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses included in the program provide a variety of activities that include options for in-depth learning through authentic problem-solving and experience."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrograms that provide authentic learning will better prepare students for learning in multiple situations. The focus on the process of learning supports students in learning within multiple contexts including the world of work and post-secondary education.\n\nEXAMPLES\tThe program includes instructional design principles that embed learning opportunities where learners practice expressing and demonstrating what they know and can do through multiple means and representation in authentic contexts. Apprenticeships offer ideal settings for authentic learning opportunities and post-secondary preparation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses offered through the program meet content copyright law and fair use guidelines."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrograms must ensure that copyright law is followed for all course materials. Where appropriate, programs should promote the use of free and open resources (i.e., Open Educational Resources or OERs) available through Creative Commons and other publicly available sources.\n\nEXAMPLES\tPrograms curate open education resources from OER Commons and related collections. When copyrighted materials are used, the program provides proper citing of materials within the context of the material consistent with copyright law."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses offered through the program are designed using research-based design principles, such as Universal Design for Learning (UDL), that improve access to learning for all participants."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\tCourses are designed using instructional design principles that accommodate different learning styles and are accessible for individuals with disabilities. The UDL Guidelines directs the design of instructional goals, assessments, methods, and materials that can be customized and adjusted to meet individual needs. UDL shifts the focus of curriculum design from accommodating individual learner differences to designing for all learners from the outset. Several federal education laws and policies include UDL, such as the Every Student Succeeds Act (2015), the Higher Education Opportunity Act (2008), the National Education Technology Plan (2016), and the Strengthening Career and Technical Education Act (2018).\n\nEXAMPLES\tA program refers to the UDL Guidelines in the process of developing courses that include multiple means of engagement, such as optimizing individual choice and autonomy",
+                    " multiple means of representation, such as promoting understanding across languages",
+                    " and multiple means of action and expression, such as supporting planning and strategy development."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Courses offered through the program include opportunities for both asynchronous and synchronous learning."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tProgram learning design is flexible for students accessing instruction at different times and different locations. Alternatives can be offered by the teacher on how materials are made available to students through asynchronous and synchronous methods.\n\nEXAMPLES\tWhere valid and reliable, students can be given an option to discuss a question on a discussion board or join a live, video conference that meets the same objective."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program adopts clear expectations for curriculum design and teaching practices that align with its stated vision, mission, principles, or values."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe program\u2019s \u201cdesigned\u201d curriculum and \u201cdelivered\u201d curriculum are aligned through clear, measurable, and specific teaching practices.\n\nEXAMPLES\tDirect alignment and explicit connection is communicated in course materials, syllabi, teacher standards of practice, and teacher professional learning plans."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Instruction is guided by evidence-based practices."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tResearch in the field is continuously providing new evidence of best practices on which the foundation of a program should be based.\n\nEXAMPLES\tThe program has a community of practice that includes administrators, educators, and families that focus on evidence-based practices, new research, and implications for the program\u2019s curriculum, instruction, and assessment."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Teachers incorporate a process of continual self-assessment, using learning analytics to inform changes in pedagogy and instructional practices."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrograms that are responsive to student and staff needs throughout instruction can improve retention, promote student agency over learning, and improve the degree to which learning goals are met.\n\nEXAMPLES\tThe program reviews and modifies instructional practices based on feedback from students and staff. Continuous feedback provides the opportunity to improve practices in real-time instead of during the traditional \u201cend-of-course\u201d survey."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Instruction is inherently inclusive for all learners."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tInstruction is inclusive when every student is provided an equitable opportunity for independence, participation, and progress. Instructional methods shift the focus from accommodating individual learner differences to designing for all learners from the outset. The design and execution of instructional resources and activities recognize Universal Design for Learning (UDL) Guidelines in order to minimize barriers to student learning.\n\nEXAMPLES\tTeachers refer to the Universal Design for Learning (UDL) Guidelines for identifying inclusive methods and strategies aligned to the goals of a curriculum or lesson. A program could use the UDL Guidelines to develop a humanities curriculum that addresses multiple perspectives of learners from varied cultures and backgrounds."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program implements strategies to ensure the academic integrity of course assignments and assessments in order to increase student accountability."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIndividual student accountability is necessary for both the student and the program\u2019s integrity and academic standing. The program should incorporate strategies in the course for increasing student accountability and proactively respond to concerns expressed about academic integrity.\n\nEXAMPLES\tStudents and parents sign an academic integrity form. Students are explicitly taught to avoid plagiarism and to accurately cite sources of information. A student academic policy or contract, an online student orientation that includes the topic of what is \u201cacademic integrity\u201d and a link to the local school\u2019s policy and the online program policy."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program uses multiple methods to assess the degree to which stated learning goals are met."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe use of multiple methods of assessment can ensure that students have the opportunity to demonstrate and express what they know and can do through means that maximize their abilities, thereby, increasing the likelihood of valid and reliable results. Flexible options available in an assessment can enhance access, support learner performance, and reduce possible perceived threats. UDL in assessment design is also an argument for ensuring that assessments are accessible and understandable for all students (by avoiding physical, sensory, and cognitive barriers and providing assessments in students\u2019 first language).\n\nEXAMPLES\tTeachers ask themselves:\n\n* Is it possible to include choice in how my assessment is represented, how my learners can show what they know, or how my learners engage in the assessment process?\n* How do the flexible options still support the intended learning objectives that need to be measured?"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Formative assessments are included that provide data for targeted remediation or intervention when needed."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tFormative assessments are designed to inform teachers of the extent to which students are making progress. When evidence indicates that a student is experiencing difficulty, the teacher reacts by providing appropriate instruction in the form of a targeted intervention.\n\nEXAMPLES\tProgress toward learning goals can be displayed visually through progress reports within or outside the gradebook. Students are encouraged to access support when struggling to meet learning objectives. A teacher continuously monitors the progress of all students through a daily check-in exercise that assesses students\u2019 understanding of the prior lesson. The teacher uses the data to identify students who need additional instruction."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Assessments are aligned to learning objectives."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tAn aligned course means the learning objectives, activities, and assessments match so students learn what is intended and are assessed on what they are supposed to be learning.\n\nEXAMPLES\tFormative assessments are used to analyze students\u2019 work and progress towards achieving the learning objectives."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides standards for timely, effective feedback as an integral role of assessment."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tFeedback focuses on the details of content and performance and helps learners improve their understanding.\n\nEXAMPLES\t The program has a teacher expectation document, which describes the requirement that teachers give timely and actionable feedback to students. Such a document could include details about effective teacher actions. For example, the document:\n\n1. Helps clarify what is considered to be good performance.\n2. Facilitates the development of self-assessment in learning. \n3. Delivers high quality information to students about their learning. \n4. Encourages teacher and peer dialog around learning. \n5. Encourages positive motivational beliefs and self-esteem. \n6. Provides opportunities to close the gap between current and desired performance.\n7. Provides information to teachers that can be used to help shape teaching."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides and encourages participation in induction and mentoring programs."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tTeachers benefit from pairing with a mentor teacher and/or participating in professional development specifically tailored to online learning.\n\nEXAMPLES\tThe program specifies that teachers new to online learning will be assigned a mentor or lead teacher for support and guidance."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Teachers are provided regular feedback regarding their performance and student achievement/progress."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is essential that teachers receive feedback regarding their performance. Administrators must conduct online classroom observations just as any administrator would observe in the face-to-face classroom. Faculty must be supported, and their actions and communications must be monitored to ensure consistent student support. Teachers should be provided with feedback based on online classroom observations regarding teacher actions, communications, and student performance.\n\nEXAMPLES\tThe organization should have clearly articulated requirements for teacher communications and documentation. These communications should be monitored to ensure the highest level of support to students. Faculty should be provided support and feedback to ensure communication expectations are met."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides a wide variety of professional development opportunities to faculty and staff, which are aligned to the National Standards for Quality Online Teaching."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tIt is essential that professional development opportunities are available to support the National Standards for Quality Online Teaching. Faculty should have consistent and timely opportunities to learn and improve their practice.\n\nEXAMPLES\tTeachers new to online learning may be assigned a mentor or lead teacher for support and guidance. The mentor serves as a direct means of personalized professional development for new teachers. The program assigns mentors to new online teachers, providing a direct means of personalized professional development. The program provides synchronous professional development days prior to the start of the school year."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides professional development opportunities to guidance staff focused on student needs unique to online learning and the network of services available to support online learning."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tGuidance staff are provided training and resources to guide students and provide support in specific skill areas that are essential to a successful online learning experience.\n\nEXAMPLES\tThe organization provides professional development opportunities in various formats, such as a webinar series, specialist training offered by the American School Counselor Association, coaching, an annual conference, district-wide training."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides teachers and staff with timely and effective technical support."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe organization should clearly define the avenues and resources available for technical help and assistance, along with appropriate service levels, so end users know what to expect for turnaround time on support issues.\n\nEXAMPLES\tThe organization may have help desk personnel to assist teachers and students with technical issues. Contact information for the help desk and service-level agreements (SLAs) must be published and easily accessible."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Learners are provided with an orientation to online learning technologies and successful online learning practices."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tPrior to starting an online course, students are provided course information, directions for navigating the course, introduction to course tools, and tips for being a successful online student. It is recommended that parents or learning coaches have an active role in the orientation, as well, to successfully support the learner.\n\nEXAMPLES\tA student orientation course or modules that provide course navigation, teacher communication, tips for course success and other important course information are required before starting the online course."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides academic services and academic advising to address learners\u2019 academic and developmental needs."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe educational goals of the family and student should be considered along with the requirements to ensure the course selection and overall course pathway is attainable and can adjust over time as the student develops.\n\nAcademic services assist students with basic requirements and serve to motivate students toward successful completion of the program or course.\n\nEXAMPLES\tThe program has established academic services, such as tutoring and after-school enrichment programs."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides accessibility support services that comply with special education policies and procedures."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tResources and support are available to meet the educational needs of the students with an Individualized Education Program (IEP) or 504 Plan.\n\nEXAMPLES\tProgram website and courses meet conformance level A of the WCAG 2.0, as specified on the W3C Web Accessibility Initiative (WAI) website."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program provides access to the learning management system(s), as well as all appropriate learning and assessment content."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\tThe Learning Management System (LMS) provides a central, integrated space for educational resources",
+                    " including content resources, assessment tools, grading tools, and administrative tools.\n\nEXAMPLES\tThe student/parent Handbook includes information on the program\u2019s LMS and assessments."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program establishes standards for teacher communications with learners and parents/guardians."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe program establishes guidelines for the frequency, type, and quality of teacher communication with students and parents/guardians. The guidelines include the need for timely responses to inquiries from students and parents/guardians, as well as timely access to critical information about student progress.\n\nEXAMPLES\t Some examples of helpful communications include:\n\n* Monthly phone calls to parents and students\n* Weekly pacing charts for each course\n* A Student Information System that provides parent access to student performance and pacing data\n* A teacher expectations document with requirements for the timeliness of return emails or phone calls"]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program establishes standards for timely, effective technical support for learners."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThe program has set guidelines for response time to requests for help and sufficient responses to help support requests for end users.\n\nIndustry standards for service-level agreements can be set and measured, as well as reported to internal and external stakeholders.\n\nEXAMPLES\tHelp desk tickets are responded to within 24 hours. Frequently asked questions documents are available and easily accessible for students."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The program has guidance services and academic advising to support learners and parents/guardians to ensure the success of the online program from the decision-making process through the renewal process or graduation for all educational goals to be met."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\tServices provide students and parents/guardians with information, guidance, and access to resources to obtain the maximum benefit from their educational experience. Depending on the program, these services are either directly provided by the program or a vetted service provider",
+                    " or, in the case of supplemental programs, these services may be provided by the local school.\n\nEXAMPLES\tThe program provides guidance services, such as college and career resources and academic workshops to guide students and parents/guardians."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Ongoing internal evaluations are conducted to regularly collect and analyze data based on national, state, and/or program metrics."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tContinuous assessment of the effectiveness of the practices and services, including the evaluation of the impact as tied to user feedback, will help with program improvements and increase the quality of services.\n\nEXAMPLES\tThe organization may use qualitative and/or quantitative measures that relate to governance, management, and response to stakeholders."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Ongoing internal evaluations are conducted using valid and reliable measures to evaluate learner success and to drive instructional and management decision-making."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tA quality online program will conduct regular internal evaluations of student learning using measures that provide valuable insight to all stakeholders. Student outcomes should drive improvement activities and decisions regarding instructional practice and program management.\n\nEXAMPLES\tA quality online program could use benchmark assessments, academic persistence, or other non-subjective metrics to provide real-time intervention and improvement."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Ongoing internal evaluations are conducted to determine program success and plan for continuous improvement by measuring learner achievement and satisfaction based on valid and reliable assessment techniques."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tStudent achievement and course satisfaction data are used to evaluate the online program and plans for improvement.\n\nEXAMPLES\tPercent completions and end-of-course surveys can be used to measure program success. Satisfaction surveys are completed by students, parents, teachers, and schools."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Regular internal evaluation of state or national standardized test results designed to measure achievement of all learners are conducted to inform the program\u2019s impact on student outcomes."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tAll public schools \u2013 regardless of online status \u2013 must ensure at least 95% of all students participate in state standardized assessments. A quality online program will go beyond comparing standardized test results to state or national norms by using those results to improve student achievement.\n\nEXAMPLES\tA program whose Grade 11 students consistently score low on the ACT writing test may use the student scoring results to update its writing curriculum."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Faculty are evaluated on an ongoing basis to assure instructional quality, using clear, consistent policies, measures, and procedures."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tHigh quality educator evaluations support both student learning as well as educator well-being. Evaluations provide teachers with critical feedback on how they can improve their own practice to positively impact the lives of students.\n\nEXAMPLES\tFaculty evaluations can serve as the mechanism to establish coherence, connecting student achievement, school improvement, professional development, and staffing decisions."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "A process for reviewing and evaluating courses is implemented to ensure quality, consistency with the curriculum, currency, and advancement of student learning outcomes."},
+            "comment": {
+                "en-us": [
+                    "EXPLANATIONS\tCourse reviews are needed to ensure the quality and standards of individual courses. Course evaluations examine the appropriateness of the content and assessment methods used to achieve the learning outcomes",
+                    " consistency and relevance of the objectives of the course",
+                    " and currency of course content, teaching materials, and assessment.\n\nEXAMPLES\tOnline programs can utilize the Quality Matters Course Review process."
+                ]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Periodic external evaluations are conducted by highly qualified parties with a demonstrated ability to deliver an objective and comprehensive evaluation of internal evaluation processes and results."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tExternal evaluations are used to independently confirm the quality of educational organizations. They encourage maintaining the already-attained quality standards and implementing improvements and developments in quality.\n\nEXAMPLES\tMany programs are entering consortia or organizing around common goals/needs. If these organizations can provide the relevant expertise and objectivity, external evaluations can and should be conducted by them and not be limited to accrediting agencies, which can pose an additional cost to the program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Periodic external evaluations are conducted by highly qualified parties with a demonstrated ability to deliver an objective and comprehensive evaluation of progress towards the program\u2019s goals, mission, and strategic plan."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tThese generally refer to accreditation options as there are not a lot of external, online learning agencies that would validate policies and processes for a supplemental program. Since formal accreditation is optional for some programs, this standard needs to consider informal options as well.\n\nEXAMPLES\tMany programs are entering consortia or organizing around common goals/needs. If these organizations can provide the relevant expertise and objectivity, external evaluations can and should be conducted by them and not be limited to accrediting agencies, which can pose an additional cost to the program."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Findings from external evaluations conducted by highly qualified parties with a demonstrated ability to deliver objective and comprehensive evaluations supported by current research are used to develop and implement an improvement plan."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tA quality online program will use its external evaluation results from all other external evaluation activities and current research to inform an improvement plan that it will implement regardless of any regulatory status requiring improvement.\n\nEXAMPLES\tEven a high performing program with exceptional graduation and proficiency rates can and should utilize its external evaluation findings to identify areas for innovation."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Evaluation results are communicated to program stakeholders."},
+            "comment": {
+                "en-us": ["EXPLANATIONS\tRegular and well-structured communications related to evaluation findings can help current and future program implementation by ensuring high-quality services are provided, promoting use of and demand for program services, ensuring accountability for current program investments, and sharing important information with project stakeholders and the field.\n\nEXAMPLES\tCreating a strategy sheet for developing a communication plan focused on communicating specific evaluation information will help in identifying audiences and understanding their needs and uses for data."]
+            }
+        }
+    ]
+}

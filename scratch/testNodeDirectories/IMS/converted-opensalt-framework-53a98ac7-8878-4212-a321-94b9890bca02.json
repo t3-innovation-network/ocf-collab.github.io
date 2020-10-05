@@ -1,0 +1,397 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/53a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Manufacturing"},
+        "description": {"en-us": "CTE-Manufacturing Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Manufacturing cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Manufacturing career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Manufacturing career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Manufacturing career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Manufacturing career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Manufacturing career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Manufacturing career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Manufacturing career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Health, Safety and Environmental Assurance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the health, safety and environmental assurance career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the health, safety and environmental assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Logistics and Inventory Control"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the logistics and inventory control career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the logistics and inventory control career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Manufacturing Production Process Development"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the manufacturing production process development career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the manufacturing production process development career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the societal impact of manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Track the evolution of manufacturing, and its impact on society."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the educational requirements and professional expectations associated with a career in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of governmental and political systems on manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the interaction between manufacturing industries and social change."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how manufacturing made the United States a world leader."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between manufacturing and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of a technologically literate workforce to the manufacturing industry."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the history of manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify key historical events and their impact on manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "List key persons who have contributed to change in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the Industrial Revolution and its impact on manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify pioneers of the manufacturing industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe or debate the affect that automation has had on manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the universal systems model as it relates to manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the processes of input, processing, output, and feedback that comprise the universal systems model."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate applications of the universal systems model in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of time, capital, people, tools and machines, energy, materials, and information within the universal systems model as it applies to manufacturing industries."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of safe work practices while performing tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize immediate, potential, and hidden hazards."}
+        },
+        {
+            "competencyText": {"en-us": "Perform housekeeping tasks related to maintaining a safe work environment."}
+        },
+        {
+            "competencyText": {"en-us": "Pass a safety test with a perfect score prior to operating equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the proper safe use of tools and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety color codes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify materials and resources used in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the seven basic technological resources."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the properties of manufacturing materials."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how materials are classified."}
+        },
+        {
+            "competencyText": {"en-us": "List, measure, and compare common mechanical properties of select materials."}
+        },
+        {
+            "competencyText": {"en-us": "List sources and costs where materials may be obtained."}
+        },
+        {
+            "competencyText": {"en-us": "Create a bill of materials."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate production cost analysis."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the essential systems and processes involved in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast custom, intermittent, and continuous manufacturing systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate fundamentals of producing technical sketches."}
+        },
+        {
+            "competencyText": {"en-us": "Create simple two and three dimensional drawings using Computer-Aided Drafting (CAD) software."}
+        },
+        {
+            "competencyText": {"en-us": "List common hand tools used in the maintenance, installation, and repair of equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify commonly used power tools."}
+        },
+        {
+            "competencyText": {"en-us": "Describe primary manufacturing processes."}
+        },
+        {
+            "competencyText": {"en-us": "List secondary manufacturing processes."}
+        },
+        {
+            "competencyText": {"en-us": "Define the terms separating and forming as it relates to manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify separating processes \u2013 traditional and non-traditional. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify forming processes including casting, molding, compression, stretching, and conditioning."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between combining processes such as mixing, bonding, coating, and mechanical filtering."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a simple part applying computer assisted production equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Program a robot to perform a repetitive task."}
+        },
+        {
+            "competencyText": {"en-us": "Create a device that will perform a task using a computer controlled program."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the advantages and disadvantages of the separation processing of materials using manual versus computer controlled machinery."}
+        },
+        {
+            "competencyText": {"en-us": "Describe assembling processes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of finishing processes."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the role of quality control in the manufacturing process."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of quality control within a manufacturing system."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a pre-planned introductory manufacturing activity applying correct safety procedures, appropriate use of materials, and processing operations."}
+        },
+        {
+            "competencyText": {"en-us": "Use hand and power tools safely."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate fundamentals of reading technical sketches."}
+        },
+        {
+            "competencyText": {"en-us": "Use English and/or metric measurement effectively in order to properly lay out a part for manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Follow a production flow chart to produce a teacher-selected product."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate problem solving to improve an existing manufacturing system."}
+        },
+        {
+            "competencyText": {"en-us": "Use visual and verbal communication to present employment and career opportunities in manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Present a technical report to an audience regarding a researched manufacturing related career using multimedia."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and produce a portfolio representing experiences throughout the course of study."}
+        },
+        {
+            "competencyText": {"en-us": "Students will select and demonstrate techniques, skills, tools, and understanding related to manufacturing."}
+        },
+        {
+            "competencyText": {"en-us": "Use common tools correctly and safely."}
+        },
+        {
+            "competencyText": {"en-us": "Describe strategies for selecting materials and processes necessary for developing a technological system or artifact."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate fundamental materials processing and assembly techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the interdependence of components in a technological system and identify those elements that are critical to correct functioning."}
+        },
+        {
+            "competencyText": {"en-us": "Apply analytical tools to the development of optimal solutions for technological problems."}
+        },
+        {
+            "competencyText": {"en-us": "Maintenance, Installation and Repair"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the maintenance, installation and repair career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the maintenance, installation and repair career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Production"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the production career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the production career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Quality Assurance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the quality assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the quality assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the quality assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the quality assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the quality assurance career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in the quality assurance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the quality assurance career pathway."}
+        }
+    ]
+}

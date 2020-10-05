@@ -1,0 +1,943 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/33a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-General"},
+        "description": {"en-us": "CTE-General Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "General"}
+        },
+        {
+            "competencyText": {"en-us": "Identify Florida\u2019s seventeen career clusters."}
+        },
+        {
+            "competencyText": {"en-us": "List Florida\u2019s seventeen career clusters."}
+        },
+        {
+            "competencyText": {"en-us": "Research the national career clusters website: http://www.careertech.org/."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the Career and Technical Student Organizations (CTSO) appropriate for Career and Technical Education (CTE) programs."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the purpose of a Career and Technical Student Organization (CTSO)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify roles and responsibilities of members of professional and community service organizations, including career and technical student organizations (CTSO)."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively as a group member to demonstrate leadership and achieve organizational goals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership roles and organizational responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and utilize the planning process."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal growth project."}
+        },
+        {
+            "competencyText": {"en-us": "Identify leadership roles and organizational responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Research and discuss the history of the related career and technical student organization (CTSO)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership skills needed to develop a positive work environment."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate strategies to manage conflict in work situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and utilize the Family, Career and Community Leaders of America (FCCLA) planning process."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal portfolio project."}
+        },
+        {
+            "competencyText": {"en-us": "Identify purposes and functions of professional and community service organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Family, Career and Community Leaders of America (FCCLA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Explore emerging workplace trends and issues."}
+        },
+        {
+            "competencyText": {"en-us": "Describe current trends and issues that impact global and local business environments."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate skills for success."}
+        },
+        {
+            "competencyText": {"en-us": "Identify different types of professional and community service organizations, including career and technical student organizations that relate to the child and education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify roles and responsibilities of members of professional and community service organizations, including career and technical student organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop human relationship skills such as a positive work ethic, positive attitudes towards others, and manners in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and utilize the planning process to accomplish personal and professional goals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge, skill, and application of information systems to accomplish job objectives and enhance workplace performance."}
+        },
+        {
+            "competencyText": {"en-us": "Develop keyboarding skills to enter and manipulate text and data."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use current and emerging computer technology and software to perform personal and business related tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe communications and networking systems used in workplace environments."}
+        },
+        {
+            "competencyText": {"en-us": "Use reference materials such as online help, vendor bulletin boards, tutorials, and manuals available for application software."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ethical issues related to computers and information systems."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic file management skills."}
+        },
+        {
+            "competencyText": {"en-us": "Troubleshoot problems with computer software, hardware, peripherals, and other office equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use standard written business and financial communication formats."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership, study, and organizational skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify purposes and functions of professional and community service organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify roles and responsibilities of members of professional and community service organizations, including career and technical student organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively as a group member to achieve organizational goals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate confidence in leadership roles and organizational responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate personal responsibility."}
+        },
+        {
+            "competencyText": {"en-us": "Practice time management techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Identify methods used for studying."}
+        },
+        {
+            "competencyText": {"en-us": "List ways to use study time wisely."}
+        },
+        {
+            "competencyText": {"en-us": "Create a plan to manage your time."}
+        },
+        {
+            "competencyText": {"en-us": "List ways technology can add balance to your life."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a personal growth project."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to create organization in your personal space."}
+        },
+        {
+            "competencyText": {"en-us": "Apply academic skills as they relate to the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate reading comprehension of technical and work manuals and written instruction."}
+        },
+        {
+            "competencyText": {"en-us": "Apply appropriate mathematical skills as they relate to the task at hand."}
+        },
+        {
+            "competencyText": {"en-us": "Apply technical writing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Use safe work practices."}
+        },
+        {
+            "competencyText": {"en-us": "Comply with all applicable basic Occupational Safety and Health Administration (OSHA) rules and regulations."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate safety equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal and jobsite safety rules and regulations that maintain safe and healthy work environments and work ethics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply effective communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Describe why communication is the basis for all relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the ways communication forms the basis for all relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use appropriate modes of communication, including the Internet, for specific workplace situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ability to follow written and oral directions."}
+        },
+        {
+            "competencyText": {"en-us": "Use listening, speaking, and non-verbal skills and strategies to communicate effectively."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between different forms of communication (e.g. assertive, passive, aggressive, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Use presentation software to enhance communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate verbal and non-verbal communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to function as an effective team member."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the impact of non-verbal behavior on communication."}
+        },
+        {
+            "competencyText": {"en-us": "Organize ideas and communicate oral and written messages appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate communication skills that promote positive relationships in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Produce electronic publications using digital publishing software."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate communication skills that promote positive relationships with children."}
+        },
+        {
+            "competencyText": {"en-us": "Identify employability skills necessary to obtain a job."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate personal and professional etiquette."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of accepting constructive criticism."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with individuals and teams to complete tasks and solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Practice active listening skills."}
+        },
+        {
+            "competencyText": {"en-us": "Define and explain appropriate discipline and guidance procedures for children."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of how computers and other technologies are used as a communication tool."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate techniques for dealing with criticism."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an awareness of project management concepts and tools (e.g. timelines, deadlines, resource allocation, time management, delegation of tasks, collaboration)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate conflict resolution skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use industry-specific terminology and abbreviations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate computer literacy."}
+        },
+        {
+            "competencyText": {"en-us": "Practice appropriate written and verbal communication necessary for the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Practice effective presentation techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate conversation for the work environment."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze careers in the related industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers in the design industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers in the audio visual technology, film, and printing technology industries."}
+        },
+        {
+            "competencyText": {"en-us": "Describe available careers in education."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers in the culinary and hospitality industry."}
+        },
+        {
+            "competencyText": {"en-us": "Classify careers from entry level to professional level."}
+        },
+        {
+            "competencyText": {"en-us": "Explore entrepreneurship opportunities in the design industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explore entrepreneurship opportunities in the audio visual technology, film, and printing technology industries."}
+        },
+        {
+            "competencyText": {"en-us": "Explore entrepreneurship opportunities in the field of education."}
+        },
+        {
+            "competencyText": {"en-us": "Explore entrepreneurship opportunities in the culinary industry."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present information on a design career to include roles and responsibilities, employment opportunities, and education and training requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present information on an audio visual technology, film, and printing technology career to include roles and responsibilities, employment opportunities and education and training requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present information on careers in education to include the roles and responsibilities, opportunities for employment, and requirements for training and certification."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present information on a culinary career to include roles and responsibilities, opportunities for employment, and education and training requirements."}
+        },
+        {
+            "competencyText": {"en-us": "Apply leadership and communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Define leadership and different leadership styles."}
+        },
+        {
+            "competencyText": {"en-us": "Define communication and identify methods of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the Career and Technical Student Organization(s) that are appropriate for CTE programs in each of the career clusters."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Distributive Education Clubs of America (DECA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Family, Career and Community Leaders of America (FCCLA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Florida Public Service Association (FPSA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Florida Technical Student Association (FL-TSA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Future Business Leaders of America (FBLA) and Business Professionals of America (BPA) organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Future Farmers of America (FFA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the Health Occupations Students of America (HOSA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the establishment and history of the SkillsUSA organization."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the aims and purposes of the Future Farmers of America (FFA) organization."}
+        },
+        {
+            "competencyText": {"en-us": "Identify opportunities available to Future Farmers of America (FFA) members."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the characteristics and responsibilities of organizational leaders."}
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of a good leader."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the leadership opportunities available to members of the Career and Technical Student Organization(s) for the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the Career and Technical Student Organization(s) for the career cluster at your school or in your school district (e.g. membership requirements, dues, activities, events)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate parliamentary procedure skills during a meeting."}
+        },
+        {
+            "competencyText": {"en-us": "Participate on a committee which has an assigned task and report to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective communication skills through delivery of a speech, presentation, or demonstration."}
+        },
+        {
+            "competencyText": {"en-us": "Use a computer to assist in the completion of a project related to the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the characteristics and responsibilities of organizational leaders."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate a committee which has an assigned task and report to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in a cooperative leadership development activity or Future Farmers of America (FFA) Career Development Event."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of effective communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify state and community organizations associated with agricultural promotion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify communication skills necessary for effective leadership."}
+        },
+        {
+            "competencyText": {"en-us": "Increase awareness of leadership opportunities through professional organizations such as Career Technical Student Organizations (CTSOs)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of how information technology is used in the related field."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to follow written and oral directions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate examples of verbal and non-verbal communication."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the role and use of terminology and abbreviations used in various health occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the role and use of basic terminology and abbreviations used in nursing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify work values and goal setting tools."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how values are acquired and changed."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how values affect work."}
+        },
+        {
+            "competencyText": {"en-us": "Identify goal setting tools including a self-inventory and interest survey."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate team player skills."}
+        },
+        {
+            "competencyText": {"en-us": "Define teamwork."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the benefits of working cooperatively."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize confrontational personality types within a team."}
+        },
+        {
+            "competencyText": {"en-us": "Practice conflict resolution techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Select and use tools and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and select the appropriate tool for the assignment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the proper and safe use of tools and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate care and maintenance of tools and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective customer service skills."}
+        },
+        {
+            "competencyText": {"en-us": "Practice appropriate communication skills when dealing with customers in person and over the phone (i.e. telephone etiquette, courtesy, and manners)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and evaluate customer needs."}
+        },
+        {
+            "competencyText": {"en-us": "Practice responding to client inquiries in a timely manner."}
+        },
+        {
+            "competencyText": {"en-us": "Practice techniques to effectively serve customers."}
+        },
+        {
+            "competencyText": {"en-us": "Practice assisting clients, including difficult customers, with problem resolution."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate employability skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal talents and abilities that can contribute to positive self-esteem and success in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills needed for employment as a nurse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify academic skills required for job success."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and practice teamwork skills."}
+        },
+        {
+            "competencyText": {"en-us": "At a minimum, demonstrate the skills used within nursing from the following list: basic first aid and CPR; patient menu planning and feeding techniques; measure and record temperature, pulse and respiration (TPR); use of wheelchairs, crutches and walkers; perform a weight, height and BMI assessment; graph the development of an infant or child on a growth chart; correctly perform making an occupied and unoccupied bed."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize factors that may influence career choices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and practice employability skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify sources of career information."}
+        },
+        {
+            "competencyText": {"en-us": "Practice positive work ethics and identify negative work ethics that can contribute to success in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit work expectations of the food service employer."}
+        },
+        {
+            "competencyText": {"en-us": "List the steps in a job search."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the work-related expectations of an employer-employee relationship."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective interviewing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, reading, science, and critical thinking skills as they relate to industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify existing family and consumer sciences career pathways within the school system."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to complete a job application."}
+        },
+        {
+            "competencyText": {"en-us": "Create and discuss the importance of the components of a current resume."}
+        },
+        {
+            "competencyText": {"en-us": "Create and maintain an employment portfolio."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the components of a portfolio."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the value of a career portfolio."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a computer-generated portfolio."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain the portfolio components in a professionally organized format."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate computer literacy."}
+        },
+        {
+            "competencyText": {"en-us": "Define computer related terms (computer, data input, output, hardware, software, language, processing, memory, program, terminal, peripheral devices, keyboard characters, virtual reality, three-dimensional devices)."}
+        },
+        {
+            "competencyText": {"en-us": "Operate a computer using online platforms and applications."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the advantages and disadvantages of the use of different computer formats and operating systems."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some general uses of computers, smart phones and tablets."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the safety precautions that must be observed in using computer equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain some of the legal and ethical issues involved in using a computer and online or social media."}
+        },
+        {
+            "competencyText": {"en-us": "Use the Internet to explore selected occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop leadership and interpersonal problem-solving skills through participation in co-curricular activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate effective communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in teamwork to accomplish specified organizational goals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate cooperation and understanding with persons who are ethnically and culturally diverse."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate good work habits and career planning."}
+        },
+        {
+            "competencyText": {"en-us": "Identify attitudes and habits necessary to achieve career success."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personality aspects to consider when choosing a career."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the basic steps in career planning."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and research careers within a specific area of agriscience."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a basic career plan."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and research careers within a specific area of government or public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and research careers within a specific area of human services."}
+        },
+        {
+            "competencyText": {"en-us": "Integrate the use of science, mathematics, reading, geography, history, writing, and communication."}
+        },
+        {
+            "competencyText": {"en-us": "Apply basic mathematics operations to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Correctly use measuring devices and utilize measurements to solve problems."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare written and oral materials using correct English grammar."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the main idea in oral presentations and written materials."}
+        },
+        {
+            "competencyText": {"en-us": "Locate, organize, and interpret information from a variety of sources."}
+        },
+        {
+            "competencyText": {"en-us": "Select and study a problem that can be tested under controlled conditions to establish a hypothesis or to illustrate a known law."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the scientific method to solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Identify specific areas of commodity production in the state, nation, and world."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the historical evolution of agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the historical evolution of agriculture in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the historical evolution of government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the skills involved in effective resource management."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the steps of the decision-making process."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between a need and a want."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how values and goals affect decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a budget and savings plan."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between resources and the attainment of lifestyle goals."}
+        },
+        {
+            "competencyText": {"en-us": "Define resources."}
+        },
+        {
+            "competencyText": {"en-us": "List the benefits of managing resources."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and keep a daily planner."}
+        },
+        {
+            "competencyText": {"en-us": "Describe qualities and characteristics of a positive mentoring experience."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a self-improvement plan using the decision-making process to set goals and priorities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the decision-making process to personal, social, and family activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors that affect consumer choices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to manage your resources for personal needs and wants."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss reasons for working."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the personal skills needed for employment."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss careers related to resource management."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the relationship between income and lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Practice employee and job safety."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the roles of the Occupational Safety and Health Administration (OSHA) and the Environmental Protection Agency (EPA)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss human errors and unsafe work environments and their relationship to employee safety."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safe operation of workplace equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify first aid procedures for accidents and injuries."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit positive human relations and leadership skills."}
+        },
+        {
+            "competencyText": {"en-us": "Perform roles in a student personnel system or in a career and technical student organization (CTSO)."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively with others."}
+        },
+        {
+            "competencyText": {"en-us": "Perform roles in a student personnel system or in the Florida Technology Student Association (FL-TSA)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss individual interests, aptitudes, and opportunities as they relate to a career."}
+        },
+        {
+            "competencyText": {"en-us": "Describe individual strengths and weaknesses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify individual strengths and weaknesses."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss individual interests related to a career."}
+        },
+        {
+            "competencyText": {"en-us": "Identify careers within specific areas of technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in production technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in transportation technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and employment opportunities in power energy technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in engineering  technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in robotics technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in technical design technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in electronics technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in maritime technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in logistics and supply chain technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupations, job requirements, and job opportunities in green construction and architectural technology."}
+        },
+        {
+            "competencyText": {"en-us": "Explore careers within specific areas of interest."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary level in communication technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupational training programs and academic programs at the secondary and postsecondary levels in production technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupational training programs and academic programs at the secondary and postsecondary levels in transportation technology."}
+        },
+        {
+            "competencyText": {"en-us": "List occupational training programs and academic programs available at the secondary and postsecondary levels in power and energy technologies."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in engineering technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in robotics technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in technical design technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in electronics technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in maritime technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in logistics and supply chain technology."}
+        },
+        {
+            "competencyText": {"en-us": "List academic and career programs at the secondary levels in green construction and architectural technology."}
+        },
+        {
+            "competencyText": {"en-us": "Form an understanding and appreciation for work after listening to or observing technology workers."}
+        },
+        {
+            "competencyText": {"en-us": "Form an understanding and appreciation for work after participating in a simulated technology group project in the laboratory."}
+        },
+        {
+            "competencyText": {"en-us": "Form an understanding and appreciation for the roles and work of technology workers."}
+        },
+        {
+            "competencyText": {"en-us": "Form an understanding and appreciation for the roles and work of co-workers."}
+        },
+        {
+            "competencyText": {"en-us": "Technology"}
+        },
+        {
+            "competencyText": {"en-us": "Use information technology tools."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the functions of web browsers, and use them to access the world wide web and other computer resources typically used in the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Use email clients to send simple messages and files to other internet users."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways to communicate effectively using internet technology."}
+        },
+        {
+            "competencyText": {"en-us": "Use different types of web search engines effectively to locate information relevant to the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and use communication features of information technology."}
+        },
+        {
+            "competencyText": {"en-us": "Define important internet communications protocols and their roles in delivering basic internet services."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic principles of the Domain Name System (DNS)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify security issues related to internet clients."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use principles of Personal Information Management (PIM), including common applications."}
+        },
+        {
+            "competencyText": {"en-us": "Efficiently transmit text and attachments using popular internet services, including email."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct a webcast and related services."}
+        },
+        {
+            "competencyText": {"en-us": "Represent technical issues to a non-technical audience."}
+        },
+        {
+            "competencyText": {"en-us": "Classify common file extensions based on software application programs used in the workplace environment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate various ways to communicate effectively using internet technology."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and categorize usage of different forms of storage devices and backup media."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize essential database concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe types of file systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify roles and responsibilities of members of professional organizations, community service organizations, and career and technical student organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Work cooperatively as a group member to achieve organizational goals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate leadership roles and organizational responsibilities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and utilize the planning process."}
+        },
+        {
+            "competencyText": {"en-us": "Identify components of network systems."}
+        },
+        {
+            "competencyText": {"en-us": "Identify basic hardware and software components needed to access the Internet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify user customization features in web browsers."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize essential database concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use networking and internet services."}
+        },
+        {
+            "competencyText": {"en-us": "Define database and identify how it is used in the business environment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify attitudes and habits necessary to achieve career success."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how information technology is used in the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify through internet research the responsibilities, tasks, and skills required for information technology careers in the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify security-related ethical and legal information technology issues faced by professionals in the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Relate information technology project management concepts and terms to careers in the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Manage information technology components typically used in professions of the career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify information technology careers in the Law, Public Safety and Security career cluster, including the responsibilities, tasks and skills they require to include: NCIC/FCIC, CAD System in Dispatch, Computer Forensics, and Encryption."}
+        },
+        {
+            "competencyText": {"en-us": "Research information technology careers for a presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify security-related ethical and legal information technology issues faced by professionals in the Law, Public Safety and Security career cluster to include: confidentiality and personal information (personal computer use)."}
+        }
+    ]
+}

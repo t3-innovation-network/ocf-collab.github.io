@@ -1,0 +1,235 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/49a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Education and Training"},
+        "description": {"en-us": "CTE-Education and Training Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Administration and Administrative Support"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the administration and administrative support career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the administration and administrative support career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Education & Training cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Education & Training career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Education & Training career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Education & Training career cluster. "}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Education & Training career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Education & Training career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Education & Training career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Education & Training career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Practice health and safety in the learning environment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the indicators of a healthy child."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the indicators of childhood illnesses, their causes and preventive measures."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common indicators of child abuse and neglect."}
+        },
+        {
+            "competencyText": {"en-us": "Research laws that relate to reporting suspected child abuse."}
+        },
+        {
+            "competencyText": {"en-us": "List community agencies that provide help to abused children."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety guidelines to follow when caring for children."}
+        },
+        {
+            "competencyText": {"en-us": "Create a response plan for emergency situations."}
+        },
+        {
+            "competencyText": {"en-us": "Research available certifications for babysitters."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the nutritional needs of children."}
+        },
+        {
+            "competencyText": {"en-us": "Identify nutritional needs of children."}
+        },
+        {
+            "competencyText": {"en-us": "Research foods that may be harmful to children (i.e. food allergies)."}
+        },
+        {
+            "competencyText": {"en-us": "Research long term effects of childhood obesity and poor nutrition."}
+        },
+        {
+            "competencyText": {"en-us": "Plan and prepare nutritious snacks for children using appropriate safety and sanitation procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Exhibit best practices for learning environments."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange learning centers that provide for a child\u2019s exploration, discovery and development."}
+        },
+        {
+            "competencyText": {"en-us": "Develop guidelines for establishing activities, routines and transitions for children."}
+        },
+        {
+            "competencyText": {"en-us": "Utilize technology as it relates to the field of education."}
+        },
+        {
+            "competencyText": {"en-us": "Identify technology utilized in the field of education."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze technology trends impacting education."}
+        },
+        {
+            "competencyText": {"en-us": "Apply technology for efficient operation of the learning environment."}
+        },
+        {
+            "competencyText": {"en-us": "Professional Support Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the professional support services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the professional support services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Teaching/Training"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of careers in the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the teaching/training career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the teaching/training career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate career decisions as they relate to the teaching profession."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate employability skills as they relate to teaching."}
+        },
+        {
+            "competencyText": {"en-us": "Identify personal interests, aptitudes, talents and abilities that can contribute to positive self-esteem and success in the work place."}
+        },
+        {
+            "competencyText": {"en-us": "Practice teamwork skills."}
+        },
+        {
+            "competencyText": {"en-us": "Practice positive work ethics and identify negative work ethics, including influences of social media on job performance."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, reading, science, and critical thinking skills as they relate to the field of education."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and utilize different job search skills."}
+        },
+        {
+            "competencyText": {"en-us": "Develop short-term and long-term goals for personal and professional achievement."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the physical, emotional, intellectual and social development of children."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common physical, emotional, intellectual and social milestones for children."}
+        },
+        {
+            "competencyText": {"en-us": "Create and demonstrate an age appropriate activity which promotes a child\u2019s growth and development."}
+        },
+        {
+            "competencyText": {"en-us": "Research and demonstrate adaptations appropriate for a special needs child."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize age-appropriate learning activities."}
+        },
+        {
+            "competencyText": {"en-us": "Identify age-appropriate learning activities."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate games, equipment, activities, books, and play materials for age appropriateness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and understand basic observation techniques and how they are used to evaluate children\u2019s developmental milestones."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast basic observation techniques in relation to the learning environment."}
+        }
+    ]
+}

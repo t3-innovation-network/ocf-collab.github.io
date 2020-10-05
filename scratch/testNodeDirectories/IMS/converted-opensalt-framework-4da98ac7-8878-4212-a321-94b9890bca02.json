@@ -1,0 +1,310 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/4da98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Government and Public Administration"},
+        "description": {"en-us": "CTE-Government and Public Administration Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Foreign Service"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the foreign service career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the foreign service career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Government & Public Administration cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Government & Public Administration career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Government & Public Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Government & Public Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Government & Public Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Government & Public Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Government & Public Administration career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Government & Public Administration career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Apply concepts of geography used in government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Identify graphic tools and technologies used in government and public administration occupations."}
+        },
+        {
+            "competencyText": {"en-us": "Locate places and regions using maps and globes."}
+        },
+        {
+            "competencyText": {"en-us": "Create maps and graphs to display geographic information."}
+        },
+        {
+            "competencyText": {"en-us": "Describe communication formats used to facilitate the exchange of ideas in government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Identify public issues at the local, state, and national levels."}
+        },
+        {
+            "competencyText": {"en-us": "Debate a public issue of importance to your community."}
+        },
+        {
+            "competencyText": {"en-us": "Debate a public issue impacting the state or nation."}
+        },
+        {
+            "competencyText": {"en-us": "Make a presentation explaining the impact of a national public issue on your local community."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct an interview on a state public issue."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of health, safety, and environmental management systems in government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Identify possible risk of injury or illness in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify safety signs and symbols."}
+        },
+        {
+            "competencyText": {"en-us": "Create and present a solution to address risk of injury or illness in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify hazards in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the government agencies responsible for providing a safe workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Create a presentation for employees on preparedness for a safe environment."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and present persuasive arguments on political or social topics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify differing political or social perspectives on a public policy impacting the local community."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present a perspective on a policy."}
+        },
+        {
+            "competencyText": {"en-us": "Debate a public policy."}
+        },
+        {
+            "competencyText": {"en-us": "Governance"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the governance career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the governance career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the governmental policy making process."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between the legislative branch and the executive branch of government."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of the legislature."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the role of congress."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss how bills become laws."}
+        },
+        {
+            "competencyText": {"en-us": "Identify organizations that engage in the political process."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a public policy and explain the benefits to the community."}
+        },
+        {
+            "competencyText": {"en-us": "National Security"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the national security career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the national security career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Planning"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the planning career pathway and describe how the careers have evolved and impacted society. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the planning career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Public Management and Administration"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the public management and administration career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the public management and administration career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the functions of government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the various forms of governance."}
+        },
+        {
+            "competencyText": {"en-us": "Define the concepts of authority, rights, and responsibility in government and public administration."}
+        },
+        {
+            "competencyText": {"en-us": "Regulation"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the regulation career pathway and describe how the careers have evolved and impacted society. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the regulation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Revenue and Taxation"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the revenue and taxation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the revenue and taxation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the revenue and taxation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the revenue and taxation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the revenue and taxation career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the revenue and taxation career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the revenue and taxation career pathway."}
+        }
+    ]
+}

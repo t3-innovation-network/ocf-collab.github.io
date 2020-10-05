@@ -1,0 +1,640 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/50a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Human Services"},
+        "description": {"en-us": "CTE-Human Services Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Counseling and Mental Health Services"}
+        },
+        {
+            "competencyText": {"en-us": "Describe counseling and mental health services."}
+        },
+        {
+            "competencyText": {"en-us": "Research counseling and mental health services available at the state and local level."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common cause for seeking counseling and mental health services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a physically healthy environment to enhance effectiveness of treatment."}
+        },
+        {
+            "competencyText": {"en-us": "Plan furniture and décor for a counseling or mental health facility."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the ethical and legal responsibilities of the counseling services to the client."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the counseling and mental health services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the counseling and mental health services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Consumer Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of consumer services career have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the consumer services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify consumer services."}
+        },
+        {
+            "competencyText": {"en-us": "Examine consumer services laws and ethics required for obtaining licensures."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss client and consumer service skills including ability to empathize and to motivate clients."}
+        },
+        {
+            "competencyText": {"en-us": "Research and recommend products, plans, or services."}
+        },
+        {
+            "competencyText": {"en-us": "Create advertisement documents for specific audiences. "}
+        },
+        {
+            "competencyText": {"en-us": "Describe ethical and legal responsibilities associated with providing consumer services to clients and consumers."}
+        },
+        {
+            "competencyText": {"en-us": "Early Childhood Development and Services"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss early childhood development and services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a safe and sanitary learning environment for a child."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the indicators of a healthy child."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common indicators of child abuse and neglect."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common physical, emotional, intellectual, and social milestones for children."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss strategies that promote growth and development."}
+        },
+        {
+            "competencyText": {"en-us": "Create a developmentally appropriate activity to reflect interests and developmental levels."}
+        },
+        {
+            "competencyText": {"en-us": "Arrange learning centers that provide for a child\u2019s exploration, discovery, and development."}
+        },
+        {
+            "competencyText": {"en-us": "Observe and document children\u2019s progress."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate games, equipment, activities, books, and play materials for age appropriateness."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the early childhood development and services career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the early childhood development and services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge, skills and practices of early childhood care."}
+        },
+        {
+            "competencyText": {"en-us": "Identify stages of child development and age appropriate activities."}
+        },
+        {
+            "competencyText": {"en-us": "List the roles and responsibilities of parents and caregivers."}
+        },
+        {
+            "competencyText": {"en-us": "Identify community resources that benefit children, such as first aid and critical emergency skills."}
+        },
+        {
+            "competencyText": {"en-us": "Explore toys, books, games, and software of interest to children."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate safe and proper use of toys and equipment, including safe play."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different forms of guidance (e.g. redirection of behavior) used with children in different situations."}
+        },
+        {
+            "competencyText": {"en-us": "Family and Community Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the family and community services career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the family and community services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss family and community services."}
+        },
+        {
+            "competencyText": {"en-us": "Research family and community services available through agencies, organizations, and churches at the local and state level."}
+        },
+        {
+            "competencyText": {"en-us": "Create documents to advertise family and community services."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the ethical and legal responsibilities of the family and community services to the client."}
+        },
+        {
+            "competencyText": {"en-us": "General"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Human Services cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Human Services career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Human Services career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Human Services career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Human Services career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Human Services career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Human Services career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Human Services career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify career pathways related to family and consumer sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Define and describe the different types of businesses related to family and consumer sciences career pathways."}
+        },
+        {
+            "competencyText": {"en-us": "Explain entrepreneurship."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the risks and advantages of entrepreneurship."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an entrepreneur business plan for a family and consumer sciences career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Operate an on-site business related to a family and consumer sciences career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize factors that affect personality development."}
+        },
+        {
+            "competencyText": {"en-us": "Review Robert Havighurst\u2019s developmental tasks of pre-adolescence and adolescence."}
+        },
+        {
+            "competencyText": {"en-us": "Identify Maslow\u2019s basic human needs."}
+        },
+        {
+            "competencyText": {"en-us": "Define self-esteem and self-concept."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how heredity and environment affect the development of personality."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors that affect self-concept and achievement."}
+        },
+        {
+            "competencyText": {"en-us": "State how a positive self-concept builds good relationships with friends, peers, parents, and family members."}
+        },
+        {
+            "competencyText": {"en-us": "Identify characteristics of individuals with high and low self-esteem."}
+        },
+        {
+            "competencyText": {"en-us": "Inventory personal traits, attitudes, abilities, talents, and values that can be used as resources in personal development."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze personality strengths and weaknesses."}
+        },
+        {
+            "competencyText": {"en-us": "Identify how values and standards affect character and actions."}
+        },
+        {
+            "competencyText": {"en-us": "Determine how to make ethical decisions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply skills needed for positive interpersonal relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Identify social skills that contribute to good relationships with others, including diverse multi-cultural groups."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate topics of conversation when establishing relationships with acquaintances."}
+        },
+        {
+            "competencyText": {"en-us": "List forms of verbal and non-verbal communication."}
+        },
+        {
+            "competencyText": {"en-us": "Practice positive communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate appropriate manners and etiquette for a variety of social situations."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between the types of communication (e.g. social media, texting, nonverbal, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the various types of relationships, such as family, friends, and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Define self-esteem and state how a positive self-concept builds healthy relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common areas of conflict and possible resolutions for healthy relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positive coping skills for adjusting to stress and conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positive and negative stress."}
+        },
+        {
+            "competencyText": {"en-us": "Identify changes that affect families."}
+        },
+        {
+            "competencyText": {"en-us": "Describe ways of coping with personal and family stress and crises."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize signs of peer pressure and bullying."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate refusal skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify causes of conflict."}
+        },
+        {
+            "competencyText": {"en-us": "List the steps in the conflict resolution process."}
+        },
+        {
+            "competencyText": {"en-us": "Compare ways of dealing with and preventing conflict with friends and family members."}
+        },
+        {
+            "competencyText": {"en-us": "Identify relationships that influence personality development."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe qualities of a friend."}
+        },
+        {
+            "competencyText": {"en-us": "Define reasons for dating."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize healthy and unhealthy relationships."}
+        },
+        {
+            "competencyText": {"en-us": "List the functions of families."}
+        },
+        {
+            "competencyText": {"en-us": "List types of family structures."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the family life cycle."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to blend work and family."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the benefits and challenges of current technology and the impact on the family."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors in caring for children and the elderly."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the joys and challenges of being a parent."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the importance of healthy choices as they relate to the well-being of the individual."}
+        },
+        {
+            "competencyText": {"en-us": "Define and describe symptoms of stress."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various coping behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "List and define types of substance abuse."}
+        },
+        {
+            "competencyText": {"en-us": "Identify effects of substance abuse on job performance."}
+        },
+        {
+            "competencyText": {"en-us": "List help that is available, through the government and community organizations, for attaining and maintaining good mental and emotional health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of healthy food choices as they relate to job performance."}
+        },
+        {
+            "competencyText": {"en-us": "Identify techniques for balancing work, community, and personal life."}
+        },
+        {
+            "competencyText": {"en-us": "Apply  the decision making process to personal finance choices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify needs versus wants."}
+        },
+        {
+            "competencyText": {"en-us": "Research and use various consumer information sources to make purchases (e.g. online versus store front)."}
+        },
+        {
+            "competencyText": {"en-us": "Set financial goals, including saving and investing."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a plan for resource management (e.g. develop a plan for managing a budget)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to keep personal information safe and utilize consumer safety guidelines."}
+        },
+        {
+            "competencyText": {"en-us": "Identify desirable personal and work ethics."}
+        },
+        {
+            "competencyText": {"en-us": "Describe positive and negative personal and work ethics."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the benefits of positive personal and work ethics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify character traits that reflect good moral judgment (e.g. honesty, kindness)."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate characteristics that produce successful employee to employer relations."}
+        },
+        {
+            "competencyText": {"en-us": "Develop interpersonal skills for personal and career success."}
+        },
+        {
+            "competencyText": {"en-us": "Determine ways to strengthen self-esteem."}
+        },
+        {
+            "competencyText": {"en-us": "Identify factors that influence personality formation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify positive human resources required for successful personal and work relationships."}
+        },
+        {
+            "competencyText": {"en-us": "Describe qualities and characteristics of a mentoring experience."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the relevance of integrating academic learning, social skills, and lifestyle choices to home, community, and career."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate critical thinking skills and application of the decision making process as it relates to personal and work situations."}
+        },
+        {
+            "competencyText": {"en-us": "Define the decision-making process."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the decision-making process in workplace situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the ability to apply critical thinking skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate dress for various job experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Practice good grooming techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the factors needed to create an economical, coordinated, easy care work wardrobe."}
+        },
+        {
+            "competencyText": {"en-us": "Select appropriate clothing for a variety of careers and work situations."}
+        },
+        {
+            "competencyText": {"en-us": "Identify legal issues as they relate to the work environment."}
+        },
+        {
+            "competencyText": {"en-us": "Define and describe types of sexual harassment in the workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Identify appropriate conversation for the work environment."}
+        },
+        {
+            "competencyText": {"en-us": "List the advantages of a culturally diverse workplace."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the Americans with Disabilities Act."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the Equal Employment Opportunity Act."}
+        },
+        {
+            "competencyText": {"en-us": "Identify job benefits."}
+        },
+        {
+            "competencyText": {"en-us": "Define job benefits."}
+        },
+        {
+            "competencyText": {"en-us": "Identify advantages of fringe benefits."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss income as it relates to career success."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of food preparation skills and nutrition."}
+        },
+        {
+            "competencyText": {"en-us": "Identify current USDA dietary guidelines to plan daily food choices and maintain wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and use recipes."}
+        },
+        {
+            "competencyText": {"en-us": "Select, use, care for and store food preparation equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply food safety and sanitation practices."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and demonstrate acceptable behaviors for table service and etiquette."}
+        },
+        {
+            "competencyText": {"en-us": "Specify nutritional needs of the young adult."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of fashion and sewing concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Determine values, needs, and wants related to wardrobe and grooming."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize factors that influence clothing purchases."}
+        },
+        {
+            "competencyText": {"en-us": "Identify sewing tools and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Use tools and materials to create a personalized individual or group project."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of housing and interior design."}
+        },
+        {
+            "competencyText": {"en-us": "Identify lifestyle, common needs, common values, and goals related to housing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify elements and principles of design."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate ways to create a comfortable living space."}
+        },
+        {
+            "competencyText": {"en-us": "Personal Care Services"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of personal care services career have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the personal care services career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Assess the importance of good health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of good nutrition."}
+        },
+        {
+            "competencyText": {"en-us": "Classify foods according to the Food Guide Pyramid."}
+        },
+        {
+            "competencyText": {"en-us": "List the essential nutrients and describe their functions and sources."}
+        },
+        {
+            "competencyText": {"en-us": "List good health practices that contribute to looking your best."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the health risks associated with the use of alcohol, tobacco, and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "List resources and organizations that assist individuals who abuse alcohol, tobacco, and other drugs."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an exercise and nutrition plan that incorporates the components of wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Identify careers related to health and wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal care services."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and apply principles of biology necessary to select safe and effective personal care products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Explain principles of chemistry in the composition, structure, and properties of processes of a broad-range of personal care products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Apply basic principles of human anatomy necessary in order to determine needed personal care."}
+        },
+        {
+            "competencyText": {"en-us": "Create advertisement documents to attract and retain human services clientele."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the ethical and legal responsibilities of the personal services provider to the client."}
+        }
+    ]
+}

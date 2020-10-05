@@ -1,0 +1,1000 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/45a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Agriculture, Food, and Natural Resources"},
+        "description": {"en-us": "CTE-Agriculture, Food, and Natural Resources Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Agribusiness Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the agribusiness systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the agribusiness systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify components of agribusiness."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the business cycle."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a profit and loss statement."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between types of competition practices."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper methods of recording merchandise."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize proper use of customer service skills."}
+        },
+        {
+            "competencyText": {"en-us": "Explain proper management techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in agricultural processing and marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify processing and packaging techniques used in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the difference in marketing strategies between perishable and nonperishable commodities."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a merchandising plan for an agricultural product."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare USDA standards and grades for agricultural products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how processing, packaging, and marketing affects the price of an item."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize misleading advertising."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how competition benefits the consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Record the market price of an agricultural commodity over a period of time."}
+        },
+        {
+            "competencyText": {"en-us": "Construct a floral design."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast historical and cultural contributions to design."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of arrangements and products."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of floral pricing."}
+        },
+        {
+            "competencyText": {"en-us": "Verify flowers by common and scientific name."}
+        },
+        {
+            "competencyText": {"en-us": "Assemble a floral arrangement."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize knowledge of inventory skills."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a marketing plan."}
+        },
+        {
+            "competencyText": {"en-us": "Animal Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the animal systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the animal systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between animal welfare and ethical treatment of animals."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the proper handling of production animals."}
+        },
+        {
+            "competencyText": {"en-us": "Compare animal welfare and animal rights."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how animal welfare and animal rights advocate groups impact production agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize animal cruelty and the consequences of cruel treatment of animals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in animal sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between food, service, and companion animals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify breeds of food, service, and companion animals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify supplies and services industries related to animal science."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the needs of an animal and describe and describe proper care for that animal."}
+        },
+        {
+            "competencyText": {"en-us": "Identify consumer foods and products derived from animals."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss organic and conventional agriculture as it relates to livestock production."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate skills gained from small, companion animal care."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of proper nutrition and health in small and companion animals."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate between animal welfare and animal rights."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the training process for service animals."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast career opportunities available for companion animals based on animal type and breed."}
+        },
+        {
+            "competencyText": {"en-us": "Explain proper care for a small animal."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in animal sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the differences between animal welfare and animal rights."}
+        },
+        {
+            "competencyText": {"en-us": "Raise and care for an agricultural animal."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the technology involved in the development of improved animal products."}
+        },
+        {
+            "competencyText": {"en-us": "Identify agribusinesses that provide supplies and services to animal science industries in the local area."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the breeds of livestock important to agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the uses of livestock and their products."}
+        },
+        {
+            "competencyText": {"en-us": "Environmental Service Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the environmental service systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the environmental service systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Define and identify renewable and nonrenewable natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Describe agricultural management practices that conserve natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Describe effects of pollution on the environment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to recycle or conserve a natural resource."}
+        },
+        {
+            "competencyText": {"en-us": "Define organic agriculture and traditional agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize skills used in landscape services."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish plants based on common and scientific name."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct a soil test."}
+        },
+        {
+            "competencyText": {"en-us": "Construct an irrigation system."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast landscape styles."}
+        },
+        {
+            "competencyText": {"en-us": "Select plants based on environmental factors."}
+        },
+        {
+            "competencyText": {"en-us": "Design a landscape."}
+        },
+        {
+            "competencyText": {"en-us": "Model personal safety and knowledge of equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Explain proper procedures for applying pesticides and fertilizer based on Best Management Practices."}
+        },
+        {
+            "competencyText": {"en-us": "Inventory an ecosystem."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of invasive plants."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of customer interactions."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify methods or practices of conserving natural resources."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate a method or practice of conservation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify major ecosystems in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the importance of the ecosystems to agriculture, society, and each other."}
+        },
+        {
+            "competencyText": {"en-us": "Define Best Management Practices (BMPs) and explain their benefits to agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the use of Best Management Practices in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in forestry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major forest regions of the United States and Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of forests and forest products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how trees grow, reproduce, and components of forest health."}
+        },
+        {
+            "competencyText": {"en-us": "Describe tools and techniques common to the forest industry."}
+        },
+        {
+            "competencyText": {"en-us": "Identify pests, pathogens, parasites, and predators of forests."}
+        },
+        {
+            "competencyText": {"en-us": "Food Products and Processing Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the food products & processing systems career pathway and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the food products & processing systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in dairy production."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between breeds of dairy cattle."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of proper health and nutrition for dairy animals."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the safety procedures used for dairy products."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different styles of dairies and milking parlors."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the varieties of dairy products and the methods of processing."}
+        },
+        {
+            "competencyText": {"en-us": "Create a dairy product."}
+        },
+        {
+            "competencyText": {"en-us": "Describe chains between producer and consumer for agricultural products."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the agricultural source of consumer products."}
+        },
+        {
+            "competencyText": {"en-us": "Trace the development of an agricultural product from the producer to the consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate knowledge and skills involved with food science."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the process from farm to consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate safe food handling practices, and their regulating agencies."}
+        },
+        {
+            "competencyText": {"en-us": "Document changes in food preservation and how it impacted our civilization."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize food processing and packaging procedures."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to develop and market a food product."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the components of a nutrition label."}
+        },
+        {
+            "competencyText": {"en-us": "Create and market a food product."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in food science."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the proper handling and storage of food products."}
+        },
+        {
+            "competencyText": {"en-us": "List and explain methods of food preservation."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct a food taste test."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a production and marketing plan for a food product."}
+        },
+        {
+            "competencyText": {"en-us": "Read and interpret a food label."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the proper handling and storage of food products from farm to plate."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and demonstrate at least one method of food preservation."}
+        },
+        {
+            "competencyText": {"en-us": "Produce and market a food product."}
+        },
+        {
+            "competencyText": {"en-us": "Read, interpret, and develop a food label."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the components of a balanced diet."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare USDA standards and grades for agricultural products."}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Agriculture, Food & Natural Resources cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Agriculture, Food & Natural Resources career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Agriculture, Food & Natural Resources career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Agriculture, Food & Natural Resources career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Agriculture, Food & Natural Resources career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Agriculture, Food & Natural Resources career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Agriculture, Food & Natural Resources career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Agriculture, Food & Natural Resources career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the evolution of production agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of agriculture on a world, national, state and community scale."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish the major agricultural production areas of the United States."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish agriculture products produced in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret how changes in production practices, population, and land use have influenced the agriculture economy."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how development of new technology has affected agriculture production."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the changes in agriculture careers that reflect the changes in production methods."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in agriscience research."}
+        },
+        {
+            "competencyText": {"en-us": "Define agriscience."}
+        },
+        {
+            "competencyText": {"en-us": "Describe products of agriscience."}
+        },
+        {
+            "competencyText": {"en-us": "Define the scope of research in agriscience."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the impact of research on agriculture on consumer opinion."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the steps of the scientific method."}
+        },
+        {
+            "competencyText": {"en-us": "Apply the scientific method to solve an agricultural problem."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the importance of agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Define agriscience and explain its diversity and scope."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of agriculture on a world, national, state, and community scale."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of agriculture in each individual's life."}
+        },
+        {
+            "competencyText": {"en-us": "Collect and discuss information on current agricultural events. "}
+        },
+        {
+            "competencyText": {"en-us": "Trace the evolution of agriculture from its beginnings to current applications."}
+        },
+        {
+            "competencyText": {"en-us": "Identify conditions necessary for agricultural production."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major agricultural production areas of the United States and of Florida and the major commodities produced."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the diversity of career opportunities in agriculture and its related fields."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the relationship between natural resources and agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technology used in agricultural production, processing, and marketing of agricultural products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technology used in processing and marketing agricultural products."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and practice agriculture safety skills."}
+        },
+        {
+            "competencyText": {"en-us": "Identify procedures for safely using equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use proper personal protective equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Describe proper procedures for safety in agriculture classroom, lab, and farm."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in the importance of agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the historical evolution of agriculture and its impact on civilization."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the scope of agriculture and its impact on daily life."}
+        },
+        {
+            "competencyText": {"en-us": "Identify specific areas of commodity production in the state, nation and world."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the evolution of agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Define agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and research careers within a specific area of agriscience."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how commodities have diversified in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of plants and animals in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Identify plants important to agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Identify animals important to agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the proper handling and ethical care of animals. "}
+        },
+        {
+            "competencyText": {"en-us": "Describe animal rights and animal welfare."}
+        },
+        {
+            "competencyText": {"en-us": "Compare organic farming and conventional farming."}
+        },
+        {
+            "competencyText": {"en-us": "Identify conditions necessary for agricultural production."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate proper health and nutrition for livestock animals."}
+        },
+        {
+            "competencyText": {"en-us": "Compare companion animals and livestock animals."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the agricultural source of consumer products."}
+        },
+        {
+            "competencyText": {"en-us": "Trace the development of an agricultural product from the producer to the consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in livestock production."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the different breeds of livestock."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate the different cuts and grades of meat."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate proper health and nutrition for livestock animals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of terminology for animals based on species and condition (eg. age, sex, bred, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Determine different reproduction methods, and the process of selective breeding."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the use of biotechnology has impacted the livestock industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in poultry production."}
+        },
+        {
+            "competencyText": {"en-us": "Compare different types of poultry and their uses in production agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate proper techniques for classification and grading of poultry and poultry products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe proper safe handling techniques for poultry products."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate knowledge of health and nutrition for poultry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the use of biotechnology has impacted the poultry industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in aquaculture production."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the different breeds of aquatic species."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate proper health and nutrition for aquatic species."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of terminology for aquatic species."}
+        },
+        {
+            "competencyText": {"en-us": "Determine different reproduction methods."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the use of biotechnology has impacted the aquatic species industry."}
+        },
+        {
+            "competencyText": {"en-us": "Apply scientific and technical skills in production agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate scientifically investigable questions, construct investigations, collect and evaluate data, and develop scientific recommendations based on findings."}
+        },
+        {
+            "competencyText": {"en-us": "Employ technological tools to expedite workflow including word processing, databases, reports, spreadsheets, multimedia presentations, electronic calendar, contacts, email, and internet applications."}
+        },
+        {
+            "competencyText": {"en-us": "Recommend appropriate agriculture communications concepts."}
+        },
+        {
+            "competencyText": {"en-us": "Sort and classify types of communication used in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Create messages using various forms of communication."}
+        },
+        {
+            "competencyText": {"en-us": "Generate a speech."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast different types of media."}
+        },
+        {
+            "competencyText": {"en-us": "Create a photo story."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper ethics in communication."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and compare regulating agencies."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate careers in agriculture communications."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate product knowledge and skills in agricultural processing and marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Define agricultural product processing and marketing."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the processing and marketing of an agriculture product from farm to consumer."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare, process, and market an agricultural product."}
+        },
+        {
+            "competencyText": {"en-us": "Use selected techniques to produce finished products from agricultural materials."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a project safely using the appropriate agricultural tools, machinery, or equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and process an agricultural product."}
+        },
+        {
+            "competencyText": {"en-us": "Propagate horticulture plants."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in biotechnology."}
+        },
+        {
+            "competencyText": {"en-us": "Define biotechnology."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss current and future uses of genetic engineering."}
+        },
+        {
+            "competencyText": {"en-us": "Identify issues associated with biotechnology."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the history of genetic engineering and biotechnology in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Natural Resources Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the natural resource systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the natural resource systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Plant Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the plant systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the plant systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in plant sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish between horticulture, forestry, and agronomic."}
+        },
+        {
+            "competencyText": {"en-us": "Identify horticultural forestry and agronomic plants."}
+        },
+        {
+            "competencyText": {"en-us": "Propagate and grow an agricultural plant."}
+        },
+        {
+            "competencyText": {"en-us": "Identify supplies and services industries related to plant science."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a specimen collection of local plant materials."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss organic agriculture and conventional agriculture as it relates to plants."}
+        },
+        {
+            "competencyText": {"en-us": "Identify nursery and landscape plants and crops for consumption."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper planting techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in vegetable production."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a vegetable crop."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the components of soil."}
+        },
+        {
+            "competencyText": {"en-us": "Perform a soil test."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how climate can affect crop production."}
+        },
+        {
+            "competencyText": {"en-us": "Compile knowledge of growing seasons for a geographic region."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the use of Best Management Practices in crop production."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the impact of pests on crop yields."}
+        },
+        {
+            "competencyText": {"en-us": "Model the safety precautions on a pesticide and fertilizer label."}
+        },
+        {
+            "competencyText": {"en-us": "Assess proper irrigation methods for crops."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze knowledge of harvesting techniques and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Compare types of storage facilities."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the use of biotechnology has impacted vegetable crop production."}
+        },
+        {
+            "competencyText": {"en-us": "Explain skills and principles used in nursery production."}
+        },
+        {
+            "competencyText": {"en-us": "Perform plant propagation."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a growing schedule for nursery plants."}
+        },
+        {
+            "competencyText": {"en-us": "Model methods for Integrated Pest Management."}
+        },
+        {
+            "competencyText": {"en-us": "Compare types of growing media."}
+        },
+        {
+            "competencyText": {"en-us": "Identify nutrients necessary for plant growth from the periodic table and their functions."}
+        },
+        {
+            "competencyText": {"en-us": "Identify plants based on common and scientific names."}
+        },
+        {
+            "competencyText": {"en-us": "Describe principles for plant growth."}
+        },
+        {
+            "competencyText": {"en-us": "Explain different methods of irrigation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how the use of biotechnology has impacted plant production."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and skills in plant sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Produce an agricultural plant."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the technology involved in the development of improved crops."}
+        },
+        {
+            "competencyText": {"en-us": "Identify agribusinesses that provide supplies and services to plant science industries in the state."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the recommended uses and safety precautions from a pesticide label."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss basic landscape design."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a landscape design."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a care and maintenance program for horticultural, forestry, and/or agronomic crops."}
+        },
+        {
+            "competencyText": {"en-us": "Identify pests, pathogens, parasites, and predators of horticultural and agronomic crops."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the major components of soil."}
+        },
+        {
+            "competencyText": {"en-us": "Explain methods of soil conservation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the major forest regions of the United States and Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the importance of forests and forest products."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the components of forest health and how trees grow and reproduce."}
+        },
+        {
+            "competencyText": {"en-us": "Use tools and techniques common to the forest industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe various forms of fertilizer and the proper application method."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate how to read a fertilizer label."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper fertilizer use."}
+        },
+        {
+            "competencyText": {"en-us": "Power, Structural and Technical Systems"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of the power, structural and technological systems career pathway and describe how the careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter a career in the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated in careers within the power, structural and technological systems career pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills in agriscience laboratories and workshops."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrates proper laboratory and workshop safety techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Complete a project demonstrating the safe use of agricultural tools, machinery, and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Define the scope of agricultural mechanization and engineering."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the impact of agricultural mechanization and engineering on society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify tools, machines, and equipment used in agriculture."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct an experiment using proper laboratory techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate proper workshop safety techniques."}
+        }
+    ]
+}

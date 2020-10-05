@@ -1,0 +1,1600 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/57a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "English Language Arts (B.E.S.T. - Effective starting 2021-2022)"},
+        "description": {"en-us": "English Language Arts (B.E.S.T. - Effective starting 2021-2022) Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade K-12"}
+        },
+        {
+            "competencyText": {"en-us": "Expectations"}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence to explain and justify reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "Cite evidence to explain and justify reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "Read and comprehend grade-level complex texts proficiently. "}
+        },
+        {
+            "competencyText": {"en-us": "Read and comprehend grade-level complex texts proficiently."}
+        },
+        {
+            "competencyText": {"en-us": "Make inferences to support comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Make inferences to support comprehension."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate collaborative techniques and active listening skills when engaging in discussions in a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate collaborative techniques and active listening skills when engaging in discussions in a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Use the accepted rules governing a specific format to create quality work."}
+        },
+        {
+            "competencyText": {"en-us": "Use the accepted rules governing a specific format to create quality work."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate voice and tone when speaking or writing."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate voice and tone when speaking or writing."}
+        },
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning and Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge of the basic concepts of print.\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Locate a printed word on a page.<\/li><li>Distinguish letters from words within sentences.&nbsp;<\/li><li>Match print to speech to demonstrate that language is represented by print.&nbsp;<\/li><li>Identify parts of a book (front cover, back cover, title page).&nbsp;<\/li><li>Move top to bottom and left to right on the printed page; returning to the beginning of the next line.&nbsp;\r\n<\/li><li>Identify all upper- and lowercase letters of the alphabet.&nbsp;<\/li><li>Recognize that print conveys specific meaning and pictures may support meaning.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate phonological awareness.\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Blend and segment syllables in spoken words.<\/li><li>Identify and produce alliterative and rhyming words.&nbsp;<\/li><li>Blend and segment onset and rimes of single-syllable words.&nbsp;<\/li><li>Identify the initial, medial, and final sound of spoken words.&nbsp;<\/li><li>Add or delete phonemes at the beginning or end of a spoken word and say the resulting word.&nbsp;<\/li><li>Segment and blend phonemes in single-syllable spoken words.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-appropriate phonics and word-analysis skills to decode words accurately.\r\n<ol style=\"list-style-type: lower-alpha;\"><li>Demonstrate knowledge of the most frequent sound for each consonant.&nbsp;<\/li><li>Demonstrate knowledge of the short and long sounds for the five major vowels.&nbsp;<\/li><li>Decode consonant-vowel-consonant (CVC) words.&nbsp;<\/li><li>Encode consonant-vowel-consonant (CVC) words.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize and read with automaticity grade-level high frequency words."}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Describe the main character(s), setting, and important events in a story."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the roles of author and illustrator of a story."}
+        },
+        {
+            "competencyText": {"en-us": "Identify rhyme in a poem."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Use titles, headings, and illustrations to predict and confirm the topic of texts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the topic of and multiple details in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between opinions and facts about a topic."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain descriptive words in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Retell a text orally to enhance comprehension:<ol style=\"list-style-type: lower-alpha;\"><li>Use main character(s), setting, and important events for a story.<\/li><li>Use topic and details for an informational text.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast characters&rsquo; experiences in stories."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Print many upper- and lowercase letters."}
+        },
+        {
+            "competencyText": {"en-us": "Using a combination of drawing, dictating, and/or writing, create narratives with the events in chronological order."}
+        },
+        {
+            "competencyText": {"en-us": "Using a combination of drawing, dictating, and/or writing, express opinions about a topic or text with at least one supporting reason."}
+        },
+        {
+            "competencyText": {"en-us": "Using a combination of drawing, dictating, and/or writing, provide factual information about a topic."}
+        },
+        {
+            "competencyText": {"en-us": "With guidance and support from adults, improve drawing and writing, as needed, by planning, revising, and editing."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally using complete sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Recall information to answer a question about a single topic."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Use a multimedia element to enhance oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions about unfamiliar words in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and sort common words into basic categories, relating vocabulary to background knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning and Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Locate the title, table of contents, names of author(s) and illustrator(s), and glossary of books."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate phonological awareness.<ol style=\"list-style-type: lower-alpha;\"><li>Segment spoken words into initial, medial, and final phonemes, including words with digraphs, blends, and trigraphs.&nbsp;<\/li><li>Orally blend initial, medial, and final phonemes together to produce a single-syllable word that includes digraphs, blends, or trigraphs.&nbsp;<\/li><li>Blend single-syllable spoken words with at least five phonemes. &nbsp;<\/li><li>Segment single-syllable spoken words with at least five phonemes.&nbsp;<\/li><li>Segment and blend phonemes in multi-syllable spoken words.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-appropriate phonics and word-analysis skills to decode words accurately.&nbsp;\r\n<ol style=\"list-style-type: lower-alpha;\"><li>Decode words using knowledge of spelling-sound correspondences for common consonant digraphs, trigraphs, and blends.&nbsp;<\/li><li>Decode simple words with r-controlled vowels. &nbsp;<\/li><li>Decode and encode regularly spelled one-syllable words.&nbsp;<\/li><li>Decode words with inflectional endings.&nbsp;<\/li><li>Decode two-syllable words with regular patterns by breaking the words into syllables.&nbsp;<\/li><li>Decode words that use final &ndash;e and vowel teams to make long-vowel sound.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression.<ol style=\"list-style-type: lower-alpha;\"><li>Recognize and read with automaticity the grade-level sight words.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and describe the main story elements in a story."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain the moral of a story."}
+        },
+        {
+            "competencyText": {"en-us": "Explain who is telling the story using context clues."}
+        },
+        {
+            "competencyText": {"en-us": "Identify stanzas and line breaks in poems."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Use text features including titles, headings, captions, graphs, maps, glossaries, and/or illustrations to demonstrate understanding of texts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the topic of and relevant details in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain similarities and differences between information provided in visuals and words in an informational text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify an author&rsquo;s opinion(s) about the topic."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain descriptive words and phrases in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Retell a text in oral or written form to enhance comprehension.<ol style=\"list-style-type: lower-alpha;\"><li>Use main story elements at the beginning, middle, and end for a literary text.&nbsp;<\/li><li>Use topic and important details for an informational text.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast two texts on the same topic."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing "}
+        },
+        {
+            "competencyText": {"en-us": "Print all upper- and lowercase letters."}
+        },
+        {
+            "competencyText": {"en-us": "Write narratives that retell two or more appropriately sequenced events, including relevant details and a sense of closure."}
+        },
+        {
+            "competencyText": {"en-us": "Write opinions about a topic or text with at least one supporting reason from a source and a sense of closure."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts about a topic, using a source, providing facts and a sense of closure."}
+        },
+        {
+            "competencyText": {"en-us": "With guidance and support from adults, improve writing, as needed, by planning, revising, and editing."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally using complete sentences and appropriate volume."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Participate in research to gather information to answer a question about a single topic."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Use a multimedia element to enhance oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use digital tools to produce and publish writing individually or with peers and with support from adults."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use frequently occurring base words and their common inflections in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use picture clues, context clues, word relationships, reference materials, and/or background knowledge to determine the meaning of unknown words."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-appropriate phonics and word-analysis skills to decode words.\r\n<ol style=\"list-style-type: lower-alpha;\">\r\n<li>Decode words with variable vowel teams (e.g., oo, ea, ou) and vowel diphthongs (e.g., oi, oy, ow).<\/li><li>Decode regularly spelled two-syllable words with long and short vowels.\r\n<\/li><li>Decode words with open (e.g., hi, baby, moment) and closed (e.g., bag, sunshine, chop) syllables and consonant -le (e.g., purple, circle, stumble).\r\n<\/li><li>Decode words with common prefixes and suffixes. \r\n<\/li><li>Decode words with silent letter combinations (e.g., knight, comb, island, ghost).<\/li><\/ol><p>&nbsp;<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression."}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry "}
+        },
+        {
+            "competencyText": {"en-us": "Identify plot structure and describe main story elements in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain a theme of a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify different characters&rsquo; perspectives in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify rhyme schemes in poems."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how text features&mdash;including titles, headings, captions, graphs, maps, glossaries, and/or illustrations&mdash;contribute to the meaning of texts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the central idea and relevant details in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an author&rsquo;s purpose in an informational text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an author&rsquo;s opinion(s) and supporting evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain similes, idioms, and alliteration in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Retell a text to enhance comprehension.&nbsp;<div><ol style=\"list-style-type: lower-alpha;\"><li>Use main story elements in a logical sequence for a literary text.<\/li><li>Use the central idea and relevant details for an informational text.&nbsp;<ol style=\"list-style-type: lower-alpha;\"><\/ol><\/li><\/ol><\/div>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast important details presented by two texts on the same topic or theme."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate legible printing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using a logical sequence of events, transitions, and an ending."}
+        },
+        {
+            "competencyText": {"en-us": "Write opinions about a topic or text with reasons supported by details from a source, use transitions, and provide a conclusion."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts about a topic, using a source, providing an introduction, facts, transitions, and a conclusion."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing as needed by planning, revising, and editing with guidance and support from adults and feedback from peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally using complete sentences, appropriate volume, and clear pronunciation."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Participate in research to gather information to answer a question about a single topic using multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Use one or more multimedia element(s) to enhance oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital tools to produce and publish writing individually or with peers and with support from adults."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use base words and affixes to determine the meaning of unfamiliar words in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and use context clues, word relationships, reference materials, and/or background knowledge to determine the meaning of unknown words."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning and Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-level phonics and word-analysis skills to decode words.&nbsp;<ol style=\"list-style-type: lower-alpha;\"><li>Decode words with common Greek and Latin roots and affixes. (See benchmark 3.V.1.2)&nbsp;<\/li><li>Decode words with common derivational suffixes and describe how they turn words into different parts of speech. (e.g., -ful, -less, -est).<\/li><li>Decode multisyllabic words.\r\n<ol style=\"list-style-type: lower-alpha;\"><\/ol><\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression."}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how one or more characters develop throughout the plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain a theme and how it develops, using details, in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain different characters&rsquo; perspectives in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify types of poems: free verse, rhymed verse, haiku, and limerick."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how text features contribute to meaning and identify the text structures of chronology, comparison, and cause/effect in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the central idea and explain how relevant details support that idea in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the development of an author's purpose in an informational text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify an author&rsquo;s claim and explain how an author uses evidence to support the claim."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explain metaphors, personification, and hyperbole in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize a text to enhance comprehension.\r\n<br /><ol style=\"list-style-type: lower-alpha;\"><li>Include plot and theme for a literary text.\r\n<\/li><li>Use the central idea and relevant details for an informational text.<ol style=\"list-style-type: lower-alpha;\"><\/ol><\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how two authors present information on the same topic or theme."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write in cursive all upper- and lowercase letters."}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using a logical sequence of events, appropriate descriptions, dialogue, a variety of transitional words or phrases, and an ending."}
+        },
+        {
+            "competencyText": {"en-us": "Write opinions about a topic or text, include reasons supported by details from one or more sources, use transitions, and provide a conclusion."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts about a topic, using one or more sources, providing an introduction, facts and details, some elaboration, transitions, and a conclusion."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing as needed by planning, revising, and editing with guidance and support from adults and feedback from peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, using nonverbal cues, appropriate volume, and clear pronunciation."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, organizing information about the topic from multiple sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Use two or more multimedia elements to enhance oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital writing tools individually or collaboratively to plan, draft, and revise writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Identify and apply knowledge of common Greek and Latin roots, base words, and affixes to determine the meaning of unfamiliar words in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Use context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the meaning of multiple-meaning and unknown words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning and Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-level phonics and word-analysis skills to decode words.<ol style=\"list-style-type: lower-alpha;\"><li>Apply knowledge of all letter-sound correspondences, syllabication patterns, and morphology to read and write unfamiliar single-syllable and multisyllabic words in and out of context.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression."}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how setting, events, conflict, and character development contribute to the plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain a stated or implied theme and how it develops, using details, in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the narrator&rsquo;s point of view and explain the difference between a narrator&rsquo;s point of view and character perspective in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how rhyme and structure create meaning in a poem."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how text features contribute to the meaning and identify the text structures of problem/solution, sequence, and description in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how relevant details support the central idea, implied or explicit."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an author&rsquo;s perspective toward a topic in an informational text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an author&rsquo;s claim and the reasons and evidence used to support the claim."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how figurative language contributes to meaning in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize a text to enhance comprehension.<ol style=\"list-style-type: lower-alpha;\"><li>Include plot and theme for a literary text.&nbsp;<\/li><li>Include the central idea and relevant details for an informational text.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast accounts of the same event using primary and/or secondary sources."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing  "}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate legible cursive writing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using a logical sequence of events and demonstrating an effective use of techniques such as descriptions and transitional words and phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Write to make a claim supporting a perspective with logical reasons, using evidence from multiple sources, elaboration, and an organizational structure with transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts about a topic, using multiple sources, elaboration, and an organizational structure with transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by planning, revising, and editing, with guidance and support from adults and feedback from peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, using nonverbal cues, appropriate volume, and clear pronunciation."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, organizing information about the topic, using multiple valid sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Arrange multimedia elements to create emphasis in oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital writing tools individually or collaboratively to plan, draft, and revise writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of common Greek and Latin roots, base words, and affixes to determine the meaning of unfamiliar words in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Use context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the meaning of multiple-meaning and unknown words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Learning and Applying Foundational Reading Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge of grade-appropriate phonics and word-analysis skills to decode words.<ol style=\"list-style-type: lower-alpha;\"><li>Apply knowledge of all letter-sound correspondences, syllabication patterns, and morphology to read and write unfamiliar single-syllable and multisyllabic words in and out of context.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression."}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how setting, events, conflict, and characterization contribute to the plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the development of stated or implied theme(s) throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how an author develops a character&rsquo;s perspective in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how figurative language and other poetic elements work together in a poem."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how text structures and/or features contribute to the overall meaning of texts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how relevant details support the central idea(s), implied or explicit."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze an author&rsquo;s purpose and/or perspective in an informational text."}
+        },
+        {
+            "competencyText": {"en-us": "Track the development of an argument, identifying the specific claim(s), evidence, and reasoning."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how figurative language contributes to meaning in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize a text to enhance comprehension.<ol style=\"list-style-type: lower-alpha;\"><li>Include plot and theme for a literary text.&nbsp;<\/li><li>Include the central idea and relevant details for an informational text.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast primary and secondary sources related to the same topic."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate fluent and legible cursive writing skills."}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using a logical sequence of events and demonstrating an effective use of techniques such as dialogue, description, and transitional words and phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Write to make a claim supporting a perspective with logical reasons, relevant evidence from sources, elaboration, and an organizational structure with varied transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts about a topic using multiple sources and including an organizational structure, relevant elaboration, and varied transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by planning, revising, and editing, with guidance and support from adults and feedback from peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, using nonverbal cues, appropriate volume, clear pronunciation, and appropriate pacing."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, organizing information about the topic and using multiple reliable and valid sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Arrange multimedia elements to create emphasis in oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital writing tools individually or collaboratively to plan, draft, and revise writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Use grade-level academic vocabulary appropriately in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of Greek and Latin roots and affixes, recognizing the connection between affixes and parts of speech, to determine the meaning of unfamiliar words in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Use context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the meaning of multiple-meaning and unknown words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6-12"}
+        },
+        {
+            "competencyText": {"en-us": "Foundational Skills"}
+        },
+        {
+            "competencyText": {"en-us": "Applying Foundational Reading Skills for Secondary"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate an understanding of spoken words, syllables, and sounds.<ol style=\"list-style-type: lower-alpha;\"><li>Orally produce single-syllable and multisyllabic words by accurately blending sounds.<\/li><li>Accurately segment single-syllable and multisyllabic words.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Know and apply phonics and word analysis skills in decoding words.<ol style=\"list-style-type: lower-alpha;\"><li>Use an array of strategies to decode single-syllable and multisyllabic words.<\/li><li>Accurately read multisyllabic words using a combined knowledge of all letter-sound correspondences, and syllabication patterns.<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Know and apply phonics and word analysis skills in encoding words.<ol style=\"list-style-type: lower-alpha;\"><li>Use an array of strategies to accurately encode single-syllable and multisyllabic words.&nbsp;<\/li><\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "Read grade-level texts with accuracy, automaticity, and appropriate prosody or expression."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how the interaction between characters contributes to the development of a plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the development of stated or implied theme(s) throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the influence of multiple narrators and/or shifts in point of view in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the impact of various poetic forms on meaning and style."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how individual text sections and/or features convey meaning in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the central idea(s), implied or explicit, and its development throughout a text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze authors&rsquo; purpose(s) in multiple accounts of the same event or topic."}
+        },
+        {
+            "competencyText": {"en-us": "Track the development of an argument, identifying the types of reasoning used."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how figurative language contributes to tone and meaning in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how authors from different time periods address the same or related topics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify rhetorical appeals in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using narrative techniques, precise words and phrases, and figurative language."}
+        },
+        {
+            "competencyText": {"en-us": "Write and support a claim using logical reasoning, relevant evidence from sources, elaboration, and a logical organizational structure with varied transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts to explain and/or analyze information from multiple sources, using a logical organizational structure, relevant elaboration, and varied transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by planning, revising, and editing, considering feedback from adults and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, using nonverbal cues, appropriate volume, clear pronunciation, and appropriate pacing."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, drawing on multiple reliable and valid sources, and refocusing the inquiry when appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate diverse digital media to enhance audience engagement in oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital tools to produce writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of Greek and Latin roots and affixes to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of setting on character development and plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Compare two or more themes and their development throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the influence of narrator(s), including unreliable narrator(s), and/or shifts in point of view in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of various poetic forms on meaning and style."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how individual text sections and/or features convey a purpose in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare two or more central ideas and their development throughout a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how an author establishes and achieves purpose(s) through diction and syntax."}
+        },
+        {
+            "competencyText": {"en-us": "Track the development of an argument, analyzing the types of reasoning used and their effectiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how figurative language contributes to tone and meaning and explain examples of allusions in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how authors with differing perspectives address the same or related topics or themes."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the meaning and/or significance of rhetorical devices in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using narrative techniques, a recognizable point of view, precise words and phrases, and figurative language."}
+        },
+        {
+            "competencyText": {"en-us": "Write and support a claim using logical reasoning, relevant evidence from sources, elaboration, a logical organizational structure with varied transitions, and acknowledging at least one counterclaim."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts to explain and analyze information from multiple sources, using relevant supporting details and a logical organizational pattern."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by planning, revising, and editing, considering feedback from adults and peers."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, emphasizing key points that support the central idea."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, drawing on multiple reliable and valid sources, and generating additional questions for further research."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate diverse digital media to build cohesion in oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use digital tools to produce and share writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of Greek and Latin roots and affixes to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the interaction between character development, setting, and plot in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze two or more themes and their development throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how an author develops and individualizes the perspectives of different characters."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze structure, sound, imagery, and figurative language in poetry."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how individual text sections and/or features convey a purpose and/or meaning in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze two or more central ideas and their development throughout a text."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how an author establishes and achieves purpose(s) through rhetorical appeals and/or figurative language."}
+        },
+        {
+            "competencyText": {"en-us": "Track the development of an argument, analyzing the types of reasoning used and their effectiveness, identifying ways in which the argument could be improved."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how figurative language contributes to meaning and explain examples of symbolism in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the use or discussion of archetypes in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how an author uses rhetorical devices to support or advance an appeal."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write personal or fictional narratives using narrative techniques, varied transitions, and a clearly established point of view."}
+        },
+        {
+            "competencyText": {"en-us": "Write to argue a position, supporting at least one claim and rebutting at least one counterclaim with logical reasoning, credible evidence from sources, elaboration, and using a logical organizational structure."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts to explain and analyze information from multiple sources, using relevant supporting details, logical organization, and varied purposeful transitions."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by planning, editing, considering feedback from adults and peers, and revising for clarity and cohesiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, in a logical sequence, supporting the central idea with credible evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, drawing on multiple reliable and valid sources, and generating additional questions for further research."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate diverse digital media to emphasize the relevance of a topic or idea in oral or written tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of digital tools to collaborate with others to produce writing."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of Greek and Latin roots and affixes to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 9"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how key elements enhance or add layers of meaning and/or style in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze universal themes and their development throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of narrator perspective on a text, explaining how the author creates irony or satire."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the characters, structures, and themes of epic poetry."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how multiple text structures and/or features convey a purpose and/or meaning in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the support an author uses to develop the central idea(s) throughout a text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how an author establishes and achieves purpose(s) through rhetorical appeals and/or figurative language."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the development of two opposing arguments on the same topic, evaluating the effectiveness and validity of the claims."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Explain how figurative language creates mood in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the ways in which authors have adapted mythical, classical, or religious literary texts."}
+        },
+        {
+            "competencyText": {"en-us": "Explain an author&rsquo;s use of rhetoric in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write narratives using narrative techniques, varied transitions, and a clearly established point of view."}
+        },
+        {
+            "competencyText": {"en-us": "Write to argue a position, supporting claims using logical reasoning and credible evidence from multiple sources, rebutting counterclaims with relevant evidence, using a logical organizational structure, elaboration, purposeful transitions, and a tone appropriate to the task."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts to explain and analyze information from multiple sources, using a logical organization, varied purposeful transitions, and a tone appropriate to the task."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by considering feedback from adults, peers, and/or online editing tools, revising for clarity and cohesiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, with a logical organization and coherent focus, with credible evidence, creating a clear perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, drawing on multiple reliable and valid sources, and refining the scope of the question to align with findings."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Create digital presentations with coherent ideas and a clear perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Use online collaborative platforms to create and export publication-ready quality writing tailored to a specific audience."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of etymology and derivations to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 10"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how key elements enhance or add layers of meaning and/or style in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and compare universal themes and their development throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze coming of age experiences reflected in a text and how the author represents conflicting perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how authors create multiple layers of meaning and/or ambiguity in a poem."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of multiple text structures and the use of features in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the central idea(s) of historical American speeches and essays."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze an author&rsquo;s choices in establishing and achieving purpose(s) in historical American speeches and essays."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the development of two opposing arguments on the same topic, evaluating the effectiveness and validity of the claims, and analyzing the ways in which the authors use the same information to achieve different ends."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how figurative language creates mood in text(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze how mythical, classical, or religious texts have been adapted."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze an author&rsquo;s use of rhetoric in a text."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write narratives using an appropriate pace to create tension, mood, and/or tone."}
+        },
+        {
+            "competencyText": {"en-us": "Write to argue a position, supporting claims using logical reasoning and credible evidence from multiple sources, rebutting counterclaims with relevant evidence, using a logical organizational structure, elaboration, purposeful transitions, and maintaining a formal and objective tone."}
+        },
+        {
+            "competencyText": {"en-us": "Write expository texts to explain and analyze information from multiple sources, using a logical organization, purposeful transitions, and a tone and voice appropriate to the task."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to address the needs of a specific audience."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, with a logical organization and coherent focus, with credible evidence, creating a clear perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research to answer a question, refining the scope of the question to align with findings, and synthesizing information from multiple reliable and valid sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Create digital presentations to improve understanding of findings, reasoning, and evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Use online collaborative platforms to create and export publication-ready quality writing tailored to a specific audience, integrating multimedia elements."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of etymology and derivations to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 11"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how key elements enhance or add layers of meaning and/or style in a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Track and analyze universal themes in literary texts from different times and places."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the author&rsquo;s choices in using juxtaposition to define character perspective."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze ways in which poetry reflects themes and issues of its time period."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the structure(s) and features in texts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the central idea(s) of speeches and essays from the Classical Period."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze an author&rsquo;s choices in establishing and achieving purpose(s) in speeches and essays from the Classical Period."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the development of multiple arguments on the same topic, evaluating the effectiveness and validity of the claims, the authors&rsquo; reasoning, and the ways in which the authors use the same information to achieve different ends."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the author&rsquo;s use of figurative language and explain examples of allegory."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast how contemporaneous authors address related topics, comparing the authors&rsquo; use of reasoning, and analyzing the texts within the context of the time period."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate an author&rsquo;s use of rhetoric in text."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write complex narratives using appropriate techniques to establish multiple perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "Write literary analyses to support claims, using logical reasoning, credible evidence from sources, and elaboration, demonstrating an understanding of literary elements."}
+        },
+        {
+            "competencyText": {"en-us": "Write an analysis of complex texts using logical organization and a tone and voice appropriate to the task and audience, demonstrating an understanding of the subject."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to improve clarity, structure, and style."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, with a logical organization, coherent focus, and credible evidence, while employing effective rhetorical devices where appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct literary research to answer a question, refining the scope of the question to align with interpretations of texts, and synthesizing information from primary and secondary sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Create digital presentations to improve the experience of the audience."}
+        },
+        {
+            "competencyText": {"en-us": "Create and export quality writing tailored to a specific audience, integrating multimedia elements, publishing to an online or LAN site."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of etymology and derivations to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 12"}
+        },
+        {
+            "competencyText": {"en-us": "Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Reading Prose and Poetry"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how key elements enhance or add layers of meaning and/or style in a literary text and explain the functional significance of those elements in interpreting the text."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze two or more themes and evaluate their development throughout a literary text."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the development of character perspective, including conflicting perspectives."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate works of major poets in their historical context."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Informational Text"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the structure(s) and features in texts, identifying how the author could make the text(s) more effective."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate how an author develops the central idea(s), identifying how the author could make the support more effective."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate an author&rsquo;s choices in establishing and achieving purpose(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the development of multiple arguments in related texts, evaluating the validity of the claims, the authors&rsquo; reasoning, use of the same information, and/or the authors&rsquo; rhetoric."}
+        },
+        {
+            "competencyText": {"en-us": "Reading Across Genres"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate an author&rsquo;s use of figurative language."}
+        },
+        {
+            "competencyText": {"en-us": "Paraphrase content from grade-level texts."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the influence of classic literature on contemporary world texts."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate rhetorical choices across multiple texts."}
+        },
+        {
+            "competencyText": {"en-us": "Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Through Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write complex narratives using appropriate techniques to establish multiple perspectives and convey universal themes."}
+        },
+        {
+            "competencyText": {"en-us": "Write arguments to support claims based on an in-depth analysis of topics or texts using valid reasoning and credible evidence from sources, elaboration, and demonstrating a thorough understanding of the subject."}
+        },
+        {
+            "competencyText": {"en-us": "Write an in-depth analysis of complex texts using logical organization and appropriate tone and voice, demonstrating a thorough understanding of the subject."}
+        },
+        {
+            "competencyText": {"en-us": "Improve writing by considering feedback from adults, peers, and/or online editing tools, revising to enhance purpose, clarity, structure, and style."}
+        },
+        {
+            "competencyText": {"en-us": "Communicating Orally"}
+        },
+        {
+            "competencyText": {"en-us": "Present information orally, with a logical organization, coherent focus, and credible evidence while employing effective rhetorical devices where appropriate."}
+        },
+        {
+            "competencyText": {"en-us": "Following Conventions"}
+        },
+        {
+            "competencyText": {"en-us": "Follow the rules of standard English grammar, punctuation, capitalization, and spelling appropriate to grade level."}
+        },
+        {
+            "competencyText": {"en-us": "Researching"}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research on a topical issue to answer a question and synthesize information from a variety of sources."}
+        },
+        {
+            "competencyText": {"en-us": "Creating and Collaborating"}
+        },
+        {
+            "competencyText": {"en-us": "Design and evaluate digital presentations for effectiveness."}
+        },
+        {
+            "competencyText": {"en-us": "Create, publish, and share multimedia texts through a variety of digital formats."}
+        },
+        {
+            "competencyText": {"en-us": "Vocabulary"}
+        },
+        {
+            "competencyText": {"en-us": "Finding Meaning"}
+        },
+        {
+            "competencyText": {"en-us": "Integrate academic vocabulary appropriate to grade level in speaking and writing."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of etymology, derivations, and commonly used foreign phrases to determine meanings of words and phrases in grade-level content."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of context clues, figurative language, word relationships, reference materials, and/or background knowledge to determine the connotative and denotative meaning of words and phrases, appropriate to grade level."}
+        }
+    ]
+}

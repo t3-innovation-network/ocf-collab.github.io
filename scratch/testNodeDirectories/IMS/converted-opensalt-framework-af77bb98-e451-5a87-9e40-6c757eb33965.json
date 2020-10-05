@@ -1,0 +1,931 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/af77bb98-e451-5a87-9e40-6c757eb33965",
+        "name": {"en-us": "Chapter 126. Cybersecurity Courses"},
+        "description": {"en-us": "New Cybersecurity courses: 126.51 Foundations of Cybersecurity, 126.52 Cybersecurity Capstone, effective 2019-2020 school year. Updated TEKS for Digital Forensics, effective 2019-2020 school year"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Foundations of Cybersecurity (One Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §126.51 adopted to be effective August 1, 2019, 44 TexReg 3856."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. Students shall be awarded one credit for successful completion of this course. This course is recommended for students in Grades 9-12."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity is an evolving discipline concerned with safeguarding computers, networks, programs, and data from unauthorized access. As a field, it has gained prominence with the emergence of a globally-connected society. As computing has become more sophisticated, so too have the abilities of malicious agents looking to penetrate networks and seize private information. By evaluating prior incidents, cybersecurity professionals have the ability to craft appropriate responses to minimize disruptions to corporations, governments, and individuals."}
+        },
+        {
+            "competencyText": {"en-us": "In the Foundations of Cybersecurity course, students will develop the knowledge and skills needed to explore fundamental concepts related to the ethics, laws, and operations of cybersecurity. Students will examine trends and operations of cyberattacks, threats, and vulnerabilities. Students will review and explore security policies designed to mitigate risks. The skills obtained in this course prepare students for additional study in cybersecurity. A variety of courses are available to students interested in this field. Foundations of Cybersecurity may serve as an introductory course in this field of study."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student demonstrates necessary skills for career development and successful completion of course outcomes. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate employable work behaviors such as regular attendance, punctuality, maintenance of a professional work environment, and effective written and verbal communication;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate positive personal qualities such as authenticity, resilience, initiative, and a willingness to learn new knowledge and skills;"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems and think critically;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate leadership skills and function effectively as a team member; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an understanding of ethical and legal responsibilities in relation to the field of cybersecurity."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student identifies various employment opportunities and requirements in the cybersecurity field. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify job and internship opportunities as well as accompanying duties and tasks;"}
+        },
+        {
+            "competencyText": {"en-us": "research careers in cybersecurity and information assurance along with the education and job skills required for obtaining a job in both the public and private sectors;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and discuss certifications for cybersecurity-related careers; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and develop resumes, digital portfolios, or professional profiles in the cybersecurity field."}
+        },
+        {
+            "competencyText": {"en-us": "Ethics and laws. The student understands ethical and current legal standards, rights and restrictions governing technology, technology systems, digital media, and the use of social media. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate and advocate for ethical and legal behaviors both online and offline among peers, family, community, and employers;"}
+        },
+        {
+            "competencyText": {"en-us": "research local, state, national, and international cyber law such as the PATRIOT Act of 2001, General Data Protection Regulation, and Digital Millennium Copyright Act;"}
+        },
+        {
+            "competencyText": {"en-us": "research historic cases or events regarding cyber;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an understanding of ethical and legal behavior when presented with various scenarios related to cyber activities;"}
+        },
+        {
+            "competencyText": {"en-us": "define and identify techniques such as hacking, phishing, social engineering, online piracy, spoofing, and data vandalism; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify and use appropriate methods for citing sources."}
+        },
+        {
+            "competencyText": {"en-us": "Ethics and laws. The student identifies the consequences of ethical versus malicious hacking. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify motivations for hacking;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe the impact of cyberattacks on the global community, society, and individuals;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish between a cyber attacker and a cyber defender;"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate types of hackers such as black hats, white hats, and gray hats;"}
+        },
+        {
+            "competencyText": {"en-us": "determine possible outcomes and legal ramifications of ethical versus malicious hacking practices; and"}
+        },
+        {
+            "competencyText": {"en-us": "debate the varying perspectives of ethical versus malicious hacking."}
+        },
+        {
+            "competencyText": {"en-us": "Ethics and laws. The student identifies and defines cyberterrorism and counterterrorism. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define cyberterrorism, state-sponsored cyberterrorism, and hacktivism;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast physical terrorism and cyberterrorism, including domestic and foreign actors;"}
+        },
+        {
+            "competencyText": {"en-us": "define and explain intelligence gathering and counterterrorism;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the role of cyber defenders in protecting national interests and corporations;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the role of cyber defense in society and the global economy; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of protecting public infrastructures such as electrical power grids, water systems, pipelines, transportation, and nuclear plants."}
+        },
+        {
+            "competencyText": {"en-us": "Digital citizenship. The student understands and demonstrates the social responsibility of end users regarding significant issues related to digital technology, digital hygiene, and cyberbullying. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and understand the nature and value of privacy;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the positive and negative implications of a digital footprint and the maintenance and monitoring of an online presence;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the role and impact of technology on privacy;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the signs, emotional effects, and legal consequences of cyberbullying and cyberstalking; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify and discuss effective ways to prevent, deter, and report cyberbullying."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands basic cybersecurity concepts and definitions. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define information security and cyber defense;"}
+        },
+        {
+            "competencyText": {"en-us": "identify basic risk management and risk assessment principles related to cybersecurity threats and vulnerabilities;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the fundamental concepts of confidentiality, integrity, availability, authentication, and authorization;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the inverse relationship between privacy and security;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and analyze cybersecurity breaches and incident responses;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and analyze security concerns in areas such as physical, network, cloud, and web;"}
+        },
+        {
+            "competencyText": {"en-us": "define and discuss challenges faced by cybersecurity professionals;"}
+        },
+        {
+            "competencyText": {"en-us": "identify common risks, alerts, and warning signs of compromised computer and network systems;"}
+        },
+        {
+            "competencyText": {"en-us": "understand and explore the vulnerability of network-connected devices; and"}
+        },
+        {
+            "competencyText": {"en-us": "use appropriate cybersecurity terminology."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands and explains various types of malicious software (malware). The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define malware, including spyware, ransomware, viruses, and rootkits;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the transmission and function of malware such as Trojans, worms, and viruses;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the impact malware has had on the cybersecurity landscape;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the role of reverse engineering for detecting malware and viruses;"}
+        },
+        {
+            "competencyText": {"en-us": "compare free and commercial antivirus software alternatives; and"}
+        },
+        {
+            "competencyText": {"en-us": "compare free and commercial anti-malware software alternatives."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands and demonstrates knowledge of techniques and strategies to prevent a system from being compromised. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define system hardening;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate basic use of system administration privileges;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of patching operating systems;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of software updates;"}
+        },
+        {
+            "competencyText": {"en-us": "describe standard practices to configure system services;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of backup files; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and understand standard practices for securing computers, networks, and operating systems."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands basic network operations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify basic network addressing and devices, including switches and routers;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze incoming and outgoing rules for traffic passing through a firewall;"}
+        },
+        {
+            "competencyText": {"en-us": "identify well known ports by number and service provided, including port 22 (ssh), port 80 (http), and port 443 (https);"}
+        },
+        {
+            "competencyText": {"en-us": "identify commonly exploited ports and services, including ports 20 and 21 (ftp) and port 23 (telnet); and"}
+        },
+        {
+            "competencyText": {"en-us": "identify common tools for monitoring ports and network traffic."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student identifies standard practices of system administration. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define what constitutes a secure password;"}
+        },
+        {
+            "competencyText": {"en-us": "create a secure password policy, including length, complexity, account lockout, and rotation;"}
+        },
+        {
+            "competencyText": {"en-us": "identify methods of password cracking such as brute force and dictionary attacks; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine and configure security options to allow and restrict access based on user roles."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student demonstrates necessary steps to maintain user access on the computer system. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the different types of user accounts and groups on an operating system;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the fundamental concepts and standard practices related to access control, including authentication, authorization, and accounting;"}
+        },
+        {
+            "competencyText": {"en-us": "compare methods for single- and dual-factor authentication such as passwords, biometrics, personal identification numbers (PINs), and security tokens;"}
+        },
+        {
+            "competencyText": {"en-us": "define and explain the purpose of an air-gapped computer; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain how hashes and checksums may be used to validate the integrity of transferred data."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student explores the field of digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the importance of digital forensics to law enforcement, government agencies, and corporations;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the role of chain of custody in digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the four steps of the forensics process, including collection, examination, analysis, and reporting;"}
+        },
+        {
+            "competencyText": {"en-us": "identify when a digital forensics investigation is necessary;"}
+        },
+        {
+            "competencyText": {"en-us": "identify information that can be recovered from digital forensics investigations such as metadata and event logs; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the purpose of event logs and identify suspicious activity."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student explores the operations of cryptography. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the purpose of cryptography and encrypting data;"}
+        },
+        {
+            "competencyText": {"en-us": "research historical uses of cryptography; and"}
+        },
+        {
+            "competencyText": {"en-us": "review simple cryptography methods such as shift cipher and substitution cipher."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student understands information security vulnerabilities, threats, and computer attacks. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define and describe vulnerability, payload, exploit, port scanning, and packet sniffing as they relate to hacking;"}
+        },
+        {
+            "competencyText": {"en-us": "define and describe cyberattacks, including man-in-the-middle, distributed denial of service, and spoofing;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how computer vulnerabilities leave systems open to cyberattacks;"}
+        },
+        {
+            "competencyText": {"en-us": "identify threats to systems such as back-door attacks and insider threats;"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate types of social engineering attacks such as phishing, shoulder surfing, hoaxes, and dumpster diving;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how users are the most common vehicle for compromising a system at the application level; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify various types of application-specific attacks."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student understands, identifies, and explains the strategies and techniques of both ethical and malicious hackers. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify internal and external threats to computer systems;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the capabilities of vulnerability assessment tools, including open source tools; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain the concept of penetration testing, tools, and techniques."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student evaluates the risks of wireless networks. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "compare risks associated with connecting devices to public and private wireless networks;"}
+        },
+        {
+            "competencyText": {"en-us": "explain device vulnerabilities and security solutions on a wireless network;"}
+        },
+        {
+            "competencyText": {"en-us": "compare wireless encryption protocols;"}
+        },
+        {
+            "competencyText": {"en-us": "debate the broadcasting or hiding of a wireless service set identifier (SSID); and"}
+        },
+        {
+            "competencyText": {"en-us": "research and discuss wireless threats such as MAC spoofing and war driving."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student analyzes threats to computer applications. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define application security;"}
+        },
+        {
+            "competencyText": {"en-us": "identify methods of application security such as secure development practices;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss methods of online spoofing such as web links in email, instant messaging, social media, and other online communication with malicious links;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the purpose and function of vulnerability scanners;"}
+        },
+        {
+            "competencyText": {"en-us": "explain how coding errors may create system vulnerabilities; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the risks of distributing insecure programs."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student understands the implications of sharing information and access with others. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the impact of granting applications unnecessary permissions;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the risks of granting third parties access to personal and proprietary data on social media and systems; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the risks involved with accepting Terms of Service (ToS) or End User License Agreements (EULA) without a basic understanding of the terms or agreements."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity Capstone (One Credit)."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §126.52 adopted to be effective August 1, 2019, 44 TexReg 3856."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General Requirements. Students shall be awarded one credit for successful completion of this course. This course is recommended for students in Grades 11 and 12. Recommended prerequisite: Foundations of Cybersecurity."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging foundations."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity is an evolving discipline concerned with safeguarding computers, networks, programs, and data from unauthorized access. As a field, it has gained prominence with the emergence of a globally-connected society. As computing has become more sophisticated, so too have the abilities of malicious agents looking to penetrate networks and seize private information. By evaluating prior incidents, cybersecurity professionals have the ability to craft appropriate responses to minimize disruptions to corporations, governments, and individuals."}
+        },
+        {
+            "competencyText": {"en-us": "In the Cybersecurity Capstone course, students will develop the knowledge and skills needed to explore advanced concepts related to the ethics, laws, and operations of cybersecurity. Students will examine trends and operations of cyberattacks, threats, and vulnerabilities. Students will develop security policies to mitigate risks. The skills obtained in this course prepare students for additional study toward industry certification. A variety of courses are available to students interested in the cybersecurity field. Cybersecurity Capstone may serve as a culminating course in this field of study."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student demonstrates necessary skills for career development and successful completion of course outcomes. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate employable work behaviors such as regular attendance, punctuality, maintenance of a professional work environment, and effective written and verbal communication;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and demonstrate positive personal qualities such as authenticity, resilience, initiative, and a willingness to learn new knowledge and skills;"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems and think critically;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate leadership skills and function effectively as a team member; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an understanding of ethical and legal responsibilities in relation to the field of cybersecurity."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student identifies various employment opportunities in the cybersecurity field. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "develop a personal career plan along with the education, job skills, and experience necessary to achieve career goals;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a resume or a portfolio appropriate to a chosen career plan; and"}
+        },
+        {
+            "competencyText": {"en-us": "illustrate interview skills for successful job placement."}
+        },
+        {
+            "competencyText": {"en-us": "Ethics and laws. The student evaluates ethical and current legal standards, rights and restrictions governing technology, technology systems, digital media and information technology, and the use of social media in the context of today's society. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and apply to a scenario local, state, national, and international cyber law such as David's Law and Digital Millennium Copyright Act;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate historic cases or events regarding cyber; and"}
+        },
+        {
+            "competencyText": {"en-us": "explore compliance requirements such as Section 508 of the Rehabilitation Act of 1973, Family Educational Rights and Privacy Act of 1974 (FERPA), Health Insurance Portability and Accountability Act of 1996 (HIPAA), and Gramm-Leach-Bliley Act (GLBA)."}
+        },
+        {
+            "competencyText": {"en-us": "Digital citizenship. The student understands and demonstrates the social responsibility of end users regarding significant issues relating to digital technology, safety, digital hygiene, and cyberbullying. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "debate the relationship between privacy and security; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify ethical or unethical behavior when presented with various scenarios related to cyber activities."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student explains the importance and process of penetration testing. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define the phases of penetration testing: plan, discover, attack, and report;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a plan to gain authorization for penetration testing;"}
+        },
+        {
+            "competencyText": {"en-us": "identify commonly used vulnerability scanning tools such as port scanning, packet sniffing, and password crackers;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a list of exploits based on results of scanning tool reports; and"}
+        },
+        {
+            "competencyText": {"en-us": "prioritize a list of mitigations based on results of scanning tool reports."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands common cryptographic methods. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate symmetric and asymmetric algorithms such as substitution cipher, Advanced Encryption Standard (AES), Diffie-Hellman, and Rivest-Shamir-Adleman (RSA);"}
+        },
+        {
+            "competencyText": {"en-us": "explain the purpose of hashing algorithms, including blockchain;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the function of password salting;"}
+        },
+        {
+            "competencyText": {"en-us": "explain and create a digital signature; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain steganography."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student understands the concept of cyber defense. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the purpose of establishing system baselines;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the role of physical security;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the functions of network security devices such as firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), and intrusion detection prevention systems (IDPS);"}
+        },
+        {
+            "competencyText": {"en-us": "analyze log files for anomalies; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop a plan demonstrating the concept of defense in depth."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student demonstrates an understanding of secure network design. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain the benefits of network segmentation, including sandboxes, air gaps, and virtual local area networks (VLAN);"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the role of software-managed networks, including virtualization;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the role of honeypots and honeynets in networks; and"}
+        },
+        {
+            "competencyText": {"en-us": "create an incoming and outgoing network policy for a firewall."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student integrates principles of digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify cyberattacks by their signatures;"}
+        },
+        {
+            "competencyText": {"en-us": "explain proper data acquisition;"}
+        },
+        {
+            "competencyText": {"en-us": "examine evidence from devices for suspicious activities; and"}
+        },
+        {
+            "competencyText": {"en-us": "research current cybercrime cases involving digital forensics."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student explores emerging technology. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe the integration of artificial intelligence and machine learning in cybersecurity;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate impacts made by predictive analytics on cybersecurity; and"}
+        },
+        {
+            "competencyText": {"en-us": "research other emerging trends such as augmented reality and quantum computing."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student uses various operating system environments. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "issue commands via the command line interface (CLI) such as ls, cd, pwd, cp, mv, chmod, ps, sudo, and passwd;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the file system structure for multiple operating systems;"}
+        },
+        {
+            "competencyText": {"en-us": "manipulate and edit files within the CLI; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine network status using the CLI with commands such as ping, ifconfig/ipconfig, traceroute/tracert, and netstat."}
+        },
+        {
+            "competencyText": {"en-us": "Cybersecurity skills. The student clearly and effectively communicates technical information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "collaborate with others to create a technical report;"}
+        },
+        {
+            "competencyText": {"en-us": "create, review, and edit a report summarizing technical findings; and"}
+        },
+        {
+            "competencyText": {"en-us": "present technical information to a non-technical audience."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student analyzes various types of threats, attacks, and vulnerabilities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate types of attacks, including operating systems, software, hardware, network, physical, social engineering, and cryptographic;"}
+        },
+        {
+            "competencyText": {"en-us": "explain blended threats such as combinations of software, hardware, network, physical, social engineering, and cryptographic;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss risk response techniques, including accept, transfer, avoid, and mitigate;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a plan of preventative measures to address cyberattacks;"}
+        },
+        {
+            "competencyText": {"en-us": "describe common web vulnerabilities such as cross-site scripting, buffer overflow, injection, spoofing, and denial of service;"}
+        },
+        {
+            "competencyText": {"en-us": "describe common data destruction and media sanitation practices such as wiping, shredding, and degaussing; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop an incident response plan for a given scenario or recent attack."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student understands risk management processes and concepts. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "describe various access control methods such as mandatory access control (MAC), role-based access control (RBAC), and discretionary access control (DAC);"}
+        },
+        {
+            "competencyText": {"en-us": "develop and defend a plan for multi-factor access control using components such as biometric verification systems, key cards, tokens, and passwords; and"}
+        },
+        {
+            "competencyText": {"en-us": "review a disaster recovery plan (DRP) that includes backups, redundancies, system dependencies, and alternate sites."}
+        },
+        {
+            "competencyText": {"en-us": "Risk assessment. The student investigates the role and effectiveness of environmental controls. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "explain commonly used physical security controls, including lock types, fences, barricades, security doors, and mantraps; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the role of embedded systems such as fire suppression; heating, ventilation, and air conditioning (HVAC) systems; security alarms; and video monitoring."}
+        },
+        {
+            "competencyText": {"en-us": "Digital Forensics (One Credit), Beginning with School Year 2019-2020."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §126.36 adopted to be effective August 1, 2019, 44 TexReg 3854."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. Students shall be awarded one credit for successful completion of this course. The prerequisite for this course is proficiency in the knowledge and skills relating to Technology Applications, Grades 6-8. This course is recommended for students in Grades 9-12."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics is an evolving discipline concerned with analyzing anomalous activity on computers, networks, programs, and data. As a discipline, it has grown with the emergence of a globally-connected digital society. As computing has become more sophisticated, so too have the abilities of malicious agents to access systems and private information. By evaluating prior incidents, digital forensics professionals have the ability to investigate and craft appropriate responses to disruptions to corporations, governments, and individuals. Whereas cybersecurity takes a proactive approach to information assurance to minimize harm, digital forensics takes a reactive approach to incident response."}
+        },
+        {
+            "competencyText": {"en-us": "Digital Forensics introduces students to the knowledge and skills of digital forensics. The course provides a survey of the field of digital forensics and incident response."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student identifies necessary skills for career development and employment opportunities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the need for digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "research careers in digital forensics along with the education and job skills required for obtaining a job in both the public and private sector;"}
+        },
+        {
+            "competencyText": {"en-us": "identify job and internship opportunities as well as accompanying duties and tasks;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and discuss certifications for digital forensics careers;"}
+        },
+        {
+            "competencyText": {"en-us": "explain ethical and legal responsibilities in relation to the field of digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe businesses and government agencies that use digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and describe the kinds of crimes investigated by digital forensics specialists; and"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems and think critically."}
+        },
+        {
+            "competencyText": {"en-us": "Employability skills. The student communicates and collaborates effectively. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply effective teamwork strategies;"}
+        },
+        {
+            "competencyText": {"en-us": "collaborate with a community of peers and professionals;"}
+        },
+        {
+            "competencyText": {"en-us": "create, review, and edit a report summarizing technical findings; and"}
+        },
+        {
+            "competencyText": {"en-us": "present technical information to a non-technical audience."}
+        },
+        {
+            "competencyText": {"en-us": "Ethics and laws. The student recognizes and analyzes ethical and current legal standards, rights, and restrictions related to digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "develop a plan to advocate for ethical and legal behaviors both online and offline among peers, family, community, and employers;"}
+        },
+        {
+            "competencyText": {"en-us": "research local, state, national, and international law such as the Electronic Communications Privacy Act of 1986, Title III (Pen Register Act); USA PATRIOT Act of 2001; and Digital Millennium Copyright Act;"}
+        },
+        {
+            "competencyText": {"en-us": "research historic cases or events regarding digital forensics or cyber;"}
+        },
+        {
+            "competencyText": {"en-us": "examine ethical and legal behavior when presented with confidential or sensitive information in various scenarios related to cyber activities;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze case studies of computer incidents;"}
+        },
+        {
+            "competencyText": {"en-us": "use the findings of a computer incident investigation to reconstruct the incident;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and discuss intellectual property laws, issues, and use;"}
+        },
+        {
+            "competencyText": {"en-us": "contrast legal and illegal aspects of information gathering;"}
+        },
+        {
+            "competencyText": {"en-us": "contrast ethical and unethical aspects of information gathering;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze emerging legal and societal trends affecting digital forensics; and"}
+        },
+        {
+            "competencyText": {"en-us": "discuss how technological changes affect applicable laws."}
+        },
+        {
+            "competencyText": {"en-us": "Digital citizenship. The student understands and demonstrates the social responsibility of end users regarding digital technology, safety, digital hygiene, and cyberbullying. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and use digital information responsibly;"}
+        },
+        {
+            "competencyText": {"en-us": "use digital tools responsibly;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and use valid and reliable sources of information; and"}
+        },
+        {
+            "competencyText": {"en-us": "gain informed consent prior to investigating incidents."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics skills. The student locates, processes, analyzes, and organizes data. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify sources of data;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and report data collected;"}
+        },
+        {
+            "competencyText": {"en-us": "maintain data integrity;"}
+        },
+        {
+            "competencyText": {"en-us": "examine metadata of a file; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine how multiple data sources can be used for digital forensics, including investigating malicious software (malware) and email threats."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics skills. The student understands software concepts and operations as they apply to digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "compare software applications as they apply to digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the purpose of various application types such as email, web, file sharing, security applications, and data concealment tools;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the different purposes of data formats such as pdf, wav, jpeg, and exe;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how application logs and metadata are used for investigations;"}
+        },
+        {
+            "competencyText": {"en-us": "describe digital forensics tools;"}
+        },
+        {
+            "competencyText": {"en-us": "select the proper software tool based on appropriateness, effectiveness, and efficiency for a given digital forensics scenario; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe components of applications such as configurations settings, data, supporting files, and user interface."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics skills. The student understands operating systems concepts and functions as they apply to digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "compare various operating systems;"}
+        },
+        {
+            "competencyText": {"en-us": "describe file attributes, including access and creation times;"}
+        },
+        {
+            "competencyText": {"en-us": "describe how operating system logs are used for investigations;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast the file systems of various operating systems;"}
+        },
+        {
+            "competencyText": {"en-us": "compare various primary and secondary storage devices; and"}
+        },
+        {
+            "competencyText": {"en-us": "differentiate between volatile and non-volatile memory."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics skills. The student understands networking concepts and operations as they apply to digital forensics. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "examine networks, including Internet Protocol (IP) addressing and subnets;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the Open Systems Interconnection (OSI) model;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the Transmission Control Protocol/Internet Protocol (TCP/IP) model;"}
+        },
+        {
+            "competencyText": {"en-us": "use network forensic analysis tools to examine network traffic data from sources such as firewalls, routers, intrusion detection systems (IDS), and remote access logs; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify malicious or suspicious network activities such as mandatory access control (MAC) spoofing and rogue wireless access points."}
+        },
+        {
+            "competencyText": {"en-us": "Digital forensics skills. The student explains the principles of access controls. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define the principle of least privilege;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the impact of granting access and permissions;"}
+        },
+        {
+            "competencyText": {"en-us": "identify different access components such as passwords, tokens, key cards, and biometric verification systems;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the value of an access log to identify suspicious activity;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the risks of granting third parties access to personal and proprietary data on social media and systems;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the risks involved with accepting Terms of Service (ToS) or End User License Agreements (EULA) without a basic understanding of the terms or agreements; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify various access control methods such as MAC, role-based access control (RBAC), and discretionary access control (DAC)."}
+        },
+        {
+            "competencyText": {"en-us": "Incident response. The student follows a methodological approach to prepare for and respond to an incident. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "define the components of the incident response cycle, including preparation; detection and analysis; containment, eradication, and recovery; and post-incident activity;"}
+        },
+        {
+            "competencyText": {"en-us": "describe incident response preparation;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss incident response detection and analysis;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss containment and eradication of and recovery from an incident;"}
+        },
+        {
+            "competencyText": {"en-us": "describe post-incident activities such as reflecting on lessons learned, using collected incident data, and retaining evidence of an incident;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an incident response plan; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe ways a user may compromise the validity of existing evidence."}
+        },
+        {
+            "competencyText": {"en-us": "Incident response. The student objectively analyzes collected data from an incident. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the role of chain of custody in digital forensics;"}
+        },
+        {
+            "competencyText": {"en-us": "describe safe data handling procedures;"}
+        },
+        {
+            "competencyText": {"en-us": "explain the fundamental concepts of confidentiality, integrity, availability, authentication, and authorization;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and report information conflicts or suspicious activity;"}
+        },
+        {
+            "competencyText": {"en-us": "identify events of interest and suspicious activity by examining network traffic; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify events of interest and suspicious activity by examining event logs."}
+        },
+        {
+            "competencyText": {"en-us": "Incident response. The student analyzes the various ways systems can be compromised. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the different signatures of cyberattacks; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify points of weakness and attack vectors such as online spoofing, phishing, and social engineering."}
+        }
+    ]
+}

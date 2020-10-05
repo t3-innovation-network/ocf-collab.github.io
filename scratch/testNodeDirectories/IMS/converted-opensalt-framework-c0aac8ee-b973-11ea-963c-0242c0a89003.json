@@ -1,0 +1,1002 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/c0aac8ee-b973-11ea-963c-0242c0a89003",
+        "name": {"en-us": "Kentucky Academic Standards: Physical Education"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Explore a variety of locomotor movements, travelling in different directions."}
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Explore non-locomotor skills, using different body parts."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Maintain momentary stillness on different bases of support and transfers weight from one foot to another."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Transfer weight from one foot to the other."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Explore manipulative skills with a variety of objects using performance cues."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Explore the difference between personal and general space."}
+        },
+        {
+            "competencyText": {"en-us": "**Pathways, Shapes and Levels**: Explore pathways, levels and relationships."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Explore travel in general space with different speeds."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life.  Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Identify a variety of ways to be physically active at school and home."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the importance of daily activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Recognize that food provides energy for physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Recognize that moving increases heart and respiratory rate."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Share equipment and space with others in physical activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the established rules, protocol and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment,\r\nindependently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Identify physical activity as a component of good health."}
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Acknowledge that some physical activities are challenging."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Explore social interaction through physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Recognize the importance of promoting physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Explore enjoyable physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Perform a variety of locomotor movements using different body parts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Perform a variety of non-locomotor skills, using different body parts at different levels."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Perform a variety of balances using different body parts."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Transfer weight from one body part to another with control."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Recognize personal likes and dislikes regarding participation in physical activities with\r\nothers."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Acknowledge the health benefits of participating in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**:  Recognize that challenge in physical activity can lead to success."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Explore opportunities that encourage others to be physically active."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Describe positive feelings that result from participating in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Demonstrate manipulative skills with a variety of objects using appropriate performance cues."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Recognize the difference between personal and general space."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Pathways, Shapes and Levels**: Travel with objects, demonstrating a variety of pathways, levels and relationships to their\r\nenvironment."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Differentiate between fast and slow speeds as well as light and strong force."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Identify reasons for participating in daily physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the recommended amount of physical activity for children."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Differentiate between healthy and unhealthy foods."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Relate intensity to increased heart rate and muscle endurance."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Work with others independently in a variety of physical activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the rules, protocols and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment,\r\nindependently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Perform a variety of locomotor movements traveling in different directions, at different speeds and in different pathways."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Perform non-locomotor skills, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Perform a variety of balances using different body parts with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Transfer weight to different body parts using control, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Demonstrate manipulative skills with a variety of objects using appropriate performance cues."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Identify the benefits of working cooperatively with others."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**:  Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Identify physical activities that contribute to a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**:  Compare physical activities that bring confidence and challenge."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Identify various ways to encourage peers to be physically active."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Identify physical activities that provide self-expression."}
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Perform movement skills in general space."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Pathways, Shapes and Levels**: Combine shapes, levels and pathways into travel sequences."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Vary time and force with gradual increases and decreases."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Identify opportunities to participate in physical activity in various settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the importance of daily physical activity and track the amounts in a variety of settings."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Describe the balance between nutrition and physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Describe different activities that improve strength of the heart and lungs."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Work with others independently in partner environments."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the established rules, protocols and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment, independently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Perform, alone and with others, a variety of locomotor movements at different levels and in different pathways and directions, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Apply non-locomotor skills in various activities using different body parts, shapes and levels, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Perform a variety of controlled transitions in movement, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Transfer weight to different body parts for momentary weight support."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Demonstrate manipulative skills using a variety of objects with a partner by demonstrating appropriate performance cues."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Apply the concepts of general and personal space to movement."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Application of Performance: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Strategy**: Apply simple strategies and tactics in a variety of activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Apply the movement concepts of speed and force in a variety of activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Describe the benefits of participating in physical activity every day."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: : Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Discuss strategies for using skills learned in physical education in a variety of settings to meet physical activity guidelines."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Identify a variety of nutritious food choices from each food group that will help balance the body before and after physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the components of health related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Work cooperatively and communicate positively with others in physical education, regardless of skill level."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the established rules, protocols and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment,\r\nindependently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Explain how physical activity provides opportunity for social interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Explain the health benefits of participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Discuss the challenge that comes with learning new activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Encourage peers to be physically active."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Explain how physical activities are enjoyable."}
+        },
+        {
+            "competencyText": {"en-us": "**Strategy**: Apply a variety of simple tactics to increase chances of success while exploring physical\r\nactivities."}
+        },
+        {
+            "competencyText": {"en-us": "**Strategy**: Apply a variety of simple tactics to increase chances of success during the performance of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Perform different combinations of locomotor movements with and without equipment, alone and with others, moving at different speeds and levels, using different pathways and traveling in different directions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Apply non-locomotor skills in various activities, using a variety of body parts and shapes, at different levels, individually and with partners and equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Perform a variety of controlled transitions between balances with partners."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Transfer weight to different body parts at varying speeds, with and without equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Apply manipulative skills with a partner, using a variety of objects, while demonstrating appropriate performance cues."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Combine spatial concepts with combination movements for small group activities in a variety of environments."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Strategy**: Apply basic offensive and defensive strategies and tactics in a variety of activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Apply speed, endurance and force in activities and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Identify factors that motivate daily participation in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Record physical activity minutes inside and outside of school to determine progress toward daily recommendation."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Discuss the importance of hydration choices relative to physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify physical activities that improve the components of health related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Encourage and accept all peers in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the established rules, protocols and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment,\r\nindependently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Compare the health benefits of various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Rate the enjoyment of participating in challenging and mastered physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Examine personal beliefs that may encourage others to be physically active."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Compare positive social interactions when engaged in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Rank the enjoyment of participating in various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "**Locomotor**: Explore different combinations of locomotor movements with and without equipment, alone and with others, moving at different speeds and levels and using different pathways in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Non-Locomotor**: Apply non-locomotor skills in various activities and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Perform controlled transfers of weight in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Body Management**: Combine weight transfer with movement concepts to perform a skill in a game-like\r\nsituation."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Apply manipulative skills in game-like situations using various objects."},
+            "comment": {
+                "en-us": ["See Tables 1 and 2."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Space**: Apply spatial concepts and combination skills in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Strategy**: Apply basic offensive and defensive strategies and tactics in activities and game-like\r\nsituations."}
+        },
+        {
+            "competencyText": {"en-us": "**Speed, Direction and Force**: Analyze movement situations and apply movement concepts in small-sided practice tasks and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge**: Identify factors that can either motivate or deter people from daily physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Record and review physical activity minutes inside and outside of school to determine progress toward daily recommendation."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Analyze the impact of food choices relative to physical activity, sports and personal health."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the benefits associated with developing and maintaining health-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Accept, recognize and actively involve others, with both higher and lower skill abilities, into physical activities and group projects."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Recognize and follow the established rules, protocols and etiquette in physical education."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Follow teacher directions for safe participation and proper use of equipment, independently and with others."}
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Develop a personal implementation plan outlining physical activities and their health benefits."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Express the enjoyment and/or challenge of participating in a physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Create strategies on how to encourage others to make healthy physical activity choices."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Analyze different physical activities for enjoyment and challenge identifying reasons for a positive or negative response."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Describe the social benefits gained from participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 6"}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Demonstrate simple movement concepts, principles, strategies and tactics when learning and performing physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Demonstrate simple and combined motor skills in a variety of games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Perform a wide variety of locomotor movements in combination, using different pathways and directions, while moving around others and/or equipment."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Send and receive a variety of objects, adjusting for speed and distance, while applying appropriate performance cues."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how movement concepts, principles, strategies and tactics apply to the performance of various physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how motor skills and techniques need to be refined, combined and varied in the development of specialized skills for participation in games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how non-locomotor, locomotor and combination skills are used to build simple, creative sequences."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Describe how being physically active leads to better health."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Participate in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Identify food from each of the basic food groups and select appropriate servings and proportions for his/her age and physical activity levels."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify each of the components of the FITT principle for different types of physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Accept differences among classmates in physical development, maturation and varying skill levels by providing encouragement and positive feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate knowledge of rules and etiquette by self-officiating standard and modified physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Demonstrate knowledge of appropriate safety principles, rules and procedures in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Demonstrate that regular participation in physical activities supports the goals of fitness, reducing stress and a healthier lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Explain that physical activities provide opportunities for self-expression, social interactions and can be enjoyable and challenging."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Identify and use appropriate strategies to self-reinforce positive fitness behaviors."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Use personal and social behaviors that show respect to self and others in physical activity settings."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: State a health-enhancing position about being physically active, supported with accurate information, to improve the health of others."}
+        },
+        {
+            "competencyText": {"en-us": "**Stress Management**: Recognize physical activity as a positive way of dealing with stress."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 7"}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Apply refined movement concepts, principles, strategies and tactics when learning and performing physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Demonstrate combined motor skills in a variety of games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Perform controlled movements in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Demonstrate how to send, receive and retain a variety of objects, while taking into account position and motion in relation to others, equipment and boundaries, while applying\r\nappropriate performance cues."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how movement concepts, principles, strategies and tactics apply to the performance of various physical activities and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how motor skills and techniques need to be refined, combined and varied in the development of specialized skills for participation in physical activities and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how non-locomotor, locomotor and combination skills are used to build simple, creative sequences in physical activities and game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Explain the physical, social and mental/emotional benefits of being physically active."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Analyze self-selected physical activity and adjust activities based on current fitness level."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Develop strategies for balancing healthy food, snacks and water intake, along with daily\r\nphysical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Describe how the FITT principle is used to develop personal fitness goals."}
+        },
+        {
+            "competencyText": {"en-us": "**Stress Management**: Analyze various physical activities that help with stress reduction."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Accept differences among classmates in physical development, maturation and varying skill levels by providing encouragement and positive feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate knowledge of rules and etiquette by self-officiating standard and modified physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Demonstrate knowledge of appropriate safety principles, rules and procedures in a variety\r\nof physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Compare how regular participation in physical activities supports the goals of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Identify strategies for persevering when physical activities bring challenge."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Demonstrate both intrinsic and extrinsic motivation by selecting physical activities to participate in outside of class."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Demonstrate positive social interactions during physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Create physical activity messages for different audiences that persuade others to make\r\nhealthy and safe physical choices."}
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate cooperation skills by establishing rules and guidelines for resolving conflict."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 8"}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Apply advanced movement concepts, principles, strategies and tactics when learning and performing physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Demonstrate refined and combined motor skills in a variety of games and activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Patterns and Skills**: Perform controlled movements incorporating strategy in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Manipulative Skills**: Apply locomotor, non-locomotor and manipulative skills while using appropriate performance cues in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how movement concepts, principles and game strategies and critical elements of activity-specific movement skills represent skilled performance."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Combinations of Movement Concepts**: Demonstrate how motor skills and techniques are refined, combined and varied in specialized skilled performance."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Evaluate the physical, social and mental/emotional benefits of being physically active."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate a Health-Enhancing Level of Physical Activity**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Physical Activity Knowledge and Engagement**: Use available technology to self-monitor physical activity and adjust activities based on current fitness level."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Apply the FITT principle to prepare a personal workout based on current fitness goals."}
+        },
+        {
+            "competencyText": {"en-us": "**Stress Management**: Explain how physical activity helps with stress reduction."}
+        },
+        {
+            "competencyText": {"en-us": "**Nutrition**: Describe the relationship between poor nutrition and health risk factors."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interactions/Working with Others**: Accept differences among classmates in physical development, maturation and varying skill levels by providing encouragement and positive feedback."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate knowledge of rules and etiquette by self-officiating standard and modified physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Safety**: Demonstrate knowledge of appropriate safety principles, rules and procedures in a variety of physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate cooperation skills by establishing rules and guidelines for resolving conflict."}
+        },
+        {
+            "competencyText": {"en-us": "**Health**: Evaluate how personal physical, emotional/mental and social benefits gained from regular participation in physical activities support the goals of a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "**Challenge**: Develop a plan of action when faced with individual challenges during physical activities that will contribute to a healthy lifestyle."}
+        },
+        {
+            "competencyText": {"en-us": "**Self-Expression and Enjoyment**: Analyze the impact of intrinsic and extrinsic motivation levels when participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "**Social Interaction**: Demonstrate respect for self and others by asking for help and/or helping others in various activities."}
+        },
+        {
+            "competencyText": {"en-us": "**Advocacy**: Collaborate with others to advocate for individuals, families and schools to be physically\r\nactive."}
+        },
+        {
+            "competencyText": {"en-us": "HS"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate the mastery of skills and tactics needed to participate in two or more lifetime activities."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in a variety of motor skills and movement patterns."},
+            "comment": {
+                "en-us": ["**Practices for Movement Competency**: Physically literate individuals practice skills for achieving competency and confidence in a variety of physical activities. These performance indicators focus on identifying skills that will help students effectively engage in lifelong physical activities."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate competency in movements and manipulative skills needed in game-like situations."}
+        },
+        {
+            "competencyText": {"en-us": "Use movement concepts and principles to analyze and improve performance of self and/or others."}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge of concepts, principles, strategies and tactics to movement and performance."},
+            "comment": {
+                "en-us": ["**Application of Performance**: Physically literate individuals understand the purpose of movement through performance. These performance indicators focus on quality of movement that enhances physical activity experiences critical to their development and long-term success as healthy and productive citizens."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Describe the mechanical principles, including but not limited to force, rotation extension or leverage, that apply to movement skills in physical activities, and analyze their contribution in improving movement performance."}
+        },
+        {
+            "competencyText": {"en-us": "Interact positively in social and group interactions through the use of communication skills, critical thinking, accountability and leadership in a physical activity setting."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate responsible personal and social behavior that exhibits respect for self and others."},
+            "comment": {
+                "en-us": ["**Demonstrate Personal and Social Behavior**: Physically literate individuals respect themselves and others in physical activity settings. These performance indicators focus on the positive development of personal, responsible and social behaviors that are demonstrated through sportsmanship, etiquette, safety, teamwork, cooperation and conflict resolution skills."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate respect for others\u2019 diversity while participating in sports and/or physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Apply conflict resolution/mediation skills when participating in sports and/or recreational activities."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how ethical behavior and positive social interaction impact effective participation in sports and physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how physical, intellectual and emotional behaviors impact physical performance."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate value of physical activity for health, enjoyment, challenge, self-expression and social interaction."},
+            "comment": {
+                "en-us": ["**Demonstrate Value of Physical Activity**: Physically literate individuals value physical activity and its contribution to a healthy lifestyle. These performance indicators focus on an active lifestyle as a vehicle for enjoyment, advocacy, challenge and social interaction of a healthy community."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Analyze the physical, emotional/mental and social benefits of regular participation in physical activities."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the personal benefits derived from regular participation in physical activities as they relate to quality of life."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate with others to advocate for a healthy community."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how physical activities provide opportunities for self-expression and social interactions."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship between and among effort, persistence, practice and improvement as they relate to skill development."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness."},
+            "comment": {
+                "en-us": ["**Demonstrate knowledge and skills to achieve and maintain a health-enhancing level of physical activity and fitness.**: Physically literate individuals understand the benefits and implications of lifelong physical activity to improve their quality of life. Understanding one\u2019s overall physical health and fitness status provides the basis for personal responsibility. These performance indicators focus on empowering students to commit to being lifelong physically active individuals."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "Explain how each component of fitness impacts lifetime physical wellness."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and discuss the benefits of a physically active lifestyle as it relates to college or career productivity."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various strength and stretching exercises for personal fitness development."}
+        },
+        {
+            "competencyText": {"en-us": "Monitor rates of exertion while participating in physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Calculate target heart rate and use this information to create and/or maintain a personal fitness plan."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how to adjust pacing to keep heart rate in the target zone."}
+        },
+        {
+            "competencyText": {"en-us": "Apply goal-setting and decision-making skills in developing, maintaining, implementing and evaluating a personal wellness plan."}
+        },
+        {
+            "competencyText": {"en-us": "Design a personal lifetime leisure/recreational plan that includes the components of health-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the impact of life choices, economics, motivation and accessibility to physical activity in college or career settings."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and explain the relationships between caloric intake and caloric expenditure in relation to body composition, nutrition and physical activity."}
+        },
+        {
+            "competencyText": {"en-us": "Apply rules of behavior and fair play in a variety of physical activities, sports and games as a competitor and/or spectator."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the value of rules, fair play, cooperation, sportsmanship, teamwork and conflict resolution in a variety of physical activities, sports and games."}
+        },
+        {
+            "competencyText": {"en-us": "Examine moral and ethical conduct in specific competitive situations, including but not limited to intentional fouls, performance-enhancing substances, gambling or current events in sport."}
+        },
+        {
+            "competencyText": {"en-us": "**Physical Fitness Knowledge**: Identify the components of skill-related fitness."}
+        },
+        {
+            "competencyText": {"en-us": "**Rules and Etiquette**: Demonstrate cooperation skills by establishing rules and guidelines for resolving conflict."}
+        }
+    ]
+}

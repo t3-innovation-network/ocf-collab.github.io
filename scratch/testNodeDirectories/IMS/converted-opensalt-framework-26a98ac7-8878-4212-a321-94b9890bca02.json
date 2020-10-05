@@ -1,0 +1,1426 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/26a98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "World Languages"},
+        "description": {"en-us": "World Languages Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade K-12"}
+        },
+        {
+            "competencyText": {"en-us": "Novice Low/Mid"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of basic words, phrases, and questions about self and personal experiences, through gestures, drawings, pictures, and actions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of everyday expressions dealing with simple and concrete daily activities and needs presented in a clear, slow, and repeated speech."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of basic words and phrases in simple messages and announcements on familiar settings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of simple information supported by visuals through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of simple rhymes, songs, poems, and read aloud stories."}
+        },
+        {
+            "competencyText": {"en-us": "Follow short, simple directions."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of written familiar words, phrases, and simple sentences supported by visuals."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of short, simple literary stories."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of simple written announcements with prompting and support."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize words and phrases when used in context on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Introduce self and others using basic, culturally-appropriate greetings."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in basic conversations using words, phrases, and memorized expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Ask simple questions and provide simple responses related to personal preferences."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange essential information about self, family, and familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and use in context common concepts (such as numbers, days of the week, etc.) in simple situations."}
+        },
+        {
+            "competencyText": {"en-us": "Use appropriate gestures, body language, and intonation to clarify a message."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and respond appropriately to simple directions."}
+        },
+        {
+            "competencyText": {"en-us": "Differentiate among oral statements, questions, and exclamations in order to determine meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Provide basic information about self and immediate surroundings using words and phrases and memorized expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Present personal information about self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Express likes and dislikes."}
+        },
+        {
+            "competencyText": {"en-us": "Provide an account of daily activities."}
+        },
+        {
+            "competencyText": {"en-us": "Role-play skits, songs, or poetry in the target language that deal with familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Present simple information about a familiar topic using visuals."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Provide basic information in writing using familiar topics, often using previously learned expressions and phrases."}
+        },
+        {
+            "competencyText": {"en-us": "Fill out a simple form with basic information."}
+        },
+        {
+            "competencyText": {"en-us": "Write simple sentences about self and/or others."}
+        },
+        {
+            "competencyText": {"en-us": "Write simple sentences that help in day-to-day life communication."}
+        },
+        {
+            "competencyText": {"en-us": "Write about previously acquired knowledge and experiences."}
+        },
+        {
+            "competencyText": {"en-us": "Pre-write by drawing pictures to support ideas related to a task."}
+        },
+        {
+            "competencyText": {"en-us": "Draw pictures in sequence to demonstrate a story plot."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize basic practices and perspectives of cultures where the target language is spoken (such as greetings, holiday celebrations, etc.)"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize common patterns of behavior (such as body language, gestures) and cultural practices and/or traditions associated with the target culture(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in age-appropriate and culturally authentic activities such as celebrations, songs, games, and dances."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize products of culture (e.g., food, shelter, clothing, transportation, toys)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Identify key words and phrases in the target language that are based on previous knowledge acquired in subject area classes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify (within a familiar context and supported by visuals), basic information common to the world language classroom and other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate basic knowledge acquired in the target language in order to compare words that are similar to those in his/her own language."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize true and false cognates in the target language and compare them to own language."}
+        },
+        {
+            "competencyText": {"en-us": "Identify celebrations typical of the target culture and one&rsquo;s own."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use key words and phrases in the target language to participate in different activities in the school and community settings."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in simple presentations, activities, and cultural events in local, global, and/or online communities."}
+        },
+        {
+            "competencyText": {"en-us": "Novice High"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of familiar topics and frequently used expressions supported by a variety of actions."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of short conversations in familiar contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of short, simple messages and announcements on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of key points on familiar topics presented through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of simple stories or narratives."}
+        },
+        {
+            "competencyText": {"en-us": "Follow directions or instructions to complete a task when expressed in short conversations."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Determine main idea from simple texts that contain familiar vocabulary used in context."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the elements of story such as setting, theme and characters."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of signs and notices in public places."}
+        },
+        {
+            "competencyText": {"en-us": "Identify key detailed information needed to fill out forms."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Engage in short social interactions using phrases and simple sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange information about familiar tasks, topics and activities, including personal information."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange information using simple language about personal preferences, needs, and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer a variety of questions about personal information."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange information about meeting someone including where to go, how to get there, and what to do and why."}
+        },
+        {
+            "competencyText": {"en-us": "Use basic language skills supported by body language and gestures to express agreement and disagreement."}
+        },
+        {
+            "competencyText": {"en-us": "Ask for and give simple directions to go somewhere or to complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a problem or a situation with sufficient details in order to be understood."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Provide basic information on familiar topics using phrases and simple sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe aspects of daily life using complete sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe familiar experiences or events using both general and specific language."}
+        },
+        {
+            "competencyText": {"en-us": "Present personal information about one&rsquo;s self and others."}
+        },
+        {
+            "competencyText": {"en-us": "Retell the main idea of a simple, culturally authentic story in the target language with prompting and support."}
+        },
+        {
+            "competencyText": {"en-us": "Use verbal and non verbal communication when making announcements or introductions."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write descriptions and short messages to request or provide information on familiar topics using phrases and simple sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Write simple statements to describe aspects of daily life."}
+        },
+        {
+            "competencyText": {"en-us": "Write a description of a familiar experience or event."}
+        },
+        {
+            "competencyText": {"en-us": "Write short personal notes using a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Request information in writing to obtain something needed."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare a draft of an itinerary for a personal experience or event (such as for a trip to a country where the target language is spoken)."}
+        },
+        {
+            "competencyText": {"en-us": "Pre-write by generating ideas from multiple sources based upon teacher- directed topics."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Use information acquired through the study of the practices and perspectives of the target culture(s) to identify some of their characteristics and compare them to own culture."}
+        },
+        {
+            "competencyText": {"en-us": "Identify examples of common beliefs and attitudes and their relationship to practices in the cultures studied."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize different contributions from countries where the target language is spoken and how these contributions impact our global society (e.g., food, music, art, sports, recreation, famous international figures, movies, etc.)"}
+        },
+        {
+            "competencyText": {"en-us": "Identify cultural artifacts, symbols, and images of the target culture(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Use vocabulary acquired in the target language to access new knowledge from other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Use maps, graphs, and other graphic organizers to facilitate comprehension and expression of key vocabulary in the target language to reinforce existing content area knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish similarities and differences among the patterns of behavior of the target language by comparing information acquired in the target language to further knowledge of own language and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Compare basic sound patterns and grammatical structures between the target language and own language."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast specific cultural traits of the target culture and compare to own culture (typical dances, food, celebrations, etc.)"}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use key target language vocabulary to communicate with others within and beyond the school setting."}
+        },
+        {
+            "competencyText": {"en-us": "Use communication tools to establish a connection with a peer from a country where the target language is spoken."}
+        },
+        {
+            "competencyText": {"en-us": "Intermediate Low"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Use context cues to identify the main idea and essential details on familiar topics expressed in short conversations, presentations, and messages."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and essential details of short conversations and oral presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and essential details in messages and announcements on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify key points and essential details on familiar topics presented through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and essential details from oral narration and stories on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of multiple-step directions and instructions in familiar settings."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Use context clues and background knowledge to demonstrate understanding of the main idea and essential details in texts that contain familiar themes."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret written literary text in which the writer tells or asks about familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the meaning of a message and identify the author&rsquo;s purpose through authentic written texts such as advertisements and public announcements."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of vocabulary used in context when following written directions."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Initiate and engage in a conversation on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Interact with others in everyday situations."}
+        },
+        {
+            "competencyText": {"en-us": "Express and react to feelings and emotions in real life situations."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange information about familiar academic and social topics including participation in an interview."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate a conversation to meet basic needs in everyday situations both in and outside the classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Recount and restate information received in a conversation in order to clarify meaning."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange general information about a few topics outside personal and academic fields of interest."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate, engage, and exchange basic information to solve a problem."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Present information on familiar topics using a series of sentences with sufficient details."}
+        },
+        {
+            "competencyText": {"en-us": "Describe people, objects, and situations using a series of sequenced sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Express needs, wants, and plans using a series of sentences that include essential details."}
+        },
+        {
+            "competencyText": {"en-us": "Provide a logical sequence of instructions on how to make something or complete a task."}
+        },
+        {
+            "competencyText": {"en-us": "Present a short skit or play using well-structured sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Describe events in chronological order using connected sentences with relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write on familiar topics and experiences using main ideas and supporting details."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a familiar event or situation using a variety of sentences and with supporting details"}
+        },
+        {
+            "competencyText": {"en-us": "Express and support opinions on familiar topics using a series of sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast information, concepts, and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Develop questions to obtain and clarify information."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research and write a detailed plan (e.g.; a trip to a country where the target language is spoken)."}
+        },
+        {
+            "competencyText": {"en-us": "Develop a draft of a plan that addresses purpose, audience, logical sequence, and a time frame for completion."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize similarities and differences in practices and perspectives used across cultures (e.g., holidays, family life) to understand one&rsquo;s own and others&rsquo; ways of thinking."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate awareness and appreciation of cultural practices and expressions in daily activities."}
+        },
+        {
+            "competencyText": {"en-us": "Examine significant historic and contemporary influences from the cultures studied such as explorers, artists, musicians, and athletes."}
+        },
+        {
+            "competencyText": {"en-us": "Identify products of culture (e.g., food, shelter, clothing, transportation, toys, music, art, sports and recreation, language, customs, traditions)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Access information in the target language to reinforce previously acquired content area knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Access new information on historic and/or contemporary influences that underlie selected cultural practices from the target language and culture to obtain new knowledge in the content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Recognize language patterns and cultural differences when comparing own language and culture with the target language and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Give examples of cognates, false cognates, idiomatic expressions, and sentence structure to show understanding of how languages are alike and different."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss familiar topics in other subject areas, such as geography, history, music, art, science, math, language, or literature."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use the target language to participate in different activities for personal enjoyment and enrichment."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with people locally and/or around the world, through e-mail, video, online communities, and/or face-to face encounters."}
+        },
+        {
+            "competencyText": {"en-us": "Intermediate Mid"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the main idea and supporting details on familiar topics expressed in a series of connected sentences, conversations, presentations, and messages."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details of presentations on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize the main idea and supporting details on familiar topics of personal interest presented through messages and announcements."}
+        },
+        {
+            "competencyText": {"en-us": "Identify essential information and supporting details on familiar topics presented through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the purpose of a lecture or talk on a familiar topic."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of complex directions and instructions in familiar settings."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Identify the main idea and key details in texts that contain familiar and unfamiliar vocabulary used in context."}
+        },
+        {
+            "competencyText": {"en-us": "Determine the main idea and essential details when reading narratives, literary selections, and other fictional writings on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Identify specific information in everyday authentic materials such as advertisements, brochures, menus, schedules, and timetables."}
+        },
+        {
+            "competencyText": {"en-us": "Recognize many high frequency idiomatic expressions from a variety of authentic texts of many unknown words by using context clues."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Express views and effectively engage in conversations on a variety of familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Ask and answer questions on familiar topics to clarify information and sustain a conversation."}
+        },
+        {
+            "competencyText": {"en-us": "Express personal views and opinions on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, teacher led)."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate and maintain a conversation on a variety of familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Use known words and phrases to effectively communicate meaning (circumlocution) when faced with unfamiliar vocabulary."}
+        },
+        {
+            "competencyText": {"en-us": "Follow grammatical rules for self-correction when speaking."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a problem or situation with details and state an opinion."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Produce a simple factual presentation supported by multimedia components and visual displays (e.g. graphics, sound) and using logically sequenced and connected sentences with relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Describe events, plans, and actions using logically sequenced and connected sentences with relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Retell a story or recount an experience with appropriate facts and relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Provide supporting evidence using logically connected sentences that include relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Retell or summarize a storyline using logically connected sentences with relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Describe, explain and react to personal experiences using logically connected paragraphs with relevant details."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write narratives on familiar topics using logically connected sentences with supporting details."}
+        },
+        {
+            "competencyText": {"en-us": "Write informative texts through a variety of media using connected sentences and providing supporting facts about the topic."}
+        },
+        {
+            "competencyText": {"en-us": "State an opinion and provide supporting evidence using connected sentences."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research and write a report on a variety of topics using connected detailed paragraphs."}
+        },
+        {
+            "competencyText": {"en-us": "Draft, edit, and summarize information, concepts, and ideas."}
+        },
+        {
+            "competencyText": {"en-us": "Produce writing that has been edited for punctuation and correct use of grammar, in which the development and organization are appropriate to task and purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Write a narrative based on experiences that use descriptive language and details."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish patterns of behavior and social interaction in various settings in the target culture(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Use practices and characteristics of the target cultures for daily activities among peers and adults."}
+        },
+        {
+            "competencyText": {"en-us": "Research contributions made by individuals from the target culture through the arts such as visual arts, architecture, music, dance, literature, etc."}
+        },
+        {
+            "competencyText": {"en-us": "Identify similarities and differences in products across cultures (e.g., food, shelter, clothing, transportation, music, art, dance, sports and recreation, language, customs, traditions, literature)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Use expanded vocabulary and structures in the target language to increase content area knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Use previously acquired vocabulary to discuss familiar topics in other subject areas such as geography, history, music, art, science, math, language, or literature to reinforce and further knowledge of other disciplines through the target language."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Compare language structures and skills that transfer from one language to another."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast structural patterns in the target language and own."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast the geography and history of countries of the target language and discuss their impact on own culture."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use expanded vocabulary and structures in the target language to access different media and community resources."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of media venues in the target language to access information about community events and organizations where the target language is spoken."}
+        },
+        {
+            "competencyText": {"en-us": "Intermediate High"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details in conversations, presentations, and short discussions, on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details on familiar and unfamiliar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Follow informal presentations on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Confirm understanding of the message and purpose of a variety of authentic sources found in the target culture such as TV, radio, podcasts and videos."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the main idea and supporting details from discussions and interviews on familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of complex directions and instructions in unfamiliar settings."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details in texts on familiar and unfamiliar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details in fictional literary texts containing unfamiliar vocabulary that can be interpreted in context."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of general written information presented through a variety of sources and intended for practical applications in academic and workplace contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main idea and supporting details when gathering information from texts that contain unfamiliar vocabulary when reading for information."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "State and support different points of views and take an active part in discussions."}
+        },
+        {
+            "competencyText": {"en-us": "Sustain a conversation in uncomplicated situations on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Express degrees of emotion and respond appropriately to the feelings and emotions of others."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange detailed information related to areas of mutual interest including careers of choice, job opportunities, etc."}
+        },
+        {
+            "competencyText": {"en-us": "Initiate, maintain, and end a conversation on a variety of familiar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Often use circumlocution when faced with unfamiliar vocabulary and difficult language structures."}
+        },
+        {
+            "competencyText": {"en-us": "Ask for, follow, and give directions in complex situations."}
+        },
+        {
+            "competencyText": {"en-us": "Describe and elaborate on a personal situation or problem using details."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Present information on familiar topics with clarity and detail using multimedia resources."}
+        },
+        {
+            "competencyText": {"en-us": "Present viewpoints on an issue and support opinions with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Describe personal experiences and interests with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Produce reports and multimedia compositions in order to present a group project."}
+        },
+        {
+            "competencyText": {"en-us": "Use paraphrasing, circumlocution, and illustrations to make self more clearly understood when relating experiences and retelling a story."}
+        },
+        {
+            "competencyText": {"en-us": "Formulate and deliver a presentation on an assigned topic using multimedia resources to support the presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write communications, narratives, descriptions, and explanations on familiar topics using connected, detailed paragraphs."}
+        },
+        {
+            "competencyText": {"en-us": "Describe, in writing, personal experiences and interests with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Present, in writing, viewpoints on an issue and support opinion with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Provide clear and detailed information in writing on academic and work topics with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Describe, in writing, events in chronological order."}
+        },
+        {
+            "competencyText": {"en-us": "Write about a story and describe reactions with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Write a short essay or biography using descriptive details and a variety of sentence structure."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate practices and perspectives of past and contemporary life in the target culture through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Apply language and behaviors that are appropriate to the target culture in an authentic situation."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss historical or current contributions of groups representing other languages or cultures (e.g., explorers, historical figures, artists, inventors, etc.)"}
+        },
+        {
+            "competencyText": {"en-us": "Describe various products across cultures (e.g., food, shelter, clothing, transportation, music, art, dance, sports and recreation, language, customs, traditions, literature)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Gather and interpret information from various disciplines in the target language to reinforce academic knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Gather and interpret information on historic and or contemporary influences from the target language and culture and transfer this information to the language classroom and other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Compare similarities and differences between the target language and own language."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the use of cognates, word roots, prefixes, suffixes, or sentence structures between the target language and own."}
+        },
+        {
+            "competencyText": {"en-us": "Compare the cultural traditions and celebrations that exist in the target cultures and other cultures with own."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge acquired in the target language to reach out to the community to discuss a variety of topics and present point of view."}
+        },
+        {
+            "competencyText": {"en-us": "Participate in activities where communication in the target language is expected (i.e., writing a letter to the editor or engaging in an online discussion on a community issue)."}
+        },
+        {
+            "competencyText": {"en-us": "Advanced Low "}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of extended speech on familiar and unfamiliar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Follow presentations on familiar and unfamiliar topics in different situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of factual information about everyday life, study, or work- related topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of information obtained from authentic sources such as TV, radio, interviews, podcasts and videos in order to function for personal needs within the target culture."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the main idea and supporting details from discussions and interviews on unfamiliar topics."}
+        },
+        {
+            "competencyText": {"en-us": "Follow technical instructions for familiar products and services."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of viewpoints expressed in literary and non-literary texts from a variety of culturally authentic sources."}
+        },
+        {
+            "competencyText": {"en-us": "Make inferences and predictions from a written source."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of significant points and essential details presented through newspaper articles or official documents."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of main idea and supporting details from different types of texts that contain high- frequency idioms."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with moderate fluency and spontaneity on familiar topics, even in complex situations."}
+        },
+        {
+            "competencyText": {"en-us": "Express and connect ideas when engaged in a lengthy conversation."}
+        },
+        {
+            "competencyText": {"en-us": "Justify personal preferences, needs and feelings in order to persuade others."}
+        },
+        {
+            "competencyText": {"en-us": "Engage comfortably in extended conversations and discussions on a wide variety of topics related to daily life."}
+        },
+        {
+            "competencyText": {"en-us": "Maintain a conversation even when unpredictable situations arise in a familiar context."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt speech and self-correct when speaking on a variety of topics to convey a clear message."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate formal and informal language and the appropriate register in a conversation."}
+        },
+        {
+            "competencyText": {"en-us": "Collaborate to develop and propose solutions to problems."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Deliver a short presentation on social, academic, or work topics with appropriate complexity for the target audience."}
+        },
+        {
+            "competencyText": {"en-us": "Explain viewpoints on an issue of interest, giving advantages and disadvantages of various options."}
+        },
+        {
+            "competencyText": {"en-us": "Speak using different time frames and appropriate mood with good control."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate ideas on a variety of topics with accuracy, clarity, and precision."}
+        },
+        {
+            "competencyText": {"en-us": "Make formal presentations about literary selections demonstrating appropriate language choice, body language, eye contact, and use of gestures."}
+        },
+        {
+            "competencyText": {"en-us": "Provide information on academic and job related topics with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Express, in writing, ideas on a variety of topics presented in clear, organized texts."}
+        },
+        {
+            "competencyText": {"en-us": "Write work-related documents (fill out an application, prepare a resume, write a business letter)."}
+        },
+        {
+            "competencyText": {"en-us": "Write well-organized essays, summaries, and reports on a broad range of topics including those that have been personally researched using authentic texts."}
+        },
+        {
+            "competencyText": {"en-us": "Use idioms and idiomatic expressions in writing."}
+        },
+        {
+            "competencyText": {"en-us": "Write using different time frames and appropriate mood."}
+        },
+        {
+            "competencyText": {"en-us": "Write using style, language, and tone appropriate to the audience and purpose of the presentation."}
+        },
+        {
+            "competencyText": {"en-us": "Write in a variety of forms including narratives (fiction, autobiography) with clarity and details."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast cultural practices and perspectives among cultures with the same language in order to dispel stereotyping."}
+        },
+        {
+            "competencyText": {"en-us": "Explain why the target language has value in culture and in a global society."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the contributions of diverse groups within the target culture(s) made by scientists, mathematicians, writers, political leaders, migrants, immigrants, athletes)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss products from the target culture(s) (e.g., food, shelter, clothing, transportation, music, art, dance, sports and recreation, language, customs, traditions, literature)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge gained in the target language to make connections to other content areas."}
+        },
+        {
+            "competencyText": {"en-us": "Distinguish among viewpoints presented through the target language and incorporate this knowledge to reinforce and further knowledge of other disciplines."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Apply new structural patterns acquired in the target language."}
+        },
+        {
+            "competencyText": {"en-us": "Discriminate between different registers of language (formal/informal, literary/colloquial, written/conversational), and explain their cultural implications."}
+        },
+        {
+            "competencyText": {"en-us": "Develop an appreciation for cultural differences by comparing and contrasting patterns of behavior or interaction in various cultural settings including student&rsquo;s own."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge gained in the target language to make presentations as part of extra curricular activities beyond the school setting."}
+        },
+        {
+            "competencyText": {"en-us": "Create and present activities- in the target language- (i.e., drama, poetry, art, music) through a variety of media where communication is extended outside the classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Advanced Mid"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of factual information about common everyday or job-related topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of presentations where different accents and lexical variations are used."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of presentations even when idiomatic, technical, or slang expressions are used."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the underlying meaning of culturally authentic expressions as presented through a variety of media."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of different points of view in a discussion."}
+        },
+        {
+            "competencyText": {"en-us": "Follow complex technical instructions and specifications in real life settings."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of long, complex texts and recognize different literary and technical styles from a variety of culturally authentic sources."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of different points of view presented through a variety of literary works."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the content and relevance of news items, articles, and reports on a wide range of professional topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of idioms and idiomatic expressions, and infer meaning of unfamiliar words used in context."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Express self with fluency and flexibility on a range of familiar and unfamiliar topics, including concrete social, academic, and professional topics."}
+        },
+        {
+            "competencyText": {"en-us": "Take an active role in formal and informal discussions when communicating with native speakers in a variety of settings, types of discourse, topics, and registers."}
+        },
+        {
+            "competencyText": {"en-us": "Elaborate on and justify personal preferences, needs, and feelings."}
+        },
+        {
+            "competencyText": {"en-us": "Speak fluently, accurately, and effectively about a wide variety of events that occur in different time frames."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange and develop information about personal and academic tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Use a variety of idiomatic and culturally authentic expressions appropriately."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange general information on a variety of topics outside fields of interest."}
+        },
+        {
+            "competencyText": {"en-us": "Handle a complex situation or unexpected turn of events and propose solutions to problems presented during interaction."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Deliver an articulated presentation on personal, academic, or professional topics."}
+        },
+        {
+            "competencyText": {"en-us": "Describe, with ease and detail, topics related to home, school, work, leisure activities, and personal interests."}
+        },
+        {
+            "competencyText": {"en-us": "Narrate, with ease and detail, events of current, public, or personal interest."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and deliver presentations based on inquiry or research."}
+        },
+        {
+            "competencyText": {"en-us": "Narrate a story and describe reactions with clarity and detail."}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize and summarize information gathered from various authentic sources when speaking to diverse groups."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write detailed texts on a broad variety of concrete social and professional topics and apply appropriate strategies to evaluate a final product."}
+        },
+        {
+            "competencyText": {"en-us": "Produce detailed texts on a broad variety of concrete and professional topics that have been revised and edited with peer input."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt writing to a variety of audiences, such as editorial readers, professionals, and the general public."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate, with accuracy, idioms and culturally authentic expressions in writing."}
+        },
+        {
+            "competencyText": {"en-us": "Write with clarity following consistent control of time frames and mood."}
+        },
+        {
+            "competencyText": {"en-us": "Produce a persuasive essay and sustain and justify opinions and arguments in writing."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate figurative language, emotions, gestures, rhythm, and appropriate format into a literary original piece."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate practices and perspectives (such as patterns of behavior, values, attitudes, beliefs, or viewpoints) typical of the target culture(s)."}
+        },
+        {
+            "competencyText": {"en-us": "Use background knowledge and think critically in order to function successfully within the target culture to meet personal, professional, and academic needs."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the effects of the target culture&rsquo;s contributions on other societies."}
+        },
+        {
+            "competencyText": {"en-us": "Research diverse cultural products among groups in other societies (e.g., celebrations, literature, architecture, music, dance, theater, political systems, economic systems, number systems, social systems, belief systems)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze, reinforce, and further knowledge of other disciplines through the target language."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze within an unfamiliar context, information from other disciplines to reinforce previous knowledge and acquire new content area knowledge."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Describe cultural perspectives as reflected in a variety of literary genres and compare and contrast to own culture."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the sound symbol association between the target language and own."}
+        },
+        {
+            "competencyText": {"en-us": "Conduct research on works produced by native speakers of the target language (e.g., writers, journalists, artists, media persons) to determine cultural impact on our own language and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use knowledge acquired in the target language to access information on careers and employment opportunities."}
+        },
+        {
+            "competencyText": {"en-us": "Engage in opportunities to increase awareness of careers for which skills in another language and cross-cultural understandings are needed by accessing information through different media."}
+        },
+        {
+            "competencyText": {"en-us": "Advanced High"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of extended speech and short lectures on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the main ideas on both concrete and abstract topics."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the speaker&rsquo;s perspective, tone and style as well as differentiate viewpoints heard in a variety of situations."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of the message and purpose of essential authentic sources found in the target culture such as TV, radio, podcasts, and videos."}
+        },
+        {
+            "competencyText": {"en-us": "Understand and critique most films on historical, political, or scientific topics as well as make inferences and predictions from a variety of spoken sources."}
+        },
+        {
+            "competencyText": {"en-us": "Follow extended speech and complex lines of arguments when the direction of the talk is clearly stated by the speaker."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Make appropriate inferences and recognize literary elements from a variety of culturally authentic sources."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and synthesize meaning from a variety of fictional works and recognize the author&rsquo;s purpose."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the primary argument and supporting details in written texts."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of idiomatic expressions, proverbs, and sayings from a variety of texts and derive meaning from unknown words by using context clues."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Express self with fluency, flexibility, and precision on concrete and abstract topics."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with native speakers in a variety of settings, types of discourse, topics, and registers."}
+        },
+        {
+            "competencyText": {"en-us": "Express personal perspectives and support opinions clearly and precisely in order to persuade others or negotiate a compromise."}
+        },
+        {
+            "competencyText": {"en-us": "Develop and defend complex information during debates or meetings."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange, develop, and synthesize complex information about personal, academic, and professional tasks."}
+        },
+        {
+            "competencyText": {"en-us": "Provide structured arguments and develop and support hypotheses, working around occasional difficulties."}
+        },
+        {
+            "competencyText": {"en-us": "Exchange detailed information on matters within and beyond academic fields of interest, personal needs, and desires."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare for and participate effectively in a discussion expressing solutions clearly and persuasively."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Deliver a clear and precise presentation that engages and informs a specific type of audience."}
+        },
+        {
+            "competencyText": {"en-us": "Communicate with accuracy, clarity, and precision on many concrete and abstract topics."}
+        },
+        {
+            "competencyText": {"en-us": "Deliver and defend a viewpoint on an academic or professional issue."}
+        },
+        {
+            "competencyText": {"en-us": "Deliver planned and impromptu presentations to a variety of audiences using appropriate multimedia resources."}
+        },
+        {
+            "competencyText": {"en-us": "Deliver narrative and informative presentations, including oral responses to literature and use language appropriate to the situation."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate with ease appropriate idiomatic and culturally authentic expression in presentations."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Write with fluency and clarity well-structured documents on complex topics."}
+        },
+        {
+            "competencyText": {"en-us": "Create well-structured and easily readable reports, summaries, or articles on complex topics that have been revised and edited for correct use of grammar, varied sentence structure, punctuation, and capitalization."}
+        },
+        {
+            "competencyText": {"en-us": "Write with precision and detail about abstract topics synthesizing and summarizing information gathered from various authentic sources (written and oral)."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate, with accuracy, idioms and culturally authentic expressions in writing with ease."}
+        },
+        {
+            "competencyText": {"en-us": "Write a narrative about an experience in a clear, fluent style appropriate to different genres."}
+        },
+        {
+            "competencyText": {"en-us": "Write about a variety of topics and apply appropriate strategies to evaluate and refine the final draft."}
+        },
+        {
+            "competencyText": {"en-us": "Write creative pieces (poetry, narratives, and plays) using effective imagery and the appropriate literary devices to genre."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Discuss practices and perspectives of the culture(s) studied and describe how they are interrelated to topics of philosophy, social issues, regionalisms, and traditions of cultures other than own."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze aspects of the target language that are expressions of culture."}
+        },
+        {
+            "competencyText": {"en-us": "Summarize the impact of influential people and events, and their contributions to the global community."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze diverse cultural products among groups in other societies (e.g., celebrations, literature, architecture, music, dance, theater, political systems, economic systems, number systems, social systems, belief systems)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "Synthesize information from different subject areas through the target language to further knowledge of own language and culture."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and synthesize information gathered in the target language to make connections to other content areas and complex real world situations."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the form, meaning, and importance of perspectives, practices, and products of the target culture and compare it to own culture."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate regional and national sound pattern differences (e.g., pronunciation, intonation, word stress) within the target language and own."}
+        },
+        {
+            "competencyText": {"en-us": "Research cultural traditions and celebrations that exist in the target cultures and other cultures and evaluate the viewpoints behind them."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use language skills and cultural understanding beyond immediate environment for personal growth."}
+        },
+        {
+            "competencyText": {"en-us": "Access organizations or individuals through different types of communication to request information about professional activities (such as job opportunities) available in the target language."}
+        },
+        {
+            "competencyText": {"en-us": "Superior"}
+        },
+        {
+            "competencyText": {"en-us": "Interpretive Listening"}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of lexical variations, idiomatic expressions, colloquialism, and accents from different countries where the target language"}
+        },
+        {
+            "competencyText": {"en-us": "Connect and synthesize the essentials of complex extended discourse in academic and professional settings."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze cultural references and make inferences and predictions within the cultural framework of the language."}
+        },
+        {
+            "competencyText": {"en-us": "Draw conclusions from information obtained from a variety of authentic media in order to function for both personal and career purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of spoken language intended for native speakers in a variety of settings, types of discourse, topics, styles, registers and broad regional variations."}
+        },
+        {
+            "competencyText": {"en-us": "Follow information from recorded authentic complex passages."}
+        },
+        {
+            "competencyText": {"en-us": "Interpretative Reading"}
+        },
+        {
+            "competencyText": {"en-us": "Interpret information and draw conclusions from concepts and ideas with ease from culturally authentic sources on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Detect and interpret hidden meaning and recognize tone and subtlety from a variety of literary genres."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret and analyze forms of written language including abstract, structurally complex, or highly colloquial non-literary writings."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate understanding of written language intended for native speakers in a variety of settings, types of discourse, topics, styles, registers and broad regional lexical variations."}
+        },
+        {
+            "competencyText": {"en-us": "Interpersonal Communication"}
+        },
+        {
+            "competencyText": {"en-us": "Use language for all purposes effectively and consistently."}
+        },
+        {
+            "competencyText": {"en-us": "Convey finer shades of meaning with ease by using a wide range of expressions in any conversation or discussion."}
+        },
+        {
+            "competencyText": {"en-us": "Express and defend viewpoints or recommendations on a variety of topics or statements."}
+        },
+        {
+            "competencyText": {"en-us": "Participate with ease in complex discussions with multiple participants on a wide variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Become a life-long learner by using the language for personal enjoyment and enrichment as well as for career purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Speak with ease on almost all topics, using appropriate regional and colloquial expressions."}
+        },
+        {
+            "competencyText": {"en-us": "Deliver and defend recommendations in business, scientific, academic, or social contexts."}
+        },
+        {
+            "competencyText": {"en-us": "Think critically and apply concepts in the target language in order to more effectively communicate, solve problems and accomplish goals when interacting with a native speaker."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Speaking"}
+        },
+        {
+            "competencyText": {"en-us": "Deliver a clear and fluid presentation for a variety of purposes in a style appropriate to any type of audience."}
+        },
+        {
+            "competencyText": {"en-us": "Give a clearly articulated, well- structured presentation on a complex topic."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt presentation to reflect attitudes and culture of the audience."}
+        },
+        {
+            "competencyText": {"en-us": "Present fluently and with ease in a variety of settings."}
+        },
+        {
+            "competencyText": {"en-us": "Prepare and present original work (e.g., poems, reports, plays, stories) supported by research."}
+        },
+        {
+            "competencyText": {"en-us": "Adapt oral presentations spontaneously to meet unexpected needs."}
+        },
+        {
+            "competencyText": {"en-us": "Presentational Writing"}
+        },
+        {
+            "competencyText": {"en-us": "Effectively and consistently express self in writing using a variety of styles for academic and professional audience and purposes."}
+        },
+        {
+            "competencyText": {"en-us": "Write, edit and prepare for final publication a well-structured critical review of a paper, project, or cultural event."}
+        },
+        {
+            "competencyText": {"en-us": "Write a report based on conducted research summarizing the opinions of others, and analyzing information and facts."}
+        },
+        {
+            "competencyText": {"en-us": "Incorporate figurative language as well as national and regional idiomatic and culturally authentic expressions in writing."}
+        },
+        {
+            "competencyText": {"en-us": "Use humor and irony when writing an essay."}
+        },
+        {
+            "competencyText": {"en-us": "Write fluently about complex topics, emphasizing the important issues in a style appropriate to the reader including letters to the editor of a newspaper."}
+        },
+        {
+            "competencyText": {"en-us": "Write creative fiction that includes and authentic setting coherent plot and distinct characters with effective details."}
+        },
+        {
+            "competencyText": {"en-us": "Culture"}
+        },
+        {
+            "competencyText": {"en-us": "Apply knowledge and understanding of the practices and perspectives of the target culture(s) (such as social and political factors) in order to communicate effectively within and beyond the classroom."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss various aspects of the target culture such as world events and other current news taken place in order to determine their global significance."}
+        },
+        {
+            "competencyText": {"en-us": "Interpret information in the target language on a variety of topics related to the target culture&rsquo;s philosophy, social issues, regionalisms and cultural traditions presented through a variety of media, including authentic materials."}
+        },
+        {
+            "competencyText": {"en-us": "Examine the relationships between products and perspectives among groups in other societies (e.g., mythology relates to the perspective of a belief system, folk medicine relates to the perspective of health care)."}
+        },
+        {
+            "competencyText": {"en-us": "Connections"}
+        },
+        {
+            "competencyText": {"en-us": "<p>Use knowledge acquired through target language resources from a variety of subject areas to investigate and interpret and evaluate findings.<\/p>"}
+        },
+        {
+            "competencyText": {"en-us": "Investigate and interpret findings from authentic resources written in the target language on world events and current news related to the arts and sciences."}
+        },
+        {
+            "competencyText": {"en-us": "Comparisons"}
+        },
+        {
+            "competencyText": {"en-us": "Analyze the relationship of historical and contemporary attitudes, behaviors, and products in the target culture and compare to own culture."}
+        },
+        {
+            "competencyText": {"en-us": "Analyze and explain local, regional, and national language differences in the countries where the target language is spoken."}
+        },
+        {
+            "competencyText": {"en-us": "Research different aspects of the target culture(s) and own culture in order to evaluate and refine generalizations and dispel stereotypes."}
+        },
+        {
+            "competencyText": {"en-us": "Communities"}
+        },
+        {
+            "competencyText": {"en-us": "Use the skills acquired in the target language to interact with native speakers of the language on a variety of topics."}
+        },
+        {
+            "competencyText": {"en-us": "Interact with people of other cultures- in the target language- about familiar and unfamiliar topics that have a significant impact in our daily lives."}
+        }
+    ]
+}

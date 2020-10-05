@@ -1,0 +1,724 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://casenetwork.imsglobal.org/uri/4b2018e0-d61b-11e9-a4e7-0242c0a82003",
+        "name": {"en-us": "Montana Science Content Standards"},
+        "description": {"en-us": "These standards were adopted by the Montana Board of Public Education in September of 2016, with an effective date of July 1, 2017."},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://api.standards.isbe.net/server/api/v1/ISBOE/ims/case/v1p0/CFLicenses/9b516ff5-1cd2-41aa-8618-f20eee60b06d",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Definitions"}
+        },
+        {
+            "competencyText": {"en-us": "\"Crosscutting concepts\" are those that connect learning across the different areas of disciplinary content. They are:"}
+        },
+        {
+            "competencyText": {"en-us": "patterns"}
+        },
+        {
+            "competencyText": {"en-us": "cause and effect"}
+        },
+        {
+            "competencyText": {"en-us": "scale, proportion, and quantity"}
+        },
+        {
+            "competencyText": {"en-us": "systems and system models"}
+        },
+        {
+            "competencyText": {"en-us": "energy and matter, flows, cycles, and conservation"}
+        },
+        {
+            "competencyText": {"en-us": "structure and function"}
+        },
+        {
+            "competencyText": {"en-us": "stability and change"}
+        },
+        {
+            "competencyText": {"en-us": "\"Science and engineering practices\" are methods of inquiry by which ideas are developed and refined. They are:"}
+        },
+        {
+            "competencyText": {"en-us": "asking questions as it applies to science and defining problems as it applies to engineering"}
+        },
+        {
+            "competencyText": {"en-us": "developing and using models"}
+        },
+        {
+            "competencyText": {"en-us": "planning and carrying out investigations"}
+        },
+        {
+            "competencyText": {"en-us": "analyzing and interpreting data"}
+        },
+        {
+            "competencyText": {"en-us": "using mathematics and computational thinking"}
+        },
+        {
+            "competencyText": {"en-us": "constructing explanations as it applies to science and designing solutions as it applies to engineering"}
+        },
+        {
+            "competencyText": {"en-us": "engaging in argument from evidence"}
+        },
+        {
+            "competencyText": {"en-us": "obtaining, evaluating, and communicating information"}
+        },
+        {
+            "competencyText": {"en-us": "Kindergarten"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for kindergarten are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze data to determine whether a design solution works as intended to change the speed or direction of an object with a push or a pull;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on observations of the effect of sunlight on earth's surface; and"}
+        },
+        {
+            "competencyText": {"en-us": "use tools and materials to design and build a structure to reduce the warming effect of sunlight on an area."}
+        },
+        {
+            "competencyText": {"en-us": "use observations to describe patterns of what plants and animals, including humans, need to survive."}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument supported by evidence for how plants and animals, including humans, can change the environment to meet their needs;"}
+        },
+        {
+            "competencyText": {"en-us": "use a model to represent the relationship between the needs of different plants or animals, including humans, and the places they live;"}
+        },
+        {
+            "competencyText": {"en-us": "communicate ideas about the impact of humans on the land, water, air, or other living things in the local environment;"}
+        },
+        {
+            "competencyText": {"en-us": "use and share observations of local weather conditions to describe patterns over time; and"}
+        },
+        {
+            "competencyText": {"en-us": "ask questions to obtain information about the purpose of weather forecasting to predict, prepare for, and respond to weather."}
+        },
+        {
+            "competencyText": {"en-us": "Grades 9-12"}
+        },
+        {
+            "competencyText": {"en-us": "use the periodic table as a model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to gather evidence to compare the structure of substances at the bulk scale to infer the strength of electrical forces between particles;"}
+        },
+        {
+            "competencyText": {"en-us": "develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay;"}
+        },
+        {
+            "competencyText": {"en-us": "communicate through scientific and technical information roles of molecular-level structure in the functioning of designed materials;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence for how the structure of DNA determines the structure of proteins which carry out the essential functions of life through systems of specialized cells;"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for ninth through twelfth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy that eventually reaches earth in the form of radiation;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for ninth through twelfth grades are that students will:"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe;"}
+        },
+        {
+            "competencyText": {"en-us": "communicate scientific ideas about the way stars, over their life cycle, produce elements;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical or computational representations to predict the motion of orbiting objects in the solar system;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate tectonics to explain the ages of crustal rocks;"}
+        },
+        {
+            "competencyText": {"en-us": "construct and revise an explanation for outcomes of simple chemical reactions based on outer electron states of atoms, trends in the periodic table, and patterns of chemical properties;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to illustrate the organizational structure of interacting systems that provide specific functions within multicellular organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis;"}
+        },
+        {
+            "competencyText": {"en-us": "use a model to illustrate how photosynthesis transforms light energy into stored chemical energy;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence from multiple sources for how carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur may combine with other elements to form organic macromolecules with different structures and functions;"}
+        },
+        {
+            "competencyText": {"en-us": "Grade 1"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct investigations to provide evidence that vibrating materials can make sound and that sound can cause materials to vibrate;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "make observations to construct an evidence-based explanation that objects can be seen only when illuminated;"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to determine the effect of placing objects made with different materials in the path of a beam of light; and"}
+        },
+        {
+            "competencyText": {"en-us": "design a solution or build a device that facilitates communication over distance using light or sound."}
+        },
+        {
+            "competencyText": {"en-us": "use materials to design a solution to a human problem by mimicking plant and animal structures and functions that help them survive, grow, and meet their needs;"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "use information from print and other media to identify patterns in behavior of parents and offspring that help offspring survive; and"}
+        },
+        {
+            "competencyText": {"en-us": "make an evidence-based explanation of how young plants and animals are like, but not exactly like, their parents."}
+        },
+        {
+            "competencyText": {"en-us": "use observations of the sun, moon, and stars to describe patterns that can be predicted; and"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for first grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "make observations at different times of year to relate the amount of daylight to the time of year."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 2"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to describe and classify various materials by their observable properties;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "conduct an investigation and analyze data to determine which materials have the properties best suited for an intended purpose;"}
+        },
+        {
+            "competencyText": {"en-us": "make observations to construct an evidence-based claim of how an object made of a small set of pieces can be disassembled and made into a new object; and"}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot."}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct a cause and effect investigation to determine whether plants need sunlight and water to grow;"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "develop a simple model that mimics the structure and function of an animal in dispersing seeds or pollinating plants; and"}
+        },
+        {
+            "competencyText": {"en-us": "make observations of plants and animals to compare and contrast the diversity of life in different habitats."}
+        },
+        {
+            "competencyText": {"en-us": "use information from several sources to provide evidence that earth events can occur quickly or slowly;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for second grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "construct explanations to compare multiple physical and naturally built designs which impact wind's or water's effect on the shape of the land;"}
+        },
+        {
+            "competencyText": {"en-us": "develop models to represent the shapes and kinds of land and bodies of water in an area; and"}
+        },
+        {
+            "competencyText": {"en-us": "obtain information to identify where water is found on earth and that water can be solid, liquid, or gas."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 3"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "observe and record qualitative and quantitative data about an object's motion to provide evidence that a pattern can be used to predict future motion;"}
+        },
+        {
+            "competencyText": {"en-us": "ask questions to determine cause and effect relationships of electric or magnetic interactions between two objects not in contact with each other; and"}
+        },
+        {
+            "competencyText": {"en-us": "define a simple design problem that can be solved by applying scientific ideas about magnets."}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well, and some cannot survive at all;"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "make a claim about the effectiveness of a solution to a problem caused when the environment changes and that the types of plants and animals that live there may change;"}
+        },
+        {
+            "competencyText": {"en-us": "construct a cause and effect argument communicating some animals, including humans, form groups and communities that help members survive;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data from fossils to provide evidence of the organisms and the environments in which they lived long ago;"}
+        },
+        {
+            "competencyText": {"en-us": "develop models to describe that organisms have unique and diverse life cycles but all have in common birth, growth, reproduction, and death;"}
+        },
+        {
+            "competencyText": {"en-us": "obtain and represent data using tables and graphical displays to describe observed and predicted weather conditions during a particular season;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for third grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "obtain and combine information to describe climate patterns in different regions of the world; and"}
+        },
+        {
+            "competencyText": {"en-us": "make a claim based on information about the merit of a design solution that reduces the impacts of a weather-related hazard."}
+        },
+        {
+            "competencyText": {"en-us": "use evidence to support the explanation that traits can be influenced by the environment; and"}
+        },
+        {
+            "competencyText": {"en-us": "use evidence to construct an explanation for how the variations in characteristics among individuals of the same species may provide advantages in surviving, finding mates, and reproducing."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 4"}
+        },
+        {
+            "competencyText": {"en-us": "use evidence to describe the relationship between the speed of an object and the energy of that object;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "make observations to provide evidence of transfer of energy from place to place by sound, light, heat, and electric currents;"}
+        },
+        {
+            "competencyText": {"en-us": "ask questions and predict outcomes about the changes in energy that occur when objects collide;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific ideas to design, test, and refine a device that converts energy from one form to another;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model of waves to describe patterns in terms of amplitude and wavelength and that waves can cause objects to move;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction; and"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "use a model to describe that animals receive different types of information through their senses, process the information in their brain, and respond to the information in different ways."}
+        },
+        {
+            "competencyText": {"en-us": "develop a model communicating that light reflected from objects into the eye allows objects to be seen; and"}
+        },
+        {
+            "competencyText": {"en-us": "generate and compare multiple solutions that use patterns to transfer information."}
+        },
+        {
+            "competencyText": {"en-us": "obtain and combine information from a variety of sources to communicate that energy and fuels are derived from natural resources and their uses affect the environment;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for fourth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time;"}
+        },
+        {
+            "competencyText": {"en-us": "make observations or measurements to provide evidence of the effects of weathering or the rate of erosion by water, ice, wind, or vegetation;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data from maps as evidence to make a claim about patterns of earth's features; and"}
+        },
+        {
+            "competencyText": {"en-us": "generate and compare multiple solutions to reduce the impacts of natural earth processes on humans."}
+        },
+        {
+            "competencyText": {"en-us": "Grade 5"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to communicate that matter is made of particles too small to be seen;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "measure and graph quantities to provide evidence that the total mass of matter is conserved regardless of the type of change that occurs when heating, cooling, or mixing substances;"}
+        },
+        {
+            "competencyText": {"en-us": "observe and record qualitative and quantitative evidence to support identification of materials based on their properties;"}
+        },
+        {
+            "competencyText": {"en-us": "conduct an investigation that produces quantitative and qualitative data to analyze whether the mixing of two or more substances results in new substances;"}
+        },
+        {
+            "competencyText": {"en-us": "use models to describe that energy in animals' food was once energy from the sun; and"}
+        },
+        {
+            "competencyText": {"en-us": "support an argument that plants get the materials they need for growth chiefly from air and water; and"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "develop and critique a model to describe the movement of matter among plants, animals, decomposers, and the environment."}
+        },
+        {
+            "competencyText": {"en-us": "support an argument that the gravitational force exerted by earth on objects is directed toward the center of the earth."}
+        },
+        {
+            "competencyText": {"en-us": "develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, or atmosphere interact;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for fifth grade are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "graph and explain the proportion and quantities of water and fresh water in various natural and human-made reservoirs to provide evidence about the distribution of water on earth;"}
+        },
+        {
+            "competencyText": {"en-us": "obtain and combine information from various sources about ways individual communities use science ideas to protect the earth's resources, environment, and systems and describe examples of how American Indians use scientific knowledge and practices to maintain relationships with the natural world;"}
+        },
+        {
+            "competencyText": {"en-us": "use evidence or models to support the claim that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from earth; and"}
+        },
+        {
+            "competencyText": {"en-us": "graph the daily changes in the length, shape, and direction of shadows; lengths of day and night; and the seasonal appearance of select stars to communicate the patterns of the earth's movement and describe how astronomical knowledge is used by American Indians."}
+        },
+        {
+            "competencyText": {"en-us": "Grades 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "develop and critique models that describe the atomic composition of simple molecules and extended structures;"}
+        },
+        {
+            "competencyText": {"en-us": "Physical science content standards for sixth through eighth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred;"}
+        },
+        {
+            "competencyText": {"en-us": "gather information to describe that synthetic materials come from natural resources and impact society;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed;"}
+        },
+        {
+            "competencyText": {"en-us": "develop, use, and critique a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved;"}
+        },
+        {
+            "competencyText": {"en-us": "conduct an investigation to provide evidence that living things are made of cells, either one cell or many different numbers and types of cells;"}
+        },
+        {
+            "competencyText": {"en-us": "Life science content standards for sixth through eighth grades are that each student will:"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe the structure and function of a cell as a whole and ways parts of cells contribute to the function;"}
+        },
+        {
+            "competencyText": {"en-us": "use argument supported by evidence for how the body is a system of interacting subsystems composed of groups of cells;"}
+        },
+        {
+            "competencyText": {"en-us": "construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and flow of energy into and out of organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth, release energy, or both, as this matter moves through an organism;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model of the earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons;"}
+        },
+        {
+            "competencyText": {"en-us": "Earth and space science content standards for sixth through eighth grades are that students will:"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe the role of gravity in the motions within galaxies and the solar system;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data to determine scale properties of objects in the solar system;"}
+        },
+        {
+            "competencyText": {"en-us": "construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize earth's 4.6 billion-year-old history;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence for how geoscience processes have changed earth's surface at varying time scales and spatial scales;"}
+        },
+        {
+            "competencyText": {"en-us": "undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes;"}
+        },
+        {
+            "competencyText": {"en-us": "apply Newton's Third Law of Motion to design a solution to a problem involving the motion of two colliding objects;"}
+        },
+        {
+            "competencyText": {"en-us": "plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object;"}
+        },
+        {
+            "competencyText": {"en-us": "ask questions about data to determine the factors affecting electric and magnetic force strengths;"}
+        },
+        {
+            "competencyText": {"en-us": "construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the mass of interacting objects;"}
+        },
+        {
+            "competencyText": {"en-us": "design and conduct an investigation to provide evidence that fields exist between objects exerting forces on each other even though the objects are not in contact;"}
+        },
+        {
+            "competencyText": {"en-us": "construct and interpret graphic displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and critique models to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific principles to design, construct, and test a device that minimizes or maximizes thermal energy transfer;"}
+        },
+        {
+            "competencyText": {"en-us": "plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the particles as measured by the temperature of the sample;"}
+        },
+        {
+            "competencyText": {"en-us": "construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to describe a simple model for waves that includes how the amplitude and wavelength of a wave is related to the energy in a wave; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials."}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem and analyze scientific concepts used by American Indians to maintain healthy relationships with environmental sources;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate competing design solutions for maintaining biodiversity and ecosystem services;"}
+        },
+        {
+            "competencyText": {"en-us": "use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction of animals and plants respectively;"}
+        },
+        {
+            "competencyText": {"en-us": "construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth and development of organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe why structural changes to genes, such as mutations, may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation;"}
+        },
+        {
+            "competencyText": {"en-us": "gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on earth under the assumption that natural laws operate today as in the past;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment; and"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time."}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to provide evidence of the past plate motions;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to describe the cycling of earth's materials and the flow of energy that drives this process;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to describe the cycling of water through earth's systems driven by energy from the sun and the force of gravity;"}
+        },
+        {
+            "competencyText": {"en-us": "construct a scientific explanation based on evidence for how the uneven distributions of earth's mineral, energy, and groundwater resources are the result of past and current geoscience processes;"}
+        },
+        {
+            "competencyText": {"en-us": "collect data to provide evidence for how the motions and complex interactions of air masses result in changes in weather conditions;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model to describe how unequal heating and rotation of the earth cause patterns of atmospheric and oceanic circulation that determine regional climates;"}
+        },
+        {
+            "competencyText": {"en-us": "ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific principles to design a method for monitoring and minimizing a human impact on the environment; and"}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact earth's systems including indigenous populations."}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to illustrate that the release or absorption of energy from chemical reactions is dependent upon changes in total bond energy;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific principles and evidence to provide an explanation about the effects of changing the temperature or concentration of the reacting particles on the rate at which a reaction occurs;"}
+        },
+        {
+            "competencyText": {"en-us": "refine the design of a chemical system by specifying changes in conditions that would alter the amount of products at equilibrium;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze data to support the claim that Newton's Second Law of Motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to demonstrate how total momentum of a system is conserved when there is no net force on the system;"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes forces on an object during collisions;"}
+        },
+        {
+            "competencyText": {"en-us": "use a mathematical representation of Newton's Law of Gravitation and Coulomb's Law to explain gravitational and electrostatic forces between objects;"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct investigations to provide evidence that electric currents can produce magnetic fields and changing magnetic fields can produce electric currents;"}
+        },
+        {
+            "competencyText": {"en-us": "create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component and energy flows in and out of the system are known;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles and energy associated with the relative position of particles;"}
+        },
+        {
+            "competencyText": {"en-us": "design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy;"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system;"}
+        },
+        {
+            "competencyText": {"en-us": "develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the change in energy of the objects due to the interaction;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to support a claim regarding relationships among the frequency, amplitude, wavelength, and speed of waves traveling in various media;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter; and"}
+        },
+        {
+            "competencyText": {"en-us": "*communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.*"}
+        },
+        {
+            "competencyText": {"en-us": "use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy;"}
+        },
+        {
+            "competencyText": {"en-us": "construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical representations to support claims for the cycling of matter and flow of energy among organisms in an ecosystem;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical or computational representations to support arguments about environmental factors that affect carrying capacity, biodiversity, and populations in ecosystems;"}
+        },
+        {
+            "competencyText": {"en-us": "*evaluate the evidence supporting claims that changes in environmental conditions may result in:*\r\n\r\n<ol type=\"i\">\r\n<li>changes in the number of individuals of some species;<\/li>\r\n<li>the emergence of new species over time; and<\/li>\r\n<li>the extinction of other species; and<\/li>\r\n<\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem;"}
+        },
+        {
+            "competencyText": {"en-us": "design, evaluate, and refine a solution for reducing the direct and indirect impacts of human activities on the environment and biodiversity and analyze scientific concepts used by American Indians to maintain healthy relationships with environmental resources;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation using evidence from multiple sources to describe the role of cellular division and differentiation in producing and maintaining complex organisms;"}
+        },
+        {
+            "competencyText": {"en-us": "make and defend a claim based on evidence from multiple sources that inheritable genetic variations may result from:\r\n\r\n<ol type=\"i\">\r\n<li>new genetic combinations through meiosis;<\/li>\r\n<li>viable errors occurring during replication; or<\/li>\r\n<li>mutations caused by environmental factors;<\/li>\r\n<\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate and communicate scientific information about how common ancestry and biological evolution are supported by multiple lines of empirical evidence;"}
+        },
+        {
+            "competencyText": {"en-us": "*construct an explanation based on evidence for how natural selection leads to adaptation of populations over time;*"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence that the process of evolution by natural selection primarily results from four factors:\r\n\r\n<ol type=\"i\">\r\n<li>the potential for a species to increase in number;<\/li>\r\n<li>the heritable genetic variation of individuals in a species due to mutation and sexual reproduction;<\/li>\r\n<li>competition for limited resources; and<\/li>\r\n<li>the proliferation of those organisms that are better able to survive and reproduce in the environment;<\/li>\r\n<\/ol>"}
+        },
+        {
+            "competencyText": {"en-us": "*apply concepts of statistics and probability to support explanations that organisms with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait;*"}
+        },
+        {
+            "competencyText": {"en-us": "*investigate and explain American Indian perspectives on changes in environmental conditions and their impacts.*"}
+        },
+        {
+            "competencyText": {"en-us": "apply scientific reasoning and evidence from ancient earth materials, meteorites, and other planetary surfaces to construct an account of earth's formation and early history;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model to illustrate how earth's internal and surface processes operate at different spatial and time scales to form continental and ocean-floor features;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze geoscience data to make the claim that one change to earth's surface can create feedbacks that cause changes to other earth systems;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a model based on evidence of earth's interior to describe the cycling of matter by thermal convection;"}
+        },
+        {
+            "competencyText": {"en-us": "plan and conduct an investigation of the properties of water and its effects on earth materials and surface processes;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an argument based on evidence about the simultaneous coevolution of earth's systems and life on earth;"}
+        },
+        {
+            "competencyText": {"en-us": "use a model to describe how variations in the flow of energy into and out of earth's systems result in changes in climate;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to earth systems;"}
+        },
+        {
+            "competencyText": {"en-us": "construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios;"}
+        },
+        {
+            "competencyText": {"en-us": "create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, biodiversity, and investigate and explain how some American Indian tribes use scientific knowledge and practices in managing natural resources; and"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate or refine a technological solution that reduces impacts of human activities on natural systems."}
+        }
+    ]
+}

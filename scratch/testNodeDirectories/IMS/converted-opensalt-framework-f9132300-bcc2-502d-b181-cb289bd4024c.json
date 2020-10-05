@@ -1,0 +1,1183 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://teks-api.texasgateway.org/ims/case/v1p0/CFDocuments/f9132300-bcc2-502d-b181-cb289bd4024c",
+        "name": {"en-us": "Chapter 127. Career Development"},
+        "description": {"en-us": "Chapter 127. Career Development"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Subchapter A. Middle School"}
+        },
+        {
+            "competencyText": {"en-us": "Investigating Careers, Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.2 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 7 and 8."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "The goal of this course is to create a foundation for success in high school, future studies, and careers such as Science, Technology, Engineering, and Mathematics; Business and Industry; Public Service; Arts and Humanities; and Multidisciplinary Studies. The students research labor market information, learn job-seeking skills, and create documents required for employment."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student investigates one or more careers within the 16 career clusters. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the various career opportunities within one or more career clusters; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the pathways within one or more career clusters."}
+        },
+        {
+            "competencyText": {"en-us": "The student investigates career pathways in one or more of the 16 career clusters. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research the academic requirements for one or more of the careers in an identified cluster;"}
+        },
+        {
+            "competencyText": {"en-us": "research the certification or educational requirements for careers; and"}
+        },
+        {
+            "competencyText": {"en-us": "describe the technical-skill requirements for careers."}
+        },
+        {
+            "competencyText": {"en-us": "The student investigates the professional skills needed for college and career success. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply core academic skills to meet personal, academic, and career goals;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the importance of co-curricular, extracurricular, career preparation, and extended learning experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "investigate the steps required to participate in a variety of career and educational opportunities, including, but not limited to, entry-level employment, military service, apprenticeships, community and technical colleges, and universities;"}
+        },
+        {
+            "competencyText": {"en-us": "identify professional associations affiliated with a career pathway;"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the value of community service and volunteerism; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate characteristics required for personal and professional success such as work ethics, integrity, dedication, perseverance, and interacting with diverse populations."}
+        },
+        {
+            "competencyText": {"en-us": "The student investigates labor market information. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze national, state, regional, and local labor market information;"}
+        },
+        {
+            "competencyText": {"en-us": "classify evidence of high-skill, high-wage, or high-demand occupations based on analysis of labor market information; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the effects of changing employment trends, societal needs, and economic conditions on career planning."}
+        },
+        {
+            "competencyText": {"en-us": "The student investigates job-seeking skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the steps for an effective job search;"}
+        },
+        {
+            "competencyText": {"en-us": "describe appropriate appearance for an interview; and"}
+        },
+        {
+            "competencyText": {"en-us": "participate in a mock interview."}
+        },
+        {
+            "competencyText": {"en-us": "The student creates professional documents required for employment. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "develop a resume;"}
+        },
+        {
+            "competencyText": {"en-us": "write appropriate business correspondence such as a letter of intent and a thank you letter;"}
+        },
+        {
+            "competencyText": {"en-us": "complete sample job applications; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain protocol for selecting and using references."}
+        },
+        {
+            "competencyText": {"en-us": "College and Career Readiness, Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.3 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 7 and 8."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "The career development process is unique to every person and evolves throughout one's life. Students will use decision-making and problem-solving skills for college and career planning. Students will explore valid, reliable educational and career information to learn more about themselves and their interests and abilities. Students integrate skills from academic subjects, information technology, and interpersonal communication to make informed decisions. This course is designed to guide students through the process of investigation and in the development of a college and career readiness achievement plan. Students will use interest inventory software or other tools available to explore college and career areas of personal interest. Students will use this information to explore educational requirements for various colleges and a variety of chosen career paths."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student explores career assessments as related to college and career planning. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and discuss the initial results of career assessments;"}
+        },
+        {
+            "competencyText": {"en-us": "explore the 16 career clusters;"}
+        },
+        {
+            "competencyText": {"en-us": "research trending fields related to career interest areas;"}
+        },
+        {
+            "competencyText": {"en-us": "determine academic requirements in related career fields; and"}
+        },
+        {
+            "competencyText": {"en-us": "research educational options and requirements using available resources."}
+        },
+        {
+            "competencyText": {"en-us": "The student analyzes college and career opportunities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "determine academic requirements for transitioning to high school;"}
+        },
+        {
+            "competencyText": {"en-us": "explore opportunities for earning college credit in high school such as advanced placement courses, International Baccalaureate courses, dual credit, and local and statewide articulated credit;"}
+        },
+        {
+            "competencyText": {"en-us": "develop an awareness of financial aid, scholarships, and other sources of income as well as college savings to support college and career advancement;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the impact of effective college and career planning;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate decision-making skills related to school and community issues, programs of study, and college and career planning; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify how performance on assessments such as the PSAT/NMSQT®, SAT®, ACT®, ASVAB®, and Texas Success Initiative (TSI®) impact personal academic and career goals."}
+        },
+        {
+            "competencyText": {"en-us": "The student evaluates skills for personal success. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use interpersonal skills to facilitate effective teamwork;"}
+        },
+        {
+            "competencyText": {"en-us": "use problem-solving models and critical-thinking skills to make informed decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "use effective time-management and goal-setting strategies;"}
+        },
+        {
+            "competencyText": {"en-us": "identify skills that can be transferable among a variety of careers;"}
+        },
+        {
+            "competencyText": {"en-us": "create a personal career portfolio;"}
+        },
+        {
+            "competencyText": {"en-us": "make oral presentations that fulfill specific purposes using appropriate technology; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify entrepreneurial opportunities within a field of personal interest."}
+        },
+        {
+            "competencyText": {"en-us": "The student recognizes the impact of college and career choices on personal lifestyle. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "prepare a personal budget reflecting the student's desired lifestyle; and"}
+        },
+        {
+            "competencyText": {"en-us": "use resources to compare and contrast salaries of at least three careers in the student's interest area."}
+        },
+        {
+            "competencyText": {"en-us": "The student demonstrates an understanding of financial management. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "compare the advantages and disadvantages of different types of money management services;"}
+        },
+        {
+            "competencyText": {"en-us": "simulate opening and maintaining different types of financial accounts;"}
+        },
+        {
+            "competencyText": {"en-us": "simulate different methods of withdrawals and deposits;"}
+        },
+        {
+            "competencyText": {"en-us": "reconcile financial statements, including fees and services;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast forms of credit, including credit cards and debit cards;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the importance of credit scores;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss the impact of identity theft on credit; and"}
+        },
+        {
+            "competencyText": {"en-us": "examine the effects of poor credit scores as they relate to personal finance and career opportunities."}
+        },
+        {
+            "competencyText": {"en-us": "The student develops skills for professional success. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective verbal, nonverbal, written, and electronic communication skills;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the impact of positive and negative personal choices, including use of electronic communications such as social networking sites;"}
+        },
+        {
+            "competencyText": {"en-us": "model characteristics of effective leadership, teamwork, and conflict management;"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the importance of a healthy lifestyle, including the ability to manage stress; and"}
+        },
+        {
+            "competencyText": {"en-us": "explore characteristics necessary for professional success such as work ethics, integrity, dedication, perseverance, and interactions with diverse populations."}
+        },
+        {
+            "competencyText": {"en-us": "Subchapter B. High School"}
+        },
+        {
+            "competencyText": {"en-us": "Project-Based Research (One Credit), Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.12 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 11 and 12. Students shall be awarded one credit for successful completion of this course. Students may repeat this course with different course content for up to three credits."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "Project-Based Research is a course for students to research a real-world problem. Students are matched with a mentor from the business or professional community to develop an original project on a topic related to career interests. Students use scientific methods of investigation to conduct in-depth research, compile findings, and present their findings to an audience that includes experts in the field. To attain academic success, students must have opportunities to learn, reinforce, apply, and transfer their knowledge and skills in a variety of settings."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies mathematics, science, English language arts, and social studies in an independent study. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "select an original independent study project for personal enrichment and career development;"}
+        },
+        {
+            "competencyText": {"en-us": "use reading and research skills to investigate self-selected topics and compile a research portfolio;"}
+        },
+        {
+            "competencyText": {"en-us": "collaborate with an interdisciplinary team to develop a project;"}
+        },
+        {
+            "competencyText": {"en-us": "identify community, state, national, or international issues to select a project;"}
+        },
+        {
+            "competencyText": {"en-us": "conduct a project under the supervision of a mentor;"}
+        },
+        {
+            "competencyText": {"en-us": "use scientific methods of investigation;"}
+        },
+        {
+            "competencyText": {"en-us": "apply statistical concepts to analyze data, evaluate results, and draw conclusions;"}
+        },
+        {
+            "competencyText": {"en-us": "compare and contrast findings in a coherent and organized manner; and"}
+        },
+        {
+            "competencyText": {"en-us": "present the independent research project to an appropriate audience of experts in the field using a variety of technologies."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses verbal and nonverbal communication skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "listen actively and effectively in group discussions;"}
+        },
+        {
+            "competencyText": {"en-us": "use a variety of resources to access, process, and collect data relevant to the project; and"}
+        },
+        {
+            "competencyText": {"en-us": "document the time and cost to accomplish the project goal."}
+        },
+        {
+            "competencyText": {"en-us": "The student demonstrates professional ethical behavior standards and legal responsibilities. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze ethical challenges determined by factors such as cost, new and emerging technologies, and allocation of limited resources; and"}
+        },
+        {
+            "competencyText": {"en-us": "review legal issues related to the research project."}
+        },
+        {
+            "competencyText": {"en-us": "The student designs and develops a research project related to their career interests. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify processes to be used in the independent research project; and"}
+        },
+        {
+            "competencyText": {"en-us": "use resources to complete a project."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses technology needed to complete a research project. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use search engines, databases, and other digital electronic tools effectively to locate information;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate quality, accuracy, completeness, reliability, and currency of information from any source;"}
+        },
+        {
+            "competencyText": {"en-us": "prepare, organize, and present independent research and mentor experiences;"}
+        },
+        {
+            "competencyText": {"en-us": "receive constructive criticism and revise personal views when valid evidence warrants; and"}
+        },
+        {
+            "competencyText": {"en-us": "prepare and present research information in appropriate formats to a panel of experts in the field."}
+        },
+        {
+            "competencyText": {"en-us": "The student evaluates the research project. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "create weekly progress reports that address time management and goal setting;"}
+        },
+        {
+            "competencyText": {"en-us": "meet periodically with the teacher for conferences about progress, concerns, successes, and needs;"}
+        },
+        {
+            "competencyText": {"en-us": "conduct self-evaluations of presentations;"}
+        },
+        {
+            "competencyText": {"en-us": "compose written reflections regarding strengths and weaknesses as well as areas of growth;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the feedback from the panel of experts; and"}
+        },
+        {
+            "competencyText": {"en-us": "submit project results and analysis to mentors and experts."}
+        },
+        {
+            "competencyText": {"en-us": "Applied Mathematics for Technical Professionals (One Credit), Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.13 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 11 and 12. Recommended prerequisites: Algebra I and Geometry. This course satisfies a high school mathematics graduation requirement. Students shall be awarded one credit for successful completion of this course."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "The process standards describe ways in which students are expected to engage in the content. The placement of the process standards at the beginning of the knowledge and skills listed for each grade and course is intentional. The process standards weave the other knowledge and skills together so that students may be successful problem solvers and use mathematics efficiently and effectively in daily life. The process standards are integrated at every grade level and course. When possible, students will apply mathematics to problems arising in everyday life, society, and the workplace. Students will use a problem-solving model that incorporates analyzing given information, formulating a plan or strategy, determining a solution, justifying the solution, and evaluating the problem-solving process and the reasonableness of the solution. Students will select appropriate tools such as real objects, manipulatives, paper and pencil, and technology and techniques such as mental math, estimation, and number sense to solve problems. Students will effectively communicate mathematical ideas, reasoning, and their implications using multiple representations such as symbols, diagrams, graphs, and language. Students will use mathematical relationships to generate solutions and make connections and predictions. Students will analyze mathematical relationships to connect and communicate mathematical ideas. Students will display, explain, or justify mathematical ideas and arguments using precise mathematical language in written or oral communication."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "Applied Mathematics for Technical Professionals uses problem-solving situations, hands-on activities, and technology to extend mathematical thinking and engage student reasoning. Situations relating to technical applications provide students opportunities to make connections with mathematics and the workplace. In addition, students will learn the skills necessary to communicate using mathematics. Hands-on activities will allow students to model, explore, and develop abstract concepts applicable to technical careers. (Essential to this course is the partnership between mathematics and technical teachers.)"}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses mathematical processes to acquire and demonstrate mathematical understanding. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply mathematics to problems arising in everyday life, society, and the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "use a problem-solving model that incorporates analyzing given information, formulating a plan or strategy, determining a solution, justifying the solution, and evaluating the problem-solving process and the reasonableness of the solution;"}
+        },
+        {
+            "competencyText": {"en-us": "select tools, including real objects, manipulatives, paper and pencil, and technology as appropriate, and techniques, including mental math, estimation, and number sense as appropriate, to solve problems;"}
+        },
+        {
+            "competencyText": {"en-us": "communicate mathematical ideas, reasoning, and their implications using multiple representations, including symbols, diagrams, graphs, and language as appropriate;"}
+        },
+        {
+            "competencyText": {"en-us": "create and use representations to organize, record, and communicate mathematical ideas;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze mathematical relationships to connect and communicate mathematical ideas; and"}
+        },
+        {
+            "competencyText": {"en-us": "display, explain, and justify mathematical ideas and arguments using precise mathematical language in written or oral communication."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses mathematical concepts of algebra to explain linear and non-linear applications in business and industry situations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "calculate rise and run such as the rise and run of stair stringers or roof pitch;"}
+        },
+        {
+            "competencyText": {"en-us": "distinguish the purpose and difference of a linear and non-linear increase and decrease of a variable with time such as cost or profit;"}
+        },
+        {
+            "competencyText": {"en-us": "write systems of equations and inequalities from real-life situations that compare \"best deal opportunities\" with profit and expenses in businesses;"}
+        },
+        {
+            "competencyText": {"en-us": "use linear programing to maximize or minimize linear objective function in real-life situations and determine the reasonableness of solutions;"}
+        },
+        {
+            "competencyText": {"en-us": "express numbers as powers of 10 in business and industry settings;"}
+        },
+        {
+            "competencyText": {"en-us": "determine the powers and roots of numbers;"}
+        },
+        {
+            "competencyText": {"en-us": "apply compound interest formulas related to operating a business; and"}
+        },
+        {
+            "competencyText": {"en-us": "use exponential decay models to determine the depreciation on equipment used in business and industry and explain the meaning of models."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies geometric concepts to real-world problems in technical situations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify various geometric figures in order to identify what formulas are needed to solve situational problems;"}
+        },
+        {
+            "competencyText": {"en-us": "compute measurements such as area, surface area, volume, perimeter, and circumference in order to prepare engineering drawings for projects;"}
+        },
+        {
+            "competencyText": {"en-us": "use trigonometric functions such as sine, cosine, tangent, cotangent, cosecant, and secant to calculate angles and length of sides;"}
+        },
+        {
+            "competencyText": {"en-us": "apply Heron's formula for finding areas of triangles when the height is not known;"}
+        },
+        {
+            "competencyText": {"en-us": "determine how changing dimensions will affect the perimeter, area, surface area, or volume in a project;"}
+        },
+        {
+            "competencyText": {"en-us": "determine how angles will affect structural strength and stability;"}
+        },
+        {
+            "competencyText": {"en-us": "apply right triangle relationships using the Pythagorean Theorem, special right triangles, and trigonometry for roof construction, building the frame of a car, or calculating machined parts;"}
+        },
+        {
+            "competencyText": {"en-us": "determine the materials needed for a job or project by finding missing parts of a circle;"}
+        },
+        {
+            "competencyText": {"en-us": "draw orthographic and isometric views and use them to produce engineering drawings;"}
+        },
+        {
+            "competencyText": {"en-us": "use cross-sections, including conic sections, of three-dimensional figures to relate to plane figures in specific detail on an engineered drawing; and"}
+        },
+        {
+            "competencyText": {"en-us": "explain and use auxiliary views, revolutions, intersections, and engineered drawings."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies measurement to all aspects of business and industry occupations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use dimensional analysis to select an appropriate tool to make measurements;"}
+        },
+        {
+            "competencyText": {"en-us": "apply accurate readings of both U.S. customary and metric measuring devices to a problem situation;"}
+        },
+        {
+            "competencyText": {"en-us": "square, measure, and cut materials to specified dimensions;"}
+        },
+        {
+            "competencyText": {"en-us": "draw segments to scale using an accurate scale and measure segments that are drawn to scales;"}
+        },
+        {
+            "competencyText": {"en-us": "convert temperature values between Celsius and Fahrenheit in situations involving thermodynamics; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine length, distance, area, surface area, volume, and weight with appropriate unit labels."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses mathematical processes with graphical and numerical techniques to study patterns and analyze data related to finance. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "use rates and linear functions to solve problems involving finance and budgeting, including compensations and deductions;"}
+        },
+        {
+            "competencyText": {"en-us": "solve problems related to local, state, and federal taxes;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze data to make decisions about banking and finance;"}
+        },
+        {
+            "competencyText": {"en-us": "use mathematical processes with algebraic formulas, numerical techniques, and graphs to solve problems related to job cost analysis;"}
+        },
+        {
+            "competencyText": {"en-us": "identify what parameters to change such as cost of materials, cost of labor, and work time required to improve the overall cost of a project; and"}
+        },
+        {
+            "competencyText": {"en-us": "identify the most reasonable mathematical solution using estimation."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies mathematical processes to design a study and use graphical, numerical, and analytical techniques to communicate the results. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "interpret and present situations in terms of given graphs and that fit graphics;"}
+        },
+        {
+            "competencyText": {"en-us": "apply Ohm's Law and Kirchhoff's laws to troubleshoot electrical circuits;"}
+        },
+        {
+            "competencyText": {"en-us": "collect and organize data; make and interpret scatterplots; and model, predict, and make decisions and critical judgments; and"}
+        },
+        {
+            "competencyText": {"en-us": "prepare technical reports and presentations with visual media or models, including tables, graphs, and verbal descriptions."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies mathematical principles of manufacturing processes. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify the line types used on engineering drawings;"}
+        },
+        {
+            "competencyText": {"en-us": "identify selected symbols commonly used on engineering drawings;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the components of engineering drawings;"}
+        },
+        {
+            "competencyText": {"en-us": "read, interpret, and create engineering drawings; and"}
+        },
+        {
+            "competencyText": {"en-us": "use proper nomenclature when identifying engineering or manufacturing processes."}
+        },
+        {
+            "competencyText": {"en-us": "Career Preparation II (Two Credits), Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.15 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grade 12. Prerequisite: Career Preparation I. Students shall be awarded two credits for successful completion of this course."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "Career Preparation II develops essential knowledge and skills through advanced classroom instruction with business and industry employment experiences. Career Preparation II maintains relevance and rigor, supports student attainment of academic standards, and effectively prepares students for college and career success."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student uses and evaluates employability skills to improve marketability within the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "refine a professional electronic portfolio such as a two- to four-year individual career plan of study, resume, cover letter, awards, commendations, and thank you letters;"}
+        },
+        {
+            "competencyText": {"en-us": "obtain letters of recommendation;"}
+        },
+        {
+            "competencyText": {"en-us": "expand personal communication skills; and"}
+        },
+        {
+            "competencyText": {"en-us": "refine interview skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student demonstrates professional employability skills as required by business and industry. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "maintain appropriate grooming and appearance for the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate positive interpersonal skills, including respect for diversity;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate appropriate business and personal etiquette in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "exhibit productive work habits, attitudes, and ethical practices;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate consequences for breach of personal and occupational safety practices in the workplace; and"}
+        },
+        {
+            "competencyText": {"en-us": "prioritize work to fulfill responsibilities and meet deadlines."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies work ethics, job expectations, multicultural considerations, and communication skills in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate personal integrity and its effects on human relations in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate characteristics of successful working relationships such as teamwork, conflict resolution, self-control, and the ability to accept criticism;"}
+        },
+        {
+            "competencyText": {"en-us": "recognize and appreciate diversity in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze employer expectations;"}
+        },
+        {
+            "competencyText": {"en-us": "exhibit productive work habits and attitudes;"}
+        },
+        {
+            "competencyText": {"en-us": "communicate effectively to a variety of audiences;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze ethical standards; and"}
+        },
+        {
+            "competencyText": {"en-us": "comply with organizational policies and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies and enhances academic knowledge and skills in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply critical- and creative-thinking skills to solve complex problems;"}
+        },
+        {
+            "competencyText": {"en-us": "integrate mathematical concepts into business transactions;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze and apply data from tables, charts, and graphs to find solutions to problems;"}
+        },
+        {
+            "competencyText": {"en-us": "apply effective listening skills used in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "read and write technical reports and summaries; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply effective verbal, nonverbal, written, and electronic communication skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student recognizes legal responsibilities of the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate provisions of the Fair Labor Standards Act;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the legal consequences of \"breach of confidentiality\"; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and describe laws governing the different professions."}
+        },
+        {
+            "competencyText": {"en-us": "The student recognizes the dangers of identity theft. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify various methods criminals use to obtain information; and"}
+        },
+        {
+            "competencyText": {"en-us": "research how to avoid becoming a victim."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies the use of interpersonal skills to improve personal development. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate effective interpersonal and team-building skills involving situations with coworkers, managers, and customers; and"}
+        },
+        {
+            "competencyText": {"en-us": "participate in leadership and career-development activities."}
+        },
+        {
+            "competencyText": {"en-us": "The student recognizes knowledge and skills related to safety in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply safe working practices to a training station;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate unsafe work practices and attitudes;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the impact of Occupational Safety and Health Administration regulations in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "recognize the importance of applying safety rules in all situations; and"}
+        },
+        {
+            "competencyText": {"en-us": "analyze health and wellness practices that influence job performance."}
+        },
+        {
+            "competencyText": {"en-us": "The student acquires the academic and technical skills for future education and employment in high-skill, high-wage, or high-demand occupations. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research and identify current or emerging occupations;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze future employment outlook;"}
+        },
+        {
+            "competencyText": {"en-us": "research entrepreneurial opportunities;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze rewards and demands for various levels of employment;"}
+        },
+        {
+            "competencyText": {"en-us": "identify the academic and technical entry requirements for employment in various high-skill, high-wage, or high-demand occupations;"}
+        },
+        {
+            "competencyText": {"en-us": "identify and pursue opportunities available in high school and postsecondary to acquire the necessary academic and technical skills for employment in high-skill, high-wage, or high-demand occupations;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the rights and responsibilities of employers and employees; and"}
+        },
+        {
+            "competencyText": {"en-us": "apply money-management and financial-planning techniques."}
+        },
+        {
+            "competencyText": {"en-us": "The student identifies skills and characteristics necessary for professional advancement. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate and compare employment advancement options such as salaries, benefits, and prerequisites;"}
+        },
+        {
+            "competencyText": {"en-us": "compare rewards and demands for various levels of employment in a variety of careers;"}
+        },
+        {
+            "competencyText": {"en-us": "determine continuing education opportunities that enhance career advancement and promote lifelong learning;"}
+        },
+        {
+            "competencyText": {"en-us": "determine preparation requirements for levels of employment in a variety of careers;"}
+        },
+        {
+            "competencyText": {"en-us": "determine personal priorities such as interests, abilities, and family responsibilities affecting career choice; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective methods to secure, maintain, and terminate employment."}
+        },
+        {
+            "competencyText": {"en-us": "Extended Career Preparation (One Credit), Adopted 2016."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.16 adopted to be effective August 28, 2017, 41 TexReg 3691."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 11 and 12. Prerequisite: Successful completion of one or more advanced career and technical education courses that are part of a coherent sequence of courses in a career cluster related to the field in which the student will be employed. Corequisite: Career Preparation I or Career Preparation II. This course must be taken concurrently with Career Preparation I or Career Preparation II and may not be taken as a stand-alone course. Students shall be awarded one credit for successful completion of this course. A student may repeat this course once for credit provided that the student is experiencing different aspects of the industry and demonstrating proficiency in additional and more advanced knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "Extended Career Preparation provides opportunities for students to participate in a work-based learning experience that combines classroom instruction with business and industry employment experiences. The goal is to prepare students with a variety of skills for a changing workplace. Career preparation is relevant and rigorous, supports student attainment of academic standards, and effectively prepares students for college and career success."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student demonstrates professional standards/employability skills as required by business and industry. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "participate in a paid work-based application of previously studied knowledge and skills related to career and technical education;"}
+        },
+        {
+            "competencyText": {"en-us": "participate in training, education, or preparation for licensure, certification, or other relevant credentials to prepare for employment;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate professional standards and personal qualities needed to be employable such as punctuality, initiative, and cooperation with increased fluency;"}
+        },
+        {
+            "competencyText": {"en-us": "complete tasks with high standards to ensure delivery of quality products and services;"}
+        },
+        {
+            "competencyText": {"en-us": "employ teamwork and conflict-management skills with increased fluency to achieve collective goals; and"}
+        },
+        {
+            "competencyText": {"en-us": "employ planning and time-management skills with increased fluency to enhance results and complete work tasks."}
+        },
+        {
+            "competencyText": {"en-us": "The student implements advanced professional communications strategies. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply appropriate content knowledge, technical concepts, and vocabulary with increased fluency when analyzing information and following directions;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate verbal and non-verbal communication consistently in a clear, concise, and effective manner;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze, interpret, and effectively communicate information, data, and observations;"}
+        },
+        {
+            "competencyText": {"en-us": "observe and interpret verbal and nonverbal cues and behaviors to enhance communication;"}
+        },
+        {
+            "competencyText": {"en-us": "apply active listening skills to obtain and clarify information; and"}
+        },
+        {
+            "competencyText": {"en-us": "employ effective internal and external communications to support work activities."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies concepts of critical thinking and problem solving. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "employ critical-thinking skills with increased fluency both independently and in groups to solve problems and make decisions;"}
+        },
+        {
+            "competencyText": {"en-us": "analyze elements of a problem to develop creative and innovative solutions; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the use of content, technical concepts, and vocabulary when analyzing information and following directions."}
+        },
+        {
+            "competencyText": {"en-us": "The student understands and applies proper safety techniques in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate an understanding of and consistently follow workplace safety rules and regulations;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate safe operation of tools and equipment used in the industry;"}
+        },
+        {
+            "competencyText": {"en-us": "describe and perform hazard analysis; and"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate knowledge of procedures for reporting and handling accidents and safety incidents."}
+        },
+        {
+            "competencyText": {"en-us": "The student understands the professional, ethical, and legal responsibilities as they relate to employment and the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate a positive, productive work ethic by performing assigned tasks as directed;"}
+        },
+        {
+            "competencyText": {"en-us": "apply ethical reasoning to a variety of situations in order to make ethical decisions; and"}
+        },
+        {
+            "competencyText": {"en-us": "comply with all applicable rules, laws, and regulations in a consistent manner."}
+        },
+        {
+            "competencyText": {"en-us": "The student participates in a paid career preparation experience. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "conduct, document, and evaluate learning activities in a supervised employment experience;"}
+        },
+        {
+            "competencyText": {"en-us": "develop advanced technical knowledge and skills related to the student's occupational objective;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate growth of technical skill competencies;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate strengths and weaknesses in technical skill proficiency; and"}
+        },
+        {
+            "competencyText": {"en-us": "collect representative work samples."}
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Career Development, Middle School, Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.1 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall be implemented by school districts beginning with the 2017-2018 school year."}
+        },
+        {
+            "competencyText": {"en-us": "No later than August 31, 2016, the commissioner of education shall determine whether instructional materials funding has been made available to Texas public schools for materials that cover the essential knowledge and skills for career development as adopted in §127.2 and §127.3 of this subchapter."}
+        },
+        {
+            "competencyText": {"en-us": "If the commissioner makes the determination that instructional materials funding has been made available under subsection (b) of this section, §127.2 and §127.3 of this subchapter shall be implemented beginning with the 2017-2018 school year and apply to the 2017-2018 and subsequent school years."}
+        },
+        {
+            "competencyText": {"en-us": "If the commissioner does not make the determination that instructional materials funding has been made available under subsection (b) of this section, the commissioner shall determine no later than August 31 of each subsequent school year whether instructional materials funding has been made available. If the commissioner determines that instructional materials funding has been made available, the commissioner shall notify the State Board of Education and school districts that §127.2 and §127.3 of this subchapter shall be implemented for the following school year."}
+        },
+        {
+            "competencyText": {"en-us": "Implementation of Texas Essential Knowledge and Skills for Career Development, High School, Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.11 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "The provisions of this subchapter shall be implemented by school districts beginning with the 2017-2018 school year."}
+        },
+        {
+            "competencyText": {"en-us": "No later than August 31, 2016, the commissioner of education shall determine whether instructional materials funding has been made available to Texas public schools for materials that cover the essential knowledge and skills for career development as adopted in §§127.12-127.16 of this subchapter."}
+        },
+        {
+            "competencyText": {"en-us": "If the commissioner makes the determination that instructional materials funding has been made available under subsection (b) of this section, §§127.12-127.16 of this subchapter shall be implemented beginning with the 2017-2018 school year and apply to the 2017-2018 and subsequent school years."}
+        },
+        {
+            "competencyText": {"en-us": "If the commissioner does not make the determination that instructional materials funding has been made available under subsection (b) of this section, the commissioner shall determine no later than August 31 of each subsequent school year whether instructional materials funding has been made available. If the commissioner determines that instructional materials funding has been made available, the commissioner shall notify the State Board of Education and school districts that §§127.12-127.16 of this subchapter shall be implemented for the following school year."}
+        },
+        {
+            "competencyText": {"en-us": "Career Preparation I (Two Credits), Adopted 2015."},
+            "comment": {
+                "en-us": ["Source: The provisions of this §127.14 adopted to be effective August 28, 2017, 40 TexReg 6588."]
+            }
+        },
+        {
+            "competencyText": {"en-us": "General requirements. This course is recommended for students in Grades 11 and 12. Students shall be awarded two credits for successful completion of this course."}
+        },
+        {
+            "competencyText": {"en-us": "Introduction."}
+        },
+        {
+            "competencyText": {"en-us": "Career and technical education instruction provides content aligned with challenging academic standards and relevant technical knowledge and skills for students to further their education and succeed in current or emerging professions."}
+        },
+        {
+            "competencyText": {"en-us": "Career development is a lifelong pursuit of answers to the questions: Who am I? Why am I here? What am I meant to do with my life? It is vital that students have a clear sense of direction for their career choice. Career planning is a critical step and is essential to success."}
+        },
+        {
+            "competencyText": {"en-us": "Career Preparation I provides opportunities for students to participate in a work-based learning experience that combines classroom instruction with business and industry employment experiences. The goal is to prepare students with a variety of skills for a changing workplace. Career preparation is relevant and rigorous, supports student attainment of academic standards, and effectively prepares students for college and career success."}
+        },
+        {
+            "competencyText": {"en-us": "Students are encouraged to participate in extended learning experiences such as career and technical student organizations and other leadership or extracurricular organizations."}
+        },
+        {
+            "competencyText": {"en-us": "Statements that contain the word \"including\" reference content that must be mastered, while those containing the phrase \"such as\" are intended as possible illustrative examples."}
+        },
+        {
+            "competencyText": {"en-us": "Knowledge and skills."}
+        },
+        {
+            "competencyText": {"en-us": "The student demonstrates professional employability skills to gain an entry-level position. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify employment opportunities;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the application of essential workplace knowledge and skills;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a resume;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate proper interview techniques in various situations; and"}
+        },
+        {
+            "competencyText": {"en-us": "create and complete appropriate documents such as electronic portfolio, employment application, letter of intent, I-9 form, W-4 form, and thank you letters."}
+        },
+        {
+            "competencyText": {"en-us": "The student develops skills for success in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and model appropriate grooming and appearance for the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate dependability, punctuality, and initiative;"}
+        },
+        {
+            "competencyText": {"en-us": "research positive interpersonal skills, including respect for diversity;"}
+        },
+        {
+            "competencyText": {"en-us": "model appropriate business and personal etiquette in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "exhibit productive work habits, ethical practices, and a positive attitude;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate the ability to work with other employees to support the organization and complete assigned tasks;"}
+        },
+        {
+            "competencyText": {"en-us": "identify how to prioritize work to fulfill responsibilities and meet deadlines;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate the relationship of good physical and mental health to job success and personal achievement;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate effective methods to secure, maintain, and terminate employment; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop soft skills in a working environment."}
+        },
+        {
+            "competencyText": {"en-us": "The student discusses work ethics, employer expectations, interactions with diverse populations, and communication skills in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "illustrate how personal integrity affects human relations on the job;"}
+        },
+        {
+            "competencyText": {"en-us": "research characteristics of successful working relationships such as teamwork, conflict resolution, self-control, and ability to accept criticism;"}
+        },
+        {
+            "competencyText": {"en-us": "discuss and analyze employer expectations;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate respect for the rights of others;"}
+        },
+        {
+            "competencyText": {"en-us": "develop listening skills;"}
+        },
+        {
+            "competencyText": {"en-us": "apply effective listening skills used in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "identify ethical standards; and"}
+        },
+        {
+            "competencyText": {"en-us": "comply with organizational policies and procedures."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies academic skills to the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "apply mathematical skills to business transactions;"}
+        },
+        {
+            "competencyText": {"en-us": "develop a personal budget based on a career choice;"}
+        },
+        {
+            "competencyText": {"en-us": "interpret data from tables, charts, and graphs to estimate and find solutions to problems; and"}
+        },
+        {
+            "competencyText": {"en-us": "organize, write, and compile workplace business documents."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies the ethical code of conduct and legal responsibilities within the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "research and compare published workplace policies and procedures;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate responsible and ethical behavior;"}
+        },
+        {
+            "competencyText": {"en-us": "summarize provisions of the Fair Labor Standards Act;"}
+        },
+        {
+            "competencyText": {"en-us": "describe the consequences of \"breach of confidentiality\"; and"}
+        },
+        {
+            "competencyText": {"en-us": "research and describe laws related to different careers."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies the use of self-development techniques and interpersonal skills. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and practice effective interpersonal and team-building skills with coworkers, managers, and customers; and"}
+        },
+        {
+            "competencyText": {"en-us": "develop effective leadership skills through participation in activities such as career and technical student organizations."}
+        },
+        {
+            "competencyText": {"en-us": "The student applies concepts and skills related to safety in the workplace. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "identify and apply safe working practices related to the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "demonstrate knowledge of personal and occupational safety practices in the workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "offer solutions related to unsafe work practices and attitudes;"}
+        },
+        {
+            "competencyText": {"en-us": "explain Occupational Safety and Health Administration regulations in the workplace; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine health and wellness practices that influence job performance."}
+        },
+        {
+            "competencyText": {"en-us": "The student evaluates personal attitudes and work habits that support career retention and advancement. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "analyze the future employment outlook in the occupational area;"}
+        },
+        {
+            "competencyText": {"en-us": "describe entrepreneurial opportunities in the occupational area;"}
+        },
+        {
+            "competencyText": {"en-us": "compare rewards and demands for various levels of employment in a variety of careers;"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate strategies for career retention and advancement in response to the changing global workplace;"}
+        },
+        {
+            "competencyText": {"en-us": "summarize the rights and responsibilities of employers and employees; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine effective money-management and financial-planning techniques."}
+        },
+        {
+            "competencyText": {"en-us": "The student identifies skills and attributes necessary for professional advancement. The student is expected to:"}
+        },
+        {
+            "competencyText": {"en-us": "evaluate and compare employment options, including salaries and benefits;"}
+        },
+        {
+            "competencyText": {"en-us": "determine how interests, abilities, personal priorities, and family responsibilities affect career choices; and"}
+        },
+        {
+            "competencyText": {"en-us": "determine continuing education opportunities that enhance career advancement and promote lifelong learning."}
+        }
+    ]
+}

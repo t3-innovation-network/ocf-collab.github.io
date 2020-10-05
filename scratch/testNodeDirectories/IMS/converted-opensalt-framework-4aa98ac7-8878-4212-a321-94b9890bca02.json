@@ -1,0 +1,352 @@
+{
+    "directory": {
+        "directoryID": "aeee9bee-bb73-483c-9450-bb2825a65210",
+        "name": {"en-us": "IMS CASE Directory"},
+        "dateCreated": "2020-09-08"
+    },
+    "framework": {
+        "frameworkURL": "https://www.cpalms.org/Public/ims/case/v1p0/CFDocuments/4aa98ac7-8878-4212-a321-94b9890bca02.json",
+        "name": {"en-us": "CTE-Energy"},
+        "description": {"en-us": "CTE-Energy Standards"},
+        "attributionName": "IMS Global",
+        "attributionURL": "https://www.imsglobal.org",
+        "providerMetaModel": "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
+        "beneficiaryRights": "https://www.imsglobal.org/terms-and-conditions",
+        "registryRights": "https://ocf-collab.org/rights/adf0b9bd-e7eb-4b97-b080-d8b265639138"
+    },
+    "competencies": [
+        {
+            "competencyText": {"en-us": "Grade 6-8"}
+        },
+        {
+            "competencyText": {"en-us": "Supplemental"}
+        },
+        {
+            "competencyText": {"en-us": "Identify and explore careers in the Energy cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the pathways in the Energy career cluster and the careers in each pathway."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the types of places that employ individuals who have careers in the Energy career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the variety of tasks performed by individuals who have careers in the Energy career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "List the skills, abilities, and talents needed for careers in the Energy career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the level of training and education required for careers in the Energy career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Research a career in the Energy career cluster and present findings to the class."}
+        },
+        {
+            "competencyText": {"en-us": "Apply math, science, and reading skills in the completion of a project or activity related to the Energy career cluster."}
+        },
+        {
+            "competencyText": {"en-us": "Explore careers and entry requirements in the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe careers in the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Explain educational pathways available to gain training to begin a career in the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Classify careers from entry-level to professional level."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of employability skills related to the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Research and present information on an energy career including roles and responsibilities, opportunities for employment and the requirements for education and training."}
+        },
+        {
+            "competencyText": {"en-us": "Explain how destructive decisions can affect future employment."}
+        },
+        {
+            "competencyText": {"en-us": "Locate power plants in Florida."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the energy source(s) the power plants use."}
+        },
+        {
+            "competencyText": {"en-us": "Map the areas that are served by particular utility companies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe different types of utility businesses (electric cooperatives, municipal, investor owned)."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate energy consumption and identify ways to use energy wisely."}
+        },
+        {
+            "competencyText": {"en-us": "Describe energy efficiency and conservation."}
+        },
+        {
+            "competencyText": {"en-us": "Read and interpret a residential utility bill."}
+        },
+        {
+            "competencyText": {"en-us": "Learn how to measure energy use of various equipment."}
+        },
+        {
+            "competencyText": {"en-us": "Learn how to measure light output."}
+        },
+        {
+            "competencyText": {"en-us": "Graph temperature and humidity levels in classrooms."}
+        },
+        {
+            "competencyText": {"en-us": "Identify ways to conserve energy at home and at school."}
+        },
+        {
+            "competencyText": {"en-us": "Plan ways to improve energy efficiency at home and at school."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss greenhouse gas emissions based on local fuel mixture and energy consumption."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss local fuel mixture."}
+        },
+        {
+            "competencyText": {"en-us": "Compare greenhouse gas emissions (carbon dioxide, methane, nitrous oxide, etc.) for various types of fuel (e.g. coal, petroleum, natural gas)."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the importance of fuel mix diversity."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss sources of energy used by local utility."}
+        },
+        {
+            "competencyText": {"en-us": "Generation"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the generation pathway of the energy industry and the applicable career options."}
+        },
+        {
+            "competencyText": {"en-us": "Explain ways of generating electric power."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with energy generation."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in energy generation."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in energy generation."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of energy generation careers and describe how the associated careers have evolved and impacted society."}
+        },
+        {
+            "competencyText": {"en-us": "Identify education required to successfully enter any career in the energy generation field."}
+        },
+        {
+            "competencyText": {"en-us": "Describe career ladder options and the skills or education required to progress in the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in energy generation."}
+        },
+        {
+            "competencyText": {"en-us": "Explore various sources of renewable and nonrenewable energy generation and the careers associated with them."}
+        },
+        {
+            "competencyText": {"en-us": "Identify possibilities for future careers in energy that support emerging technologies."}
+        },
+        {
+            "competencyText": {"en-us": "Describe how society has impacted the energy industry."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate employability skills and hands-on skills required to successfully enter any career in the energy generation field."}
+        },
+        {
+            "competencyText": {"en-us": "Understand conventional electric power generation."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the conventional electric power generation systems and process (coal, petroleum, hydroelectric and nuclear)."}
+        },
+        {
+            "competencyText": {"en-us": "Identify various conventional electric power generation fuel sources and the cost, efficiency or environmental advantages and disadvantages of each."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram conventional electrical power generation systems."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the value of alternative and renewable energy sources."}
+        },
+        {
+            "competencyText": {"en-us": "Identify the reasons for seeking alternatives to fossil fuels to include economic, environmental and social impacts."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the difference between alternative energy and renewable energy."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the economic, environmental and social impact of alternative and renewable energy."}
+        },
+        {
+            "competencyText": {"en-us": "Compare and contrast alternative and renewable sources of energy with conventional sources of energy."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the viability of wind energy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the process to harness wind energy."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the advantages and disadvantages to wind technology."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a wind turbine."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what makes a location appropriate for wind energy and identify on a map."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the viability of solar energy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe solar energy and how it is harnessed."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the difference between passive solar and active solar."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a solar cell."}
+        },
+        {
+            "competencyText": {"en-us": "Describe a central receiver system."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a solar thermal plant."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the advantages and disadvantages of using solar energy."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what makes a location appropriate for solar energy and identify on a map."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the use of hydroelectricity."}
+        },
+        {
+            "competencyText": {"en-us": "Describe hydroelectric energy production."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a hydroelectric plant."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the advantages and disadvantages of using hydroelectricity energy."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what makes a location appropriate for hydroelectricity and identify on a map."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the use of nuclear power."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the process of nuclear fission."}
+        },
+        {
+            "competencyText": {"en-us": "Define radio-isotopes and half-life."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the advantages and disadvantages of nuclear power."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a Light-Water Reactor (LWR) (e.g. control rods, coolant, containment vessel, dry casks, turbine, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Describe nuclear energy and how it is harnessed."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss types of locations where building nuclear power plants would not be feasible."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the viability of bioenergy (biomass and biofuel)."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the major sources of biomass."}
+        },
+        {
+            "competencyText": {"en-us": "Define biofuels (e.g. ethanol, biodiesel and methanol)."}
+        },
+        {
+            "competencyText": {"en-us": "Outline the pyramid energy flow including the different trophic levels."}
+        },
+        {
+            "competencyText": {"en-us": "Describe the major sources, scale and impacts of biomass energy."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram an electric energy producing biomass plant."}
+        },
+        {
+            "competencyText": {"en-us": "List the advantages and disadvantages of using biomass for energy (e.g. CO2 emissions, photosynthetic efficiency, cost, etc.)."}
+        },
+        {
+            "competencyText": {"en-us": "Research and map appropriate locations ideal for biomass and biofuel applications."}
+        },
+        {
+            "competencyText": {"en-us": "Investigate the viability of geothermal energy."}
+        },
+        {
+            "competencyText": {"en-us": "Describe geothermal energy and the way it is harnessed."}
+        },
+        {
+            "competencyText": {"en-us": "Evaluate the advantages and disadvantages of using geothermal energy."}
+        },
+        {
+            "competencyText": {"en-us": "Diagram a geothermal power plant."}
+        },
+        {
+            "competencyText": {"en-us": "Explain what makes a location appropriate for a geothermal energy power plant and identify on a map."}
+        },
+        {
+            "competencyText": {"en-us": "Transmission/Distribution"}
+        },
+        {
+            "competencyText": {"en-us": "Explore the transmission/distribution pathway of the energy industry and the applicable career option."}
+        },
+        {
+            "competencyText": {"en-us": "Define and use proper terminology associated with energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Describe some of the careers available in energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Identify common characteristics of the careers in energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Research the history of energy transmission/distribution and describe how the careers have evolved and impacted society. "}
+        },
+        {
+            "competencyText": {"en-us": "Identify skills required to successfully enter any career in energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Describe common career ladders in energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Describe technologies associated with careers in energy transmission/distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Demonstrate employability skills and hands-on skills required to successfully enter any career in the energy transmission/distribution field."}
+        },
+        {
+            "competencyText": {"en-us": "Understand electric power transmission and distribution."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the electric power transmission process."}
+        },
+        {
+            "competencyText": {"en-us": "Understand the differences between AC and DC power."}
+        },
+        {
+            "competencyText": {"en-us": "Explain the electric power distribution process."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the need for electric distribution systems and how they are designed to operate."}
+        },
+        {
+            "competencyText": {"en-us": "Discuss the emerging technologies in electric power transmission and distribution."}
+        }
+    ]
+}
