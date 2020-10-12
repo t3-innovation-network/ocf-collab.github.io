@@ -1,5 +1,5 @@
 ---
-title: Open Competency Framework Collaborative
+title: Open Competency Framework Collaborative (OCF Collab)
 layout: default
 ---
 ## Framework
@@ -10,7 +10,7 @@ Develop guidelines and protocols for publishing competency data as open linked d
 
 ## Phase 1: Design network architecture and protocols. October 2019 through April 2020.
 
-The draft specifications for the OCF-Collab are the following. We recommend reading the "Getting STarted" guide first. The documents will remain a work in progress through the prototype period:
+The draft specifications for the OCF Collab are the following. We recommend reading the "Getting STarted" guide first. The documents will remain a work in progress through the prototype period:
 
 * [Getting Started and Best Practices](https://docs.google.com/document/d/1JqYLUZ8ehPDV4S2PYVs3EbAXJdgUCKOxE_e_MfcInK8/edit?usp=sharing)
 * [Glossary](https://docs.google.com/document/d/1jwAhm8LhsEgQsbcMz0SJZmcJlTTu8iunY8SZaryNBTk/edit?usp=sharing)
