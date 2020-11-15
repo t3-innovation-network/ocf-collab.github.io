@@ -28,4 +28,4 @@ This site is maintained on the GitHub repository at [Github.com/OCF-Collab](http
 
 ## Phase 2: Build a prototype of the Phase 1 design.
 
-Prototype is currently in development.
+Prototype is currently in development and schedule for completion by the end of 2020..
