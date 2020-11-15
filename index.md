@@ -22,6 +22,7 @@ The draft specifications for the OCF Collab are the following. We recommend read
 * [Trust Member Policies (Licenses)](https://docs.google.com/document/d/13LaE-OQrumSW-ubyQhOaDYrMkH9kJUxNYS3mk5xcBGg/edit?usp=sharing)
 * [Competency Framework Models](https://docs.google.com/document/d/1NmIgAU2ZYbW0YcJn9-inazjaGSKSz0wEc2bgMYdCO7w/edit?usp=sharing)
 * [Appendices](https://docs.google.com/document/d/1h9H8ie0irQaVl7ypvA00vWrmcqqnQQQGLjO5qHl_234/edit?usp=sharing)
+* [Use Cases](https://docs.google.com/document/d/1YuXRyfR78wtFImjkyP4O6FcgQ4NB08BpGCTbg6O4GGM/edit#)
  
 This site is maintained on the GitHub repository at [Github.com/OCF-Collab](https://github.com/OCF-Collab/ocf-collab.github.io). Please post comments or report issues in the [issues forum](https://github.com/OCF-Collab/ocf-collab.github.io/issues) there.
 
