@@ -6,7 +6,7 @@ layout: default
 This activity is part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
 
 ## Objective
-Develop guidelines and protocols for publishing competency data as open linked data and support search and retrieval between linked repositories.
+Develop guidelines and protocols for publishing competency data as open linked data and support search and retrieval between networked repositories.
 
 ## Phase 1: Design network architecture and protocols. October 2019 through April 2020.
 
