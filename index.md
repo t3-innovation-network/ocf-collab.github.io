@@ -15,7 +15,7 @@ The draft specifications for the OCF Collab are the following. We recommend read
 * [Getting Started and Best Practices](https://docs.google.com/document/d/1JqYLUZ8ehPDV4S2PYVs3EbAXJdgUCKOxE_e_MfcInK8/edit?usp=sharing)
 * [Glossary](https://docs.google.com/document/d/1jwAhm8LhsEgQsbcMz0SJZmcJlTTu8iunY8SZaryNBTk/edit?usp=sharing)
 * [Directory Data Model](https://docs.google.com/document/d/1iQQ7ePdn4FzbWVRNHy3YYRHuR2ijteWOitOkxa8jWBA/edit?usp=sharing)
-* [Envelope Data Model](https://docs.google.com/document/d/1YwnzDfqEd3POyL8IIB70jihUDQga8YKaQyXCGwXax0o/edit?usp=sharing)
+* [Handling Requests for a Framework](https://docs.google.com/document/d/1YwnzDfqEd3POyL8IIB70jihUDQga8YKaQyXCGwXax0o/edit?usp=sharing)
 * [Transaction Log & Entry](https://docs.google.com/document/d/1JzQFh4X5XEHG5cceop9_r1u-rUKRThmG6sr3_bYYrY0/edit?usp=sharing)
 * [Classes & Properties](https://docs.google.com/document/d/1SfrNsIH5U3ENh7irzWxoyYsTunFJFcpOhhWjjs5ZV_w/edit?usp=sharing)
 * [Descriptions of Included Data Files](https://docs.google.com/document/d/1JP5OuJJNkxA612A6AeKIhIsoDVenUv826sf1IisZsHI/edit?usp=sharing)
