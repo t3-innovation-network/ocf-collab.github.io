@@ -28,4 +28,8 @@ This site is maintained on the GitHub repository at [Github.com/OCF-Collab](http
 
 ## Phase 2: Build a prototype of the Phase 1 design.
 
-Prototype is currently in development and schedule for completion by the end of 2020..
+Prototype was finished and tested in December 2020.
+
+## Phase 3: Pilot with new functionality.
+
+Future development of the service will be under the umbrella T3 Network of Networks. 
