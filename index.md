@@ -32,4 +32,4 @@ Prototype was finished and tested in December 2020.
 
 ## Phase 3: Pilot with new functionality.
 
-Future development of the service will be under the umbrella T3 Network of Networks. 
+Future development of the service will be under the umbrella of the T3 Network of Networks. 
