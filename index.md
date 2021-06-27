@@ -32,4 +32,4 @@ Prototype was finished and tested in December 2020.
 
 ## Phase 3: Pilot with new functionality.
 
-Current development of the service will be under the umbrella of the T3 Network of Networks into early 2022 when the service will be taken to Web scale. 
+Current development of the service will be under the umbrella of the <a href="https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md">T3 Network of Networks</a> into early 2022 when the service will be taken to Web scale. 
