@@ -26,6 +26,6 @@ This site is maintained on the GitHub repository at [Github.com/OCF-Collab](http
 
 Prototype was finished and tested in December 2020. This activity was part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
 
-## Phase 3: Pilot deevelopment with enhanced and new functionality
+## Phase 3: Pilot development with new and enhanced functionality
 
 Current development of the service is being handled through the <em>Open Competency Framework Collabortive</em> (OCF Collab) into early 2022 when the service will be taken to Web scale. The OCF Collab is a network under the umbrella of the [T3 Network of Networks](https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md). 
