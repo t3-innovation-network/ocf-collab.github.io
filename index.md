@@ -5,9 +5,6 @@ layout: default
 ## Framework
 This activity is part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
 
-## Objective
-Develop guidelines and protocols for publishing competency data as open linked data and support search and retrieval between networked repositories.
-
 ## Phase 1: Design network architecture and protocols. October 2019 through April 2020.
 
 The draft specifications for the OCF Collab are the following. We recommend reading the "Getting STarted" guide first. The documents will remain a work in progress through the prototype period:
@@ -28,8 +25,8 @@ This site is maintained on the GitHub repository at [Github.com/OCF-Collab](http
 
 ## Phase 2: Build a prototype of the Phase 1 design.
 
-Prototype was finished and tested in December 2020.
+Prototype was finished and tested in December 2020. This activity was part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
 
 ## Phase 3: Pilot with new functionality.
 
-Current development of the service is being handled through the <em>Open Competency Framework Collabortive</em> (OCF Collab) into early 2022 when the service will be taken to Web scale. The OCF Collab is a network under the umbrella of the <a href="https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md">T3 Network of Networks</a>. 
+Current development of the service is being handled through the <em>Open Competency Framework Collabortive</em> (OCF Collab) into early 2022 when the service will be taken to Web scale. The OCF Collab is a network under the umbrella of the [T3 Network of Networks](https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md). 
