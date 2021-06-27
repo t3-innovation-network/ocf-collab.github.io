@@ -32,4 +32,4 @@ Prototype was finished and tested in December 2020.
 
 ## Phase 3: Pilot with new functionality.
 
-Current development of the service is being handled through the Open Competency Framework Collabortive (OCF Collab) into early 2022 when the service will be taken to Web scale. The OCF Collab is a network under the umbrella of the <a href="https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md">T3 Network of Networks</a>. 
+Current development of the service is being handled through the <em>Open Competency Framework Collabortive</em> (OCF Collab) into early 2022 when the service will be taken to Web scale. The OCF Collab is a network under the umbrella of the <a href="https://github.com/OCF-Collab/ocf-collab.github.io/blob/master/index.md">T3 Network of Networks</a>. 
