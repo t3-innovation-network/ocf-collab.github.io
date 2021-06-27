@@ -2,9 +2,6 @@
 title: Open Competency Framework Collaborative (OCF Collab)
 layout: default
 ---
-## Framework
-This activity is part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
-
 ## Phase 1: Design network architecture and protocols. October 2019 through April 2020.
 
 The draft specifications for the OCF Collab are the following. We recommend reading the "Getting STarted" guide first. The documents will remain a work in progress through the prototype period:
