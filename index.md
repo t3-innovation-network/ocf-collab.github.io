@@ -24,7 +24,7 @@ This site is maintained on the GitHub repository at [Github.com/OCF-Collab](http
 
 ## Phase 2: Prototype development of the Phase 1 design
 
-Prototype was finished and tested in December 2020. This activity was part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
+Prototype was finished and tested in December 2020. Watch a [short video demonstrating the Protptype](https://drive.google.com/file/d/19WfRukAa7mQ9Y35d_TmWce7SAAH6OEVe/view?usp=sharing). This activity was part of [The T3 Innovation Network Pilot Projects](https://www.uschamberfoundation.org/t3-innovation/pilot-projects) Competency Data Collaborative Work Task 5.2.
 
 ## Phase 3: Pilot development with new and enhanced functionality
 
