@@ -6,7 +6,7 @@ The <em>Open Competency Framework Collaborative Network</em> (OCF Collab) aims t
 
 ## Phase 1: Network architecture and protocols design (October 2019–April 2020)
 
-Chapters of the draft specifications for the OCF Collab are the following. We recommend reading the "Getting Started" guide first. The documents will remain a work in progress through the prototype and pilot phases.
+Draft Chapters of the draft specifications for the OCF Collab are set out below. We recommend reading the "Getting Started" guide first. The documents will remain a <u>work in progress through the prototype and pilot phases</u>.
 
 <em>Chapter 1:</em> [Getting Started](https://docs.google.com/document/d/1JqYLUZ8ehPDV4S2PYVs3EbAXJdgUCKOxE_e_MfcInK8/edit?usp=sharing)<br/>
 <em>Chapter 2:</em> [Glossary](https://docs.google.com/document/d/1jwAhm8LhsEgQsbcMz0SJZmcJlTTu8iunY8SZaryNBTk/edit?usp=sharing)<br/>
