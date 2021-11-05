@@ -52,7 +52,7 @@
     {
       "@id": "https://ocf-collab.org/concepts/3aae2415-aefc-45f3-b3b8-563c30cd257c",
       "@type": "skos:Concept",
-      "prefLabel": {"en-US": "CASE 1.0 (JOSN-LD)"},
+      "prefLabel": {"en-US": "CASE 1.0 (JSON-LD)"},
       "definition": {"en-US": "IMS Global Case specification version 1.0 (JSON-LD)"},
       "modified": "2020-01-30",
       "inScheme": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
