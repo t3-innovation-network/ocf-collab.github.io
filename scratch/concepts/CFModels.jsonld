@@ -28,7 +28,8 @@
       "hasTopConcept": [
         "https://ocf-collab.org/concepts/f63b9a67-543a-49ab-b5ed-8296545c1db5",
         "https://ocf-collab.org/concepts/6ad27cff-5832-4b3d-bd3e-892208b80cad",
-        "https://ocf-collab.org/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c"
+        "https://ocf-collab.org/concepts/f9a2b710-1cc4-4065-85fd-596b3c40906c",
+        "https://ocf-collab.org/concepts/3aae2415-aefc-45f3-b3b8-563c30cd257c"
       ]
     },
     {
@@ -52,7 +53,7 @@
     {
       "@id": "https://ocf-collab.org/concepts/3aae2415-aefc-45f3-b3b8-563c30cd257c",
       "@type": "skos:Concept",
-      "prefLabel": {"en-US": "CASE 1.0 (JOSN-LD)"},
+      "prefLabel": {"en-US": "CASE 1.0 (JSON-LD)"},
       "definition": {"en-US": "IMS Global Case specification version 1.0 (JSON-LD)"},
       "modified": "2020-01-30",
       "inScheme": "https://ocf-collab.org/concepts/2f7e8fc4-7924-4f4b-af2a-b8e134e4f47e",
