@@ -27,7 +27,7 @@ AddType application/json .jsonld
 	RewriteCond %{HTTP_ACCEPT} text/turtle [OR]
 	RewriteCond %{HTTP_ACCEPT} application/rdf\+turtle [OR]
 	RewriteCond %{HTTP_ACCEPT} application/turtle
-    RewriteRule ([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$)$ https://%{HTTP_HOST}/concepts/CFModels.ttl#$1 [R=303,L]
+    RewriteRule concepts/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$)$ https://www.ocf-collab.org/concepts/CFModels.ttl#$1 [R=303,L]
 
 </ifModule>
 
